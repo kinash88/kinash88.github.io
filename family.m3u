@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
-#EXTINF:-11 group-title="Общие" tvg-rec="7" timeshift="7",Первый канал HD
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Первый канал HD
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/131.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Россия HD
