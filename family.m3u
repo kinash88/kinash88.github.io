@@ -2093,7 +2093,7 @@ http://myott.top/stream/8WH42KGIMV/54.m3u8
 #EXTINF:-1 group-title="Для взрослых" ,НЮ АРТ
 #EXTGRP:Для взрослых
 http://myott.top/stream/8WH42KGIMV/55.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234",Playboy TV
+#EXTINF:-1 group-title="Для взрослых" ,Playboy TV
 #EXTGRP:Для взрослых
 http://myott.top/stream/8WH42KGIMV/56.m3u8
 #EXTINF:-1 group-title="Для взрослых" parent-code="1234",Candy HD
