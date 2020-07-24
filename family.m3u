@@ -164,8 +164,8 @@ http://myott.top/stream/8WH42KGIMV/174.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="inter-plus-ua" tvg-logo="https://cbilling.biz/img/streams/inter-plus-ua.png" tvg-rec="7",Интер+
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce/inter-plus-ua.m3u8
-#EXTINF:0 group-title="Украина" tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.biz/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
-#EXTGRP:Украина
+#EXTINF:0 group-title="Украинские" tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.biz/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
+#EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce/1-plus-1-hd.m3u8
 #EXTINF:0 tvg-rec="0",1+1 International
 #EXTGRP:Украинские
