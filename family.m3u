@@ -279,10 +279,13 @@ http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-avto-hd-ua.m3u8
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce/trofey-hd.m3u8
 #EXTINF:-1,Epoque
+#EXTGRP:Украинские
 http://79.140.1.38:5555/udp/239.0.251.45:1234
 #EXTINF:-1,Терра
+#EXTGRP:Украинские
 http://79.140.1.38:5555/udp/239.0.251.44:1234
 #EXTINF:-1,UA:Культура
+#EXTGRP:Украинские
 http://79.140.1.38:5555/udp/239.0.80.86:1234
 #EXTINF:0 tvg-rec="0",Vintage TV UA
 #EXTGRP:Украинские
@@ -2087,32 +2090,32 @@ http://s06.iptvx.tv:8090/s/fa7366ce/fashion-tv.m3u8
 #EXTINF:0 group-title="Мода" tvg-id="world-fashion" tvg-logo="https://cbilling.biz/img/streams/world-fashion.png" tvg-rec="7",World Fashion
 #EXTGRP:Мода
 http://s06.iptvx.tv:8090/s/fa7366ce/world-fashion.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="xxl-tv" tvg-logo="https://cbilling.biz/img/streams/xxl-tv.png" tvg-rec="0",XXL
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="xxl-tv" tvg-logo="https://cbilling.biz/img/streams/xxl-tv.png" tvg-rec="0",XXL
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/xxl-tv.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="brazzers-tv" tvg-logo="https://cbilling.biz/img/streams/brazzers-tv.png" tvg-rec="0",Brazzers TV Europe
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="brazzers-tv" tvg-logo="https://cbilling.biz/img/streams/brazzers-tv.png" tvg-rec="0",Brazzers TV Europe
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/brazzers-tv.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="frenchlover" tvg-logo="https://cbilling.biz/img/streams/frenchlover.png" tvg-rec="0",Frenchlover
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="frenchlover" tvg-logo="https://cbilling.biz/img/streams/frenchlover.png" tvg-rec="0",Frenchlover
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/frenchlover.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="blue-hustler" tvg-logo="https://cbilling.biz/img/streams/blue-hustler.png" tvg-rec="0",Blue Hustler
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="blue-hustler" tvg-logo="https://cbilling.biz/img/streams/blue-hustler.png" tvg-rec="0",Blue Hustler
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/blue-hustler.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="o-la-la" tvg-logo="https://cbilling.biz/img/streams/o-la-la.png" tvg-rec="0",O-La-La
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="o-la-la" tvg-logo="https://cbilling.biz/img/streams/o-la-la.png" tvg-rec="0",O-La-La
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/o-la-la.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="ruskaja-noch" tvg-logo="https://cbilling.biz/img/streams/ruskaja-noch.png" tvg-rec="0",Русская Ночь
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="ruskaja-noch" tvg-logo="https://cbilling.biz/img/streams/ruskaja-noch.png" tvg-rec="0",Русская Ночь
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/ruskaja-noch.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="nuart-tv" tvg-logo="https://cbilling.biz/img/streams/nuart-tv.png" tvg-rec="0",НЮ АРТ ТВ
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="nuart-tv" tvg-logo="https://cbilling.biz/img/streams/nuart-tv.png" tvg-rec="0",НЮ АРТ ТВ
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/nuart-tv.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="nuart-hd" tvg-logo="https://cbilling.biz/img/streams/nuart-hd.png" tvg-rec="0",Ню Арт ТВ HD
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="nuart-hd" tvg-logo="https://cbilling.biz/img/streams/nuart-hd.png" tvg-rec="0",Ню Арт ТВ HD
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/nuart-hd.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="jasmintv-hd" tvg-logo="https://cbilling.biz/img/streams/jasmintv-hd.png" tvg-rec="0",Jasmin TV
-#EXTGRP:Взрослые
+#EXTINF:0 group-title="Для взрослых" tvg-id="jasmintv-hd" tvg-logo="https://cbilling.biz/img/streams/jasmintv-hd.png" tvg-rec="0",Jasmin TV
+#EXTGRP:Для взрослых
 http://s06.iptvx.tv:8090/s/fa7366ce/jasmintv-hd.m3u8
 #EXTINF:0 tvg-rec="3",Playboy
 #EXTGRP:Для взрослых
