@@ -278,9 +278,36 @@ http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-avto-hd-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="trofey-hd" tvg-logo="https://cbilling.biz/img/streams/trofey-ua-hd.png" tvg-rec="7",Трофей HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce/trofey-hd.m3u8
-#EXTINF:-1,Epoque
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="trofey" tvg-logo="http://static.ipstr.im/picons/ua/trofey.png" group-title="Украинские",ТРОФЕЙ
 #EXTGRP:Украинские
-http://79.140.1.38:5555/udp/239.0.251.45:1234
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/trofey_ua.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="epoque" tvg-logo="http://static.ipstr.im/picons/ua/epoque.png" group-title="Украинские",EPOQUE
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/epoque_ua.ts
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="ua-donbas" tvg-logo="http://static.ipstr.im/picons/ua/donbass.png" group-title="Украинские",Донбасс
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/donbass-ua.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="4ever-music" tvg-logo="http://static.ipstr.im/picons/ua/4ever-music.png" group-title="Украинские",4Ever Music HD
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/4ever-music_ua.ts
+#EXTINF:0 catchup-days="0" tvg-id="milady-television" tvg-logo="http://static.ipstr.im/picons/ua/miladytelevision.png" group-title="Украинские",MiLady Television
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/milady-television_ua.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="nauka" tvg-logo="http://static.ipstr.im/picons/ua/nauka.png" group-title="Украинские",Наука
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/nauka_ua.ts
+#EXTINF:0 catchup-days="0" tvg-id="fauna" tvg-logo="http://static.ipstr.im/picons/ua/fauna.png" group-title="Украинские",Фауна
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/fauna_ua.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rybalka" tvg-logo="http://static.ipstr.im/picons/ua/rybalka.png" group-title="Украинские",Рыбалка
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rybalka_ua.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="star-cinema" tvg-name="Star_Cinema_HD" tvg-logo="http://static.ipstr.im/picons/ua/star_cinema.png" group-title="Украинские",Star Cinema HD
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/star_cinemahd_ua.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="star-family" tvg-name="Star_Family_HD" tvg-logo="http://static.ipstr.im/picons/ua/star_family.png" group-title="Украинские",Star Family HD
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/star_familyhd_ua.ts
 #EXTINF:-1,Терра
 #EXTGRP:Украинские
 http://79.140.1.38:5555/udp/239.0.251.44:1234
@@ -410,9 +437,9 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1042/index.m3u8
 #EXTINF:0 tvg-rec="0",O-TV
 #EXTGRP:Украинские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1055/index.m3u8
-#EXTINF:0 tvg-rec="0",Телеканал Рибалка
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rti" tvg-logo="http://static.ipstr.im/picons/ua/rti.png" group-title="Украинские",4 Канал
 #EXTGRP:Украинские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1058/index.m3u8
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rti_ua.ts
 #EXTINF:0 tvg-rec="0",1+1
 #EXTGRP:Украинские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/994/index.m3u8
@@ -527,6 +554,9 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/975/index.m3u8
 #EXTINF:0 tvg-rec="3",Перший Західний
 #EXTGRP:Украинские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/5042/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="34-dnepr" tvg-logo="http://static.ipstr.im/picons/ua/34.png" group-title="Украинские",34 Днепр
+#EXTGRP:Украинские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/34-dnepr_ua.ts
 #EXTINF:0 group-title="Белорусские" tvg-id="belarus1-by-hd" tvg-logo="https://cbilling.biz/img/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
 #EXTGRP:Белорусские
 http://s06.iptvx.tv:8090/s/fa7366ce/belarus1-by-hd.m3u8
@@ -542,12 +572,18 @@ http://s06.iptvx.tv:8090/s/fa7366ce/belarus5-by-hd.m3u8
 #EXTINF:0 group-title="Белорусские" tvg-id="belarus-24-hd" tvg-logo="https://cbilling.biz/img/streams/belarus-24.png" tvg-rec="0",Беларусь 24 HD
 #EXTGRP:Белорусские
 http://s06.iptvx.tv:8090/s/fa7366ce/belarus-24-hd.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="belsat" tvg-logo="http://static.ipstr.im/picons/bel/belsat.png" group-title="Белорусские",Белсат
+#EXTGRP:Белорусские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/belsat_by.ts
 #EXTINF:0 group-title="Белорусские" tvg-id="ont-by-hd" tvg-logo="https://cbilling.biz/img/streams/ont-by-hd.png" tvg-rec="7",ОНТ BY HD
 #EXTGRP:Белорусские
 http://s06.iptvx.tv:8090/s/fa7366ce/ont-by-hd.m3u8
 #EXTINF:0 group-title="Белорусские" tvg-id="stv-by-hd" tvg-logo="https://cbilling.biz/img/streams/stv-by-hd.png" tvg-rec="7",СТВ Беларусь HD
 #EXTGRP:Белорусские
 http://s06.iptvx.tv:8090/s/fa7366ce/stv-by-hd.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="ntv-belarus" tvg-logo="http://static.ipstr.im/picons/bel/ntv.png" group-title="Белорусские",НТВ Беларусь
+#EXTGRP:Белорусские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/ntvbelorus_by.ts
 #EXTINF:0 group-title="Белорусские" tvg-id="vtv-sts-by" tvg-logo="https://cbilling.biz/img/streams/vtv-sts-by.png" tvg-rec="0",ВТВ
 #EXTGRP:Белорусские
 http://s06.iptvx.tv:8090/s/fa7366ce/vtv-sts-by.m3u8
@@ -557,6 +593,9 @@ http://myott.top/stream/8WH42KGIMV/63.m3u8
 #EXTINF:-1 group-title="Белорусские" tvg-rec="7" timeshift="7",РТР Беларусь HD
 #EXTGRP:Белорусские
 http://myott.top/stream/8WH42KGIMV/23.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rtr-belarus" tvg-logo="http://static.ipstr.im/picons/bel/rtr.png" group-title="Белорусские",Россия РТР
+#EXTGRP:Белорусские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rtrbelorus_by.ts
 #EXTINF:0 tvg-rec="3",СТВ
 #EXTGRP:Белорусские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2172/index.m3u8
@@ -572,6 +611,9 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2186/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 5 BY
 #EXTGRP:Белорусские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/5060/index.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="tnt-int-by" tvg-logo="http://static.ipstr.im/picons/bel/tnt-international.png" group-title="Белорусские",ТНТ-International
+#EXTGRP:Белорусские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tnt-int_by.ts
 #EXTINF:0 group-title="Казахские" tvg-id="ktk-kz" tvg-logo="https://cbilling.biz/img/streams/ktk-kz.png" tvg-rec="0",КТК
 #EXTGRP:Казахские
 http://s06.iptvx.tv:8090/s/fa7366ce/ktk-kz.m3u8
@@ -617,6 +659,108 @@ http://s06.iptvx.tv:8090/s/fa7366ce/kazsport.m3u8
 #EXTINF:0 group-title="Казахские" tvg-id="asyl-arna-kz" tvg-logo="https://cbilling.biz/img/streams/asyl-arna-kz.png" tvg-rec="0",Асыл Арна
 #EXTGRP:Казахские
 http://s06.iptvx.tv:8090/s/fa7366ce/asyl-arna-kz.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="alekino.pl" tvg-logo="http://static.ipstr.im/picons/pl/ale_kino+_hd_pl.png" group-title="Польские",Ale Kino+ HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/alekino_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="animalplanet.pl" tvg-logo="http://static.ipstr.im/picons/pl/animal_planet_hd_pl.png" group-title="Польские",Animal Planet HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/animalplanet_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="bbcearth.pl" tvg-logo="http://static.ipstr.im/picons/pl/bbc_earth_hd_pl.png" group-title="Польские",BBC Earth Polska HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/bbcearth_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="bbc.pl" tvg-logo="http://static.ipstr.im/picons/pl/bbc_hd_pl.png" group-title="Польские",BBC HD Nordic
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/bbc_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="canalplusfamily.pl" tvg-logo="http://static.ipstr.im/picons/pl/canal+_family_hd_pl.png" group-title="Польские",Canal+ Family HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/canalplusfamily_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="canalplusfilm.pl" tvg-logo="http://static.ipstr.im/picons/pl/canal+_film_hd_pl.png" group-title="Польские",Canal+ Film HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/canalplusfilm_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="canalplusseriale.pl" tvg-logo="http://static.ipstr.im/picons/pl/canal+_seriale_hd_pl.png" group-title="Польские",Canal+ Seriale HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/canalplusseriale_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="canal-pl-sport-1" tvg-logo="http://static.ipstr.im/picons/pl/canal+_sport_1_hd_pl.png" group-title="Польские",Canal+ Sport HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/canalplussport_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="canal-pl-sport-2" tvg-logo="http://static.ipstr.im/picons/pl/canal+_sport_2_hd_pl.png" group-title="Польские",Canal+ sport 2 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/canalplussport2_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="cinemax.pl" tvg-logo="http://static.ipstr.im/picons/pl/cinemax_hd_pl.png" group-title="Польские",Cinemax HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/cinemax_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="comedycentral.pl" tvg-logo="http://static.ipstr.im/picons/pl/comedy_central_polska_pl.png" group-title="Польские",Comedy central HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/comedycentral_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="discoveryhistoria.pl" tvg-logo="http://static.ipstr.im/picons/pl/discovery_historia_pl.png" group-title="Польские",Discovery Historia
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/discoveryhistoria_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="eleven-sports-2" tvg-logo="http://static.ipstr.im/picons/pl/eleven_sports_2.png" group-title="Польские",Eleven Sports 2 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/elevensports2_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="eleven-sports-1" tvg-logo="http://static.ipstr.im/picons/pl/eleven_sports_1.png" group-title="Польские",Eleven Sports 1 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/elevensports1_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="fightKlub.pl" tvg-logo="http://static.ipstr.im/picons/pl/fightklub_hd_pl.png" group-title="Польские",Fightklub HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/fightKlub_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="hbo2.pl" tvg-logo="http://static.ipstr.im/picons/pl/hbo_2_hd_pl.png" group-title="Польские",HBO 2 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/hbo2_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="kinopolskamuz-int" tvg-logo="http://static.ipstr.im/picons/pl/kino_polska_muzyka_pl.png" group-title="Польские",Kino Polska Muzyka
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/kinopolska_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="kuchniaplus.pl" tvg-logo="http://static.ipstr.im/picons/pl/kuchnia+_hd_pl.png" group-title="Польские",Kuchnia+ HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/kuchniaplus_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="mtv-music-pl" tvg-logo="http://static.ipstr.im/picons/pl/mtv_polska_pl.png" group-title="Польские",MTV HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/mtvpolska_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="nickelodeon.pl" tvg-logo="http://static.ipstr.im/picons/pl/nickelodeon_pl.png" group-title="Польские",Nickelodeon
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/nickelodeon_pl.ts
+#EXTINF:0 catchup-days="0" tvg-logo="http://static.ipstr.im/picons/pl/planete_plus_hd_pl.png" group-title="Польские",Planete+ HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/planetaplus_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="polsat2" tvg-logo="http://static.ipstr.im/picons/pl/polsat_2_hd_pl.png" group-title="Польские",Polsat 2 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/polsat2_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="polsat-cafe" tvg-logo="http://static.ipstr.im/picons/pl/polsat_caf%c3%a9_hd_pl.png" group-title="Польские",Polsat Cafe HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/polsatcafe_pl.ts
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="polsat-film" tvg-logo="http://static.ipstr.im/picons/pl/polsat_film_hd_pl.png" group-title="Польские",Polsat Film HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/polsatfilm_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="polsat-play" tvg-logo="http://static.ipstr.im/picons/pl/polsat_play_hd_pl.png" group-title="Польские",Polsat Play HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/polsatplay_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="polsat-sport" tvg-logo="http://static.ipstr.im/picons/pl/polsat_sport_hd_pl.png" group-title="Польские",Polsat Sport HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/polsatsport_pl.ts
+#EXTINF:0 catchup-days="0" tvg-logo="http://static.ipstr.im/picons/pl/sport_klub_pl.png" group-title="Польские",Sport Klub
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/sportklub_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="tv4.pl" tvg-logo="http://static.ipstr.im/picons/pl/tv4_hd.png" group-title="Польские",TV4 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tv4_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="tvp1" tvg-logo="http://static.ipstr.im/picons/pl/tvp_1_hd_pl.png" group-title="Польские",TVP 1 HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tvp1_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="tvp-abc" tvg-logo="http://static.ipstr.im/picons/pl/tvp_abc_pl.png" group-title="Польские",TVP ABC
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tvpabc_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="tvp-hd" tvg-logo="http://static.ipstr.im/picons/pl/tvp_hd_pl.png" group-title="Польские",TVP HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tvppolonia_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="tvp-historia" tvg-logo="http://static.ipstr.im/picons/pl/tvp_historia_pl.png" group-title="Польские",TVP Historia
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tvphistoria_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="tvp-sport" tvg-logo="http://static.ipstr.im/picons/pl/tvp_sport_hd_pl.png" group-title="Польские",TVP Sport HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tvpsport_pl.ts
+#EXTINF:0 catchup-days="0" tvg-id="teletoon.pl" tvg-logo="http://static.ipstr.im/picons/pl/teletoon_plus_hd_pl.png" group-title="Польские",Teletoon+ HD
+#EXTGRP:Польские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/teletoon_pl.ts
 #EXTINF:0 group-title="Немецкие" tvg-id="welt-de-hd" tvg-logo="https://cbilling.biz/img/streams/welt-de-hd.png" tvg-rec="0",Welt HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/welt-de-hd.m3u8
@@ -764,6 +908,222 @@ http://s06.iptvx.tv:8090/s/fa7366ce/deluxe-music-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="mtv-hd-de" tvg-logo="https://cbilling.biz/img/streams/mtv-hd-de.png" tvg-rec="0",MTV HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/mtv-hd-de.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="13-strt" tvg-name="13th_Street_HD" tvg-logo="http://static.ipstr.im/picons/de/13thstreet.de.png" group-title="Немецкие",13th Street HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/13thstreet_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="3sat.de" tvg-name="3sat" tvg-logo="http://static.ipstr.im/picons/de/3sat-de.png" group-title="Немецкие",3sat HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/3sat_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="arte-hd" tvg-name="ARTE" tvg-logo="http://static.ipstr.im/picons/de/arte_de.png" group-title="Немецкие",ARTE
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/arte_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="atv.de" tvg-name="ATV" tvg-logo="http://static.ipstr.im/picons/az/atv.png" group-title="Немецкие",ATV
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/atv_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="boomerang.de" tvg-logo="http://static.ipstr.im/picons/de/boomerang.de.png" group-title="Немецкие",BOOMERANG
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/boomerang_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="classica.de" tvg-name="Classica_Deutschland" tvg-logo="http://static.ipstr.im/picons/de/classica.de.png" group-title="Немецкие",Classica Deutschland
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/classica_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="comedycentral.de" tvg-name="Comedy_Central" tvg-logo="http://static.ipstr.im/picons/de/comedycentral.de.png" group-title="Немецкие",Comedy Central
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/comedycentral_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="disney-channel-se" tvg-logo="http://static.ipstr.im/picons/de/disneycinemagic.de.png" group-title="Немецкие",DISNEY CINEMAGIC HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/disneycinemagic_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="ard.de" tvg-logo="http://static.ipstr.im/picons/de/das_erste.png" group-title="Немецкие",Das Erste HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/ard_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="discoverychannel.de" tvg-logo="http://static.ipstr.im/picons/de/discoverychannel.de.png" group-title="Немецкие",Discovery HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/discoverychannel_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="disneyjunior.de" tvg-logo="http://static.ipstr.im/picons/de/disneyjunior.de.png" group-title="Немецкие",Disney Junior HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/disneyjunior_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="hr.de" tvg-logo="http://static.ipstr.im/picons/de/hr.de.png" group-title="Немецкие",HR HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/hr_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="history.de" tvg-name="History_DE" tvg-logo="http://static.ipstr.im/picons/de/history.de.png" group-title="Немецкие",History HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/history_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="kinowelt.de" tvg-logo="http://static.ipstr.im/picons/de/kinowelt.de.png" group-title="Немецкие",KINOWELT TV
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/kinowelt_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="motorvision.de" tvg-logo="http://static.ipstr.im/picons/de/motorvision.de.png" group-title="Немецкие",Motorvision TV
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/motorvision_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="ndr.de" tvg-logo="http://static.ipstr.im/picons/de/ndr.de.png" group-title="Немецкие",NDR HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/ndr_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-name="ORF_2_DE" tvg-logo="http://static.ipstr.im/picons/de/orf_2_at.png" group-title="Немецкие",ORF 2 HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/orf2_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-name="ORF_EINS_DE" tvg-logo="http://static.ipstr.im/picons/de/orf_eins.png" group-title="Немецкие",ORF EINS HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/orf1_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rtlcrime.de" tvg-logo="http://static.ipstr.im/picons/de/rtlcrime.de.png" group-title="Немецкие",RTL CRIME HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rtlcrime_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rtlnitro.de" tvg-logo="http://static.ipstr.im/picons/de/rtlnitro.de.png" group-title="Немецкие",RTL NITRO HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rtlnitro_de.ts
+#EXTINF:0 catchup-days="0" tvg-id="rtlpassion.de" tvg-logo="http://static.ipstr.im/picons/de/rtlpassion.de.png" group-title="Немецкие",RTL PASSION HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rtlpassion_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="romance.de" tvg-logo="http://static.ipstr.im/picons/de/romance.de.png" group-title="Немецкие",Romance TV
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/romance_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-sport-bl2" tvg-logo="http://static.ipstr.im/picons/de/skybundesliga2.de.png" group-title="Немецкие",Sky Bundesliga 2 HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skybundesliga2_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-cinema-action" tvg-logo="http://static.ipstr.im/picons/de/skyaction.de.png" group-title="Немецкие",Sky Cinema Action
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skycinemaaction_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-cinema-comedy" tvg-logo="http://static.ipstr.im/picons/de/skycomedy.de.png" group-title="Немецкие",Sky Cinema Comedy
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skycomedy_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="skykrimi.de" tvg-logo="http://static.ipstr.im/picons/de/skykrimi.de.png" group-title="Немецкие",SKY KRIMI
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skykrimi_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="spiegeltvwissen.de" tvg-name="SPIEGEL TV WISSEN HD" tvg-logo="http://static.ipstr.im/picons/de/spiegeltvwissen.de.png" group-title="Немецкие",SPIEGEL TV WISSEN
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/spiegeltvwissen_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="syfy.de" tvg-logo="http://static.ipstr.im/picons/de/syfy.de.png" group-title="Немецкие",SYFY HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/syfy_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-cinema" tvg-logo="http://static.ipstr.im/picons/de/skycinema.de.png" group-title="Немецкие",Sky Cinema
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skycinema_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="skycinemaplus1.de" tvg-logo="http://static.ipstr.im/picons/de/skycinemaplus1.de.png" group-title="Немецкие",Sky Cinema +1
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skycinemaplus1_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="skycinemaplus24.de" tvg-logo="http://static.ipstr.im/picons/de/skycinemaplus24.de.png" group-title="Немецкие",Sky Cinema +24
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skycinemaplus24_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="skyemotion.de" tvg-logo="http://static.ipstr.im/picons/de/skyemotion.de.png" group-title="Немецкие",Sky Cinema Emotion
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skyemotion_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-cinema-family" tvg-logo="http://static.ipstr.im/picons/upl/skyfamilyHD_de.png" group-title="Немецкие",Sky Cinema Family HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skyfamilyHD_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-cinema" tvg-logo="http://static.ipstr.im/picons/de/skycinema.de.png" group-title="Немецкие",Sky Cinema HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skycinemaHD_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-cinema-hits" tvg-logo="http://static.ipstr.im/picons/de/skyhits.de.png" group-title="Немецкие",Sky Cinema Hits HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skyhits_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="sky-sport-news" tvg-logo="http://static.ipstr.im/picons/de/skysportnews.de.png" group-title="Немецкие",Sky Sport News
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/skysportnews_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="spiegelgeschichte.de" tvg-name="Spiegel_Geschichte" tvg-logo="http://static.ipstr.im/picons/de/spiegelgeschichte.de.png" group-title="Немецкие",Spiegel Geschichte
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/spiegelgeschichte_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="tnt-comedy-de" tvg-logo="http://static.ipstr.im/picons/de/tntcomedy.de.png" group-title="Немецкие",TNT Comedy HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tntcomedy_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="tnt-film-de" tvg-logo="http://static.ipstr.im/picons/de/tntfilm.de.png" group-title="Немецкие",TNT FILM
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tntfilm_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="tnt-serie-de" tvg-logo="http://static.ipstr.im/picons/de/tntserie.de.png" group-title="Немецкие",TNT SERIE HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tntserie_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="wdr.de" tvg-logo="http://static.ipstr.im/picons/de/wdr.de.png" group-title="Немецкие",WDR HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/wdr_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="welt.de" tvg-logo="http://static.ipstr.im/picons/de/welt.de.png" group-title="Немецкие",Welt
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/welt_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="welt.de" tvg-logo="http://static.ipstr.im/picons/de/welt.de.png" group-title="Немецкие",Welt HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/weltHD_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="zdf" tvg-logo="http://static.ipstr.im/picons/de/zdf.de.png" group-title="Немецкие",ZDF HD
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/zdf_de.ts
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="zeeone.de" tvg-logo="http://static.ipstr.im/picons/de/zeeone.de.png" group-title="Немецкие",Zee one
+#EXTGRP:Немецкие
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/zeeone_de.ts
+#EXTINF:0 catchup-days="0" tvg-id="rmcsportlive5.fr" tvg-logo="http://static.ipstr.im/picons/fr/sfr.sport5.png" group-title="Французские",RMC SPORTS 5 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rmcsportlive5_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="beinsports2.fr" tvg-logo="http://static.ipstr.im/picons/fr/beinsports2.fr.png" group-title="Французские",Bein Sports 2 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/beinsports2_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="bein8max.fr" tvg-logo="http://static.ipstr.im/picons/fr/bein8max.fr.png" group-title="Французские",BEINSPORT MAX 8
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/bein8max_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="beinsports1.fr" tvg-logo="http://static.ipstr.im/picons/fr/beinsports1.fr.png" group-title="Французские",Bein Sports 1 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/beinsports1_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="c8.fr" tvg-logo="http://static.ipstr.im/picons/fr/c8.fr.png" group-title="Французские",C8
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/c8_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="canalplussport.fr" tvg-logo="http://static.ipstr.im/picons/fr/canalplussport.fr.png" group-title="Французские",CANAL+ SPORT HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/canalplussport_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="cineplusfrisson.fr" tvg-logo="http://static.ipstr.im/picons/fr/cineplusfrisson.fr.png" group-title="Французские",Cine+ Frisson
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/cineplusfrisson_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="cinepluspremier.fr" tvg-logo="http://static.ipstr.im/picons/fr/cinepluspremier.fr.png" group-title="Французские",Cine+  Premier
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/cinepluspremier_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="cineplusemotion.fr" tvg-logo="http://static.ipstr.im/picons/fr/cineplusemotion.fr.png" group-title="Французские",Cine+ Emotion HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/cineplusemotion_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="france24-fr" tvg-logo="http://static.ipstr.im/picons/fr/france24.fr.png" group-title="Французские",FRANCE 24
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/france24_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="france2.fr" tvg-logo="http://static.ipstr.im/picons/fr/france2.fr.png" group-title="Французские",FRANCE2
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/france2_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="france3.fr" tvg-logo="http://static.ipstr.im/picons/fr/france3.fr.png" group-title="Французские",FRANCE3
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/france3_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="france4.fr" tvg-logo="http://static.ipstr.im/picons/fr/france4.fr.png" group-title="Французские",FRANCE4
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/france4_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="gulli.fr" tvg-logo="http://static.ipstr.im/picons/fr/gulli.fr.png" group-title="Французские",GULLI HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/gulli_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="tf1.fr" tvg-logo="http://static.ipstr.im/picons/fr/tf1series.png" group-title="Французские",TF1 Series
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tf1HD_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="lequipe21.fr" tvg-logo="http://static.ipstr.im/picons/fr/lequipe21.fr.png" group-title="Французские",
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/lequipe21_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="lci.fr" tvg-logo="http://static.ipstr.im/picons/fr/lci.fr.png" group-title="Французские",LCi HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/lci_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="m6.fr" tvg-logo="http://static.ipstr.im/picons/fr/m6.fr.png" group-title="Французские",M6
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/m6_fr.ts
+#EXTINF:0 catchup-days="0" tvg-logo="http://static.ipstr.im/picons/fr/mezzo.fr.png" group-title="Французские",Mezzo Live HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/mezzo_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="nrj12.fr" tvg-logo="http://static.ipstr.im/picons/fr/nrj12.fr.png" group-title="Французские",NRJ12
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/nrj12_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="rtl9.fr" tvg-logo="http://static.ipstr.im/picons/fr/rtl9.png" group-title="Французские",RTL 9 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rtl9_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="rmcsport1.fr" tvg-logo="http://static.ipstr.im/picons/fr/rmc_sport1.png" group-title="Французские",RMC SPORTS 1 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rmcsport1_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="rmcsport2.fr" tvg-logo="http://static.ipstr.im/picons/fr/rmc_sport2.png" group-title="Французские",RMC SPORTS 2 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rmcsport2_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="rmcsport3.fr" tvg-logo="http://static.ipstr.im/picons/fr/rmc_sport3.png" group-title="Французские",RMC SPORTS 3 HD
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/rmcsport3_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="tf1.fr" tvg-logo="http://static.ipstr.im/picons/fr/tf1.fr.png" group-title="Французские",TF1
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tf1_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="tfx.fr" tvg-logo="http://static.ipstr.im/picons/fr/tfx.fr.png" group-title="Французские",TFX (NT1)
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/tfx_fr.ts
+#EXTINF:0 catchup-days="0" tvg-id="w9.fr" tvg-logo="http://static.ipstr.im/picons/fr/w9.fr.png" group-title="Французские",W9
+#EXTGRP:Французские
+http://o.yablo.tv:80/live/u.70638.77cbab7c8c78a7b0ca82af8a79ec69836b/w9_fr.ts
 #EXTINF:0 group-title="Израильские" tvg-id="9-kanal-hd-il" tvg-logo="https://cbilling.biz/img/streams/9-kanal-hd-il.png" tvg-rec="7",9 Канал HD
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce/9-kanal-hd-il.m3u8
@@ -5652,1210 +6012,6 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/841/index.m3u8
 #EXTINF:0 tvg-rec="3",Авто 24
 #EXTGRP:Резервные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/538/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Paramount Comedy HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/117
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Shant Premium HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/118
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",A1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/168
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",A2
-http://str2.tvshka.space:3000/vetal/play2payinternet/169
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Amedia Hit
-http://str2.tvshka.space:3000/vetal/play2payinternet/170
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Amedia Hit HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/171
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Amedia Premium
-http://str2.tvshka.space:3000/vetal/play2payinternet/172
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Amedia Premium HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/173
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bollywood HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/174
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bolt HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/175
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Cinema
-http://str2.tvshka.space:3000/vetal/play2payinternet/176
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Шокирующее HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/167
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FOX
-http://str2.tvshka.space:3000/vetal/play2payinternet/178
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FOX HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/179
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FOX Life
-http://str2.tvshka.space:3000/vetal/play2payinternet/180
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FOX Life HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/181
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sony Channel
-http://str2.tvshka.space:3000/vetal/play2payinternet/182
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sony Channel HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/183
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sony Sci-Fi
-http://str2.tvshka.space:3000/vetal/play2payinternet/184
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sony Turbo
-http://str2.tvshka.space:3000/vetal/play2payinternet/185
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Spike HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/186
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Star Cinema HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/187
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Star Family HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/188
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TV 1000 Action HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/191
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TV 1000 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/192
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TV 1000 Русское кино HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/194
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ultra HD Cinema
-http://str2.tvshka.space:3000/vetal/play2payinternet/195
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",VIP Serial HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/196
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ViP Comedy HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/197
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ViP Megahit HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/198
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ViP Premiere HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/199
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Дом кино
-http://str2.tvshka.space:3000/vetal/play2payinternet/200
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Дом кино премиум HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/201
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Дорама
-http://str2.tvshka.space:3000/vetal/play2payinternet/202
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Еврокино
-http://str2.tvshka.space:3000/vetal/play2payinternet/203
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Иллюзион+
-http://str2.tvshka.space:3000/vetal/play2payinternet/204
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Кино ТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/206
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Кинокомедия
-http://str2.tvshka.space:3000/vetal/play2payinternet/207
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Киномикс
-http://str2.tvshka.space:3000/vetal/play2payinternet/208
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Кинопремьера HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/209
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Киносвидание HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/210
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Киносемья HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/211
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Кинохит HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/212
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Комедия
-http://str2.tvshka.space:3000/vetal/play2payinternet/213
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мужское кино
-http://str2.tvshka.space:3000/vetal/play2payinternet/214
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Настоящее страшное ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/215
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Наше новое кино
-http://str2.tvshka.space:3000/vetal/play2payinternet/216
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Победа HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/217
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Родное кино
-http://str2.tvshka.space:3000/vetal/play2payinternet/218
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Русский бестселлер
-http://str2.tvshka.space:3000/vetal/play2payinternet/219
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Русский детектив
-http://str2.tvshka.space:3000/vetal/play2payinternet/220
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Русский иллюзион
-http://str2.tvshka.space:3000/vetal/play2payinternet/221
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Русский роман HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/223
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Страшное HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/224
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Hollywood
-http://str2.tvshka.space:3000/vetal/play2payinternet/281
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Hollywood HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/282
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Киноужас HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/286
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",A2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/293
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Мужское Кино HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/304
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV1000 World Kino
-http://str2.tvshka.space:3000/vetal/play2payinternet/642
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Мир сериала
-http://str2.tvshka.space:3000/vetal/play2payinternet/393
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Epic Drama HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/397
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FlixSnip
-http://str2.tvshka.space:3000/vetal/play2payinternet/435
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Комедийное HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/437
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",КиноПремиум HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/438
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Наш Кинороман HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/439
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Наше Крутое HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/440
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Остросюжетное HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/442
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Shant Serial HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/573
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Anekdot TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/667
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Блокбастер
-http://str2.tvshka.space:3000/vetal/play2payinternet/697
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Про любовь
-http://str2.tvshka.space:3000/vetal/play2payinternet/698
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Наше мужское
-http://str2.tvshka.space:3000/vetal/play2payinternet/699
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Наш кинопоказ
-http://str2.tvshka.space:3000/vetal/play2payinternet/700
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Камеди
-http://str2.tvshka.space:3000/vetal/play2payinternet/701
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Хит
-http://str2.tvshka.space:3000/vetal/play2payinternet/702
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Fox HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/733
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",VIP Megahit HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/738
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Дом кино премиум HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/740
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Кинопремьера HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/742
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",VIP Comedy HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/798
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Кинопоказ
-http://str2.tvshka.space:3000/vetal/play2payinternet/803
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Блокбастер HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/861
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Наш Кинопоказ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/863
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Хит HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/862
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",1HD Music Television
-http://str2.tvshka.space:3000/vetal/play2payinternet/34
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bridge HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/36
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bridge TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/37
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bridge TV Classic
-http://str2.tvshka.space:3000/vetal/play2payinternet/38
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bridge TV Dance
-http://str2.tvshka.space:3000/vetal/play2payinternet/39
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Bridge HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/40
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bridge TV Русский Хит
-http://str2.tvshka.space:3000/vetal/play2payinternet/41
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Europa Plus TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/42
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",MCM Top
-http://str2.tvshka.space:3000/vetal/play2payinternet/43
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",MTV Dance
-http://str2.tvshka.space:3000/vetal/play2payinternet/44
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",MTV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/45
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",MTV Hits
-http://str2.tvshka.space:3000/vetal/play2payinternet/46
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",MTV Hits HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/336
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",MTV Live HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/47
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",MTV Rocks
-http://str2.tvshka.space:3000/vetal/play2payinternet/48
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",MTV Russia
-http://str2.tvshka.space:3000/vetal/play2payinternet/49
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Mezzo Live HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/50
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Music Box Gold
-http://str2.tvshka.space:3000/vetal/play2payinternet/51
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Music Box RU HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/52
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RU TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/54
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Stingray iConcerts HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/55
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",VH1 Classic
-http://str2.tvshka.space:3000/vetal/play2payinternet/56
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",VH1 European
-http://str2.tvshka.space:3000/vetal/play2payinternet/57
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ля минор
-http://str2.tvshka.space:3000/vetal/play2payinternet/58
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Муз ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/59
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ MUSIC
-http://str2.tvshka.space:3000/vetal/play2payinternet/60
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Шансон ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/61
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Музыка Первого
-http://str2.tvshka.space:3000/vetal/play2payinternet/290
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",M2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/300
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Жара HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/643
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",M2
-http://str2.tvshka.space:3000/vetal/play2payinternet/329
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",M1
-http://str2.tvshka.space:3000/vetal/play2payinternet/331
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",MCM Top HD 
-http://str2.tvshka.space:3000/vetal/play2payinternet/335
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",MusicBox UA
-http://str2.tvshka.space:3000/vetal/play2payinternet/337
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Shant Music HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/571
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",M1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/673
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",4ever Music HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/847
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",MTV Music
-http://str2.tvshka.space:3000/vetal/play2payinternet/794
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",AIVA HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/838
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Боец
-http://str2.tvshka.space:3000/vetal/play2payinternet/29
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Матч! HD [PREMIUM+]
-http://str2.tvshka.space:3000/vetal/play2payinternet/871
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Eurosport 1
-http://str2.tvshka.space:3000/vetal/play2payinternet/149
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Eurosport 2
-http://str2.tvshka.space:3000/vetal/play2payinternet/792
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Eurosport 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/150
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Eurosport Gold
-http://str2.tvshka.space:3000/vetal/play2payinternet/151
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Eurosport Gold HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/152
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Viasat Sport
-http://str2.tvshka.space:3000/vetal/play2payinternet/153
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Viasat Sport HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/154
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",КХЛ
-http://str2.tvshka.space:3000/vetal/play2payinternet/155
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",КХЛ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/156
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Арена HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/157
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Игра HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/158
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Премьер HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/159
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Страна
-http://str2.tvshka.space:3000/vetal/play2payinternet/160
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/161
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! ТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/162
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Футбол 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/163
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Футбол 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/164
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Матч! Футбол 3 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/165
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Футбол HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/166
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир баскетбола
-http://str2.tvshka.space:3000/vetal/play2payinternet/284
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",UFC HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/292
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Eurosport 4K
-http://str2.tvshka.space:3000/vetal/play2payinternet/384
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",NFL HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/386
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Setanta Sports 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/388
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Setanta Sports 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/390
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Setanta Sports UA HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/391
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",beIN Sports 1 HD [AR]
-http://str2.tvshka.space:3000/vetal/play2payinternet/482
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",beIN Sports 2 HD [AR]
-http://str2.tvshka.space:3000/vetal/play2payinternet/483
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Shakhtar.TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/866
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Матч! Футбол 1 HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/668
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Матч! Футбол 2 HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/669
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Матч! Футбол 3 HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/670
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",СТАРТ ТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/856
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Eurosport 2 HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/732
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Setanta Sports + Ukraine HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/743
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Матч! Премьер HD [PREMIUM+]
-http://str2.tvshka.space:3000/vetal/play2payinternet/760
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Eurosport 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/793
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",DTX HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/21
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",M-1 Global
-http://str2.tvshka.space:3000/vetal/play2payinternet/22
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",АВТО24 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/23
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Авто плюс
-http://str2.tvshka.space:3000/vetal/play2payinternet/24
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Диалоги о рыбалке HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/25
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Дикая охота HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/26
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Дикая рыбалка HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/27
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Дикий
-http://str2.tvshka.space:3000/vetal/play2payinternet/28
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Охота и рыбалка
-http://str2.tvshka.space:3000/vetal/play2payinternet/30
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Охотник и рыболов HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/31
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Русский экстрим
-http://str2.tvshka.space:3000/vetal/play2payinternet/32
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Техно 24
-http://str2.tvshka.space:3000/vetal/play2payinternet/33
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Discovery Channel HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/730
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Animal Planet
-http://str2.tvshka.space:3000/vetal/play2payinternet/69
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Animal Planet HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/70
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",DTX
-http://str2.tvshka.space:3000/vetal/play2payinternet/71
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Discovery Channel
-http://str2.tvshka.space:3000/vetal/play2payinternet/72
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Discovery Channel HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/73
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Discovery Science
-http://str2.tvshka.space:3000/vetal/play2payinternet/74
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Discovery Science HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/75
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",English Club TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/76
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Food Network HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/78
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Fuel TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/79
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",H2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/80
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",History HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/82
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ID Investigation Discovery
-http://str2.tvshka.space:3000/vetal/play2payinternet/83
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ID Investigation Discovery HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/84
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Museum HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/85
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nat Geo Wild
-http://str2.tvshka.space:3000/vetal/play2payinternet/86
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nat Geo Wild HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/87
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",National Geographic
-http://str2.tvshka.space:3000/vetal/play2payinternet/88
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",National Geographic HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/89
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Russian Extreme UHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/90
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TLC
-http://str2.tvshka.space:3000/vetal/play2payinternet/91
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TLC HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/92
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Travel Channel HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/93
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Travel+ Adventure HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/94
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Viasat Explore HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/96
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Viasat History HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/98
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Viasat Nature HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/100
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Viasat Nature/History HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/101
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",myZen.tv HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/102
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Бобер
-http://str2.tvshka.space:3000/vetal/play2payinternet/103
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Большая Азия HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/104
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Еда
-http://str2.tvshka.space:3000/vetal/play2payinternet/105
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Еда Премиум
-http://str2.tvshka.space:3000/vetal/play2payinternet/106
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Кухня ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/107
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Морской HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/108
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Тномер
-http://str2.tvshka.space:3000/vetal/play2payinternet/109
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Усадьба
-http://str2.tvshka.space:3000/vetal/play2payinternet/110
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Глазами туриста HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/285
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Телекафе
-http://str2.tvshka.space:3000/vetal/play2payinternet/288
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Поехали!
-http://str2.tvshka.space:3000/vetal/play2payinternet/289
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Ocean TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/77
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Точка Отрыва
-http://str2.tvshka.space:3000/vetal/play2payinternet/703
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",HDL
-http://str2.tvshka.space:3000/vetal/play2payinternet/345
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Ultra REX 4K
-http://str2.tvshka.space:3000/vetal/play2payinternet/347
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Trash HD [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/873
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Fine Living HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/436
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Love Nature 4K
-http://str2.tvshka.space:3000/vetal/play2payinternet/761
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Animal Planet HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/729
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Nat Geo Wild HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/734
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",National Geographic HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/735
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TLC HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/737
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Trash SD [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/874
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Рыбалка ТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/802
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",2x2
-http://str2.tvshka.space:3000/vetal/play2payinternet/112
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",2x2 (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/113
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",2x2 (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/114
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",2x2 (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/115
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятница!
-http://str2.tvshka.space:3000/vetal/play2payinternet/120
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятница! (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/121
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятница! (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/122
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятница! (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/123
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС
-http://str2.tvshka.space:3000/vetal/play2payinternet/124
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/125
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/126
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/127
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС Love
-http://str2.tvshka.space:3000/vetal/play2payinternet/128
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Супер
-http://str2.tvshka.space:3000/vetal/play2payinternet/129
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Супер (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/130
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Супер (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/131
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Супер (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/132
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ
-http://str2.tvshka.space:3000/vetal/play2payinternet/133
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/134
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/135
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/136
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/137
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ4
-http://str2.tvshka.space:3000/vetal/play2payinternet/138
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ4 (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/139
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ4 (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/140
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТНТ4 (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/141
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Че
-http://str2.tvshka.space:3000/vetal/play2payinternet/142
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Че (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/143
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Че (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/144
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ю
-http://str2.tvshka.space:3000/vetal/play2payinternet/145
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ю (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/146
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ю (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/147
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ю (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/148
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ 3
-http://str2.tvshka.space:3000/vetal/play2payinternet/225
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ 3 (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/226
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ 3 (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/227
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ 3 (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/228
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Домашний
-http://str2.tvshka.space:3000/vetal/play2payinternet/229
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Домашний (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/230
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Домашний (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/231
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Домашний (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/232
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Звезда
-http://str2.tvshka.space:3000/vetal/play2payinternet/233
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Звезда (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/234
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Звезда (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/235
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Звезда (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/236
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир
-http://str2.tvshka.space:3000/vetal/play2payinternet/237
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/238
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/239
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/240
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир Premium
-http://str2.tvshka.space:3000/vetal/play2payinternet/241
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",НТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/242
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",НТВ (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/243
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",НТВ (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/244
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",НТВ (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/245
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",НТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/246
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ностальгия
-http://str2.tvshka.space:3000/vetal/play2payinternet/247
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ОТР
-http://str2.tvshka.space:3000/vetal/play2payinternet/248
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Первый канал
-http://str2.tvshka.space:3000/vetal/play2payinternet/249
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Первый канал (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/250
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Первый канал (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/251
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Первый канал (+6)
-http://str2.tvshka.space:3000/vetal/play2payinternet/252
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Первый канал (+8)
-http://str2.tvshka.space:3000/vetal/play2payinternet/253
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Первый канал HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/254
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятый канал
-http://str2.tvshka.space:3000/vetal/play2payinternet/255
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятый канал (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/256
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятый канал (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/257
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Пятый канал (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/258
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",РЕН ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/259
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",РЕН ТВ (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/260
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",РЕН ТВ (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/261
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",РЕН ТВ (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/262
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",РЕН ТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/263
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ретро ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/264
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия 1
-http://str2.tvshka.space:3000/vetal/play2payinternet/265
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия 1 (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/266
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия 1 (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/267
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия 1 (+6)
-http://str2.tvshka.space:3000/vetal/play2payinternet/268
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия 1 (+8)
-http://str2.tvshka.space:3000/vetal/play2payinternet/269
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/270
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Россия К
-http://str2.tvshka.space:3000/vetal/play2payinternet/271
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ Центр
-http://str2.tvshka.space:3000/vetal/play2payinternet/272
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ Центр (+2)
-http://str2.tvshka.space:3000/vetal/play2payinternet/273
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ Центр (+4)
-http://str2.tvshka.space:3000/vetal/play2payinternet/274
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ТВ Центр (+7)
-http://str2.tvshka.space:3000/vetal/play2payinternet/275
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Время близкое и далекое
-http://str2.tvshka.space:3000/vetal/play2payinternet/287
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Домашний HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/298
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",НТВ Право
-http://str2.tvshka.space:3000/vetal/play2payinternet/299
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",СТС HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/302
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Первый Канал HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/303
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ТНТ HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/320
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ТВ-3 HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/321
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Пятница! HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/324
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nick Jr.
-http://str2.tvshka.space:3000/vetal/play2payinternet/6
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nickelodeon
-http://str2.tvshka.space:3000/vetal/play2payinternet/7
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nickelodeon HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/8
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Tiji
-http://str2.tvshka.space:3000/vetal/play2payinternet/9
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",В Гостях у сказки
-http://str2.tvshka.space:3000/vetal/play2payinternet/10
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Детский
-http://str2.tvshka.space:3000/vetal/play2payinternet/11
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Детский мир
-http://str2.tvshka.space:3000/vetal/play2payinternet/12
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Карусель
-http://str2.tvshka.space:3000/vetal/play2payinternet/13
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",МУЛЬТ
-http://str2.tvshka.space:3000/vetal/play2payinternet/14
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мультимузыка
-http://str2.tvshka.space:3000/vetal/play2payinternet/15
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",О!
-http://str2.tvshka.space:3000/vetal/play2payinternet/16
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС Kids
-http://str2.tvshka.space:3000/vetal/play2payinternet/18
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",СТС Kids HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/19
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Тлум HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/20
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FAN HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/177
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Cartoon Network HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/3
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Disney Channel
-http://str2.tvshka.space:3000/vetal/play2payinternet/4
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",JimJam
-http://str2.tvshka.space:3000/vetal/play2payinternet/5
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Малыш ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/291
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Nickelodeon HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/736
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",BBC World News
-http://str2.tvshka.space:3000/vetal/play2payinternet/62
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",CNN International
-http://str2.tvshka.space:3000/vetal/play2payinternet/63
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Russia Today HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/64
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Евроновости
-http://str2.tvshka.space:3000/vetal/play2payinternet/65
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Известия HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/66
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мир 24
-http://str2.tvshka.space:3000/vetal/play2payinternet/67
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",РБК
-http://str2.tvshka.space:3000/vetal/play2payinternet/68
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Current Time HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/327
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Shant News HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/572
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Россия 24
-http://str2.tvshka.space:3000/vetal/play2payinternet/370
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",OST West [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/849
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Дождь HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/797
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Muz TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/872
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ARB
-http://str2.tvshka.space:3000/vetal/play2payinternet/443
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ARB Gunesh
-http://str2.tvshka.space:3000/vetal/play2payinternet/444
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",AzTV
-http://str2.tvshka.space:3000/vetal/play2payinternet/445
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Azad Azerbaycan TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/446
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",CBC HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/447
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",CBC Sport HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/448
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Dalga TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/449
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Dunya TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/450
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ictimai TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/451
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Idman Azerbaycan
-http://str2.tvshka.space:3000/vetal/play2payinternet/452
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Lider TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/453
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Medeniyyet TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/454
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Real TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/455
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Space TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/456
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Xezer TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/457
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ARB 24
-http://str2.tvshka.space:3000/vetal/play2payinternet/458
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Latvijas Slagerkanals
-http://str2.tvshka.space:3000/vetal/play2payinternet/392
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ETV 2
-http://str2.tvshka.space:3000/vetal/play2payinternet/787
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LRT Plius HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/764
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ETV
-http://str2.tvshka.space:3000/vetal/play2payinternet/786
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV1 Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/785
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Info TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/774
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LRT Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/349
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",BTV Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/353
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LNK Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/354
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Balticum Auksinis
-http://str2.tvshka.space:3000/vetal/play2payinternet/355
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LNK Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/358
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",BTV Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/360
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Info TV Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/362
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LRT Lithuania HD [OFF]
-http://str2.tvshka.space:3000/vetal/play2payinternet/363
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Sports Lithuania HD [OFF]
-http://str2.tvshka.space:3000/vetal/play2payinternet/364
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Sports 2 Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/365
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Sports Lithuania SD
-http://str2.tvshka.space:3000/vetal/play2payinternet/367
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/369
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",360 TV Latvia
-http://str2.tvshka.space:3000/vetal/play2payinternet/782
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV6 Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/371
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/373
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV6 Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/374
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV1 Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/375
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Lietuvos rytas HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/376
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Balticum Platinum
-http://str2.tvshka.space:3000/vetal/play2payinternet/377
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Film Lithuania
-http://str2.tvshka.space:3000/vetal/play2payinternet/378
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",3 Life
-http://str2.tvshka.space:3000/vetal/play2payinternet/380
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Liuks!
-http://str2.tvshka.space:3000/vetal/play2payinternet/382
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",3+ Latvia
-http://str2.tvshka.space:3000/vetal/play2payinternet/574
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LTV1
-http://str2.tvshka.space:3000/vetal/play2payinternet/575
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",LTV7
-http://str2.tvshka.space:3000/vetal/play2payinternet/576
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Latvia HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/577
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV6 Latvia
-http://str2.tvshka.space:3000/vetal/play2payinternet/578
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",RE:TV LV
-http://str2.tvshka.space:3000/vetal/play2payinternet/876
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV3 Film Lithuania HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/708
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Play2Pay Кинозал 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/688
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Play2Pay Кинозал 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/687
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TOP: Великолепный Век
-http://str2.tvshka.space:3000/vetal/play2payinternet/400
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TOP: 80's
-http://str2.tvshka.space:3000/vetal/play2payinternet/401
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TOP: BUDO HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/402
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TOP: CINEMA HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/403
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TOP: USSR
-http://str2.tvshka.space:3000/vetal/play2payinternet/404
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Play2Pay Кинозал 3 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/689
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Play2Pay Кинозал 4 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/690
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",1+1 HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/116
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ICTV HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/674
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",1+1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/295
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",112 Украина HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/296
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ATR HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/641
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",1+1
-http://str2.tvshka.space:3000/vetal/play2payinternet/405
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",2+2
-http://str2.tvshka.space:3000/vetal/play2payinternet/406
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",24 Канал
-http://str2.tvshka.space:3000/vetal/play2payinternet/407
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",BOLT
-http://str2.tvshka.space:3000/vetal/play2payinternet/408
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Enter Film
-http://str2.tvshka.space:3000/vetal/play2payinternet/409
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FILM UA DRAMA
-http://str2.tvshka.space:3000/vetal/play2payinternet/410
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ICTV
-http://str2.tvshka.space:3000/vetal/play2payinternet/411
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Indigo TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/412
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Iнтер
-http://str2.tvshka.space:3000/vetal/play2payinternet/413
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",K1
-http://str2.tvshka.space:3000/vetal/play2payinternet/414
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",K2
-http://str2.tvshka.space:3000/vetal/play2payinternet/415
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",NewsNetwork
-http://str2.tvshka.space:3000/vetal/play2payinternet/416
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",NEWSONE
-http://str2.tvshka.space:3000/vetal/play2payinternet/417
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ZIK
-http://str2.tvshka.space:3000/vetal/play2payinternet/418
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Бигуди
-http://str2.tvshka.space:3000/vetal/play2payinternet/419
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Квартал ТВ
-http://str2.tvshka.space:3000/vetal/play2payinternet/420
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Мега
-http://str2.tvshka.space:3000/vetal/play2payinternet/421
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",NLTV
-http://str2.tvshka.space:3000/vetal/play2payinternet/422
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Новий Канал
-http://str2.tvshka.space:3000/vetal/play2payinternet/423
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",НТН
-http://str2.tvshka.space:3000/vetal/play2payinternet/424
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ОЦЕ ТБ
-http://str2.tvshka.space:3000/vetal/play2payinternet/425
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Перший Автомобiльний
-http://str2.tvshka.space:3000/vetal/play2payinternet/426
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ПЛЮС ПЛЮС
-http://str2.tvshka.space:3000/vetal/play2payinternet/427
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Прямий
-http://str2.tvshka.space:3000/vetal/play2payinternet/428
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Рада
-http://str2.tvshka.space:3000/vetal/play2payinternet/429
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",СТБ
-http://str2.tvshka.space:3000/vetal/play2payinternet/430
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ТЕТ
-http://str2.tvshka.space:3000/vetal/play2payinternet/431
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Трофей
-http://str2.tvshka.space:3000/vetal/play2payinternet/432
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Україна
-http://str2.tvshka.space:3000/vetal/play2payinternet/433
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",УНИАН
-http://str2.tvshka.space:3000/vetal/play2payinternet/434
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",FUA1HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/550
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",FUA2HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/551
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",FUA2
-http://str2.tvshka.space:3000/vetal/play2payinternet/552
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",FUA1
-http://str2.tvshka.space:3000/vetal/play2payinternet/553
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",UKRHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/583
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ICTV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/585
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Новий Канал HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/586
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",FUA3HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/587
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Новий Канал HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/676
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",СТБ HD [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/677
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Indigo TV HD [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/848
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ТЕТ HD [TEST] [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/840
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Украина 24 HD [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/846
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",2+2 HD [TEST] [PREMIUM]
-http://str2.tvshka.space:3000/vetal/play2payinternet/839
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",1TV Georgia
-http://str2.tvshka.space:3000/vetal/play2payinternet/459
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",GDS TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/460
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Ajara TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/461
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Imedi TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/462
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Maestro TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/463
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Obieqtivi TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/464
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Pirveli
-http://str2.tvshka.space:3000/vetal/play2payinternet/465
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Rustavi
-http://str2.tvshka.space:3000/vetal/play2payinternet/466
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Rustavi 2
-http://str2.tvshka.space:3000/vetal/play2payinternet/467
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Trialeti TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/468
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ATV
-http://str2.tvshka.space:3000/vetal/play2payinternet/469
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bein Sports 1 HD [TR]
-http://str2.tvshka.space:3000/vetal/play2payinternet/470
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bein Sports 2 HD [TR]
-http://str2.tvshka.space:3000/vetal/play2payinternet/471
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Bein Sports 3 HD [TR]
-http://str2.tvshka.space:3000/vetal/play2payinternet/472
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",FOX HD [TR]
-http://str2.tvshka.space:3000/vetal/play2payinternet/473
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Kanal 7 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/474
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Kanal D
-http://str2.tvshka.space:3000/vetal/play2payinternet/475
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Tivibu Spor 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/476
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Tivibu Spor 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/477
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Show TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/478
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Show TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/479
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Smart Spor 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/481
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Star TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/671
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",N24 Doku HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/507
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sixx HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/508
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Pro 7 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/509
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RTL Nitro
-http://str2.tvshka.space:3000/vetal/play2payinternet/510
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Pro 7 Maxx
-http://str2.tvshka.space:3000/vetal/play2payinternet/511
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RTL Passion
-http://str2.tvshka.space:3000/vetal/play2payinternet/512
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RTL HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/513
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RTL 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/514
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Sports Bundesliga 1 HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/515
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",ZDF HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/516
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",VOX HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/517
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Super RTL
-http://str2.tvshka.space:3000/vetal/play2payinternet/518
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Sports 2 [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/519
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RTL Crime
-http://str2.tvshka.space:3000/vetal/play2payinternet/520
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nat Geo Wild [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/521
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",National Geographic HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/522
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Cinema Emotion [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/524
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",History HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/525
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Disney XD
-http://str2.tvshka.space:3000/vetal/play2payinternet/526
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Kika
-http://str2.tvshka.space:3000/vetal/play2payinternet/527
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",DMAXX
-http://str2.tvshka.space:3000/vetal/play2payinternet/528
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Sports 1 [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/529
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Sports 1 [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/531
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",RTL 1
-http://str2.tvshka.space:3000/vetal/play2payinternet/532
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Nat Geo Wild HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/533
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",SAT 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/534
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Sports 2 HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/536
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Sports 1 HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/537
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Cinema Comedy [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/538
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Cinema Action [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/539
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Cinema [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/541
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",3SAT HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/542
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Discovery Channel [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/543
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Junior
-http://str2.tvshka.space:3000/vetal/play2payinternet/544
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Cinema +1 [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/545
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Kabel Eins
-http://str2.tvshka.space:3000/vetal/play2payinternet/546
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Sky Cinema +24 [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/547
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Disney HD [DE]
-http://str2.tvshka.space:3000/vetal/play2payinternet/548
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",TNT Comedy HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/549
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ITV 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/588
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Cinema Family HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/589
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Cinema Hits FHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/590
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Cinema Drama & Romance HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/591
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",BT SPORT 1 FHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/592
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",BT SPORT 2 FHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/593
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",BT SPORT 3 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/594
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",BT SPORT ESPN HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/595
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY CINEMA CRIME THRILLER FHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/599
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Cinema Premiere HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/601
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Cinema Sci-Fi & Horror HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/602
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY CINEMA ACTION HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/603
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY CINEMA COMEDY FHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/604
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Cinema Greats HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/605
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY SPORT F1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/606
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Sports Arena HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/607
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Sports Cricket FHD
-http://str2.tvshka.space:3000/vetal/play2payinternet/608
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY SPORTS MAIN EVENT HD 
-http://str2.tvshka.space:3000/vetal/play2payinternet/609
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY SPORTS FOOTBALL HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/610
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SKY SPORTS Mix HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/611
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Premier Sports HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/694
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Sky Sports PL HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/695
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Babes TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/276
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Brazzers TV Europe
-http://str2.tvshka.space:3000/vetal/play2payinternet/277
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",O-la-la
-http://str2.tvshka.space:3000/vetal/play2payinternet/278
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Русская ночь
-http://str2.tvshka.space:3000/vetal/play2payinternet/279
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",Шалун HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/280
-#EXTINF:-1 tvg-id="" group-title="TVshka" tvg-logo="",SHOT TV HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/294
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",NBA HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/612
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ESPN HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/385
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",AMC HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/582
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TSN 3 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/625
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",NHL HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/613
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TNT HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/614
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TLC HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/616
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",CNN HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/619
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",History Channel HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/620
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",CNBC HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/621
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",FOX SPORT 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/622
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",AMGA TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/1
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ArmNews
-http://str2.tvshka.space:3000/vetal/play2payinternet/119
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Armenia TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/381
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TV Armenia
-http://str2.tvshka.space:3000/vetal/play2payinternet/309
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",AABC
-http://str2.tvshka.space:3000/vetal/play2payinternet/17
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",SHANT TV
-http://str2.tvshka.space:3000/vetal/play2payinternet/654
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Shoghakat
-http://str2.tvshka.space:3000/vetal/play2payinternet/655
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",USArmenia
-http://str2.tvshka.space:3000/vetal/play2payinternet/656
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ARARAT
-http://str2.tvshka.space:3000/vetal/play2payinternet/361
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Dar 21
-http://str2.tvshka.space:3000/vetal/play2payinternet/649
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",H2
-http://str2.tvshka.space:3000/vetal/play2payinternet/652
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Kentron
-http://str2.tvshka.space:3000/vetal/play2payinternet/653
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ATV
-http://str2.tvshka.space:3000/vetal/play2payinternet/648
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Erkir
-http://str2.tvshka.space:3000/vetal/play2payinternet/650
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",H1
-http://str2.tvshka.space:3000/vetal/play2payinternet/651
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Беларусь 2 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/681
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Беларусь 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/680
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",ВТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/679
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Россия РТР HD Беларусь
-http://str2.tvshka.space:3000/vetal/play2payinternet/686
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",СТВ HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/684
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",НТВ HD Беларусь
-http://str2.tvshka.space:3000/vetal/play2payinternet/685
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Беларусь 5 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/683
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Беларусь 3 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/682
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Antena 1 HD
-http://str2.tvshka.space:3000/vetal/play2payinternet/771
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",HBO HD Romania
-http://str2.tvshka.space:3000/vetal/play2payinternet/772
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Kino Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/819
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",nSport [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/820
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TVN Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/821
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TVN7 Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/822
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TVN1 Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/823
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Polsat Cafe [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/824
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TVP Seriale [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/825
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TVP Historia [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/826
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",TVP HD Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/827
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Polsat Play [TSET]
-http://str2.tvshka.space:3000/vetal/play2payinternet/828
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Kuchnia [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/829
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Domo+ [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/830
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Nick JR. Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/832
-#EXTINF:-1 tvg-id="nodata" group-title="TVshka" tvg-logo="",Nickelodeon Polska [TEST]
-http://str2.tvshka.space:3000/vetal/play2payinternet/833
+#EXTINF:0 tvg-rec="0",Телеканал Рибалка
+#EXTGRP:Резервные
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1058/index.m3u8
