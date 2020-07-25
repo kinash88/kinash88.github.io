@@ -6015,3 +6015,267 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/538/index.m3u8
 #EXTINF:0 tvg-rec="0",Телеканал Рибалка
 #EXTGRP:Резервные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1058/index.m3u8
+#EXTINF:0 tvg-id="tv_5kanal-ua" tvg-logo="http://play.wisp.cat:80/logos/20.png" group-title="Твое ТВ (тест)",5 канал Украина HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F5kanalUA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_ua-pershy" tvg-logo="http://play.wisp.cat:80/logos/221.png" group-title="Твое ТВ (тест)",UA:Перший HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUAPerviyHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_inter-ua" tvg-logo="http://play.wisp.cat:80/logos/63.png" group-title="Твое ТВ (тест)",Интер
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINTER&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="inter-plus-ua" tvg-logo="http://play.wisp.cat:80/logos/421.png" group-title="Твое ТВ (тест)",Интер +
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FInterplus&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_ntn-ua" tvg-logo="http://play.wisp.cat:80/logos/97.png" group-title="Твое ТВ (тест)",НТН
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTN&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_zoom-ua" tvg-logo="http://play.wisp.cat:80/logos/160.png" group-title="Твое ТВ (тест)",Zoom
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoom&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_k1-ua" tvg-logo="http://play.wisp.cat:80/logos/166.png" group-title="Твое ТВ (тест)",К1
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK1&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_k2-ua" tvg-logo="http://play.wisp.cat:80/logos/167.png" group-title="Твое ТВ (тест)",К2
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK2&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_mega-ua" tvg-logo="http://play.wisp.cat:80/logos/108.png" group-title="Твое ТВ (тест)",Мега
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMega&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_enter-film" tvg-logo="http://play.wisp.cat:80/logos/48.png" group-title="Твое ТВ (тест)",Enter-Фільм
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEnterFilm&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_kvartal-tv" tvg-logo="http://play.wisp.cat:80/logos/10.png" group-title="Твое ТВ (тест)",Квартал ТВ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKvartalTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="kyiv-ua" tvg-logo="http://play.wisp.cat:80/logos/82.png" group-title="Твое ТВ (тест)",Київ TV
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKievTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="maxxi-tv" tvg-logo="http://play.wisp.cat:80/logos/403.png" group-title="Твое ТВ (тест)",Наш HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F34kanal&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="otb-galychyna" tvg-logo="http://play.wisp.cat:80/logos/253.png" group-title="Твое ТВ (тест)",Галичина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGalychina&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="donbass-ua" tvg-logo="http://play.wisp.cat:80/logos/427.png" group-title="Твое ТВ (тест)",Донбас
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDonbass&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pershy-zaxidny" tvg-logo="http://play.wisp.cat:80/logos/532.png" group-title="Твое ТВ (тест)",Перший Західний
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPervijZaxidnyi&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="milady-television" tvg-logo="http://play.wisp.cat:80/logos/124.png" group-title="Твое ТВ (тест)",Milady
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMilady&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="24news-ua" tvg-logo="http://play.wisp.cat:80/logos/102.png" group-title="Твое ТВ (тест)",24 Канал
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNews24&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="24news-ua" tvg-logo="http://play.wisp.cat:80/logos/201.png" group-title="Твое ТВ (тест)",24 Канал HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F24nowostihd&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="priamyj" tvg-logo="http://play.wisp.cat:80/logos/176.png" group-title="Твое ТВ (тест)",Прямий
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPramyi&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_priamyj" tvg-logo="http://play.wisp.cat:80/logos/180.png" group-title="Твое ТВ (тест)",Прямий HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPramyiHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_newsone-ua" tvg-logo="http://play.wisp.cat:80/logos/407.png" group-title="Твое ТВ (тест)",News One
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNewsOne&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="newsone-ua" tvg-logo="http://play.wisp.cat:80/logos/359.png" group-title="Твое ТВ (тест)",News One HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNewsOneHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="newsnetwork" tvg-logo="http://play.wisp.cat:80/logos/178.png" group-title="Твое ТВ (тест)",NewsNetwork
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNewsNetwork&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="zik-ua" tvg-logo="http://play.wisp.cat:80/logos/159.png" group-title="Твое ТВ (тест)",ZIK
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZIK&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="zik-ua" tvg-logo="http://play.wisp.cat:80/logos/219.png" group-title="Твое ТВ (тест)",ZIK HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fzikhd&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="atr-ua" tvg-logo="http://play.wisp.cat:80/logos/92.png" group-title="Твое ТВ (тест)",ATR
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FATR&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_atr-ua" tvg-logo="http://play.wisp.cat:80/logos/198.png" group-title="Твое ТВ (тест)",ATR HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FATRHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="hromadske" tvg-logo="http://play.wisp.cat:80/logos/200.png" group-title="Твое ТВ (тест)",Громадське ТВ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHromadskeTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="hromadske" tvg-logo="http://play.wisp.cat:80/logos/173.png" group-title="Твое ТВ (тест)",Громадське HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHromadskeTVHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="chernomorskaya" tvg-logo="http://play.wisp.cat:80/logos/68.png" group-title="Твое ТВ (тест)",Черноморская ТРК
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBlackSeaTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ua-tv" tvg-logo="http://play.wisp.cat:80/logos/153.png" group-title="Твое ТВ (тест)",UATV HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUATV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ua-krym" tvg-logo="http://play.wisp.cat:80/logos/66.png" group-title="Твое ТВ (тест)",UA: Крым
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUAKrym&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ua-donbas" tvg-logo="http://play.wisp.cat:80/logos/734.png" group-title="Твое ТВ (тест)",UA: Донбас
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUADonbas&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="kultura-ua" tvg-logo="http://play.wisp.cat:80/logos/105.png" group-title="Твое ТВ (тест)",UA: Культура
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUAKultura&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ua-pershy" tvg-logo="http://play.wisp.cat:80/logos/215.png" group-title="Твое ТВ (тест)",UA:Перший
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUAPervijT2&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="112-ua" tvg-logo="http://play.wisp.cat:80/logos/23.png" group-title="Твое ТВ (тест)",112 Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F112Ukraine&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv_112-ua" tvg-logo="http://play.wisp.cat:80/logos/22.png" group-title="Твое ТВ (тест)",112 Украина HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F112UkraineHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pro-vsio" tvg-logo="http://play.wisp.cat:80/logos/538.png" group-title="Твое ТВ (тест)",8 канал Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F8kanalUA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pro-vsio" tvg-logo="http://play.wisp.cat:80/logos/205.png" group-title="Твое ТВ (тест)",8 канал HD Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F8kanalUAHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="krt-ua" tvg-logo="http://play.wisp.cat:80/logos/104.png" group-title="Твое ТВ (тест)",КРТ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKRT&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="rada-ua" tvg-logo="http://play.wisp.cat:80/logos/85.png" group-title="Твое ТВ (тест)",Рада
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRada&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="rti" tvg-logo="http://play.wisp.cat:80/logos/164.png" group-title="Твое ТВ (тест)",4 канал Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRTI&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="plusplus" tvg-logo="http://play.wisp.cat:80/logos/39.png" group-title="Твое ТВ (тест)",Плюс плюс HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRTIHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="eko-tv" tvg-logo="http://play.wisp.cat:80/logos/59.png" group-title="Твое ТВ (тест)",Eko TV
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEkoTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="espreso-tv" tvg-logo="http://play.wisp.cat:80/logos/52.png" group-title="Твое ТВ (тест)",Еспресо
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEspresso&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="espreso-tv" tvg-logo="http://play.wisp.cat:80/logos/53.png" group-title="Твое ТВ (тест)",Еспресо HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEspressoHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pervy-delovoy" tvg-logo="http://play.wisp.cat:80/logos/91.png" group-title="Твое ТВ (тест)",Перший Діловий
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPervijDelovoy&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="chepe-info" tvg-logo="http://play.wisp.cat:80/logos/73.png" group-title="Твое ТВ (тест)",ЧП.INFO
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCHPINFO&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="natali" tvg-logo="http://play.wisp.cat:80/logos/230.png" group-title="Твое ТВ (тест)",Наталі
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fnatali&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="nadia" tvg-logo="http://play.wisp.cat:80/logos/100.png" group-title="Твое ТВ (тест)",Надія
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNadezdaUA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/109.png" group-title="Твое ТВ (тест)",Сварожичи
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHorizontTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="glas" tvg-logo="http://play.wisp.cat:80/logos/117.png" group-title="Твое ТВ (тест)",Глас
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGlas&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="vintazh" tvg-logo="http://play.wisp.cat:80/logos/120.png" group-title="Твое ТВ (тест)",Вінтаж
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVintazTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="maxxi-tv" tvg-logo="http://play.wisp.cat:80/logos/106.png" group-title="Твое ТВ (тест)",Наш
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMaxxiTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="karavan-tv" tvg-logo="http://play.wisp.cat:80/logos/135.png" group-title="Твое ТВ (тест)",Караван
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKaravanTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/25.png" group-title="Твое ТВ (тест)",Bambarbia
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBambarbia&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/24.png" group-title="Твое ТВ (тест)",Bambarbia HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBambarbiaHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="oboz-tv" tvg-logo="http://play.wisp.cat:80/logos/414.png" group-title="Твое ТВ (тест)",OBOZ TV
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOBOZTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="oboz-tv" tvg-logo="http://play.wisp.cat:80/logos/568.png" group-title="Твое ТВ (тест)",OBOZ TV HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOBOZTVHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="televsesvit" tvg-logo="http://play.wisp.cat:80/logos/69.png" group-title="Твое ТВ (тест)",Телевсесвіт
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelevsesvit&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="televsesvit" tvg-logo="http://play.wisp.cat:80/logos/83.png" group-title="Твое ТВ (тест)",Телевсесвіт HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelevsesvitHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pravdatyt" tvg-logo="http://play.wisp.cat:80/logos/450.png" group-title="Твое ТВ (тест)",Правда ТУТ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPravdaTUT&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pravdatyt" tvg-logo="http://play.wisp.cat:80/logos/87.png" group-title="Твое ТВ (тест)",Правда ТУТ HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPravdaTUTHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pravdatyt-kyiv" tvg-logo="http://play.wisp.cat:80/logos/188.png" group-title="Твое ТВ (тест)",Правда ТУТ Київ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPravdaTUTKiev&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="pravdatyt-kyiv" tvg-logo="http://play.wisp.cat:80/logos/189.png" group-title="Твое ТВ (тест)",Правда ТУТ Київ HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPravdaTUTKievHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="boutique-tv" tvg-logo="http://play.wisp.cat:80/logos/191.png" group-title="Твое ТВ (тест)",Boutique
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoutiqueTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/43.png" group-title="Твое ТВ (тест)",100% News
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F100news&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="sonce-ua" tvg-logo="http://play.wisp.cat:80/logos/77.png" group-title="Твое ТВ (тест)",Сонце
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSonceUA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="navigator-tv" tvg-logo="http://play.wisp.cat:80/logos/171.png" group-title="Твое ТВ (тест)",Navigator TV
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTKRAleks&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tv5-zaporozhie" tvg-logo="http://play.wisp.cat:80/logos/216.png" group-title="Твое ТВ (тест)",TV5 Запорожье
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV5&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="dumskaya" tvg-logo="http://play.wisp.cat:80/logos/113.png" group-title="Твое ТВ (тест)",Думская ТВ HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDumskajaTVHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="reportior" tvg-logo="http://play.wisp.cat:80/logos/81.png" group-title="Твое ТВ (тест)",Репортер Одесса
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FReporterOdessa&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 group-title="Спортивные",Шахтер ТВ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPLUS&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="treti-cifrovoj" tvg-logo="http://play.wisp.cat:80/logos/74.png" group-title="Твое ТВ (тест)",Третий Цифровой Одесса
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTretiycifrovoi&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="strana-sovetov" tvg-logo="http://play.wisp.cat:80/logos/78.png" group-title="Твое ТВ (тест)",Страна советов
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FStranaSovetov&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ua-odesa" tvg-logo="http://play.wisp.cat:80/logos/94.png" group-title="Твое ТВ (тест)",UA: Киев
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOdessaInter&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/93.png" group-title="Твое ТВ (тест)",Первый городской Одесса
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPervijGorodskoyOdessa&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="yuzhnaya-volna" tvg-logo="http://play.wisp.cat:80/logos/58.png" group-title="Твое ТВ (тест)",Южная волна HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FJugvolnaHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tysa1" tvg-logo="http://play.wisp.cat:80/logos/71.png" group-title="Твое ТВ (тест)",UA: Закарпаття
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTisa1&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="7kanal-odessa" tvg-logo="http://play.wisp.cat:80/logos/41.png" group-title="Твое ТВ (тест)",7 канал Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F7kanalUA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="7kanal-odessa" tvg-logo="http://play.wisp.cat:80/logos/42.png" group-title="Твое ТВ (тест)",7 канал HD Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F7kanalHDUA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/90.png" group-title="Твое ТВ (тест)",Рыбалка HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPervijKozatskiy&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="chern-promin" tvg-logo="http://play.wisp.cat:80/logos/67.png" group-title="Твое ТВ (тест)",Чернівецький Промінь HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCherniveckiyProminHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="raiua" tvg-logo="http://play.wisp.cat:80/logos/553.png" group-title="Твое ТВ (тест)",РАІ Івано-Франківськ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRAI&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/748.png" group-title="Твое ТВ (тест)",ТВА Черновцы
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftba&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/741.png" group-title="Твое ТВ (тест)",Первый городской Кривой Рог
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fperviykrivoyrog&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="" tvg-logo="http://play.wisp.cat:80/logos/750.png" group-title="Твое ТВ (тест)",Первый кабельный (Закарпатье)
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fonekabelnyi&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 group-title="Твое ТВ (тест)",ІНШИЙ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Folvia&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ua-podilla" tvg-logo="http://play.wisp.cat:80/logos/994.png" group-title="Твое ТВ (тест)",UA: Волынь
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fpodillyacenter&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="terra" tvg-logo="http://play.wisp.cat:80/logos/70.png" group-title="Твое ТВ (тест)",Терра
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTerra&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="epoque" tvg-logo="http://play.wisp.cat:80/logos/51.png" group-title="Твое ТВ (тест)",Epoque
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEpoque&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="trofey" tvg-logo="http://play.wisp.cat:80/logos/32.png" group-title="Твое ТВ (тест)",Трофей
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTrofey&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="trofey" tvg-logo="http://play.wisp.cat:80/logos/33.png" group-title="Твое ТВ (тест)",Трофей HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTrofeyHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="dacha" tvg-logo="http://play.wisp.cat:80/logos/110.png" group-title="Твое ТВ (тест)",Дача
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDacha&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="dacha" tvg-logo="http://play.wisp.cat:80/logos/45.png" group-title="Твое ТВ (тест)",Дача HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDachaHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="1plus1" tvg-logo="http://play.wisp.cat:80/logos/1559.png" group-title="Твое ТВ (тест)",1+1
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F1plus1&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="1plus1" tvg-logo="http://play.wisp.cat:80/logos/1560.png" group-title="Твое ТВ (тест)",1+1 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F1plus1HD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="1plus1-int" tvg-logo="http://play.wisp.cat:80/logos/1561.png" group-title="Твое ТВ (тест)",1+1 international
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F1plus1intl&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="2plus2" tvg-logo="http://play.wisp.cat:80/logos/1562.png" group-title="Твое ТВ (тест)",2+2
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F2plus2&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="2plus2" tvg-logo="http://play.wisp.cat:80/logos/1563.png" group-title="Твое ТВ (тест)",2+2 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F2plus2HD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ictv-ua" tvg-logo="http://play.wisp.cat:80/logos/1564.png" group-title="Твое ТВ (тест)",ICTV
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FICTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ictv-ua" tvg-logo="http://play.wisp.cat:80/logos/1565.png" group-title="Твое ТВ (тест)",ICTV HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FICTVHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="novy-kanal-ua" tvg-logo="http://play.wisp.cat:80/logos/1566.png" group-title="Твое ТВ (тест)",Новый канал
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNovyKanal&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="novy-kanal-ua" tvg-logo="http://play.wisp.cat:80/logos/1567.png" group-title="Твое ТВ (тест)",Новый канал HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNovyKanalHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="stb-ua" tvg-logo="http://play.wisp.cat:80/logos/1568.png" group-title="Твое ТВ (тест)",СТБ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTB&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="stb-ua" tvg-logo="http://play.wisp.cat:80/logos/1569.png" group-title="Твое ТВ (тест)",СТБ HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTBHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tet-ua" tvg-logo="http://play.wisp.cat:80/logos/1570.png" group-title="Твое ТВ (тест)",ТЕТ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTET&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="tet-ua" tvg-logo="http://play.wisp.cat:80/logos/1571.png" group-title="Твое ТВ (тест)",ТЕТ HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTETHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="m1-ua" tvg-logo="http://play.wisp.cat:80/logos/1572.png" group-title="Твое ТВ (тест)",М1
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM1&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="m1-ua" tvg-logo="http://play.wisp.cat:80/logos/1573.png" group-title="Твое ТВ (тест)",М1 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM1HD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="m2-ua" tvg-logo="http://play.wisp.cat:80/logos/1574.png" group-title="Твое ТВ (тест)",М2
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM2&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="m2-ua" tvg-logo="http://play.wisp.cat:80/logos/1575.png" group-title="Твое ТВ (тест)",М2 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM2HD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="bigudi" tvg-logo="http://play.wisp.cat:80/logos/1576.png" group-title="Твое ТВ (тест)",Бигуди
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBigudi&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="unian-tv" tvg-logo="http://play.wisp.cat:80/logos/1577.png" group-title="Твое ТВ (тест)",Униан
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUnian&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="plusplus" tvg-logo="http://play.wisp.cat:80/logos/1578.png" group-title="Твое ТВ (тест)",Плюс плюс
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPlusPlus&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ukraina24" tvg-logo="http://play.wisp.cat:80/logos/1579.png" group-title="Твое ТВ (тест)",Украина 24
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUkraine24&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ukraina24" tvg-logo="http://play.wisp.cat:80/logos/1580.png" group-title="Твое ТВ (тест)",Украина 24 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUkraine24HD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ukraina" tvg-logo="http://play.wisp.cat:80/logos/1581.png" group-title="Твое ТВ (тест)",Украина
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUkraine&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="ukraina" tvg-logo="http://play.wisp.cat:80/logos/1582.png" group-title="Твое ТВ (тест)",Украина HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUkraineHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="otse" tvg-logo="http://play.wisp.cat:80/logos/1583.png" group-title="Твое ТВ (тест)",ОЦЕ
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOCE&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="otse" tvg-logo="http://play.wisp.cat:80/logos/1584.png" group-title="Твое ТВ (тест)",ОЦЕ HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOCEHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="nlo-tv-ua" tvg-logo="http://play.wisp.cat:80/logos/1585.png" group-title="Твое ТВ (тест)",НЛО
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNLOTV&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="nlo-tv-ua" tvg-logo="http://play.wisp.cat:80/logos/1586.png" group-title="Твое ТВ (тест)",НЛО HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNLOTVHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="indigo-ua" tvg-logo="http://play.wisp.cat:80/logos/1587.png" group-title="Твое ТВ (тест)",Индиго
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIndigo&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="indigo-ua" tvg-logo="http://play.wisp.cat:80/logos/1588.png" group-title="Твое ТВ (тест)",Индиго HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIndigoHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="football1-ua" tvg-logo="http://play.wisp.cat:80/logos/1589.png" group-title="Твое ТВ (тест)",Футбол 1
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFutboll1UA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="football1-ua" tvg-logo="http://play.wisp.cat:80/logos/1590.png" group-title="Твое ТВ (тест)",Футбол 1 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFutboll1UAHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="football2-ua" tvg-logo="http://play.wisp.cat:80/logos/1591.png" group-title="Твое ТВ (тест)",Футбол 2
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFutboll2UA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="football2-ua" tvg-logo="http://play.wisp.cat:80/logos/1592.png" group-title="Твое ТВ (тест)",Футбол 2 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFutboll2UAHD&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="football3-ua" tvg-logo="http://play.wisp.cat:80/logos/1593.png" group-title="Твое ТВ (тест)",Футбол 3
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFutboll3UA&login=hypocrisy&key=pWSZTaJ
+#EXTINF:0 tvg-id="football3-ua" tvg-logo="http://play.wisp.cat:80/logos/1594.png" group-title="Твое ТВ (тест)",Футбол 3 HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFutboll3UAHD&login=hypocrisy&key=pWSZTaJ
