@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
-#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
-#EXTGRP:Общероссийские
+#EXTINF:0 group-title="Российские (общие)" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
+#EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-hd-orig.m3u8
-#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
-#EXTGRP:Общероссийские
+#EXTINF:0 group-title="Российские (общие)" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
+#EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce/rossija-hd-orig.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Российские (общие)
