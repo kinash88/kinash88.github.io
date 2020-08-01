@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
-#EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",Первый канал HD
-#EXTGRP:Российские (общие)
-http://myott.top/stream/8WH42KGIMV/131.m3u8
-#EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",Россия HD
-#EXTGRP:Российские (общие)
-http://myott.top/stream/8WH42KGIMV/137.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
+#EXTGRP:Общероссийские
+http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
+#EXTGRP:Общероссийские
+http://s06.iptvx.tv:8090/s/fa7366ce/rossija-hd-orig.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/134.m3u8
@@ -41,6 +41,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/ctc-kids-hd.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",РЕН ТВ
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/132.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="rentv-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
+#EXTGRP:Российские (общие)
+http://s06.iptvx.tv:8090/s/fa7366ce/rentv-hd-orig.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",МирТВ
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/77.m3u8
