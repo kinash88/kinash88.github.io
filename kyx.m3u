@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
 #EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/pervyj-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
 #EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/rossija-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/rossija-hd-orig.m3u8
 #EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-hd-orig.m3u8
@@ -226,10 +226,10 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/m1-global-hd.m3u8
 http://s06.iptvx.tv:8090/s/fa7366ce_2/xxl-tv.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/pervyj-hd-orig.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/rossija-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/rossija-hd-orig.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-hd-orig.m3u8
@@ -238,13 +238,13 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-hd-orig.m3u8
 http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-mir.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-hit" tvg-logo="https://cbilling.biz/img/streams/ntv-hit.png" tvg-rec="7",НТВ Хит
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/ntv-hit.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-hit.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-style" tvg-logo="https://cbilling.biz/img/streams/ntv-style.png" tvg-rec="7",НТВ Стиль
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/ntv-style.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-style.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-serial" tvg-logo="https://cbilling.biz/img/streams/ntv-serial.png" tvg-rec="7",НТВ Сериал
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/ntv-serial.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ntv-serial.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Право
 #EXTGRP:Российские (общие)
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/743/index.m3u8
@@ -268,16 +268,16 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/ctc-hd-orig.m3u8
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sts-love.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="ctc-kids" tvg-logo="https://cbilling.biz/img/streams/ctc-kids.png" tvg-rec="7",СТС Kids
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/ctc-kids.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ctc-kids.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="ctc-kids-hd" tvg-logo="https://cbilling.biz/img/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/ctc-kids-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ctc-kids-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="ren-tv" tvg-logo="https://cbilling.biz/img/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/ren-tv.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="rentv-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/rentv-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/rentv-hd-orig.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir" tvg-logo="https://cbilling.biz/img/streams/mir.png" tvg-rec="7",Мир
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/mir.m3u8
@@ -286,7 +286,7 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/mir.m3u8
 http://s06.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir-24" tvg-logo="https://cbilling.biz/img/streams/mir-24.png" tvg-rec="7",Мир 24
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/mir-24.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/mir-24.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda" tvg-logo="https://cbilling.biz/img/streams/zvezda.png" tvg-rec="7",Звезда
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/zvezda.m3u8
@@ -307,10 +307,10 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/piatnica.m3u8
 http://s06.iptvx.tv:8090/s/fa7366ce_2/piatnica-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="teledom-hd" tvg-logo="https://cbilling.biz/img/streams/teledom-hd.png" tvg-rec="7",Теледом HD
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/teledom-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/teledom-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="podmoskovje" tvg-logo="https://cbilling.biz/img/streams/podmoskovje.png" tvg-rec="7",Подмосковье
 #EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce/podmoskovje.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/podmoskovje.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="rtvi" tvg-logo="https://cbilling.biz/img/streams/rtvi.png" tvg-rec="7",RTVi
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/rtvi.m3u8
