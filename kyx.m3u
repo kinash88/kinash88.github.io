@@ -6258,3 +6258,639 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/4005/index.m3u8
 #EXTINF:0 tvg-rec="3",Stingray Festival 4K
 #EXTGRP:Резервные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/5006/index.m3u8
+#EXTINF:-1 tvg-id="1147" tvg-name="Первый канал" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_k.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Perviykanal/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Первый канал
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Perviykanal/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="154" tvg-name="Первый канал HD" tvg-logo="http://tvfor.pro/img/images/Chanels/626.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/ORTHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Первый канал HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ORTHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="69" tvg-name="Россия 1" tvg-logo="http://tvfor.pro/img/images/Chanels/rossiya0.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Rossiya1/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Россия 1
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Rossiya1/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="155" tvg-name="Россия 1 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/rossiya_.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RossiyaHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Россия 1 HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RossiyaHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="119" tvg-name="НТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv_ru00.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",НТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="476" tvg-name="НТВ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/ntvhd/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",НТВ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ntvhd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="72" tvg-name="ТНТ" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_ru00.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TNT/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТНТ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TNT/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1055" tvg-name="ТНТ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_ru00.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/tntHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТНТ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/tntHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="66" tvg-name="ТНТ4" tvg-logo="http://tvfor.pro/img/images/Chanels/2068.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/ComedyTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТНТ4
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ComedyTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1215" tvg-name="ТНТ4 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/2068.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/oYREPgjYWS/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТНТ4 HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/oYREPgjYWS/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1090" tvg-name="Супер" tvg-logo="http://tvfor.pro/img/images/Chanels/super-ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Super/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Супер
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Super/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1195" tvg-name="Супер HD" tvg-logo="http://tvfor.pro/img/images/Chanels/super-ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/SuperHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Супер HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/SuperHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="2" tvg-name="СТС" tvg-logo="http://tvfor.pro/img/images/Chanels/sts_mosk.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/STSMoskva/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",СТС
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/STSMoskva/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1303" tvg-name="СТС HD" tvg-logo="http://tvfor.pro/img/images/Chanels/sts_mosk.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/EatoCkwaxE/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",СТС HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/EatoCkwaxE/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="71" tvg-name="Пятница" tvg-logo="http://tvfor.pro/img/images/Chanels/Pyatnica.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Pyatnitsa/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Пятница
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Pyatnitsa/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1123" tvg-name="Пятница HD" tvg-logo="http://tvfor.pro/img/images/Chanels/Pyatnica.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/PyatnicaHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Пятница HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/PyatnicaHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1022" tvg-name="КВН ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/kvn_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KVNTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",КВН ТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KVNTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="181" tvg-name="Че!" tvg-logo="http://tvfor.pro/img/images/Chanels/che_1_195.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Che/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Че!
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Che/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1297" tvg-name="Перец International" tvg-logo="http://tvfor.pro/img/images/Chanels/peretz_tv_ru_international.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/FLmCHoKyKM/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Перец International
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FLmCHoKyKM/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="130" tvg-name="РЕН ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/ren_tv_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RENTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",РЕН ТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RENTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1057" tvg-name="РЕН ТВ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1882.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/rentvhd/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",РЕН ТВ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/rentvhd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="183" tvg-name="Домашний" tvg-logo="http://tvfor.pro/img/images/Chanels/domashnj.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Domashniy/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Домашний
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Domashniy/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1305" tvg-name="Домашний HD" tvg-logo="http://tvfor.pro/img/images/Chanels/domashnj.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/THenUsIBUS/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Домашний HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/THenUsIBUS/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="67" tvg-name="Звезда" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_zvezda_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TelekanalZvezda/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Звезда
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TelekanalZvezda/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1376" tvg-name="Звезда HD" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_zvezda_ru.png" group-title="Shara TV test" catchup-days="0",Звезда HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/BEntErawne/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="157" tvg-name="ТВ 3" tvg-logo="http://tvfor.pro/img/images/Chanels/tv_3_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV3/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТВ 3
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV3/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1300" tvg-name="ТВ 3 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/tv_3_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/fXnigRleHt/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТВ 3 HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/fXnigRleHt/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1167" tvg-name="Дождь" tvg-logo="http://tvfor.pro/img/images/Chanels/dozhd_ru(1).png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Dozd/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Дождь
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Dozd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="753" tvg-name="Дождь HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dozhd_ru(1).png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/dozhd/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Дождь HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/dozhd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1452" tvg-name="Настоящее время HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nastoyashcheye-vremya-cz.png" group-title="Shara TV test" catchup-days="0",Настоящее время HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NIChLOusHa/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="233" tvg-name="5 канал (Россия)" tvg-logo="http://tvfor.pro/img/images/Chanels/kanal5_p.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/5Kanal/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",5 канал (Россия)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/5Kanal/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="236" tvg-name="ТВ Центр" tvg-logo="http://tvfor.pro/img/images/Chanels/tv_centr.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TVCentrMoskva/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ТВ Центр
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TVCentrMoskva/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="502" tvg-name="Сарафан" tvg-logo="http://tvfor.pro/img/images/Chanels/921.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/sarafan/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Сарафан
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/sarafan/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="57" tvg-name="Россия 24" tvg-logo="http://tvfor.pro/img/images/Chanels/rossiya2.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Rossiya24/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Россия 24
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Rossiya24/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="55" tvg-name="Известия ТВ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/izvestiatv-ru.png" group-title="Shara TV test" catchup-days="0",Известия ТВ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/BloombergTVEurope/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="68" tvg-name="Культура" tvg-logo="http://tvfor.pro/img/images/Chanels/rossiya1.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RossiyaK/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Культура
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RossiyaK/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="316" tvg-name="Мир Premium" tvg-logo="http://tvfor.pro/img/images/Chanels/mir_ru00.png" group-title="Shara TV test" catchup-days="0",Мир Premium
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/MirHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="232" tvg-name="Мир 24" tvg-logo="http://tvfor.pro/img/images/Chanels/mir_24_r.png" group-title="Shara TV test" catchup-days="0",Мир 24
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Mir24/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1064" tvg-name="Ю" tvg-logo="http://tvfor.pro/img/images/Chanels/u_tv_ru0.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/U/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Ю
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/U/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="222" tvg-name="Москва-24" tvg-logo="http://tvfor.pro/img/images/Chanels/moskva_2.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Moskva24/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Москва-24
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Moskva24/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="206" tvg-name="360°" tvg-logo="http://tvfor.pro/img/images/Chanels/360_podm.png" group-title="Shara TV test" catchup-days="0",360°
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Podmoskovie/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="169" tvg-name="TDK" tvg-logo="http://tvfor.pro/img/images/Chanels/tdk_ru00.png" group-title="Shara TV test" catchup-days="0",TDK
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TDK/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="63" tvg-name="8 канал (Европа)" tvg-logo="http://tvfor.pro/img/images/Chanels/8kanal_r.png" group-title="Shara TV test" catchup-days="0",8 канал (Европа)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/8/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="756" tvg-name="RTVI" tvg-logo="http://tvfor.pro/img/images/Chanels/756.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RTVInternational/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",RTVI
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RTVInternational/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="531" tvg-name="РЕН ТВ (+2)" tvg-logo="http://tvfor.pro/img/images/Chanels/ren_tv_ru.png" group-title="Shara TV test" catchup-days="0",РЕН ТВ (+2)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/rentv2/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="540" tvg-name="НТВ (+2)" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv_ru.png" group-title="Shara TV test" catchup-days="0",НТВ (+2)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NTV2/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1137" tvg-name="Звезда (+2)" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_zvezda_ru.png" group-title="Shara TV test" catchup-days="0",Звезда (+2)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Zvezdaplusdva/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1299" tvg-name="Первый канал (+2)" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_k.png" group-title="Shara TV test" catchup-days="0",Первый канал (+2)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/fwLTzsmEgZ/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="334" tvg-name="Первый канал (+4)" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_k.png" group-title="Shara TV test" catchup-days="0",Первый канал (+4)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Perviykanalplus4/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="484" tvg-name="Первый канал HD (+4)" tvg-logo="http://tvfor.pro/img/images/Chanels/626.jpg" group-title="Shara TV test" catchup-days="0",Первый канал HD (+4)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/perviykanal4hd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="585" tvg-name="Россия 1 (+4)" tvg-logo="http://tvfor.pro/img/images/Chanels/rossiya0.png" group-title="Shara TV test" catchup-days="0",Россия 1 (+4)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Rossiya14h/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="539" tvg-name="ТНТ (+2)" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_ru00.png" group-title="Shara TV test" catchup-days="0",ТНТ (+2)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TNT2sd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="554" tvg-name="ТНТ (+4)" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_ru00.png" group-title="Shara TV test" catchup-days="0",ТНТ (+4)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TNTplus4/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="343" tvg-name="ТНТ (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_ru00.png" group-title="Shara TV test" catchup-days="0",ТНТ (+7)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TNTplus7/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="479" tvg-name="СТС Love" tvg-logo="http://tvfor.pro/img/images/Chanels/sts_love_ru(1).png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/CTCLove/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",СТС Love
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/CTCLove/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="387" tvg-name="2x2" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_2x2_moskva.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Telekanal2x2/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",2x2
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Telekanal2x2/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="237" tvg-name="РБК" tvg-logo="http://tvfor.pro/img/images/Chanels/rbk_tv_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RBKTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",РБК
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RBKTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="313" tvg-name="RTД" tvg-logo="http://tvfor.pro/img/images/Chanels/rt_espan.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RTDoc/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",RTД
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RTDoc/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="176" tvg-name="Просвещение" tvg-logo="http://tvfor.pro/img/images/Chanels/prosvesh.png" group-title="Shara TV test" catchup-days="0",Просвещение
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Prosveshenie/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="179" tvg-name="Спас ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/spas_ru0.png" group-title="Shara TV test" catchup-days="0",Спас ТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Spas/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1448" tvg-name="Союз" tvg-logo="http://tvfor.pro/img/images/Chanels/soyuz_ru.png" group-title="Shara TV test" catchup-days="0",Союз
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ENsIandUCT/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="82" tvg-name="Интер" tvg-logo="http://tvfor.pro/img/images/Chanels/inter_ua.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Inter/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Интер
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Inter/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="23" tvg-name="К1" tvg-logo="http://tvfor.pro/img/images/Chanels/k1_ua.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/K1/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",К1
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/K1/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="79" tvg-name="К2" tvg-logo="http://tvfor.pro/img/images/Chanels/k2.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/K2/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",К2
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/K2/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="22" tvg-name="НТН" tvg-logo="http://tvfor.pro/img/images/Chanels/ntn_ua.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NTN/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",НТН
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NTN/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="24" tvg-name="UA:Перший HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1477.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/PershiyNacionalniy/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",UA:Перший HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/PershiyNacionalniy/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="16" tvg-name="Zoom" tvg-logo="http://tvfor.pro/img/images/Chanels/zoom_tv_ua.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Zoom/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Zoom
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Zoom/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1189" tvg-name="UA:Культура" tvg-logo="http://tvfor.pro/img/images/Chanels/ua-kultura-ua.png" group-title="Shara TV test" catchup-days="0",UA:Культура
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/UAKultura/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="251" tvg-name="НАШ" tvg-logo="http://tvfor.pro/img/images/Chanels/nash_telekanal.png" group-title="Shara TV test" catchup-days="0",НАШ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/MaxxiTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="116" tvg-name="Прямий HD" tvg-logo="http://tvfor.pro/img/images/Chanels/pryamyy-ua.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TonisHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Прямий HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TonisHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="58" tvg-name="112 Украина" tvg-logo="http://tvfor.pro/img/images/Chanels/112_ukraina.png" group-title="Shara TV test" catchup-days="0",112 Украина
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/112Ukraine/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="213" tvg-name="112 Украина HD" tvg-logo="http://tvfor.pro/img/images/Chanels/112_ukraina.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/112UkraineHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",112 Украина HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/112UkraineHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1265" tvg-name="NewsOne" tvg-logo="http://tvfor.pro/img/images/Chanels/503.jpg" group-title="Shara TV test" catchup-days="0",NewsOne
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TDuZzAbUkg/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="217" tvg-name="NewsOne HD" tvg-logo="http://tvfor.pro/img/images/Chanels/503.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NewsOneChannel/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",NewsOne HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NewsOneChannel/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="272" tvg-name="Еспресо TV" tvg-logo="http://tvfor.pro/img/images/Chanels/2071.jpg" group-title="Shara TV test" catchup-days="0",Еспресо TV
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/EspresoTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="81" tvg-name="5 канал" tvg-logo="http://tvfor.pro/img/images/Chanels/kanal5_u.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/5KanalUkraine/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",5 канал
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/5KanalUkraine/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="60" tvg-name="24 канал HD" tvg-logo="http://tvfor.pro/img/images/Chanels/news24_ua.png" group-title="Shara TV test" catchup-days="0",24 канал HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/News24/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1059" tvg-name="Zik HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1521.jpg" group-title="Shara TV test" catchup-days="0",Zik HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ZikHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1251" tvg-name="Беларусь 1" tvg-logo="http://tvfor.pro/img/images/Chanels/B1.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/yGJlTflUDY/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Беларусь 1
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/yGJlTflUDY/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1252" tvg-name="Беларусь 2" tvg-logo="http://tvfor.pro/img/images/Chanels/B2.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/iqQUGRgZil/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Беларусь 2
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/iqQUGRgZil/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1253" tvg-name="Беларусь 3" tvg-logo="http://tvfor.pro/img/images/Chanels/B3.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/GIZApiwusf/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Беларусь 3
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/GIZApiwusf/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1254" tvg-name="Беларусь 24" tvg-logo="http://tvfor.pro/img/images/Chanels/B24.jpg" group-title="Shara TV test" catchup-days="0",Беларусь 24
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/uogRxEbdAo/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1261" tvg-name="8 Канал Беларусь" tvg-logo="http://tvfor.pro/img/images/Chanels/8.jpg" group-title="Shara TV test" catchup-days="0",8 Канал Беларусь
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/bUYWOYBYKo/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="388" tvg-name="ВТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/388.png" group-title="Shara TV test" catchup-days="0",ВТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/BTB/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1258" tvg-name="ОНТ" tvg-logo="http://tvfor.pro/img/images/Chanels/ONT.jpg" group-title="Shara TV test" catchup-days="0",ОНТ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/bWqmChtpyU/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1259" tvg-name="СТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/STV.jpg" group-title="Shara TV test" catchup-days="0",СТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/WgIFGkceQl/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1256" tvg-name="Белсат" tvg-logo="http://tvfor.pro/img/images/Chanels/Belsat.jpg" group-title="Shara TV test" catchup-days="0",Белсат
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/mHGcZGyYyD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1262" tvg-name="БелРос" tvg-logo="http://tvfor.pro/img/images/Chanels/BelRos.jpg" group-title="Shara TV test" catchup-days="0",БелРос
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/tFbXLvEynG/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="212" tvg-name="ViP Premiere" tvg-logo="http://tvfor.pro/img/images/474.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000PremiumHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ViP Premiere
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000PremiumHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1465" tvg-name="ViP Premiere CEE" tvg-logo="http://tvfor.pro/img/images/474.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/ORTRISTaTe/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ViP Premiere CEE
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ORTRISTaTe/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="211" tvg-name="ViP Comedy" tvg-logo="http://tvfor.pro/img/images/473.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000ComedyHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ViP Comedy
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000ComedyHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1466" tvg-name="ViP Comedy CEE" tvg-logo="http://tvfor.pro/img/images/473.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/LOUNkyStOl/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ViP Comedy CEE
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/LOUNkyStOl/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="208" tvg-name="ViP Megahit" tvg-logo="http://tvfor.pro/img/images/470.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000MegahitHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ViP Megahit
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000MegahitHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1467" tvg-name="ViP Megahit CEE" tvg-logo="http://tvfor.pro/img/images/470.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/lOUSAlfHAn/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",ViP Megahit CEE
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/lOUSAlfHAn/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1206" tvg-name="VIP Serial" tvg-logo="http://tvfor.pro/img/images/Chanels/XJ80F1FSmU.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/VIPSerial/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",VIP Serial
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/VIPSerial/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="459" tvg-name="Премиальное" tvg-logo="http://tvfor.pro/img/images/Chanels/premialnoe.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinopremiumHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Премиальное
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinopremiumHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="87" tvg-name="Кинопремьера HD" tvg-logo="http://tvfor.pro/img/images/Chanels/87.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/HDKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кинопремьера HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/HDKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="85" tvg-name="Киносемья" tvg-logo="http://tvfor.pro/img/images/Chanels/85.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NTVPlusPremiera/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносемья
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NTVPlusPremiera/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1146" tvg-name="Киносемья HD" tvg-logo="http://tvfor.pro/img/images/Chanels/85.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinosemyaHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносемья HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinosemyaHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="33" tvg-name="Кинохит" tvg-logo="http://tvfor.pro/img/images/Chanels/33(1).png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinoHit/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кинохит
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinoHit/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1150" tvg-name="Кинохит HD" tvg-logo="http://tvfor.pro/img/images/Chanels/33(1).png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinohitHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кинохит HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinohitHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1119" tvg-name="Киносвидание" tvg-logo="http://tvfor.pro/img/images/Chanels/34.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinoSvidanie/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносвидание
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinoSvidanie/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1120" tvg-name="Киносвидание HD" tvg-logo="http://tvfor.pro/img/images/Chanels/34.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinoSvidanieHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносвидание HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinoSvidanieHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="32" tvg-name="Киномикс" tvg-logo="http://tvfor.pro/img/images/Chanels/32.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinoPlus/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киномикс
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinoPlus/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1138" tvg-name="Киномикс HD" tvg-logo="http://tvfor.pro/img/images/Chanels/32.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinomixHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киномикс HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinomixHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="29" tvg-name="Кинокомедия" tvg-logo="http://tvfor.pro/img/images/Chanels/29.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KomediaTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кинокомедия
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KomediaTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1240" tvg-name="Кинокомедия HD" tvg-logo="http://tvfor.pro/img/images/Chanels/29.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/wcXeXXCbMq/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кинокомедия HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/wcXeXXCbMq/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1318" tvg-name="Premiere HD 1" tvg-logo="http://tvfor.pro/img/images/Chanels/logo1s.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/STICIPLiCH/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 1
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/STICIPLiCH/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1320" tvg-name="Premiere HD 2" tvg-logo="http://tvfor.pro/img/images/Chanels/logo2s.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/AnghtenSid/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 2
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AnghtenSid/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1321" tvg-name="Premiere HD 3" tvg-logo="http://tvfor.pro/img/images/Chanels/logo3s.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/erTonalter/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 3
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/erTonalter/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1322" tvg-name="Premiere HD 4" tvg-logo="http://tvfor.pro/img/images/Chanels/logo4s.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/loPALumlOf/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 4
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/loPALumlOf/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1330" tvg-name="Хит HD" tvg-logo="http://tvfor.pro/img/images/Chanels/xit.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/EGineYWite/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Хит HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/EGineYWite/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="889" tvg-name="Кинопоказ" tvg-logo="http://tvfor.pro/img/images/Chanels/447.gif" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Kinopokazsd/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кинопоказ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Kinopokazsd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1332" tvg-name="Кинопоказ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_pokaz.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/DumnESIOgr/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Кинопоказ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/DumnESIOgr/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="457" tvg-name="Шокирующее" tvg-logo="http://tvfor.pro/img/images/Chanels/16.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Kinopokaz1HD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Шокирующее
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Kinopokaz1HD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="458" tvg-name="Комедийное" tvg-logo="http://tvfor.pro/img/images/Chanels/2-thumb.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Kinopokaz2HD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Комедийное
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Kinopokaz2HD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1331" tvg-name="Камеди HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kamedi.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/AStoteSPOn/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Камеди HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AStoteSPOn/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1214" tvg-name="Романтичное" tvg-logo="http://tvfor.pro/img/images/Chanels/romantichnoe-ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/zMznVLIwqr/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Романтичное
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/zMznVLIwqr/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1329" tvg-name="Про Любовь HD" tvg-logo="http://tvfor.pro/img/images/Chanels/pro_lubov.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/tiStIANESC/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Про Любовь HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/tiStIANESC/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1213" tvg-name="TV3 Film HD" tvg-logo="http://tvfor.pro/img/images/Chanels/tv3film(1).png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/FkshGftSRl/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV3 Film HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FkshGftSRl/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="153" tvg-name="TV1000" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_w.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000East/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000East/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1113" tvg-name="TV1000 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_w.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000HD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000HD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="4" tvg-name="TV1000 Action" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_x.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000ActionEast/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 Action
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000ActionEast/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1112" tvg-name="TV1000 Action HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_x.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000ActionHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 Action HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000ActionHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1453" tvg-name="TV1000 Action CEE HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_x.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/lEaSPOloiN/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 Action CEE HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/lEaSPOloiN/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1118" tvg-name="TV1000 World Kino" tvg-logo="http://tvfor.pro/img/images/Chanels/1020.gif" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000WorldKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 World Kino
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000WorldKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="7" tvg-name="TV1000 Русское кино" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_y.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000RusskoeKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 Русское кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000RusskoeKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1114" tvg-name="TV1000 Русское кино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_y.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV1000RussianHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",TV1000 Русское кино HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TV1000RussianHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="548" tvg-name="Мужское кино" tvg-logo="http://tvfor.pro/img/images/Chanels/548.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/MujskoeKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Мужское кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/MujskoeKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1070" tvg-name="Мужское кино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/548.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/MuzhskoeKinoHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Мужское кино HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/MuzhskoeKinoHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1328" tvg-name="Наше Мужское HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nashe_muzhkoe.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/equitEDThy/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Наше Мужское HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/equitEDThy/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="380" tvg-name="Остросюжетное HD" tvg-logo="http://tvfor.pro/img/images/Chanels/ostrosuzhetnoe.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/ostHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Остросюжетное HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ostHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1327" tvg-name="Блокбастер HD" tvg-logo="http://tvfor.pro/img/images/Chanels/blok_baster.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/uLtArDiNkM/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Блокбастер HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/uLtArDiNkM/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1302" tvg-name="Киноужас HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kinouzas.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/toRsIsiOnf/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киноужас HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/toRsIsiOnf/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1473" tvg-name="Trash HD" tvg-logo="http://tvfor.pro/img/images/Chanels/trash.png" group-title="Shara TV test" catchup-days="0",Trash HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FiXTRUBARB/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1154" tvg-name="Ultra HD Cinema" tvg-logo="http://tvfor.pro/img/images/Chanels/UHDC(1).jpg" group-title="Shara TV test" catchup-days="0",Ultra HD Cinema
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/UltraHDCinema/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1273" tvg-name="Кино UHD" tvg-logo="http://tvfor.pro/img/images/Chanels/kino-uhd-ru.png" group-title="Shara TV test" catchup-days="0",Кино UHD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/shzTtpAAyc/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1272" tvg-name="Сериал UHD" tvg-logo="http://tvfor.pro/img/images/Chanels/serial-uhd-ru.png" group-title="Shara TV test" catchup-days="0",Сериал UHD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/CrNaGXLBCv/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="31" tvg-name="Родное кино" tvg-logo="http://tvfor.pro/img/images/Chanels/31.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NasheKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Родное кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NasheKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="164" tvg-name="Дом кино" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_2.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/DomKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Дом кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/DomKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="547" tvg-name="Дом кино Премиум HD" tvg-logo="http://tvfor.pro/img/images/Chanels/14587_1.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/DomKinoPremiumHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Дом кино Премиум HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/DomKinoPremiumHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1033" tvg-name="Кино ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_tv_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinoTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кино ТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinoTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="628" tvg-name="Кино ТВ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_tv_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/KinoTVHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Кино ТВ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/KinoTVHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="732" tvg-name="FilmBox" tvg-logo="http://tvfor.pro/img/images/Chanels/filmbox_central_eu.png" group-title="Shara TV test" catchup-days="0",FilmBox
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FilmBox/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="733" tvg-name="FilmBox Arthouse" tvg-logo="http://tvfor.pro/img/images/Chanels/filmbox_arthouse_pl.png" group-title="Shara TV test" catchup-days="0",FilmBox Arthouse
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FilmBoxArthouse/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1192" tvg-name="Киносат" tvg-logo="http://tvfor.pro/img/images/Chanels/kinosat.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Kinosat/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносат
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Kinosat/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="83" tvg-name="Русский Иллюзион" tvg-logo="http://tvfor.pro/img/images/Chanels/russkij_.png" group-title="Shara TV test" catchup-days="0",Русский Иллюзион
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RussianIllusion/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1351" tvg-name="Русский Иллюзион HD" tvg-logo="http://tvfor.pro/img/images/Chanels/russkiy_illusion_ru.png" group-title="Shara TV test" catchup-days="0",Русский Иллюзион HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ioNapENsen/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1350" tvg-name="Иллюзион+ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/illusion_plus.png" group-title="Shara TV test" catchup-days="0",Иллюзион+ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/pTiveRICtI/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="84" tvg-name="Наше Новое Кино" tvg-logo="http://tvfor.pro/img/images/Chanels/84.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NasheNovoeKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Наше Новое Кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NasheNovoeKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1207" tvg-name="Наше Новое Кино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/84.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NasheNovoeKinoHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Наше Новое Кино HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NasheNovoeKinoHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="391" tvg-name="Любимое кино" tvg-logo="http://tvfor.pro/img/images/Chanels/lubimoe_kino.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NasheLubimoeKino/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Любимое кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NasheLubimoeKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1241" tvg-name="Победа" tvg-logo="http://tvfor.pro/img/images/Chanels/428x280.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/cGQJccUzNj/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Победа
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/cGQJccUzNj/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1334" tvg-name="День победы" tvg-logo="http://tvfor.pro/img/images/Chanels/den_pobedi.png" group-title="Shara TV test" catchup-days="0",День победы
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/wioSowKrOD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1308" tvg-name="Арсенал" tvg-logo="http://tvfor.pro/img/images/Chanels/arsenal.png" group-title="Shara TV test" catchup-days="0",Арсенал
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/nQUIDEfEaN/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1116" tvg-name="Любимое" tvg-logo="http://tvfor.pro/img/images/Chanels/lubimoe.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NasheLubimoeHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Любимое
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NasheLubimoeHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="335" tvg-name="Русский роман" tvg-logo="http://tvfor.pro/img/images/Chanels/russkiy_roman.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/rusroman/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Русский роман
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/rusroman/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1004" tvg-name="Русский роман HD" tvg-logo="http://tvfor.pro/img/images/Chanels/russkiy_roman.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RusskiyRomanHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Русский роман HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RusskiyRomanHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="560" tvg-name="Русский Детектив" tvg-logo="http://tvfor.pro/img/images/Chanels/12454_1.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RusskiyDetektiv/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Русский Детектив
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RusskiyDetektiv/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="336" tvg-name="Русский бестселлер" tvg-logo="http://tvfor.pro/img/images/Chanels/russkiy_bestseller_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/rusbestler/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Русский бестселлер
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/rusbestler/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="379" tvg-name="Наше Крутое" tvg-logo="http://tvfor.pro/img/images/Chanels/184x140.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/semHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Наше Крутое
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/semHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1326" tvg-name="Наш Кинопоказ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nash_kino_pokaz.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/eRYlaCItAR/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Наш Кинопоказ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/eRYlaCItAR/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="65" tvg-name="Киносерия" tvg-logo="http://tvfor.pro/img/images/Chanels/65.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/MnogoTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносерия
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/MnogoTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1242" tvg-name="Киносерия HD" tvg-logo="http://tvfor.pro/img/images/Chanels/65.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/xEwBTXNyfZ/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Киносерия HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/xEwBTXNyfZ/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="460" tvg-name="Наш Кинороман HD" tvg-logo="http://tvfor.pro/img/images/Chanels/460.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/nasheHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Наш Кинороман HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/nasheHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="624" tvg-name="Мир сериала" tvg-logo="http://tvfor.pro/img/images/Chanels/1112.jpg" group-title="Shara TV test" catchup-days="0",Мир сериала
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/mirserialov/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1375" tvg-name="НТВ Хит" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv-hit-ru.png" group-title="Shara TV test" catchup-days="0",НТВ Хит
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ARGENapoTI/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1072" tvg-name="НТВ Сериал" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv_ru_serial.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/NTVSerial/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",НТВ Сериал
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NTVSerial/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1073" tvg-name="Феникс+ Кино" tvg-logo="http://tvfor.pro/img/images/Chanels/325.jpg" group-title="Shara TV test" catchup-days="0",Феникс+ Кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/HorosheeKino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1346" tvg-name="Star Cinema HD" tvg-logo="http://tvfor.pro/img/images/Chanels/star-cinema-ua.png" group-title="Shara TV test" catchup-days="0",Star Cinema HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/aNsitiCane/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1347" tvg-name="Star Family HD" tvg-logo="http://tvfor.pro/img/images/Chanels/star-family-ua.png" group-title="Shara TV test" catchup-days="0",Star Family HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AchROSibrA/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="267" tvg-name="A1" tvg-logo="http://tvfor.pro/img/images/Chanels/57.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Amedia1/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",A1
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Amedia1/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1342" tvg-name="A1 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_1.png" group-title="Shara TV test" catchup-days="0",A1 HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AncUbjEWAY/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="268" tvg-name="A2" tvg-logo="http://tvfor.pro/img/images/Chanels/58.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/Amedia2/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",A2
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Amedia2/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1343" tvg-name="A2 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_2.png" group-title="Shara TV test" catchup-days="0",A2 HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NCemICUMUt/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="269" tvg-name="Amedia Premium" tvg-logo="http://tvfor.pro/img/images/Chanels/amedia_r.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/AmediaPremium/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Amedia Premium
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AmediaPremium/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="241" tvg-name="Amedia Premium HD" tvg-logo="http://tvfor.pro/img/images/Chanels/amedia_r.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/AmediaPremiumHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Amedia Premium HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AmediaPremiumHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="350" tvg-name="Amedia Hit" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_hit.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/AMEDIAHIT/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Amedia Hit
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AMEDIAHIT/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="892" tvg-name="Amedia HIT HD" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_hit.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/AMEDIAHITHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Amedia HIT HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/AMEDIAHITHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1372" tvg-name="Film Zone HD" tvg-logo="http://tvfor.pro/img/images/Chanels/filmzone.png" group-title="Shara TV test" catchup-days="0",Film Zone HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ThiNgiMaCk/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1373" tvg-name="Film Zone+ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/filmzone_plus.png" group-title="Shara TV test" catchup-days="0",Film Zone+ HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ITICARYOKE/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1048" tvg-name="Sony Channel HD" tvg-logo="http://tvfor.pro/img/images/Chanels/710.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/SETRussiaHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Sony Channel HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/SETRussiaHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="207" tvg-name="SONY SCI-FI" tvg-logo="http://tvfor.pro/img/images/Chanels/sony_scifi_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/SonySci_FiRussia/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",SONY SCI-FI
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/SonySci_FiRussia/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="274" tvg-name="Sony Turbo" tvg-logo="http://tvfor.pro/img/images/Chanels/sony_turbo_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/SonyTurbo/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Sony Turbo
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/SonyTurbo/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="61" tvg-name="Hollywood" tvg-logo="http://tvfor.pro/img/images/Chanels/8ZtbHvXgkb.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/TheMGMChannelEastEurope/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Hollywood
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TheMGMChannelEastEurope/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="147" tvg-name="Hollywood HD" tvg-logo="http://tvfor.pro/img/images/Chanels/8ZtbHvXgkb.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/MGMHDRussia/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Hollywood HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/MGMHDRussia/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="501" tvg-name="Cinema" tvg-logo="http://tvfor.pro/img/images/Chanels/296.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/parkrazvlicheniy/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Cinema
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/parkrazvlicheniy/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1260" tvg-name="Cinema (Космос ТВ)" tvg-logo="http://tvfor.pro/img/images/Chanels/CKTV.jpg" group-title="Shara TV test" catchup-days="0",Cinema (Космос ТВ)
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/YIcBFpiMre/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1074" tvg-name="Spike" tvg-logo="http://tvfor.pro/img/images/Chanels/2229.jpg" group-title="Shara TV test" catchup-days="0",Spike
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Spike/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1162" tvg-name="Spike HD" tvg-logo="http://tvfor.pro/img/images/Chanels/2229.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/SpikeHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Spike HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/SpikeHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="38" tvg-name="FOX" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_glob.png" group-title="Shara TV test" catchup-days="0",FOX
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FoxCrimeRussia/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="421" tvg-name="Fox HD" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_hd_lam.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/FoxHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Fox HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FoxHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="37" tvg-name="Fox Life" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_life.png" group-title="Shara TV test" catchup-days="0",Fox Life
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FoxLifeRussia/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="422" tvg-name="Fox Life HD" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_life_global.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/FOXLifeHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Fox Life HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/FOXLifeHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="863" tvg-name="Paramount Channel" tvg-logo="http://tvfor.pro/img/images/Chanels/paramount_channel_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/ParamountchannelHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Paramount Channel
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ParamountchannelHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="526" tvg-name="Paramount Channel HD" tvg-logo="http://tvfor.pro/img/images/Chanels/paramount_channel_ru.png" group-title="Shara TV test" catchup-days="0",Paramount Channel HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ParamountHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="168" tvg-name="Paramount Comedy" tvg-logo="http://tvfor.pro/img/images/Chanels/paramoun.png" group-title="Shara TV test" catchup-days="0",Paramount Comedy
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ParamountComedyRussia/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1063" tvg-name="Paramount Comedy HD" tvg-logo="http://tvfor.pro/img/images/Chanels/2175.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/paramountcomedyhd/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Paramount Comedy HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/paramountcomedyhd/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1030" tvg-name="Комедия" tvg-logo="http://tvfor.pro/img/images/Chanels/russkaya_komediya_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RussianComedy/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Комедия
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RussianComedy/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="30" tvg-name="TV XXI" tvg-logo="http://tvfor.pro/img/images/Chanels/tv21_lv0.png" group-title="Shara TV test" catchup-days="0",TV XXI
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/TVXXI/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="215" tvg-name="Shot TV" tvg-logo="http://tvfor.pro/img/images/Chanels/shot-tv-ru.png" group-title="Shara TV test" catchup-days="0",Shot TV
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/EgoistTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1345" tvg-name="Shot TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/shot-tv-ru.png" group-title="Shara TV test" catchup-days="0",Shot TV HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/bRotHEliTa/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1359" tvg-name="FAN HD" tvg-logo="http://tvfor.pro/img/images/Chanels/fan-ru.png" group-title="Shara TV test" catchup-days="0",FAN HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/iNgENTicAl/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="277" tvg-name="Настоящее страшное ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/nastoyashee_strashnoe_tv_ru.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/RealScaryTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Настоящее страшное ТВ
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/RealScaryTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="452" tvg-name="Страшное HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1415773522_34567.jpg" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/StrashnoeHD/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="5" timeshift="5",Страшное HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/StrashnoeHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="28" tvg-name="Индийское кино" tvg-logo="http://tvfor.pro/img/images/Chanels/28.png" group-title="Shara TV test" catchup="default" catchup-source="http://vandijk.tvfor.pro/IndiaTV/pdx7rsb9q2z5q04a8en2hqrv?utc=${start}" catchup-days="3" timeshift="3",Индийское кино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/IndiaTV/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1008" tvg-name="Bollywood HD" tvg-logo="http://tvfor.pro/img/images/Chanels/bollywood_ru_hd.png" group-title="Shara TV test" catchup-days="0",Bollywood HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/BollywoodTVHD/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="18" tvg-name="Enter-фильм" tvg-logo="http://tvfor.pro/img/images/Chanels/enter_film.png" group-title="Shara TV test" catchup-days="0",Enter-фильм
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/EnterFilm/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="26" tvg-name="Еврокино" tvg-logo="http://tvfor.pro/img/images/Chanels/eurokino.png" group-title="Shara TV test" catchup-days="0",Еврокино
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/Eurokino/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1349" tvg-name="Еврокино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/eurokino.png" group-title="Shara TV test" catchup-days="0",Еврокино HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/tEfIShenet/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1344" tvg-name="Epic Drama HD" tvg-logo="http://tvfor.pro/img/images/Chanels/epic-drama-se.png" group-title="Shara TV test" catchup-days="0",Epic Drama HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/NcONaVAner/pdx7rsb9q2z5q04a8en2hqrv
+#EXTINF:-1 tvg-id="1348" tvg-name="Дорама HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dorama-uk.png" group-title="Shara TV test" catchup-days="0",Дорама HD
+#EXTGRP:Shara TV test
+http://vandijk.tvfor.pro/ERsEAnaRIC/pdx7rsb9q2z5q04a8en2hqrv
