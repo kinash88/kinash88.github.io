@@ -9750,3 +9750,647 @@ https://o.yablo.tv:443/live/u.70640.3d4a545a4bf3eabb988bb5a927d07a4dd4/russnight
 https://o.yablo.tv:443/live/u.70640.3d4a545a4bf3eabb988bb5a927d07a4dd4/satisfactionHD/video.m3u8
 #EXTINF:0 group-title="IPS HLS test" catchup="shift" catchup-days="0",AST 2 HD
 https://o.yablo.tv:443/live/u.70640.3d4a545a4bf3eabb988bb5a927d07a4dd4/ast2_xxx/video.m3u8
+#EXTINF:1 group-title="OMEGA TV test",Интер
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/110/stream.m3u8
+#EXTINF:2 group-title="OMEGA TV test",НТН
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/129/stream.m3u8
+#EXTINF:3 group-title="OMEGA TV test",1+1
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/51/stream.m3u8
+#EXTINF:4 group-title="OMEGA TV test",1+1 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/124/stream.m3u8
+#EXTINF:5 group-title="OMEGA TV test",СТБ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/145/stream.m3u8
+#EXTINF:6 group-title="OMEGA TV test",СТБ HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4592/stream.m3u8
+#EXTINF:7 group-title="OMEGA TV test",Україна
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/158/stream.m3u8
+#EXTINF:8 group-title="OMEGA TV test",Україна HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4613/stream.m3u8
+#EXTINF:9 group-title="OMEGA TV test",ICTV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/73/stream.m3u8
+#EXTINF:10 group-title="OMEGA TV test",ICTV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4305/stream.m3u8
+#EXTINF:11 group-title="OMEGA TV test",2+2
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/57/stream.m3u8
+#EXTINF:12 group-title="OMEGA TV test",2+2 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3305/stream.m3u8
+#EXTINF:13 group-title="OMEGA TV test",К1
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/113/stream.m3u8
+#EXTINF:14 group-title="OMEGA TV test",Новый канал
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/127/stream.m3u8
+#EXTINF:15 group-title="OMEGA TV test",Новый канал HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4607/stream.m3u8
+#EXTINF:16 group-title="OMEGA TV test",UA:Перший
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/87/stream.m3u8
+#EXTINF:17 group-title="OMEGA TV test",UA: Культура
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/117/stream.m3u8
+#EXTINF:18 group-title="OMEGA TV test",Рада
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/139/stream.m3u8
+#EXTINF:20 group-title="OMEGA TV test",Украина 24 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/396/stream.m3u8
+#EXTINF:21 group-title="OMEGA TV test",Прямий
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3612/stream.m3u8
+#EXTINF:22 group-title="OMEGA TV test",Прямий HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3615/stream.m3u8
+#EXTINF:23 group-title="OMEGA TV test",112 Україна
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/53/stream.m3u8
+#EXTINF:24 group-title="OMEGA TV test",112 Украина HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/451/stream.m3u8
+#EXTINF:25 group-title="OMEGA TV test",TV 1000
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/311/stream.m3u8
+#EXTINF:26 group-title="OMEGA TV test",TV 1000 Action HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/308/stream.m3u8
+#EXTINF:27 group-title="OMEGA TV test",TV 1000 World kino
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3684/stream.m3u8
+#EXTINF:28 group-title="OMEGA TV test",ViP Comedy SD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4000/stream.m3u8
+#EXTINF:29 group-title="OMEGA TV test",ViP Comedy HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/309/stream.m3u8
+#EXTINF:30 group-title="OMEGA TV test",ViP Megahit SD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4003/stream.m3u8
+#EXTINF:31 group-title="OMEGA TV test",ViP Megahit HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3981/stream.m3u8
+#EXTINF:32 group-title="OMEGA TV test",ViP Premiere SD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4001/stream.m3u8
+#EXTINF:33 group-title="OMEGA TV test",ViP Premiere HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3980/stream.m3u8
+#EXTINF:34 group-title="OMEGA TV test",Sony Channel
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4048/stream.m3u8
+#EXTINF:35 group-title="OMEGA TV test",Sony Sci-Fi
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/292/stream.m3u8
+#EXTINF:36 group-title="OMEGA TV test",Sony Turbo
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/293/stream.m3u8
+#EXTINF:37 group-title="OMEGA TV test",Paramount Comedy
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3910/stream.m3u8
+#EXTINF:38 group-title="OMEGA TV test",TLC
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/301/stream.m3u8
+#EXTINF:39 group-title="OMEGA TV test",ТЕТ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/150/stream.m3u8
+#EXTINF:40 group-title="OMEGA TV test",ТЕТ HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3303/stream.m3u8
+#EXTINF:41 group-title="OMEGA TV test",Індиго TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/109/stream.m3u8
+#EXTINF:42 group-title="OMEGA TV test",Індиго TV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4595/stream.m3u8
+#EXTINF:43 group-title="OMEGA TV test",НЛО TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/126/stream.m3u8
+#EXTINF:44 group-title="OMEGA TV test",НЛО TV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4604/stream.m3u8
+#EXTINF:45 group-title="OMEGA TV test",Оце
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3593/stream.m3u8
+#EXTINF:46 group-title="OMEGA TV test",Оце HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4610/stream.m3u8
+#EXTINF:47 group-title="OMEGA TV test",Квартал TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3603/stream.m3u8
+#EXTINF:48 group-title="OMEGA TV test",Сонце
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/141/stream.m3u8
+#EXTINF:49 group-title="OMEGA TV test",Плюс Плюс
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/136/stream.m3u8
+#EXTINF:50 group-title="OMEGA TV test",Пиксель
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/135/stream.m3u8
+#EXTINF:51 group-title="OMEGA TV test",Nickelodeon
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/280/stream.m3u8
+#EXTINF:52 group-title="OMEGA TV test",Nickelodeon HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/278/stream.m3u8
+#EXTINF:54 group-title="OMEGA TV test",NIKI Junior HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3621/stream.m3u8
+#EXTINF:56 group-title="OMEGA TV test",NIKI Kids HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3624/stream.m3u8
+#EXTINF:57 group-title="OMEGA TV test",Viasat Explore
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/322/stream.m3u8
+#EXTINF:58 group-title="OMEGA TV test",Viasat History
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/327/stream.m3u8
+#EXTINF:59 group-title="OMEGA TV test",Viasat Nature
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/328/stream.m3u8
+#EXTINF:60 group-title="OMEGA TV test",Viasat Nature/History HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/329/stream.m3u8
+#EXTINF:61 group-title="OMEGA TV test",Discovery Channel
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/210/stream.m3u8
+#EXTINF:62 group-title="OMEGA TV test",Discovery Channel HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4709/stream.m3u8
+#EXTINF:63 group-title="OMEGA TV test",Discovery Science HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/206/stream.m3u8
+#EXTINF:64 group-title="OMEGA TV test",ID Investigation Discovery HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/254/stream.m3u8
+#EXTINF:65 group-title="OMEGA TV test",Travel channel HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/307/stream.m3u8
+#EXTINF:66 group-title="OMEGA TV test",Animal planet
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/174/stream.m3u8
+#EXTINF:67 group-title="OMEGA TV test",Animal planet HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4706/stream.m3u8
+#EXTINF:68 group-title="OMEGA TV test",Мега
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/123/stream.m3u8
+#EXTINF:69 group-title="OMEGA TV test",Travel&Adventure
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4059/stream.m3u8
+#EXTINF:70 group-title="OMEGA TV test",Travel&Adventure HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/574/stream.m3u8
+#EXTINF:71 group-title="OMEGA TV test",Футбол 3
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4204/stream.m3u8
+#EXTINF:72 group-title="OMEGA TV test",Setanta Sport UA
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4314/stream.m3u8
+#EXTINF:73 group-title="OMEGA TV test",Viasat Sport HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/330/stream.m3u8
+#EXTINF:74 group-title="OMEGA TV test",Eurosport 1
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/216/stream.m3u8
+#EXTINF:75 group-title="OMEGA TV test",Eurosport 1 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/217/stream.m3u8
+#EXTINF:76 group-title="OMEGA TV test",Eurosport 2
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/218/stream.m3u8
+#EXTINF:77 group-title="OMEGA TV test",Трофей
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/156/stream.m3u8
+#EXTINF:78 group-title="OMEGA TV test",Трофей HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/554/stream.m3u8
+#EXTINF:79 group-title="OMEGA TV test",XSport
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/576/stream.m3u8
+#EXTINF:80 group-title="OMEGA TV test",XSport HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3999/stream.m3u8
+#EXTINF:81 group-title="OMEGA TV test",М1
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/119/stream.m3u8
+#EXTINF:82 group-title="OMEGA TV test",М1 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4598/stream.m3u8
+#EXTINF:83 group-title="OMEGA TV test",М2
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/120/stream.m3u8
+#EXTINF:84 group-title="OMEGA TV test",М2 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4601/stream.m3u8
+#EXTINF:85 group-title="OMEGA TV test",Music 4EVER
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3974/stream.m3u8
+#EXTINF:86 group-title="OMEGA TV test",Music 4EVER HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3987/stream.m3u8
+#EXTINF:87 group-title="OMEGA TV test",MusicBox UA
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/76/stream.m3u8
+#EXTINF:88 group-title="OMEGA TV test",MusicBox HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/419/stream.m3u8
+#EXTINF:89 group-title="OMEGA TV test",EU Music
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/70/stream.m3u8
+#EXTINF:90 group-title="OMEGA TV test",EU Music HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/570/stream.m3u8
+#EXTINF:91 group-title="OMEGA TV test",Enter-фільм
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/56/stream.m3u8
+#EXTINF:92 group-title="OMEGA TV test",Epic Drama
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3912/stream.m3u8
+#EXTINF:93 group-title="OMEGA TV test",Spike
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4057/stream.m3u8
+#EXTINF:94 group-title="OMEGA TV test",AMC
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4248/stream.m3u8
+#EXTINF:95 group-title="OMEGA TV test",Film.Ua Drama
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/71/stream.m3u8
+#EXTINF:96 group-title="OMEGA TV test",Star Cinema
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3703/stream.m3u8
+#EXTINF:97 group-title="OMEGA TV test",Star Cinema HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3925/stream.m3u8
+#EXTINF:98 group-title="OMEGA TV test",Star Family
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3687/stream.m3u8
+#EXTINF:99 group-title="OMEGA TV test",Star Family HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3996/stream.m3u8
+#EXTINF:100 group-title="OMEGA TV test",Болт
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3690/stream.m3u8
+#EXTINF:101 group-title="OMEGA TV test",Болт HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3963/stream.m3u8
+#EXTINF:102 group-title="OMEGA TV test",Бігуді
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/96/stream.m3u8
+#EXTINF:103 group-title="OMEGA TV test",Kino1
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3654/stream.m3u8
+#EXTINF:104 group-title="OMEGA TV test",Дорама HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4247/stream.m3u8
+#EXTINF:105 group-title="OMEGA TV test",FilmBox
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/400/stream.m3u8
+#EXTINF:106 group-title="OMEGA TV test",ZEE TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/577/stream.m3u8
+#EXTINF:109 group-title="OMEGA TV test",Наше любимое кино
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/402/stream.m3u8
+#EXTINF:110 group-title="OMEGA TV test",Малятко TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/121/stream.m3u8
+#EXTINF:111 group-title="OMEGA TV test",Детский мир
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/337/stream.m3u8
+#EXTINF:112 group-title="OMEGA TV test",Duck TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/213/stream.m3u8
+#EXTINF:113 group-title="OMEGA TV test",Duck TV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/214/stream.m3u8
+#EXTINF:114 group-title="OMEGA TV test",Lale
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/74/stream.m3u8
+#EXTINF:115 group-title="OMEGA TV test",Nick Jr
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/277/stream.m3u8
+#EXTINF:116 group-title="OMEGA TV test",English Club TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/69/stream.m3u8
+#EXTINF:117 group-title="OMEGA TV test",English Club HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3959/stream.m3u8
+#EXTINF:118 group-title="OMEGA TV test",Da Vinci Learning UA
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/201/stream.m3u8
+#EXTINF:119 group-title="OMEGA TV test",SEA TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3696/stream.m3u8
+#EXTINF:120 group-title="OMEGA TV test",SEA TV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4251/stream.m3u8
+#EXTINF:121 group-title="OMEGA TV test",Телеканал 36.6
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4241/stream.m3u8
+#EXTINF:122 group-title="OMEGA TV test",Телеканал 36.6 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4721/stream.m3u8
+#EXTINF:123 group-title="OMEGA TV test",Дача
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/105/stream.m3u8
+#EXTINF:124 group-title="OMEGA TV test",Дача HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/454/stream.m3u8
+#EXTINF:125 group-title="OMEGA TV test",Наука
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3597/stream.m3u8
+#EXTINF:126 group-title="OMEGA TV test",Терра
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/562/stream.m3u8
+#EXTINF:127 group-title="OMEGA TV test",Фауна
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/2387/stream.m3u8
+#EXTINF:128 group-title="OMEGA TV test",Epoque
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4216/stream.m3u8
+#EXTINF:129 group-title="OMEGA TV test",DocuBox HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/211/stream.m3u8
+#EXTINF:134 group-title="OMEGA TV test",Перший автомобільний
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/131/stream.m3u8
+#EXTINF:135 group-title="OMEGA TV test",Перший автомобільний HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3988/stream.m3u8
+#EXTINF:136 group-title="OMEGA TV test",MostVideo TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/571/stream.m3u8
+#EXTINF:137 group-title="OMEGA TV test",Sport1 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3930/stream.m3u8
+#EXTINF:138 group-title="OMEGA TV test",FightBox HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/230/stream.m3u8
+#EXTINF:139 group-title="OMEGA TV test",Спорт 1
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/143/stream.m3u8
+#EXTINF:140 group-title="OMEGA TV test",Спорт 2
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/144/stream.m3u8
+#EXTINF:141 group-title="OMEGA TV test",Sport 1 Baltic
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3657/stream.m3u8
+#EXTINF:142 group-title="OMEGA TV test",Sport 2 Baltic
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3660/stream.m3u8
+#EXTINF:143 group-title="OMEGA TV test",Nautical Channel HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4245/stream.m3u8
+#EXTINF:148 group-title="OMEGA TV test",OTV Music
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/458/stream.m3u8
+#EXTINF:149 group-title="OMEGA TV test",НАШЕ HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3699/stream.m3u8
+#EXTINF:150 group-title="OMEGA TV test",НАШЕ Music HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/550/stream.m3u8
+#EXTINF:151 group-title="OMEGA TV test",Етно Канал HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/456/stream.m3u8
+#EXTINF:152 group-title="OMEGA TV test",MTV Club
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/264/stream.m3u8
+#EXTINF:153 group-title="OMEGA TV test",MTV Europe
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/265/stream.m3u8
+#EXTINF:154 group-title="OMEGA TV test",MTV Live HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/267/stream.m3u8
+#EXTINF:155 group-title="OMEGA TV test",MTV Rocks
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/268/stream.m3u8
+#EXTINF:156 group-title="OMEGA TV test",MTV Hits
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/266/stream.m3u8
+#EXTINF:157 group-title="OMEGA TV test",VH1 Classic
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/320/stream.m3u8
+#EXTINF:158 group-title="OMEGA TV test",VH1 Europe
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/321/stream.m3u8
+#EXTINF:159 group-title="OMEGA TV test",К2
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/114/stream.m3u8
+#EXTINF:160 group-title="OMEGA TV test",Zoom
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/94/stream.m3u8
+#EXTINF:161 group-title="OMEGA TV test",Навигатор ТВ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4236/stream.m3u8
+#EXTINF:162 group-title="OMEGA TV test",Телевсесвіт
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/560/stream.m3u8
+#EXTINF:163 group-title="OMEGA TV test",Телевсесвіт HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/561/stream.m3u8
+#EXTINF:164 group-title="OMEGA TV test",Quiz
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4289/stream.m3u8
+#EXTINF:165 group-title="OMEGA TV test",Fashion TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/226/stream.m3u8
+#EXTINF:166 group-title="OMEGA TV test",HDFASHION&LIFESTYLE
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/72/stream.m3u8
+#EXTINF:167 group-title="OMEGA TV test",ID FASHION
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3642/stream.m3u8
+#EXTINF:168 group-title="OMEGA TV test",Odessa Fashion Channel
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4213/stream.m3u8
+#EXTINF:169 group-title="OMEGA TV test",Правда ТУТ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/137/stream.m3u8
+#EXTINF:170 group-title="OMEGA TV test",Правда ТУТ HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3985/stream.m3u8
+#EXTINF:171 group-title="OMEGA TV test",Еко ТБ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/165/stream.m3u8
+#EXTINF:172 group-title="OMEGA TV test",Глас
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/101/stream.m3u8
+#EXTINF:173 group-title="OMEGA TV test",Надія
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/125/stream.m3u8
+#EXTINF:174 group-title="OMEGA TV test",Сварожичи
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4406/stream.m3u8
+#EXTINF:175 group-title="OMEGA TV test",Genuine TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4311/stream.m3u8
+#EXTINF:176 group-title="OMEGA TV test",UATV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/91/stream.m3u8
+#EXTINF:177 group-title="OMEGA TV test",Канал 24
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/54/stream.m3u8
+#EXTINF:178 group-title="OMEGA TV test",Канал 24 HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3965/stream.m3u8
+#EXTINF:179 group-title="OMEGA TV test",NewsOne
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/77/stream.m3u8
+#EXTINF:180 group-title="OMEGA TV test",NewsOne HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3609/stream.m3u8
+#EXTINF:181 group-title="OMEGA TV test",УНІАН
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/159/stream.m3u8
+#EXTINF:182 group-title="OMEGA TV test",5 канал
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/55/stream.m3u8
+#EXTINF:183 group-title="OMEGA TV test",Громадське HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/103/stream.m3u8
+#EXTINF:184 group-title="OMEGA TV test",ZIK
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/93/stream.m3u8
+#EXTINF:185 group-title="OMEGA TV test",ZIK HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3618/stream.m3u8
+#EXTINF:186 group-title="OMEGA TV test",Еспресо
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/108/stream.m3u8
+#EXTINF:188 group-title="OMEGA TV test",Настоящее Время
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/2386/stream.m3u8
+#EXTINF:189 group-title="OMEGA TV test",Настоящее время HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3932/stream.m3u8
+#EXTINF:190 group-title="OMEGA TV test",Наш Макси ТВ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4293/stream.m3u8
+#EXTINF:191 group-title="OMEGA TV test",ЧП.INFO
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/163/stream.m3u8
+#EXTINF:192 group-title="OMEGA TV test",Oboz TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3648/stream.m3u8
+#EXTINF:193 group-title="OMEGA TV test",Oboz TV HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3984/stream.m3u8
+#EXTINF:194 group-title="OMEGA TV test",RabinovichTV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/572/stream.m3u8
+#EXTINF:195 group-title="OMEGA TV test",Беларусь 24
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/411/stream.m3u8
+#EXTINF:196 group-title="OMEGA TV test",Апостроф TV
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4730/stream.m3u8
+#EXTINF:197 group-title="OMEGA TV test",Deutsche Welle
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/204/stream.m3u8
+#EXTINF:198 group-title="OMEGA TV test",France 24
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/239/stream.m3u8
+#EXTINF:199 group-title="OMEGA TV test",Ost West
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4254/stream.m3u8
+#EXTINF:200 group-title="OMEGA TV test",Исландия
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4727/stream.m3u8
+#EXTINF:201 group-title="OMEGA TV test",UA: Киев
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/162/stream.m3u8
+#EXTINF:202 group-title="OMEGA TV test",ТРК Київ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/115/stream.m3u8
+#EXTINF:203 group-title="OMEGA TV test",ATR
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/62/stream.m3u8
+#EXTINF:204 group-title="OMEGA TV test",ATR HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3936/stream.m3u8
+#EXTINF:205 group-title="OMEGA TV test",Думская ТВ
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/455/stream.m3u8
+#EXTINF:206 group-title="OMEGA TV test",4 канал
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/86/stream.m3u8
+#EXTINF:207 group-title="OMEGA TV test",7 канал (Одесса) HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/61/stream.m3u8
+#EXTINF:208 group-title="OMEGA TV test",8 канал
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/128/stream.m3u8
+#EXTINF:209 group-title="OMEGA TV test",8 канал HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4051/stream.m3u8
+#EXTINF:210 group-title="OMEGA TV test",Южная волна HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/568/stream.m3u8
+#EXTINF:211 group-title="OMEGA TV test",Чорноморська ТРК
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/385/stream.m3u8
+#EXTINF:212 group-title="OMEGA TV test",Перший Західний
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3948/stream.m3u8
+#EXTINF:213 group-title="OMEGA TV test",UA:Закарпаття
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4244/stream.m3u8
+#EXTINF:214 group-title="OMEGA TV test",UA:Волынь
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4308/stream.m3u8
+#EXTINF:215 group-title="OMEGA TV test",UA: Донбас
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/107/stream.m3u8
+#EXTINF:217 group-title="OMEGA TV test",UA:Крым
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/3606/stream.m3u8
+#EXTINF:-1,100% News. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/362d93b7de874e56d65409e9e5dcabb6ff0ba823.m3u8
+#EXTINF:-1,11 канал. Дніпро
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/97aebd8e51b8ffb3c7802b7f14e63dc79a8236e7.m3u8
+#EXTINF:-1,112 ТВ
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/662668c5ef6c9b8f8988985ccf89097f86c1f610.m3u8
+#EXTINF:-1,33 канал. Хмельницький
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/795f2bdec507cfe383bcafb373a204aaea611135.m3u8
+#EXTINF:-1,51 канал. Дніпро
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/5b6d329daaea089fa1cc91abf4d5e7916c9cae29.m3u8
+#EXTINF:-1,7 канал Харків
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/cbbc31a929f152bf7e8532d4e2d689b30a800678.m3u8
+#EXTINF:-1,7 канал. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/ab718dbb60e25337fefeafdd0e022c4e5e9f3647.m3u8
+#EXTINF:-1,ATR
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/2d8a6374379f5603f51263dba0125fd2a9a66804.m3u8
+#EXTINF:-1,EU Music
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/252f566f42011b6295ff961a782ab8aa6e1c3b02.m3u8
+#EXTINF:-1,EWTN
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/8a5bb527c865f3fb530cebd8e33eb739e2d7affc.m3u8
+#EXTINF:-1,Kratu. Херсон
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/b4c003fcfb8f53ef1c861a200a00087e2fafdb87.m3u8
+#EXTINF:-1,MEDIA Інформ. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/07fd57606f6596e1e9a935bef41a1c4dfcaf5d9a.m3u8
+#EXTINF:-1,Plus. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/c497b428198ce5a34b67a24e21824404a64c4d3a.m3u8
+#EXTINF:-1,Prime Time. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/cc69619789ce9af5fa541b84eeed1c9219c787f2.m3u8
+#EXTINF:-1,Renome. Рівне
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/4b2632216136e1011fa7bf0f8c83853bed938275.m3u8
+#EXTINF:-1,S-TET Харків
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/08ccbf23887d6faaa26ccce7d1d49c18f0254ad0.m3u8
+#EXTINF:-1,Simon Харків
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/a83e3665aca79f8b238636f7283d5960f56f9949.m3u8
+#EXTINF:-1,TV7+. Хмельницький
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/5504d0ee2e156674cb0cf9ee8006b15995ec2bb2.m3u8
+#EXTINF:-1,UA: Буковина
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/e25bdd38efd7c0e81d759ccab6f19fee13171cfa.m3u8
+#EXTINF:-1,UA: Вінниця
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/7f755855681a4d0eb1695e9335ccbe5e662116b3.m3u8
+#EXTINF:-1,UA: Волинь
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/3561c286c612d6449f75385a9f67c30fea91f880.m3u8
+#EXTINF:-1,UA: Донбас
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/6f900a0519ec520b2345ad0042ceffa2a9a55320.m3u8
+#EXTINF:-1,UA: Житомир
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/7673daac901834c13e031071a5a6411678a9cb6e.m3u8
+#EXTINF:-1,UA: Закарпаття
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/5bd04fe4fdf61344693d2478ec41d30d53fc25b7.m3u8
+#EXTINF:-1,UA: Запоріжжя
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/7c6878d02fe9c04c25185b66d3b2971863c979c7.m3u8
+#EXTINF:-1,UA: Карпати
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/10e5219ae8ad6dbf60583f33594bc5c6f1cb2727.m3u8
+#EXTINF:-1,UA: Кропивницкий
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/beaf5876a7afc70ae92739b578acffcc032f019b.m3u8
+#EXTINF:-1,UA: Львів
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/f66aa17f4ef899f9e3cf5f6151da2fb7a27547f8.m3u8
+#EXTINF:-1,UA: Миколаїв
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/882a92936a10c0e6ecf6c5e180ecb0e6211c9d16.m3u8
+#EXTINF:-1,UA: Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/474458293db94405fc989e176eec696161c4420c.m3u8
+#EXTINF:-1,UA: Перший
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/551c16226ca2bf300a2b6fafea2c363a7e9c9476.m3u8
+#EXTINF:-1,UA: Полтава
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/a4b4580cec01f5647dc473eaf6b784b22c1952c7.m3u8
+#EXTINF:-1,UA: Рівне
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/0cba747d481b8352a3627e7680ba551639c3acde.m3u8
+#EXTINF:-1,UA: Суми
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/0c6ddbc6657990b31a1080aa615616dbca5b6408.m3u8
+#EXTINF:-1,UA: Тернопіль
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/425805b97c7bc0bde93ee84d22b4d5cc27dfbc1e.m3u8
+#EXTINF:-1,UA: Херсон
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/18edceed3dd1da7703f4e58c589e6ededf3b72fa.m3u8
+#EXTINF:-1,UA: Черкаси
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/1e26d99e2fe8820cbed139890c771766f509defd.m3u8
+#EXTINF:-1,UA: Чернігів
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/a59be0a22111ec22834e0a6134a97f7711bdc9e4.m3u8
+#EXTINF:-1,Uaan TV
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/aaace5bd98489b73a378a27841982714693c9d23.m3u8
+#EXTINF:-1,А/ТВК Харків
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/5c0275a24c92a1f8ff9ba2b56e6bf128a3df2b31.m3u8
+#EXTINF:-1,А1. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/f3e307ae33293a87e0705ba976d5e481bc01ee9b.m3u8
+#EXTINF:-1,АВЕРС. Луцьк
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/3c187d3a8d034ad7840bcbc0ff90397dfa78424a.m3u8
+#EXTINF:-1,Академия. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/f9eb3b60b09727ca3f58c375077b8f8c92357b06.m3u8
+#EXTINF:-1,Алекс. Запоріжжя
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/4fe9f68c45f505d859254d0906ded1c7dd8919ef.m3u8
+#EXTINF:-1,Беларусь 24
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/26e961436da4fd5d2598c273854fbade16aab066.m3u8
+#EXTINF:-1,ВТВ+. Херсон
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/2b80b60ff4ec32df07b2ff51f7a5d7450eb20d5f.m3u8
+#EXTINF:-1,ГЛАС. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/fa823b6e0ad9eeb93d361b465c7fbac47f9639d5.m3u8
+#EXTINF:-1,Горизонт
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/459f9c235f46c23b1b16bda5714372a10692e406.m3u8
+#EXTINF:-1,Дитинец. Чернігів
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/a3b3d46861365c2f7f4a2f73680c4240e9febcbd.m3u8
+#EXTINF:-1,Дніпро TV
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/9abe47d68de509a569268a141d3646f068753234.m3u8
+#EXTINF:-1,Думская ТВ. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/4e7487ae5070fa46357ef507f130ac0fee6d32f7.m3u8
+#EXTINF:-1,МТВ. Маріуполь
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/2fb2ab4646147a71abdef9a16a95396d9d011cfc.m3u8
+#EXTINF:-1,Надежда
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/11a9c9ba4f8eef64d6c8161f4436438cc6320bfe.m3u8
+#EXTINF:-1,НТА. Львів
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/7369f6e873cc7fc9267bd381e5ee5a0458fbd187.m3u8
+#EXTINF:-1,НТК. Коломия
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/8a336d29eb06bef6317a252368bbea92fd77b0b9.m3u8
+#EXTINF:-1,Одесса Int. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/6b9c92667c195b3dc791b3e16e2b96eccc7a82a8.m3u8
+#EXTINF:-1,ОНТ. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/1ca7bfeff6b551f2afd2c4a0a931538b1bb230fb.m3u8
+#EXTINF:-1,ОТВ. Дніпро
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/d14e1b0f6d42f16d794e7ad1b5bb502f4f751577.m3u8
+#EXTINF:-1,Первый Городской. Кривий Ріг
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/a7621647479247bb98bf4cf03237ae958fd462c8.m3u8
+#EXTINF:-1,Первый городской. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/3cf9c0c311aa21bbf629f7d0a57989a544908cc2.m3u8
+#EXTINF:-1,Погляд. Київ
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/60351f7d36be3eef7e73a971d1f16367f268ca09.m3u8
+#EXTINF:-1,Поділля-центр. Хмельницький
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/7bb5924358ff0733748d597d050d8a6e8df24d0b.m3u8
+#EXTINF:-1,ПравдаТУТ Київ
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/e14697c5b070e05bae96aacf5b57f455bd96dd91.m3u8
+#EXTINF:-1,ПравдаТУТ Львів
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/9bec18e855ab2be295bd9819c399eb0629e2abbd.m3u8
+#EXTINF:-1,Прямий
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/95845c52aaa92a4f5f1e19199c8a8c8379ea2cd0.m3u8
+#EXTINF:-1,Пульсар TV
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/f2ced7723c613c024945fb39aa2fe699b5ed0712.m3u8
+#EXTINF:-1,Рівне-1. Рівно
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/929ba8227c99e5c86c7c8c581be3c7f77345adf3.m3u8
+#EXTINF:-1,РАI. Івано-Франківськ
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/25ae4260b8c12bd3b80da6cf1e7dccfc109f663c.m3u8
+#EXTINF:-1,Репортер. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/b8404123b647cb9dabc9f9ccb297466909f0d684.m3u8
+#EXTINF:-1,Рудана. Кривий Ріг
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/db5e9a95d8efbcee6a750586b7667af97977a330.m3u8
+#EXTINF:-1,СК1. Житомир
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/8026d941c8297408b4afe91f13977227133fb48d.m3u8
+#EXTINF:-1,ТВ-5. Запоріжжя
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/f5538da0f9851966397f80666a7885b92278b40b.m3u8
+#EXTINF:-1,ТВА. Чернівці
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/281bd734b5902ea59cf72ba19ba91116c7fece22.m3u8
+#EXTINF:-1,Телевсесвіт
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/6162d232b0d1a327aabc41a03805e694c20d91dc.m3u8
+#EXTINF:-1,Телеканал Z. Запоріжжя
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/099e90aaf62443ff3c53a7f4eddafb8e37cd2cf4.m3u8
+#EXTINF:-1,Третий Цифровой. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/601fd3363a1fe34905d8471efc2172e47eaf90e7.m3u8
+#EXTINF:-1,Херсон Плюс. Херсон
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/27fd4e9e6708a584d4aae98082661a03b93a2222.m3u8
+#EXTINF:-1,Чернівецький Промінь
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/45a4b54bec7992be4080398d7f5b2e84efd694c0.m3u8
+#EXTINF:-1,Южная волна. Одеса
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/b784291e473d110c1a5ab5da1498efb5af9e9d7e.m3u8
+#EXTINF:-1,ЯТБ. Херсон
+#EXTGRP:Хмара ТБ test
+http://playlist.hmara.tv/836e9584/0a2682342c5b9f478fbb8ee6671d7e6bd9a69905.m3u8
