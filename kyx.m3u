@@ -2174,21 +2174,27 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/orf1-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="orf2n-hd-de" tvg-logo="https://cbilling.biz/img/streams/orf2n-hd-de.png" tvg-rec="7",ORF 2 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/orf2n-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-cinema-hd-de.png" tvg-rec="7",Sky Cinema HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-cinema-hd-de.png" tvg-rec="7",Sky Cinema Premieren HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-cinema-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-hits-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-hits-hd-de.png" tvg-rec="7",Sky Hits HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-hits-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-hits-hd-de.png" tvg-rec="7",Sky Cinema Best Of HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-hits-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-action-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-cinema-action-hd-de.png" tvg-rec="7",Sky Action HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-action-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-cinema-action-hd-de.png" tvg-rec="7",Sky Cinema Action HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-cinema-action-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-family-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-cinema-family-hd-de.png" tvg-rec="7",Sky Family HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-thriller-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-thriller-hd-de.png" tvg-rec="7",Sky Cinema Thriller HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-thriller-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-family-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-cinema-family-hd-de.png" tvg-rec="7",Sky Cinema Family HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-cinema-family-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-atlantic-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-atlantic-hd-de.png" tvg-rec="7",Sky Atlantic HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-atlantic-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-atlantic-hd-de.png" tvg-rec="7",Sky Cinema Atlantic HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-atlantic-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-special-hd-de" tvg-logo="https://cbilling.biz/img/streams/sky-special-hd-de.png" tvg-rec="7",Sky Cinema Special HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-special-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sixx-hd-de" tvg-logo="https://cbilling.biz/img/streams/sixx-hd-de.png" tvg-rec="7",SIXX HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sixx-hd-de.m3u8
