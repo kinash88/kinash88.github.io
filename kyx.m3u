@@ -92,6 +92,9 @@ http://myott.top/stream/8WH42KGIMV/23.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="belarus1-by-hd" tvg-logo="https://cbilling.biz/img/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce_2/belarus1-by-hd.m3u8
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="belsat-by" tvg-logo="https://cbilling.biz/img/streams/belsat-by.png" tvg-rec="7",Белсат ТВ
+#EXTGRP:Отобранное Любимое
+http://s06.iptvx.tv:8090/s/fa7366ce/belsat-by.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="ntn" tvg-logo="https://cbilling.biz/img/streams/ntn.png" tvg-rec="7",НТН
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce_2/ntn.m3u8
@@ -1961,6 +1964,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/ont-by.m3u8
 #EXTINF:0 group-title="Белорусские" tvg-id="stv-by" tvg-logo="https://cbilling.biz/img/streams/stv-by.png" tvg-rec="0",СТВ Беларусь
 #EXTGRP:Белорусские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/stv-by.m3u8
+#EXTINF:0 group-title="Белорусские" tvg-id="belsat-by" tvg-logo="https://cbilling.biz/img/streams/belsat-by.png" tvg-rec="7",Белсат ТВ
+#EXTGRP:Белорусские
+http://s06.iptvx.tv:8090/s/fa7366ce/belsat-by.m3u8
 #EXTINF:-1 group-title="Белорусские" tvg-rec="7" timeshift="7",БелРос
 #EXTGRP:Белорусские
 http://myott.top/stream/8WH42KGIMV/63.m3u8
