@@ -200,6 +200,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/tv1000-russkoje-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="egoist-tv" tvg-logo="https://cbilling.biz/img/streams/egoist-tv.png" tvg-rec="7",SHOT TV
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce/egoist-tv.m3u8
+#EXTINF:-1 group-title="Отобранное Любимое",Shakhtar TV HD
+#EXTGRP:Отобранное Любимое
+http://playlist.hmara.tv/0c7909a7/6cb90806be0e0591e10934b985a31b4c6d0260c2.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol1-hd-orig" tvg-logo="https://cbilling.biz/img/streams/futbol1-hd-orig.png" tvg-rec="7",Футбол 1 HD
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce/futbol1-hd-orig.m3u8
