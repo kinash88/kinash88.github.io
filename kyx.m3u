@@ -83,6 +83,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/nostalgia.m3u8
 #EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:Отобранное Любимое
 http://myott.top/stream/8WH42KGIMV/61.m3u8
+#EXTINF:-1,Красная линия ТВ
+#EXTGRP:Отобранное Любимое
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Отобранное Любимое
 http://myott.top/stream/8WH42KGIMV/224.m3u8
