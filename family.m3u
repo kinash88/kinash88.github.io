@@ -2442,6 +2442,9 @@ http://myott.top/stream/8WH42KGIMV/218.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
 #EXTGRP:Музыкальные
 http://myott.top/stream/8WH42KGIMV/330.m3u8
+#EXTINF:-1 group-title="Музыкальные",Туган Тел
+#EXTGRP:Музыкальные
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="rossija24" tvg-logo="https://cbilling.biz/img/streams/rossija24.png" tvg-rec="0",Россия 24
 #EXTGRP:Новостные
 http://s06.iptvx.tv:8090/s/fa7366ce/rossija24.m3u8
