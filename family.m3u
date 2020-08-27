@@ -20,6 +20,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/moskva-24.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="izvestija" tvg-logo="https://cbilling.biz/img/streams/izvestija.png" tvg-rec="0",Известия
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce/izvestija.m3u8
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-24-hd" tvg-logo="https://cbilling.biz/img/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
+#EXTGRP:Отобранное Любимое
+http://s06.iptvx.tv:8090/s/fa7366ce/mir-24-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.biz/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce/1-plus-1-hd.m3u8
@@ -296,6 +299,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/mir-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir-24" tvg-logo="https://cbilling.biz/img/streams/mir-24.png" tvg-rec="7",Мир 24
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce/mir-24.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="mir-24-hd" tvg-logo="https://cbilling.biz/img/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
+#EXTGRP:Российские (общие)
+http://s06.iptvx.tv:8090/s/fa7366ce/mir-24-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda" tvg-logo="https://cbilling.biz/img/streams/zvezda.png" tvg-rec="7",Звезда
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce/zvezda.m3u8
