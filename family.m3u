@@ -3760,100 +3760,106 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6151/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal+ Cinema HD FR
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6004/index.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="11-kanal-il" tvg-logo="https://cbilling.biz/img/streams/11-kanal-il.png" tvg-rec="7",11 Канал
+#EXTINF:0 group-title="Израильские" tvg-id="9-kanal-hd-il" tvg-logo="https://cbilling.pw/img/streams/9-kanal-hd-il.png" tvg-rec="7",9 Канал HD
+#EXTGRP:Израильские
+http://s03.iptvx.tv:8090/s/fa7366ce/9-kanal-hd-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="11-kanal-il" tvg-logo="https://cbilling.pw/img/streams/11-kanal-il.png" tvg-rec="7",11 Канал
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/11-kanal-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="12-kanal-il" tvg-logo="https://cbilling.biz/img/streams/12-kanal-il.png" tvg-rec="7",12 Канал
+#EXTINF:0 group-title="Израильские" tvg-id="12-kanal-il" tvg-logo="https://cbilling.pw/img/streams/12-kanal-il.png" tvg-rec="7",12 Канал
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/12-kanal-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="13-kanal-il" tvg-logo="https://cbilling.biz/img/streams/13-kanal-il.png" tvg-rec="7",13 Канал
+#EXTINF:0 group-title="Израильские" tvg-id="13-kanal-il" tvg-logo="https://cbilling.pw/img/streams/13-kanal-il.png" tvg-rec="7",13 Канал
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/13-kanal-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="i24-il" tvg-logo="https://cbilling.biz/img/streams/i24-il.png" tvg-rec="7",i24
+#EXTINF:0 group-title="Израильские" tvg-id="i24-il" tvg-logo="https://cbilling.pw/img/streams/i24-il.png" tvg-rec="7",i24
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/i24-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema1-il" tvg-logo="https://cbilling.biz/img/streams/hot-cinema1-il.png" tvg-rec="7",HOT Cinema 1
+#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema1-il" tvg-logo="https://cbilling.pw/img/streams/hot-cinema1-il.png" tvg-rec="7",HOT Cinema 1
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-cinema1-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema2-il" tvg-logo="https://cbilling.biz/img/streams/hot-cinema2-il.png" tvg-rec="7",HOT Cinema 2
+#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema2-il" tvg-logo="https://cbilling.pw/img/streams/hot-cinema2-il.png" tvg-rec="7",HOT Cinema 2
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-cinema2-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema3-il" tvg-logo="https://cbilling.biz/img/streams/hot-cinema3-il.png" tvg-rec="7",HOT Cinema 3
+#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema3-il" tvg-logo="https://cbilling.pw/img/streams/hot-cinema3-il.png" tvg-rec="7",HOT Cinema 3
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-cinema3-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema4-il" tvg-logo="https://cbilling.biz/img/streams/hot-cinema4-il.png" tvg-rec="7",HOT Cinema 4
+#EXTINF:0 group-title="Израильские" tvg-id="hot-cinema4-il" tvg-logo="https://cbilling.pw/img/streams/hot-cinema4-il.png" tvg-rec="7",HOT Cinema 4
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-cinema4-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-hbo-il" tvg-logo="https://cbilling.biz/img/streams/hot-hbo-il.png" tvg-rec="7",HBO IL
+#EXTINF:0 group-title="Израильские" tvg-id="hot-hbo-il" tvg-logo="https://cbilling.pw/img/streams/hot-hbo-il.png" tvg-rec="7",HBO IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-hbo-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-zone-hd-il" tvg-logo="https://cbilling.biz/img/streams/hot-zone-hd-il.png" tvg-rec="7",Zone HD
+#EXTINF:0 group-title="Израильские" tvg-id="hot-zone-hd-il" tvg-logo="https://cbilling.pw/img/streams/hot-zone-hd-il.png" tvg-rec="7",Zone HD
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-zone-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot-bollywood-il" tvg-logo="https://cbilling.biz/img/streams/hot-bollywood-il.png" tvg-rec="7",Bollywood IL
+#EXTINF:0 group-title="Израильские" tvg-id="hot-bollywood-il" tvg-logo="https://cbilling.pw/img/streams/hot-bollywood-il.png" tvg-rec="7",Bollywood IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot-bollywood-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hot3-hd-il" tvg-logo="https://cbilling.biz/img/streams/hot3-hd-il.png" tvg-rec="7",HOT3 HD
+#EXTINF:0 group-title="Израильские" tvg-id="hot3-hd-il" tvg-logo="https://cbilling.pw/img/streams/hot3-hd-il.png" tvg-rec="7",HOT3 HD
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hot3-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="discovery-hd-il" tvg-logo="https://cbilling.biz/img/streams/discovery-hd-il.png" tvg-rec="7",Discovery HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="discovery-hd-il" tvg-logo="https://cbilling.pw/img/streams/discovery-hd-il.png" tvg-rec="7",Discovery HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/discovery-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="nat-geo-il" tvg-logo="https://cbilling.biz/img/streams/nat-geo-il.png" tvg-rec="7",National Geographic IL
+#EXTINF:0 group-title="Израильские" tvg-id="nat-geo-il" tvg-logo="https://cbilling.pw/img/streams/nat-geo-il.png" tvg-rec="7",National Geographic IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/nat-geo-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="travel-channel-il" tvg-logo="https://cbilling.biz/img/streams/travel-channel-il.png" tvg-rec="7",Travel Channel IL
+#EXTINF:0 group-title="Израильские" tvg-id="travel-channel-il" tvg-logo="https://cbilling.pw/img/streams/travel-channel-il.png" tvg-rec="7",Travel Channel IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/travel-channel-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="food-network-il" tvg-logo="https://cbilling.biz/img/streams/food-network-il.png" tvg-rec="7",Food Network IL
+#EXTINF:0 group-title="Израильские" tvg-id="food-network-il" tvg-logo="https://cbilling.pw/img/streams/food-network-il.png" tvg-rec="7",Food Channel IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/food-network-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="cbs-reality-il" tvg-logo="https://cbilling.biz/img/streams/cbs-reality-il.png" tvg-rec="7",CBS Reality IL
+#EXTINF:0 group-title="Израильские" tvg-id="cbs-reality-il" tvg-logo="https://cbilling.pw/img/streams/cbs-reality-il.png" tvg-rec="7",CBS Reality IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/cbs-reality-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="sport1-hd-il" tvg-logo="https://cbilling.biz/img/streams/sport1-hd-il.png" tvg-rec="7",Sport 1 HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="sport1-hd-il" tvg-logo="https://cbilling.pw/img/streams/sport1-hd-il.png" tvg-rec="7",Sport 1 HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/sport1-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="sport2-hd-il" tvg-logo="https://cbilling.biz/img/streams/sport2-hd-il.png" tvg-rec="7",Sport 2 HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="sport2-hd-il" tvg-logo="https://cbilling.pw/img/streams/sport2-hd-il.png" tvg-rec="7",Sport 2 HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/sport2-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="sport3-hd-il" tvg-logo="https://cbilling.biz/img/streams/sport3-hd-il.png" tvg-rec="7",Sport 3 HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="sport3-hd-il" tvg-logo="https://cbilling.pw/img/streams/sport3-hd-il.png" tvg-rec="7",Sport 3 HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/sport3-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="sport4-hd-il" tvg-logo="https://cbilling.biz/img/streams/sport4-hd-il.png" tvg-rec="7",Sport 4 HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="sport4-hd-il" tvg-logo="https://cbilling.pw/img/streams/sport4-hd-il.png" tvg-rec="7",Sport 4 HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/sport4-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="sport5-hd-il" tvg-logo="https://cbilling.biz/img/streams/sport5-hd-il.png" tvg-rec="7",Sport 5 HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="sport5-il" tvg-logo="https://cbilling.pw/img/streams/sport5-il.png" tvg-rec="7",Sport 5 IL
+#EXTGRP:Израильские
+http://s03.iptvx.tv:8090/s/fa7366ce/sport5-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="sport5-hd-il" tvg-logo="https://cbilling.pw/img/streams/sport5-hd-il.png" tvg-rec="7",Sport 5 Stars HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/sport5-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="sport5-plus-live-hd-il" tvg-logo="https://cbilling.biz/img/streams/sport5-plus-live-hd-il.png" tvg-rec="7",Sport 5+ Live HD
+#EXTINF:0 group-title="Израильские" tvg-id="sport5-plus-live-hd-il" tvg-logo="https://cbilling.pw/img/streams/sport5-plus-live-hd-il.png" tvg-rec="7",Sport 5 Live HD
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/sport5-plus-live-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="one-hd-il" tvg-logo="https://cbilling.biz/img/streams/one-hd-il.png" tvg-rec="7",One HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="one-hd-il" tvg-logo="https://cbilling.pw/img/streams/one-hd-il.png" tvg-rec="7",One HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/one-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="one2-hd-il" tvg-logo="https://cbilling.biz/img/streams/one2-hd-il.png" tvg-rec="7",One2 HD IL
+#EXTINF:0 group-title="Израильские" tvg-id="one2-hd-il" tvg-logo="https://cbilling.pw/img/streams/one2-hd-il.png" tvg-rec="7",One2 HD IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/one2-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="baby-il" tvg-logo="https://cbilling.biz/img/streams/baby-il.png" tvg-rec="7",Baby IL
+#EXTINF:0 group-title="Израильские" tvg-id="baby-il" tvg-logo="https://cbilling.pw/img/streams/baby-il.png" tvg-rec="7",Baby IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/baby-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="disney-jr-il" tvg-logo="https://cbilling.biz/img/streams/disney-jr-il.png" tvg-rec="7",Disney Jr IL
+#EXTINF:0 group-title="Израильские" tvg-id="disney-jr-il" tvg-logo="https://cbilling.pw/img/streams/disney-jr-il.png" tvg-rec="7",Disney Jr IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/disney-jr-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="nick-jr-il" tvg-logo="https://cbilling.biz/img/streams/nick-jr-il.png" tvg-rec="7",Nick Jr IL
+#EXTINF:0 group-title="Израильские" tvg-id="nick-jr-il" tvg-logo="https://cbilling.pw/img/streams/nick-jr-il.png" tvg-rec="7",Nick Jr IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/nick-jr-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="teennick-il" tvg-logo="https://cbilling.biz/img/streams/teennick-il.png" tvg-rec="7",TeenNick IL
+#EXTINF:0 group-title="Израильские" tvg-id="teennick-il" tvg-logo="https://cbilling.pw/img/streams/teennick-il.png" tvg-rec="7",TeenNick IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/teennick-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="hop-childhood-il" tvg-logo="https://cbilling.biz/img/streams/hop-childhood-il.png" tvg-rec="7",Hop Childhood
+#EXTINF:0 group-title="Израильские" tvg-id="hop-childhood-il" tvg-logo="https://cbilling.pw/img/streams/hop-childhood-il.png" tvg-rec="7",Hop Childhood
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/hop-childhood-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="junior-il" tvg-logo="https://cbilling.biz/img/streams/junior-il.png" tvg-rec="7",Junior IL
+#EXTINF:0 group-title="Израильские" tvg-id="junior-il" tvg-logo="https://cbilling.pw/img/streams/junior-il.png" tvg-rec="7",Junior IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/junior-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="zoom-il" tvg-logo="https://cbilling.biz/img/streams/zoom-il.png" tvg-rec="7",Zoom IL
+#EXTINF:0 group-title="Израильские" tvg-id="zoom-il" tvg-logo="https://cbilling.pw/img/streams/zoom-il.png" tvg-rec="7",Zoom IL
 #EXTGRP:Израильские
 http://s03.iptvx.tv:8090/s/fa7366ce/zoom-il.m3u8
 #EXTINF:0 group-title="Турецкие" tvg-id="tv8-hd-tr" tvg-logo="https://cbilling.biz/img/streams/tv8-hd-tr.png" tvg-rec="0",TV8 HD
