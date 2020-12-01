@@ -3229,7 +3229,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce/mcm.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-hits" tvg-logo="https://cbilling.pw/img/streams/mtv-hits.png" tvg-rec="0",MTV Hits
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce/mtv-hits.m3u8
-#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-dance" tvg-logo="https://cbilling.pw/img/streams/mtv-dance.png" tvg-rec="0",MTV Dance
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-dance" tvg-logo="https://cbilling.pw/img/streams/mtv-dance.png" tvg-rec="0",Club MTV
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce/mtv-dance.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="https://cbilling.pw/img/streams/mtv-rocks.png" tvg-rec="0",MTV 90s
