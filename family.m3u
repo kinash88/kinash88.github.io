@@ -602,6 +602,9 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/987/index.m3u8
 #EXTINF:-1 group-title="Украинские" tvg-rec="7" timeshift="7",ПлюсПлюс
 #EXTGRP:Украинские
 http://myott.top/stream/8WH42KGIMV/339.m3u8
+#EXTINF:0 tvg-rec="3",Бігуді
+#EXTGRP:Украинские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/989/index.m3u8
 #EXTINF:-1 group-title="Украинские" tvg-rec="7" timeshift="7",Бiгудi
 #EXTGRP:Украинские
 http://myott.top/stream/8WH42KGIMV/340.m3u8
