@@ -431,6 +431,150 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2433/index.m3u8
 #EXTINF:0,Univer TV HD
 #EXTGRP:Российские (общие)
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:0 tvg-rec="3",Россия-24 +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6013/index.m3u
+#EXTINF:0 tvg-rec="3",НТВ (+2)
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/713/index.m3u
+#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/714/index.m3u
+#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/746/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6025/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6040/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +8
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6054/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6016/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6030/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6044/index.m3u
+#EXTINF:0 tvg-rec="0",Звезда +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6033/index.m3u
+#EXTINF:0 tvg-rec="0",Звезда +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6047/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6019/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6034/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6048/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6024/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6039/index.m3u
+#EXTINF:0 tvg-rec="0",НТВ +8
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6053/index.m3u
+#EXTINF:0 tvg-rec="0",ОТР +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6014/index.m3u
+#EXTINF:0 tvg-rec="0",ОТР +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6026/index.m3u
+#EXTINF:0 tvg-rec="0",ОТР +8
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6055/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6021/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6037/index.m3u
+#EXTINF:0 tvg-rec="0",Первый канал +8
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6050/index.m3u
+#EXTINF:0 tvg-rec="0",Пятница +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6018/index.m3u
+#EXTINF:0 tvg-rec="0",Пятница +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6032/index.m3u
+#EXTINF:0 tvg-rec="0",Пятница +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6046/index.m3u
+#EXTINF:0 tvg-rec="0",Рен ТВ +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6028/index.m3u
+#EXTINF:0 tvg-rec="0",Рен ТВ +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6042/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6011/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6022/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6038/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +8
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6051/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6015/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6029/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6043/index.m3u
+#EXTINF:0 tvg-rec="0",ТВ3 +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6017/index.m3u
+#EXTINF:0 tvg-rec="0",ТВ3 +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6031/index.m3u
+#EXTINF:0 tvg-rec="0",ТВ3 +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6045/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6027/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6041/index.m3u
+#EXTINF:0 tvg-rec="0",ТВЦ +8
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6056/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ +2
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6020/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ +4
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6035/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ +6
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6049/index.m3u
+#EXTINF:0 tvg-rec="3",ТВЦ (+2)
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/716/index.m3u
+#EXTINF:0 tvg-rec="3",Звезда (+2)
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/739/index.m3u
+#EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
+#EXTGRP:Россия часовые пояса
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/747/index.m3u
 #EXTINF:0 group-title="Украинские" tvg-id="112-ua-hd" tvg-logo="https://cbilling.pw/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/112-ua-hd.m3u8
