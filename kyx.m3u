@@ -11,9 +11,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/ntv-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="ntv-mir" tvg-logo="https://cbilling.pw/img/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ntv-mir.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mosfilm" tvg-logo="https://cbilling.pw/img/streams/mosfilm.png" tvg-rec="7",Мосфильм. Золотая коллекция
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mosfilm-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
 #EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce_2/mosfilm.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/mosfilm-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="rossija24" tvg-logo="https://cbilling.pw/img/streams/rossija24.png" tvg-rec="0",Россия 24
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/rossija24.m3u8
@@ -2728,6 +2728,12 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/kino-tv.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="kino-tv-hd" tvg-logo="https://cbilling.pw/img/streams/kino-tv-hd.png" tvg-rec="7",Кино ТВ HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/kino-tv-hd.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="kinojam1-hd" tvg-logo="https://cbilling.pw/img/streams/kinojam1-hd.png" tvg-rec="7",Kinojam 1 HD
+#EXTGRP:Фильмовые
+http://s03.iptvx.tv:8090/s/fa7366ce_2/kinojam1-hd.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="kinojam2-hd" tvg-logo="https://cbilling.pw/img/streams/kinojam2-hd.png" tvg-rec="7",Kinojam 2 HD
+#EXTGRP:Фильмовые
+http://s03.iptvx.tv:8090/s/fa7366ce_2/kinojam2-hd.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="evrokino" tvg-logo="https://cbilling.pw/img/streams/evrokino.png" tvg-rec="7",Еврокино
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/evrokino.m3u8
@@ -2857,6 +2863,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/tv-xxi.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="mosfilm" tvg-logo="https://cbilling.pw/img/streams/mosfilm.png" tvg-rec="7",Мосфильм. Золотая коллекция
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mosfilm.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="mosfilm-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
+#EXTGRP:Фильмовые
+http://s03.iptvx.tv:8090/s/fa7366ce_2/mosfilm-hd-orig.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="lubimoe-kino" tvg-logo="https://cbilling.pw/img/streams/lubimoe-kino.png" tvg-rec="7",Любимое Кино
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/lubimoe-kino.m3u8
