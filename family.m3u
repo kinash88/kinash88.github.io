@@ -2674,7 +2674,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce/blokbaster-hd-orig.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="nash-kinopokaz-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinopokaz-hd-orig.png" tvg-rec="7",Наш Кинопоказ HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/nash-kinopokaz-hd-orig.m3u8
-#EXTINF:0 group-title="Фильмовые" tvg-id="nash-kinoroman-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Наш Кинороман HD
+#EXTINF:0 group-title="Фильмовые" tvg-id="nash-kinoroman-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Душевное HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/nash-kinoroman-hd-orig.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="nashe-krutoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше HD
