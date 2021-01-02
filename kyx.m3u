@@ -3088,109 +3088,112 @@ http://myott.top/stream/8WH42KGIMV/72.m3u8
 #EXTINF:0 tvg-rec="3",Конный Мир HD
 #EXTGRP:Спортивные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/214/index.m3u8
-#EXTINF:0 group-title="Детские tvg-id="detskij-mir" tvg-logo="https://cbilling.pw/img/streams/detskij-mir.png" tvg-rec="7",Детский мир
+#EXTINF:0 group-title="Детские" tvg-id="detskij-mir" tvg-logo="https://cbilling.pw/img/streams/detskij-mir.png" tvg-rec="7",Детский мир
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/detskij-mir.m3u8
-#EXTINF:0 group-title="Детские tvg-id="karusel" tvg-logo="https://cbilling.pw/img/streams/karusel.png" tvg-rec="7",Карусель
+#EXTINF:0 group-title="Детские" tvg-id="karusel" tvg-logo="https://cbilling.pw/img/streams/karusel.png" tvg-rec="7",Карусель
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/karusel.m3u8
-#EXTINF:0 group-title="Детские tvg-id="gosti-skazka" tvg-logo="https://cbilling.pw/img/streams/gosti-skazka.png" tvg-rec="7",В гостях у сказки
+#EXTINF:0 group-title="Детские" tvg-id="gosti-skazka" tvg-logo="https://cbilling.pw/img/streams/gosti-skazka.png" tvg-rec="7",В гостях у сказки
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/gosti-skazka.m3u8
-#EXTINF:0 group-title="Детские tvg-id="mult" tvg-logo="https://cbilling.pw/img/streams/mult.png" tvg-rec="7",Мульт
+#EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://cbilling.pw/img/streams/mult.png" tvg-rec="7",Мульт
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mult.m3u8
-#EXTINF:0 group-title="Детские tvg-id="tlum-hd" tvg-logo="https://cbilling.pw/img/streams/tlum-hd.png" tvg-rec="7",Мульт HD
+#EXTINF:0 group-title="Детские" tvg-id="tlum-hd" tvg-logo="https://cbilling.pw/img/streams/tlum-hd.png" tvg-rec="7",Мульт HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/tlum-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="multimania" tvg-logo="https://cbilling.pw/img/streams/multimania.png" tvg-rec="7",Мультиландия
+#EXTINF:0 group-title="Детские" tvg-id="multimania" tvg-logo="https://cbilling.pw/img/streams/multimania.png" tvg-rec="7",Мультиландия
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/multimania.m3u8
-#EXTINF:0 group-title="Детские tvg-id="strana" tvg-logo="https://cbilling.pw/img/streams/strana.png" tvg-rec="7",Мультимузыка
+#EXTINF:0 group-title="Детские" tvg-id="strana" tvg-logo="https://cbilling.pw/img/streams/strana.png" tvg-rec="7",Мультимузыка
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/strana.m3u8
-#EXTINF:0 group-title="Детские tvg-id="ctc-kids" tvg-logo="https://cbilling.pw/img/streams/ctc-kids.png" tvg-rec="7",СТС Kids
+#EXTINF:0 group-title="Детские" tvg-id="ctc-kids" tvg-logo="https://cbilling.pw/img/streams/ctc-kids.png" tvg-rec="7",СТС Kids
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ctc-kids.m3u8
-#EXTINF:0 group-title="Детские tvg-id="ctc-kids-hd" tvg-logo="https://cbilling.pw/img/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
+#EXTINF:0 group-title="Детские" tvg-id="ctc-kids-hd" tvg-logo="https://cbilling.pw/img/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ctc-kids-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="ginger-hd" tvg-logo="https://cbilling.pw/img/streams/ginger-hd.png" tvg-rec="7",Капитан Фантастика HD
+#EXTINF:0 group-title="Детские" tvg-id="ginger-hd" tvg-logo="https://cbilling.pw/img/streams/ginger-hd.png" tvg-rec="7",Капитан Фантастика HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ginger-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="ryzhij" tvg-logo="https://cbilling.pw/img/streams/ryzhij.png" tvg-rec="7",Рыжий
+#EXTINF:0 group-title="Детские" tvg-id="ryzhij" tvg-logo="https://cbilling.pw/img/streams/ryzhij.png" tvg-rec="7",Рыжий
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ryzhij.m3u8
-#EXTINF:0 group-title="Детские tvg-id="detksij" tvg-logo="https://cbilling.pw/img/streams/detksij.png" tvg-rec="7",Уникум
+#EXTINF:0 group-title="Детские" tvg-id="detksij" tvg-logo="https://cbilling.pw/img/streams/detksij.png" tvg-rec="7",Уникум
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/detksij.m3u8
-#EXTINF:0 group-title="Детские tvg-id="detskij-hd" tvg-logo="https://cbilling.pw/img/streams/detskij-hd.png" tvg-rec="7",Уникум HD
+#EXTINF:0 group-title="Детские" tvg-id="detskij-hd" tvg-logo="https://cbilling.pw/img/streams/detskij-hd.png" tvg-rec="7",Уникум HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/detskij-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="kanal-o" tvg-logo="https://cbilling.pw/img/streams/kanal-o.png" tvg-rec="7",О!
+#EXTINF:0 group-title="Детские" tvg-id="kanal-o" tvg-logo="https://cbilling.pw/img/streams/kanal-o.png" tvg-rec="7",О!
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/kanal-o.m3u8
-#EXTINF:0 group-title="Детские tvg-id="disney" tvg-logo="https://cbilling.pw/img/streams/disney.png" tvg-rec="7",Disney Channel
+#EXTINF:0 group-title="Детские" tvg-id="disney" tvg-logo="https://cbilling.pw/img/streams/disney.png" tvg-rec="7",Disney Channel
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/disney.m3u8
-#EXTINF:0 group-title="Детские tvg-id="nickelodeon" tvg-logo="https://cbilling.pw/img/streams/nickelodeon.png" tvg-rec="7",Nickelodeon
+#EXTINF:0 group-title="Детские" tvg-id="nickelodeon" tvg-logo="https://cbilling.pw/img/streams/nickelodeon.png" tvg-rec="7",Nickelodeon
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nickelodeon.m3u8
-#EXTINF:0 group-title="Детские tvg-id="nickelodeon-hd" tvg-logo="https://cbilling.pw/img/streams/nickelodeon-hd.png" tvg-rec="7",Nickelodeon HD
+#EXTINF:0 group-title="Детские" tvg-id="nickelodeon-hd" tvg-logo="https://cbilling.pw/img/streams/nickelodeon-hd.png" tvg-rec="7",Nickelodeon HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nickelodeon-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="cartoon-network" tvg-logo="https://cbilling.pw/img/streams/cartoon-network.png" tvg-rec="7",Cartoon Network
+#EXTINF:0 group-title="Детские" tvg-id="nicktoons" tvg-logo="https://cbilling.pw/img/streams/nicktoons.png" tvg-rec="7",Nicktoons
+#EXTGRP:Детские
+http://s03.iptvx.tv:8090/s/fa7366ce/nicktoons.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="cartoon-network" tvg-logo="https://cbilling.pw/img/streams/cartoon-network.png" tvg-rec="7",Cartoon Network
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/cartoon-network.m3u8
-#EXTINF:0 group-title="Детские tvg-id="cartoon-network-hd" tvg-logo="https://cbilling.pw/img/streams/cartoon-network-hd.png" tvg-rec="7",Cartoon Network HD
+#EXTINF:0 group-title="Детские" tvg-id="cartoon-network-hd" tvg-logo="https://cbilling.pw/img/streams/cartoon-network-hd.png" tvg-rec="7",Cartoon Network HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/cartoon-network-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="ani" tvg-logo="https://cbilling.pw/img/streams/ani.png" tvg-rec="7",Ani
+#EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://cbilling.pw/img/streams/ani.png" tvg-rec="7",Ani
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ani.m3u8
-#EXTINF:0 group-title="Детские tvg-id="nickjr" tvg-logo="https://cbilling.pw/img/streams/nickjr.png" tvg-rec="7",Nick Jr
+#EXTINF:0 group-title="Детские" tvg-id="nickjr" tvg-logo="https://cbilling.pw/img/streams/nickjr.png" tvg-rec="7",Nick Jr
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nickjr.m3u8
-#EXTINF:0 group-title="Детские tvg-id="nickjr-en" tvg-logo="https://cbilling.pw/img/streams/nickjr-en.png" tvg-rec="7",NickJr Eng
+#EXTINF:0 group-title="Детские" tvg-id="nickjr-en" tvg-logo="https://cbilling.pw/img/streams/nickjr-en.png" tvg-rec="7",NickJr Eng
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nickjr-en.m3u8
-#EXTINF:0 group-title="Детские tvg-id="tiji" tvg-logo="https://cbilling.pw/img/streams/tiji.png" tvg-rec="7",TiJi
+#EXTINF:0 group-title="Детские" tvg-id="tiji" tvg-logo="https://cbilling.pw/img/streams/tiji.png" tvg-rec="7",TiJi
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/tiji.m3u8
-#EXTINF:0 group-title="Детские tvg-id="jimjam" tvg-logo="https://cbilling.pw/img/streams/jimjam.png" tvg-rec="7",JimJam
+#EXTINF:0 group-title="Детские" tvg-id="jimjam" tvg-logo="https://cbilling.pw/img/streams/jimjam.png" tvg-rec="7",JimJam
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/jimjam.m3u8
-#EXTINF:0 group-title="Детские tvg-id="gulli" tvg-logo="https://cbilling.pw/img/streams/gulli.png" tvg-rec="7",Gulli
+#EXTINF:0 group-title="Детские" tvg-id="gulli" tvg-logo="https://cbilling.pw/img/streams/gulli.png" tvg-rec="7",Gulli
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/gulli.m3u8
-#EXTINF:0 group-title="Детские tvg-id="boomerang" tvg-logo="https://cbilling.pw/img/streams/boomerang.png" tvg-rec="7",Boomerang
+#EXTINF:0 group-title="Детские" tvg-id="boomerang" tvg-logo="https://cbilling.pw/img/streams/boomerang.png" tvg-rec="7",Boomerang
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/boomerang.m3u8
-#EXTINF:0 group-title="Детские tvg-id="2x2" tvg-logo="https://cbilling.pw/img/streams/2x2.png" tvg-rec="7",2x2
+#EXTINF:0 group-title="Детские" tvg-id="2x2" tvg-logo="https://cbilling.pw/img/streams/2x2.png" tvg-rec="7",2x2
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/2x2.m3u8
-#EXTINF:0 group-title="Детские tvg-id="fan" tvg-logo="https://cbilling.pw/img/streams/fan.png" tvg-rec="7",FAN
+#EXTINF:0 group-title="Детские" tvg-id="fan" tvg-logo="https://cbilling.pw/img/streams/fan.png" tvg-rec="7",FAN
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/fan.m3u8
-#EXTINF:0 group-title="Детские tvg-id="fan-hd" tvg-logo="https://cbilling.pw/img/streams/fan-hd.png" tvg-rec="7",FAN HD
+#EXTINF:0 group-title="Детские" tvg-id="fan-hd" tvg-logo="https://cbilling.pw/img/streams/fan-hd.png" tvg-rec="7",FAN HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/fan-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="nikki-junior-hd" tvg-logo="https://cbilling.pw/img/streams/nikki-junior-hd.png" tvg-rec="7",Niki Junior HD
+#EXTINF:0 group-title="Детские" tvg-id="nikki-junior-hd" tvg-logo="https://cbilling.pw/img/streams/nikki-junior-hd.png" tvg-rec="7",Niki Junior HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nikki-junior-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="nikki-kids-hd" tvg-logo="https://cbilling.pw/img/streams/nikki-kids-hd.png" tvg-rec="7",Niki Kids HD
+#EXTINF:0 group-title="Детские" tvg-id="nikki-kids-hd" tvg-logo="https://cbilling.pw/img/streams/nikki-kids-hd.png" tvg-rec="7",Niki Kids HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nikki-kids-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="plus-plus2" tvg-logo="https://cbilling.pw/img/streams/plus-plus2.png" tvg-rec="7",ПлюсПлюс
+#EXTINF:0 group-title="Детские" tvg-id="plus-plus2" tvg-logo="https://cbilling.pw/img/streams/plus-plus2.png" tvg-rec="7",ПлюсПлюс
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/plus-plus2.m3u8
-#EXTINF:0 group-title="Детские tvg-id="plus-plus-ua-hd" tvg-logo="https://cbilling.pw/img/streams/plus-plus-ua-hd.png" tvg-rec="7",Плюс Плюс HD
+#EXTINF:0 group-title="Детские" tvg-id="plus-plus-ua-hd" tvg-logo="https://cbilling.pw/img/streams/plus-plus-ua-hd.png" tvg-rec="7",Плюс Плюс HD
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/plus-plus-ua-hd.m3u8
-#EXTINF:0 group-title="Детские tvg-id="pixel-ua" tvg-logo="https://cbilling.pw/img/streams/pixel-ua.png" tvg-rec="7",Піксель
+#EXTINF:0 group-title="Детские" tvg-id="pixel-ua" tvg-logo="https://cbilling.pw/img/streams/pixel-ua.png" tvg-rec="7",Піксель
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/pixel-ua.m3u8
-#EXTINF:0 group-title="Детские tvg-id="malyatko-tv-ua" tvg-logo="https://cbilling.pw/img/streams/malyatko-tv-ua.png" tvg-rec="7",Малятко TV
+#EXTINF:0 group-title="Детские" tvg-id="malyatko-tv-ua" tvg-logo="https://cbilling.pw/img/streams/malyatko-tv-ua.png" tvg-rec="7",Малятко TV
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/malyatko-tv-ua.m3u8
 #EXTINF:0 tvg-rec="0",Малыш
