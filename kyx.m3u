@@ -20,9 +20,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/rossija24.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="moskva-24" tvg-logo="https://cbilling.pw/img/streams/moskva-24.png" tvg-rec="0",Москва 24
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/moskva-24.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="izvestija" tvg-logo="https://cbilling.pw/img/streams/izvestija.png" tvg-rec="0",Известия
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="izvestija-hd" tvg-logo="https://cbilling.pw/img/streams/izvestija-hd.png" tvg-rec="0",Известия HD
 #EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce_2/izvestija.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/izvestija-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-24-hd" tvg-logo="https://cbilling.pw/img/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mir-24-hd.m3u8
@@ -335,6 +335,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/rtvi.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="super" tvg-logo="https://cbilling.pw/img/streams/super.png" tvg-rec="7",Супер
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/super.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="super-hd" tvg-logo="https://cbilling.pw/img/streams/super-hd.png" tvg-rec="7",Супер HD
+#EXTGRP:Российские (общие)
+http://s03.iptvx.tv:8090/s/fa7366ce_2/super-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="domashnij" tvg-logo="https://cbilling.pw/img/streams/domashnij.png" tvg-rec="7",Домашний
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/domashnij.m3u8
@@ -431,150 +434,6 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2433/index.m3u8
 #EXTINF:0,Univer TV HD
 #EXTGRP:Российские (общие)
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:0 tvg-rec="3",Россия-24 +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6013/index.m3u
-#EXTINF:0 tvg-rec="3",НТВ (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/713/index.m3u
-#EXTINF:0 tvg-rec="3",Первый канал (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/714/index.m3u
-#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/746/index.m3u
-#EXTINF:0 tvg-rec="0",5 канал +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6025/index.m3u
-#EXTINF:0 tvg-rec="0",5 канал +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6040/index.m3u
-#EXTINF:0 tvg-rec="0",5 канал +8
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6054/index.m3u
-#EXTINF:0 tvg-rec="0",Домашний +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6016/index.m3u
-#EXTINF:0 tvg-rec="0",Домашний +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6030/index.m3u
-#EXTINF:0 tvg-rec="0",Домашний +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6044/index.m3u
-#EXTINF:0 tvg-rec="0",Звезда +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6033/index.m3u
-#EXTINF:0 tvg-rec="0",Звезда +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6047/index.m3u
-#EXTINF:0 tvg-rec="0",Мир +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6019/index.m3u
-#EXTINF:0 tvg-rec="0",Мир +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6034/index.m3u
-#EXTINF:0 tvg-rec="0",Мир +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6048/index.m3u
-#EXTINF:0 tvg-rec="0",НТВ +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6024/index.m3u
-#EXTINF:0 tvg-rec="0",НТВ +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6039/index.m3u
-#EXTINF:0 tvg-rec="0",НТВ +8
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6053/index.m3u
-#EXTINF:0 tvg-rec="0",ОТР +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6014/index.m3u
-#EXTINF:0 tvg-rec="0",ОТР +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6026/index.m3u
-#EXTINF:0 tvg-rec="0",ОТР +8
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6055/index.m3u
-#EXTINF:0 tvg-rec="0",Первый канал +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6021/index.m3u
-#EXTINF:0 tvg-rec="0",Первый канал +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6037/index.m3u
-#EXTINF:0 tvg-rec="0",Первый канал +8
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6050/index.m3u
-#EXTINF:0 tvg-rec="0",Пятница +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6018/index.m3u
-#EXTINF:0 tvg-rec="0",Пятница +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6032/index.m3u
-#EXTINF:0 tvg-rec="0",Пятница +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6046/index.m3u
-#EXTINF:0 tvg-rec="0",Рен ТВ +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6028/index.m3u
-#EXTINF:0 tvg-rec="0",Рен ТВ +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6042/index.m3u
-#EXTINF:0 tvg-rec="0",Россия-1 +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6011/index.m3u
-#EXTINF:0 tvg-rec="0",Россия-1 +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6022/index.m3u
-#EXTINF:0 tvg-rec="0",Россия-1 +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6038/index.m3u
-#EXTINF:0 tvg-rec="0",Россия-1 +8
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6051/index.m3u
-#EXTINF:0 tvg-rec="0",СТС +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6015/index.m3u
-#EXTINF:0 tvg-rec="0",СТС +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6029/index.m3u
-#EXTINF:0 tvg-rec="0",СТС +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6043/index.m3u
-#EXTINF:0 tvg-rec="0",ТВ3 +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6017/index.m3u
-#EXTINF:0 tvg-rec="0",ТВ3 +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6031/index.m3u
-#EXTINF:0 tvg-rec="0",ТВ3 +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6045/index.m3u
-#EXTINF:0 tvg-rec="0",ТВЦ +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6027/index.m3u
-#EXTINF:0 tvg-rec="0",ТВЦ +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6041/index.m3u
-#EXTINF:0 tvg-rec="0",ТВЦ +8
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6056/index.m3u
-#EXTINF:0 tvg-rec="0",ТНТ +2
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6020/index.m3u
-#EXTINF:0 tvg-rec="0",ТНТ +4
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6035/index.m3u
-#EXTINF:0 tvg-rec="0",ТНТ +6
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6049/index.m3u
-#EXTINF:0 tvg-rec="3",ТВЦ (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/716/index.m3u
-#EXTINF:0 tvg-rec="3",Звезда (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/739/index.m3u
-#EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/747/index.m3u
 #EXTINF:0 group-title="Украинские" tvg-id="112-ua-hd" tvg-logo="https://cbilling.pw/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/112-ua-hd.m3u8
@@ -2455,6 +2314,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/ocean-tv.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="morskoj" tvg-logo="https://cbilling.pw/img/streams/morskoj.png" tvg-rec="7",Морской
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/morskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="morskoj-hd" tvg-logo="https://cbilling.pw/img/streams/morskoj-hd.png" tvg-rec="7",Морской HD
+#EXTGRP:Познавательные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/morskoj-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://cbilling.pw/img/streams/zoopark.png" tvg-rec="7",Зоопарк
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/zoopark.m3u8
@@ -2542,6 +2404,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/pervyj-obrazovatelnyj.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="teatr-tv" tvg-logo="https://cbilling.pw/img/streams/teatr-tv.png" tvg-rec="7",Театр
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/teatr-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="museum-hd" tvg-logo="https://cbilling.pw/img/streams/museum-hd.png" tvg-rec="7",Museum HD
+#EXTGRP:Познавательные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/museum-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="psihologija-21" tvg-logo="https://cbilling.pw/img/streams/psihologija-21.png" tvg-rec="7",Психология
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/psihologija-21.m3u8
@@ -2554,6 +2419,12 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/voprosy-otvety.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://cbilling.pw/img/streams/zhivi.png" tvg-rec="7",Живи
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/zhivi.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi-hd" tvg-logo="https://cbilling.pw/img/streams/zhivi-hd.png" tvg-rec="7",Живи HD
+#EXTGRP:Познавательные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/zhivi-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="myzen-hd" tvg-logo="https://cbilling.pw/img/streams/myzen-hd.png" tvg-rec="7",MyZen HD
+#EXTGRP:Познавательные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/myzen-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="mama" tvg-logo="https://cbilling.pw/img/streams/mama.png" tvg-rec="7",Мама
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mama.m3u8
@@ -2563,6 +2434,12 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/usadba.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye" tvg-logo="https://cbilling.pw/img/streams/domashnije-zhivotnye.png" tvg-rec="7",Домашние животные
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/domashnije-zhivotnye.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnyy-int-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnyy-int-hd.png" tvg-rec="7",Загородный int HD
+#EXTGRP:Познавательные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/zagorodnyy-int-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnaya-zhizn-hd.png" tvg-rec="7",Загородная жизнь HD
+#EXTGRP:Познавательные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/zagorodnaya-zhizn-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="bober" tvg-logo="https://cbilling.pw/img/streams/bober.png" tvg-rec="7",Бобер
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/bober.m3u8
@@ -3103,6 +2980,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/setanta-sport-plus-ua-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="super-tennis-hd" tvg-logo="https://cbilling.pw/img/streams/super-tennis-hd.png" tvg-rec="7",Super Tennis HD
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/super-tennis-hd.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="golf-hd" tvg-logo="https://cbilling.pw/img/streams/golf-hd.png" tvg-rec="7",Golf HD
+#EXTGRP:Спортивные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/golf-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="apl2" tvg-logo="https://cbilling.pw/img/streams/apl2.png" tvg-rec="7",PL 2
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/apl2.m3u8
@@ -3358,9 +3238,15 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/o2-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="https://cbilling.pw/img/streams/ru-tv.png" tvg-rec="0",RU TV
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ru-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv-hd" tvg-logo="https://cbilling.pw/img/streams/ru-tv-hd.png" tvg-rec="0",RU TV HD
+#EXTGRP:Музыкальные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/ru-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="aiva-hd" tvg-logo="https://cbilling.pw/img/streams/aiva-hd.png" tvg-rec="0",AIVA HD
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/aiva-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd" tvg-logo="https://cbilling.pw/img/streams/clubbing-hd.png" tvg-rec="0",Clubbing HD
+#EXTGRP:Музыкальные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/clubbing-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://cbilling.pw/img/streams/bridge-tv.png" tvg-rec="0",Bridge TV
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/bridge-tv.m3u8
@@ -3442,6 +3328,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/evronews.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="izvestija" tvg-logo="https://cbilling.pw/img/streams/izvestija.png" tvg-rec="0",Известия
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/izvestija.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="izvestija-hd" tvg-logo="https://cbilling.pw/img/streams/izvestija-hd.png" tvg-rec="0",Известия HD
+#EXTGRP:Новостные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/izvestija-hd.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="moskva-24" tvg-logo="https://cbilling.pw/img/streams/moskva-24.png" tvg-rec="0",Москва 24
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/moskva-24.m3u8
