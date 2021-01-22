@@ -1,111 +1,111 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:0 tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.pw/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/1-plus-1-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/1-plus-1-hd.m3u8
 #EXTINF:0 tvg-id="inter" tvg-logo="https://cbilling.pw/img/streams/inter.png" tvg-rec="7",Интер
-http://s03.iptvx.tv:8090/s/fa7366ce_3/inter.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/inter.m3u8
 #EXTINF:0 tvg-id="trk-ua-hd" tvg-logo="https://cbilling.pw/img/streams/trk-ua-hd.png" tvg-rec="7",Україна HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/trk-ua-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/trk-ua-hd.m3u8
 #EXTINF:0 tvg-id="ictv-ua-hd" tvg-logo="https://cbilling.pw/img/streams/ictv-ua-hd.png" tvg-rec="7",ICTV HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/ictv-ua-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/ictv-ua-hd.m3u8
 #EXTINF:0 tvg-id="stb-ua-hd" tvg-logo="https://cbilling.pw/img/streams/stb-ua-hd.png" tvg-rec="7",СТБ HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/stb-ua-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/stb-ua-hd.m3u8
 #EXTINF:0 tvg-id="pervyj-ua-hd" tvg-logo="https://cbilling.pw/img/streams/pervyj-ua-hd.png" tvg-rec="7",Перший Національний HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/pervyj-ua-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/pervyj-ua-hd.m3u8
 #EXTINF:2,Бігуді
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/96/stream.m3u8
 #EXTINF:0 tvg-id="zee-tv" tvg-logo="https://cbilling.pw/img/streams/zee-tv.png" tvg-rec="7",Zee TV
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zee-tv.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/zee-tv.m3u8
 #EXTINF:124,Дача HD
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/454/stream.m3u8
 #EXTINF:0 tvg-id="usadba" tvg-logo="https://cbilling.pw/img/streams/usadba.png" tvg-rec="7",Усадьба
-http://s03.iptvx.tv:8090/s/fa7366ce_3/usadba.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/usadba.m3u8
 #EXTINF:0 tvg-id="sarafan" tvg-logo="https://cbilling.pw/img/streams/sarafan.png" tvg-rec="7",Сарафан
-http://s03.iptvx.tv:8090/s/fa7366ce_3/sarafan.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/sarafan.m3u8
 #EXTINF:0 tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.pw/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/pervyj-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/pervyj-hd-orig.m3u8
 #EXTINF:0 tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.pw/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/rossija-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/rossija-hd-orig.m3u8
 #EXTINF:0 tvg-id="rossija24" tvg-logo="https://cbilling.pw/img/streams/rossija24.png" tvg-rec="0",Россия 24
-http://s03.iptvx.tv:8090/s/fa7366ce_3/rossija24.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/rossija24.m3u8
 #EXTINF:-1 tvg-rec="7" timeshift="7",НТВ HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/ntv-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/ntv-hd-orig.m3u8
 #EXTINF:0 tvg-id="ntv-mir" tvg-logo="https://cbilling.pw/img/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
-http://s03.iptvx.tv:8090/s/fa7366ce_3/ntv-mir.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/ntv-mir.m3u8
 #EXTINF:0 tvg-id="ren-tv" tvg-logo="https://cbilling.pw/img/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
-http://s03.iptvx.tv:8090/s/fa7366ce_2/ren-tv.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ren-tv.m3u8
 #EXTINF:0 tvg-id="mosfilm-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/mosfilm-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/mosfilm-hd-orig.m3u8
 #EXTINF:0 tvg-id="vremya" tvg-logo="https://cbilling.pw/img/streams/vremya.png" tvg-rec="7",Время
-http://s03.iptvx.tv:8090/s/fa7366ce_3/vremya.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/vremya.m3u8
 #EXTINF:0 tvg-id="nostalgia" tvg-logo="https://cbilling.pw/img/streams/nostalgia.png" tvg-rec="7",Ностальгия
-http://s03.iptvx.tv:8090/s/fa7366ce_3/nostalgia.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/nostalgia.m3u8
 #EXTINF:0 tvg-id="retro" tvg-logo="https://cbilling.pw/img/streams/retro.png" tvg-rec="7",Ретро ТВ
-http://s03.iptvx.tv:8090/s/fa7366ce_3/retro.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/retro.m3u8
 #EXTINF:0 tvg-id="mir-24-hd" tvg-logo="https://cbilling.pw/img/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/mir-24-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/mir-24-hd.m3u8
 #EXTINF:0 tvg-id="domashnij" tvg-logo="https://cbilling.pw/img/streams/domashnij.png" tvg-rec="7",Домашний
-http://s03.iptvx.tv:8090/s/fa7366ce_3/domashnij.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/domashnij.m3u8
 #EXTINF:0 tvg-id="glazami-turista-hd" tvg-logo="https://cbilling.pw/img/streams/glazami-turista-hd.png" tvg-rec="7",Глазами Туриста HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/glazami-turista-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/glazami-turista-hd.m3u8
 #EXTINF:0 tvg-id="animal-planet-hd-orig" tvg-logo="https://cbilling.pw/img/streams/animal-planet-hd-orig.png" tvg-rec="7",Animal Planet HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/animal-planet-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/animal-planet-hd-orig.m3u8
 #EXTINF:0 tvg-id="planeta-hd" tvg-logo="https://cbilling.pw/img/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/planeta-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/planeta-hd.m3u8
 #EXTINF:0 tvg-id="112-ua-hd" tvg-logo="https://cbilling.pw/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/112-ua-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/112-ua-hd.m3u8
 #EXTINF:0 tvg-id="news-one-ua-hd" tvg-logo="https://cbilling.pw/img/streams/news-one-ua-hd.png" tvg-rec="7",NewsOne HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/news-one-ua-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/news-one-ua-hd.m3u8
 #EXTINF:190,Наш HD
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4293/stream.m3u8
 #EXTINF:0 tvg-id="zik-hd-ua" tvg-logo="https://cbilling.pw/img/streams/zik-hd-ua.png" tvg-rec="7",Zik HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zik-hd-ua.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/zik-hd-ua.m3u8
 #EXTINF:0 tvg-id="ukraina-24-hd" tvg-logo="https://cbilling.pw/img/streams/ukraina-24-hd.png" tvg-rec="0",Украина 24 HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/ukraina-24-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/ukraina-24-hd.m3u8
 #EXTINF:0 tvg-id="tvc" tvg-logo="https://cbilling.pw/img/streams/tvc.png" tvg-rec="7",ТВЦ
-http://s03.iptvx.tv:8090/s/fa7366ce_3/tvc.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/tvc.m3u8
 #EXTINF:0 tvg-id="zvezda" tvg-logo="https://cbilling.pw/img/streams/zvezda.png" tvg-rec="7",Звезда
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zvezda.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/zvezda.m3u8
 #EXTINF:0 tvg-id="zdorovoe-tv" tvg-logo="https://cbilling.pw/img/streams/zdorovoe-tv.png" tvg-rec="7",Доктор
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zdorovoe-tv.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/zdorovoe-tv.m3u8
 #EXTINF:122,Телеканал 36.6 HD
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4721/stream.m3u8
 #EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/russkij-roman-hd.png" tvg-rec="7",Русский Роман HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/russkij-roman-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/russkij-roman-hd.m3u8
 #EXTINF:0 tvg-id="pobeda-hd" tvg-logo="https://cbilling.pw/img/streams/pobeda-hd.png" tvg-rec="7",Победа HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/pobeda-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/pobeda-hd.m3u8
 #EXTINF:0 tvg-id="den-pobedy-hd" tvg-logo="https://cbilling.pw/img/streams/den-pobedy-hd.png" tvg-rec="7",День Победы HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/den-pobedy-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/den-pobedy-hd.m3u8
 #EXTINF:0 tvg-id="romantichnoe-hd" tvg-logo="https://cbilling.pw/img/streams/romantichnoe-hd.png" tvg-rec="7",Романтичное HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/romantichnoe-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/romantichnoe-hd.m3u8
 #EXTINF:0 tvg-id="pro-lubov-hd-orig" tvg-logo="https://cbilling.pw/img/streams/pro-lubov-hd-orig.png" tvg-rec="7",Про Любовь HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/pro-lubov-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/pro-lubov-hd-orig.m3u8
 #EXTINF:0 tvg-id="rtvi" tvg-logo="https://cbilling.pw/img/streams/rtvi.png" tvg-rec="7",RTVi
-http://s03.iptvx.tv:8090/s/fa7366ce_3/rtvi.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/rtvi.m3u8
 #EXTINF:0 tvg-id="dom-kino" tvg-logo="https://cbilling.pw/img/streams/dom-kino.png" tvg-rec="7",Дом Кино
-http://s03.iptvx.tv:8090/s/fa7366ce_3/dom-kino.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/dom-kino.m3u8
 #EXTINF:0 tvg-id="dom-kino-premium-hd" tvg-logo="https://cbilling.pw/img/streams/dom-kino-premium-hd.png" tvg-rec="7",Дом Кино Премиум HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/dom-kino-premium-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/dom-kino-premium-hd.m3u8
 #EXTINF:0 tvg-id="zagorodnaya-zhizn-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnaya-zhizn-hd.png" tvg-rec="7",Загородная жизнь HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zagorodnaya-zhizn-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/zagorodnaya-zhizn-hd.m3u8
 #EXTINF:0 tvg-id="zagorodnyy-int-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnyy-int-hd.png" tvg-rec="7",Загородный int HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zagorodnyy-int-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/zagorodnyy-int-hd.m3u8
 #EXTINF:0 tvg-id="eda-hd" tvg-logo="https://cbilling.pw/img/streams/eda-hd.png" tvg-rec="7",Еда Премиум
-http://s03.iptvx.tv:8090/s/fa7366ce_3/eda-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/eda-hd.m3u8
 #EXTINF:0 tvg-id="nash-kinopokaz-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinopokaz-hd-orig.png" tvg-rec="7",Наш Кинопоказ HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/nash-kinopokaz-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/nash-kinopokaz-hd-orig.m3u8
 #EXTINF:0 tvg-id="nash-kinoroman-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Душевное HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/nash-kinoroman-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/nash-kinoroman-hd-orig.m3u8
 #EXTINF:0 tvg-id="nashe-krutoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/nashe-krutoe-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/nashe-krutoe-hd-orig.m3u8
 #EXTINF:0 tvg-id="nashe-lubimoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nashe-lubimoe-hd-orig.png" tvg-rec="7",Любимое HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/nashe-lubimoe-hd-orig.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/nashe-lubimoe-hd-orig.m3u8
 #EXTINF:0 tvg-id="lubimoe-kino" tvg-logo="https://cbilling.pw/img/streams/lubimoe-kino.png" tvg-rec="7",Любимое Кино
-http://s03.iptvx.tv:8090/s/fa7366ce_3/lubimoe-kino.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/lubimoe-kino.m3u8
 #EXTINF:0 tvg-id="rodnoje_kino" tvg-logo="https://cbilling.pw/img/streams/rodnoje_kino.png" tvg-rec="7",Родное кино
-http://s03.iptvx.tv:8090/s/fa7366ce_3/rodnoje_kino.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/rodnoje_kino.m3u8
 #EXTINF:0 tvg-id="nashe-novoe-kino" tvg-logo="https://cbilling.pw/img/streams/nashe-novoe-kino.png" tvg-rec="7",Наше новое кино
-http://s03.iptvx.tv:8090/s/fa7366ce_3/nashe-novoe-kino.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/nashe-novoe-kino.m3u8
 #EXTINF:0 tvg-id="tv1000-russkoje-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-russkoje-hd.png" tvg-rec="7",TV1000 Русское Кино HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/tv1000-russkoje-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_3/tv1000-russkoje-hd.m3u8
 #EXTINF:104,Дорама HD
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4247/stream.m3u8
