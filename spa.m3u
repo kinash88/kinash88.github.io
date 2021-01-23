@@ -47,8 +47,8 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/mir-24-hd.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce_3/domashnij.m3u8
 #EXTINF:0 tvg-id="glazami-turista-hd" tvg-logo="https://cbilling.pw/img/streams/glazami-turista-hd.png" tvg-rec="7",Глазами Туриста HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/glazami-turista-hd.m3u8
-#EXTINF:0 tvg-id="animal-planet-hd-orig" tvg-logo="https://cbilling.pw/img/streams/animal-planet-hd-orig.png" tvg-rec="7",Animal Planet HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/animal-planet-hd-orig.m3u8
+#EXTINF:67 group-title="Украинские (OMEGA TV)",Animal planet HD
+http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4706/stream.m3u8
 #EXTINF:0 tvg-id="planeta-hd" tvg-logo="https://cbilling.pw/img/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/planeta-hd.m3u8
 #EXTINF:0 tvg-id="112-ua-hd" tvg-logo="https://cbilling.pw/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
