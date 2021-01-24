@@ -62,12 +62,15 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/ctc-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="ren-tv" tvg-logo="https://cbilling.pw/img/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ren-tv.m3u8
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир HD
+#EXTGRP:Отобранное Любимое
+http://s03.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир Premium HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda" tvg-logo="https://cbilling.pw/img/streams/zvezda.png" tvg-rec="7",Звезда
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
 #EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce_2/zvezda.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/zvezda-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="piatnica-hd" tvg-logo="https://cbilling.pw/img/streams/piatnica-hd.png" tvg-rec="7",Пятница HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/piatnica-hd.m3u8
@@ -86,9 +89,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/perec.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="nostalgia" tvg-logo="https://cbilling.pw/img/streams/nostalgia.png" tvg-rec="7",Ностальгия
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nostalgia.m3u8
-#EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",ОТР
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="otp" tvg-logo="https://cbilling.pw/img/streams/otp.png" tvg-rec="7",ОТР
 #EXTGRP:Отобранное Любимое
-http://myott.top/stream/8WH42KGIMV/61.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/otp.m3u8
 #EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Отобранное Любимое
 http://myott.top/stream/8WH42KGIMV/224.m3u8
@@ -296,6 +299,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/rentv-hd-orig.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir" tvg-logo="https://cbilling.pw/img/streams/mir.png" tvg-rec="7",Мир
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mir.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир HD
+#EXTGRP:Российские (общие)
+http://s03.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир Premium HD
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
@@ -308,6 +314,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/mir-24-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda" tvg-logo="https://cbilling.pw/img/streams/zvezda.png" tvg-rec="7",Звезда
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/zvezda.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
+#EXTGRP:Российские (общие)
+http://s03.iptvx.tv:8090/s/fa7366ce_2/zvezda-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="4e" tvg-logo="https://cbilling.pw/img/streams/4e.png" tvg-rec="7",Че
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/4e.m3u8
@@ -413,9 +422,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/nostalgia.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="retro" tvg-logo="https://cbilling.pw/img/streams/retro.png" tvg-rec="7",Ретро ТВ
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce_2/retro.m3u8
-#EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",ОТР
+#EXTINF:0 group-title="Российские (общие)" tvg-id="otp" tvg-logo="https://cbilling.pw/img/streams/otp.png" tvg-rec="7",ОТР
 #EXTGRP:Российские (общие)
-http://myott.top/stream/8WH42KGIMV/61.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/otp.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/224.m3u8
@@ -3285,7 +3294,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/nickelodeon.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nickelodeon-hd.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="nicktoons" tvg-logo="https://cbilling.pw/img/streams/nicktoons.png" tvg-rec="7",Nicktoons
 #EXTGRP:Детские
-http://s03.iptvx.tv:8090/s/fa7366ce/nicktoons.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/nicktoons.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="cartoon-network" tvg-logo="https://cbilling.pw/img/streams/cartoon-network.png" tvg-rec="7",Cartoon Network
 #EXTGRP:Детские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/cartoon-network.m3u8
@@ -3394,6 +3403,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/aiva-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd" tvg-logo="https://cbilling.pw/img/streams/clubbing-hd.png" tvg-rec="0",Clubbing HD
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/clubbing-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="kronehit-hd" tvg-logo="https://cbilling.pw/img/streams/kronehit-hd.png" tvg-rec="0",Kronehit HD
+#EXTGRP:Музыкальные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/kronehit-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://cbilling.pw/img/streams/bridge-tv.png" tvg-rec="0",Bridge TV
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/bridge-tv.m3u8
