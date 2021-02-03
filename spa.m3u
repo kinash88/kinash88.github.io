@@ -19,8 +19,10 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/zee-tv.m3u8
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/454/stream.m3u8
 #EXTINF:0 tvg-id="usadba" tvg-logo="https://cbilling.pw/img/streams/usadba.png" tvg-rec="7",Усадьба
 http://s03.iptvx.tv:8090/s/fa7366ce_3/usadba.m3u8
-#EXTINF:0 tvg-id="zagorodnaya-zhizn-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnaya-zhizn-hd.png" tvg-rec="7",Загородная жизнь HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zagorodnaya-zhizn-hd.m3u8
+#EXTINF:0 tvg-id="domashnije-zhivotnye" tvg-logo="https://cbilling.pw/img/streams/domashnije-zhivotnye.png" tvg-rec="7",Домашние животные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/domashnije-zhivotnye.m3u8
+#EXTINF:0 tvg-id="zagorodnaya-zhizn-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnaya-zhizn-hd.png" tvg-rec="7",Загородная жизнь
+http://50.7.231.221:8081/195/index.m3u8?wmsAuthSign=1612376656p122i88i361i881S4927f53e10c61050bb42e3574d769347
 #EXTINF:0 tvg-id="zagorodnyy-int-hd" tvg-logo="https://cbilling.pw/img/streams/zagorodnyy-int-hd.png" tvg-rec="7",Загородный int HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/zagorodnyy-int-hd.m3u8
 #EXTINF:0 tvg-id="sarafan" tvg-logo="https://cbilling.pw/img/streams/sarafan.png" tvg-rec="7",Сарафан
@@ -59,8 +61,8 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/glazami-turista-hd.m3u8
 http://cdnua03.hls.tv/476/hls/225c177914dd63cac213c72f21577df1/4706/stream.m3u8
 #EXTINF:0 tvg-id="planeta-hd" tvg-logo="https://cbilling.pw/img/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/planeta-hd.m3u8
-#EXTINF:0 tvg-id="112-ua-hd" tvg-logo="https://cbilling.pw/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
-http://s03.iptvx.tv:8090/s/fa7366ce_3/112-ua-hd.m3u8
+#EXTINF:0 tvg-id="belarus1-by-hd" tvg-logo="https://cbilling.pw/img/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
+http://s03.iptvx.tv:8090/s/fa7366ce_3/belarus1-by-hd.m3u8
 #EXTINF:0 tvg-id="news-one-ua-hd" tvg-logo="https://cbilling.pw/img/streams/news-one-ua-hd.png" tvg-rec="7",NewsOne HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/news-one-ua-hd.m3u8
 #EXTINF:190,Наш HD
