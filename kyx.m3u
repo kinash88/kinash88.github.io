@@ -3835,6 +3835,15 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-atlantic-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sky-special-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-special-hd-de.png" tvg-rec="7",Sky Cinema Special HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-special-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-film-hd-de" tvg-logo="https://cbilling.pw/img/streams/tnt-film-hd-de.png" tvg-rec="7",TNT Film HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-film-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-comedy-hd-de" tvg-logo="https://cbilling.pw/img/streams/tnt-comedy-hd-de.png" tvg-rec="7",TNT Comedy HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-comedy-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-serie-hd-de" tvg-logo="https://cbilling.pw/img/streams/tnt-serie-hd-de.png" tvg-rec="7",TNT Serie HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-serie-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sixx-hd-de" tvg-logo="https://cbilling.pw/img/streams/sixx-hd-de.png" tvg-rec="7",SIXX HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sixx-hd-de.m3u8
