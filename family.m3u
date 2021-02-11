@@ -515,6 +515,33 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6037/index.m3u
 #EXTINF:0 tvg-rec="0",Первый канал +8
 #EXTGRP:Россия часовые пояса
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6050/index.m3u
+#EXTINF:-1,Россия 1 (+1)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/229.m3u8
+#EXTINF:-1,Россия 1 (+2)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/230.m3u8
+#EXTINF:-1,Россия 1 (+3)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/231.m3u8
+#EXTINF:-1,Россия 1 (+4)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/232.m3u8
+#EXTINF:-1,Россия 1 (+5)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/233.m3u8
+#EXTINF:-1,Россия 1 (+6)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/234.m3u8
+#EXTINF:-1,Россия 1 (+7)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/235.m3u8
+#EXTINF:-1,Россия 1 (+8)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/236.m3u8
+#EXTINF:-1,Россия 1 (+9)
+#EXTGRP:Россия часовые пояса
+http://zigfreed.ru:1234/X2fs/237.m3u8
 #EXTINF:0 tvg-rec="0",Пятница +2
 #EXTGRP:Россия часовые пояса
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6018/index.m3u
