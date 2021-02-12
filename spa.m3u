@@ -3,8 +3,6 @@
 http://playlist.hmara.tv/0c7909a7/134a220fe1b2e971bdef46bda516522899bdb824.m3u8
 #EXTINF:-1 group-title="Украинские (Хмара ТБ)",Алекс. Запоріжжя
 http://playlist.hmara.tv/0c7909a7/7d466abb1ef49e83aeb1e75d15c4c231e7fa27ed.m3u8
-#EXTINF:-1,ТРК Юг (Приморск-Бердянск)
-https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.pw/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/1-plus-1-hd.m3u8
 #EXTINF:0 tvg-id="inter" tvg-logo="https://cbilling.pw/img/streams/inter.png" tvg-rec="7",Интер
