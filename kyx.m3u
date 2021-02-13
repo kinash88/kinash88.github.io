@@ -602,6 +602,9 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6026/index.m3u
 #EXTINF:0 tvg-rec="0",ОТР (+8)
 #EXTGRP:Россия часовые пояса
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6055/index.m3u
+#EXTINF:-1,ТРК Юг (Приморск-Бердянск)
+EXTGRP:Украинские
+https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
 #EXTINF:-1,ТВ Бердянск
 #EXTGRP:Украинские
 https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
