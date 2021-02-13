@@ -622,7 +622,7 @@ https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
 https://oriontv.net/hls/480.m3u8
 #EXTINF:0,youtu.be
 #EXTGRP:Украинские
-https://youtu.be/3e0FsU1N6OQ
+https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="112-ua-hd" tvg-logo="https://cbilling.pw/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce/112-ua-hd.m3u8
