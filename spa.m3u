@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz" catchup-type="shift"
+#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"
 #EXTINF:-1 group-title="Украинские (Хмара ТБ)",ТВ-5. Запоріжжя
 http://playlist.hmara.tv/0c7909a7/134a220fe1b2e971bdef46bda516522899bdb824.m3u8
 #EXTINF:-1 group-title="Украинские (Хмара ТБ)",Алекс. Запоріжжя
