@@ -21,7 +21,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/pervyj-ua-hd.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce_3/pervyj-hd-orig.m3u8
 #EXTINF:0 tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.pw/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/rossija-hd-orig.m3u8
-#EXTINF:2,Бігуді
+#EXTINF:0 tvg-rec="0",Бiгудi
 http://cdnua03.hls.tv/476/hls/256e9f43761814925258fd4d96681115/96/stream.m3u8
 #EXTINF:0 tvg-id="zee-tv" tvg-logo="https://cbilling.pw/img/streams/zee-tv.png" tvg-rec="7",Zee TV
 http://s03.iptvx.tv:8090/s/fa7366ce_3/zee-tv.m3u8
