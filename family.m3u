@@ -482,7 +482,7 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+9)
 #EXTGRP:Россия часовые пояса
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
-#EXTINF:0 tvg-rec="3",Россия-24 (+2)
+#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/rossija24.png" tvg-rec="3",Россия-24 (+2)
 #EXTGRP:Россия часовые пояса
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6013/index.m3u
 #EXTINF:0 group-title="Россия часовые пояса" tvg-id="ntv-plus-2" tvg-logo="https://cbilling.pw/img/streams/ntv-plus-2.png" tvg-rec="0",НТВ (+2)
