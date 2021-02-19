@@ -134,7 +134,7 @@ http://playlist.hmara.tv/0c7909a7/7d466abb1ef49e83aeb1e75d15c4c231e7fa27ed.m3u8
 #EXTINF:0 tvg-rec="0",Рада
 #EXTGRP:Отобранное Любимое
 http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/139/stream.m3u8
-#EXTINF:0 tvg-rec="0",Rabinovych TV
+#EXTINF:0 tvg-rec="0",Kyiv Live
 #EXTGRP:Отобранное Любимое
 http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/572/stream.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="nat-geo-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nat-geo-hd-orig.png" tvg-rec="7",National Geographic HD
