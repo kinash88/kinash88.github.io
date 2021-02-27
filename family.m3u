@@ -2794,9 +2794,6 @@ http://s03.iptvx.tv:8090/s/fa7366ce/evrokino.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="evrokino-hd" tvg-logo="https://cbilling.pw/img/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/evrokino-hd.m3u8
-#EXTINF:0 group-title="Фильмовые" tvg-id="flix-snip" tvg-logo="https://cbilling.pw/img/streams/flix-snip.png" tvg-rec="7",Flix Snip
-#EXTGRP:Кино
-http://s03.iptvx.tv:8090/s/fa7366ce/flix-snip.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="muzhskoe-kino" tvg-logo="https://cbilling.pw/img/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/muzhskoe-kino.m3u8
@@ -2809,6 +2806,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/nashe-muzshkoe-hd-orig.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="trash-hd" tvg-logo="https://cbilling.pw/img/streams/trash-hd.png" tvg-rec="7",Trash HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/trash-hd.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="flix-snip" tvg-logo="https://cbilling.pw/img/streams/flix-snip.png" tvg-rec="7",Flix Snip
+#EXTGRP:Кино
+http://s03.iptvx.tv:8090/s/fa7366ce/flix-snip.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="egoist-tv" tvg-logo="https://cbilling.pw/img/streams/egoist-tv.png" tvg-rec="7",SHOT TV
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/egoist-tv.m3u8
