@@ -73,6 +73,8 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/otp.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce_3/mosfilm-hd-orig.m3u8
 #EXTINF:0 tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/zvezda-hd.m3u8
+#EXTINF:0 tvg-id="zvezda-plus" tvg-logo="https://cbilling.pw/img/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
+http://s03.iptvx.tv:8090/s/fa7366ce_3/zvezda-plus.m3u8
 #EXTINF:0 tvg-id="vremya" tvg-logo="https://cbilling.pw/img/streams/vremya.png" tvg-rec="7",Время
 http://s03.iptvx.tv:8090/s/fa7366ce_3/vremya.m3u8
 #EXTINF:0 tvg-id="nostalgia" tvg-logo="https://cbilling.pw/img/streams/nostalgia.png" tvg-rec="7",Ностальгия
