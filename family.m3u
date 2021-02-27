@@ -62,6 +62,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/mir-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-hd.m3u8
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda-plus" tvg-logo="https://cbilling.pw/img/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
+#EXTGRP:Отобранное Любимое
+http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="piatnica-hd" tvg-logo="https://cbilling.pw/img/streams/piatnica-hd.png" tvg-rec="7",Пятница HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce/piatnica-hd.m3u8
@@ -308,6 +311,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/zvezda.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-hd.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda-plus" tvg-logo="https://cbilling.pw/img/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
+#EXTGRP:Российские (общие)
+http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="4e" tvg-logo="https://cbilling.pw/img/streams/4e.png" tvg-rec="7",Че
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce/4e.m3u8
@@ -2788,6 +2794,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/evrokino.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="evrokino-hd" tvg-logo="https://cbilling.pw/img/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/evrokino-hd.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="flix-snip" tvg-logo="https://cbilling.pw/img/streams/flix-snip.png" tvg-rec="7",Flix Snip
+#EXTGRP:Кино
+http://s03.iptvx.tv:8090/s/fa7366ce/flix-snip.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="muzhskoe-kino" tvg-logo="https://cbilling.pw/img/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/muzhskoe-kino.m3u8
