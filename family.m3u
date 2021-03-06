@@ -31,7 +31,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce/mir-24-hd.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce/1-plus-1-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="trk-ua-hd" tvg-logo="https://cbilling.pw/img/streams/trk-ua-hd.png" tvg-rec="7",Україна HD
 #EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/trk-ua-hd.m3u8
+http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4613/stream.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="inter" tvg-logo="https://cbilling.pw/img/streams/inter.png" tvg-rec="7",Интер
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce/inter.m3u8
@@ -697,7 +697,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce/unian-tv-ua.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce/novyj-kanal-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="trk-ua-hd" tvg-logo="https://cbilling.pw/img/streams/trk-ua-hd.png" tvg-rec="7",Україна HD
 #EXTGRP:Украинские
-http://s03.iptvx.tv:8090/s/fa7366ce/trk-ua-hd.m3u8
+http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4613/stream.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="m1-ua-hd" tvg-logo="https://cbilling.pw/img/streams/m1-ua-hd.png" tvg-rec="7",M1 HD
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce/m1-ua-hd.m3u8
