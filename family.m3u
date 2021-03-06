@@ -719,12 +719,6 @@ http://s03.iptvx.tv:8090/s/fa7366ce/nlo-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="indigo-ua-hd" tvg-logo="https://cbilling.pw/img/streams/indigo-ua-hd.png" tvg-rec="7",Индиго HD
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce/indigo-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="112-ua" tvg-logo="https://cbilling.pw/img/streams/112-ua.png" tvg-rec="7",112 Украина
-#EXTGRP:Украинские
-http://s03.iptvx.tv:8090/s/fa7366ce/112-ua.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="news-one-ua" tvg-logo="https://cbilling.pw/img/streams/news-one-ua.png" tvg-rec="7",NewsONE
-#EXTGRP:Украинские
-http://s03.iptvx.tv:8090/s/fa7366ce/news-one-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="24tv-ua" tvg-logo="https://cbilling.pw/img/streams/24tv-ua.png" tvg-rec="0",24 Канал
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce/24tv-ua.m3u8
