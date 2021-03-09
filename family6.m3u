@@ -3122,13 +3122,13 @@ http://s06.iptvx.tv:8090/s/fa7366ce/khl-tv.m3u8
 #EXTGRP:Спортивные
 http://s06.iptvx.tv:8090/s/fa7366ce/khl-tv-hd-orig.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="hokkejnyj-hd" tvg-logo="https://cbilling.pw/img/streams/hokkejnyj-hd.png" tvg-rec="7",Хоккейный HD
-#EXTGRP:Спорт
+#EXTGRP:Спортивные
 http://s06.iptvx.tv:8090/s/fa7366ce/hokkejnyj-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="futbolnyj-hd" tvg-logo="https://cbilling.pw/img/streams/futbolnyj-hd.png" tvg-rec="7",Футбольный HD
-#EXTGRP:Спорт
+#EXTGRP:Спортивные
 http://s06.iptvx.tv:8090/s/fa7366ce/futbolnyj-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="sportivnyj-hd" tvg-logo="https://cbilling.pw/img/streams/sportivnyj-hd.png" tvg-rec="7",Спортивный HD
-#EXTGRP:Спорт
+#EXTGRP:Спортивные
 http://s06.iptvx.tv:8090/s/fa7366ce/sportivnyj-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="mir-basketbola" tvg-logo="https://cbilling.pw/img/streams/mir-basketbola.png" tvg-rec="7",Мир Баскетбола
 #EXTGRP:Спортивные
