@@ -53,9 +53,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/tnt-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="ctc-hd-orig" tvg-logo="https://cbilling.pw/img/streams/ctc-hd.png" tvg-rec="7",СТС HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce/ctc-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="ren-tv" tvg-logo="https://cbilling.pw/img/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="rentv-hd-orig" tvg-logo="https://cbilling.pw/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
 #EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/ren-tv.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce/rentv-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир HD
 #EXTGRP:Отобранное Любимое
 http://s03.iptvx.tv:8090/s/fa7366ce/mir-hd.m3u8
