@@ -35,9 +35,6 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/trk-ua-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="inter" tvg-logo="https://cbilling.pw/img/streams/inter.png" tvg-rec="7",Интер
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce_2/inter.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="pershi-nesalezhny-hd" tvg-logo="https://cbilling.pw/img/streams/pershi-nesalezhny.png" tvg-rec="7",Перший Незалежний HD
-#EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/pershi-nesalezhny-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
 #EXTGRP:Отобранное Любимое
 http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
@@ -638,9 +635,6 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/tet-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="espresso-ua-hd" tvg-logo="https://cbilling.pw/img/streams/espresso-ua-hd.png" tvg-rec="7",Eспресо TV HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/espresso-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="tonis-hd-ua" tvg-logo="https://cbilling.pw/img/streams/tonis-hd-ua.png" tvg-rec="0",Прямий HD
-#EXTGRP:Украинские
-http://s06.iptvx.tv:8090/s/fa7366ce_2/tonis-hd-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
 #EXTGRP:Украинские
 http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
