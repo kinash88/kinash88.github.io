@@ -35,6 +35,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/trk-ua-hd.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="inter-ua-hd" tvg-logo="https://cbilling.pw/img/streams/inter-ua-hd.png" tvg-rec="7",Интер HD
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce_2/inter-ua-hd.m3u8
+#EXTINF:0 group-title="Отобранное Любимое" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
+#EXTGRP:Отобранное Любимое
+http://s06.iptvx.tv:8090/s/fa7366ce_2/1nezalegny-hd-ua.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
 #EXTGRP:Отобранное Любимое
 http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
@@ -617,6 +620,9 @@ https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
 #EXTINF:-1,En TV/ZOOM (Энергодар)
 #EXTGRP:Украинские
 https://oriontv.net/hls/480.m3u8
+#EXTINF:0 group-title="Украинские" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
+#EXTGRP:Украинские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/1nezalegny-hd-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="ukraina-24-hd" tvg-logo="https://cbilling.pw/img/streams/ukraina-24-hd.png" tvg-rec="0",Украина 24 HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/ukraina-24-hd.m3u8
@@ -5112,6 +5118,12 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/home-4k.m3u8
 #EXTINF:0 group-title="Ultra HD" tvg-id="nasha-sibir-4k" tvg-logo="https://cbilling.pw/img/streams/nasha-sibir-4k.png" tvg-rec="7",Наша Сибирь 4k
 #EXTGRP:Ultra HD
 http://s06.iptvx.tv:8090/s/fa7366ce_2/nasha-sibir-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="myzen-4k" tvg-logo="https://cbilling.pw/img/streams/myzen-4k.png" tvg-rec="7",MyZen 4k
+#EXTGRP:Ultra HD
+http://s06.iptvx.tv:8090/s/fa7366ce_2/myzen-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="museum-4k" tvg-logo="https://cbilling.pw/img/streams/museum-4k.png" tvg-rec="7",Museum 4k
+#EXTGRP:Ultra HD
+http://s06.iptvx.tv:8090/s/fa7366ce_2/museum-4k.m3u8
 #EXTINF:0 group-title="Ultra HD" tvg-id="fashion-one-4k" tvg-logo="https://cbilling.pw/img/streams/fashion-one-4k.png" tvg-rec="7",Fashion 4K
 #EXTGRP:Ultra HD
 http://s06.iptvx.tv:8090/s/fa7366ce_2/fashion-one-4k.m3u8
