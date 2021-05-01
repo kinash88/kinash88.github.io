@@ -2809,6 +2809,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/mgm-hd.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="cinema" tvg-logo="https://cbilling.pw/img/streams/cinema.png" tvg-rec="7",Cinema
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/cinema.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="cinema-hd-orig" tvg-logo="https://cbilling.pw/img/streams/cinema-hd-orig.png" tvg-rec="7",Cinema HD
+#EXTGRP:Фильмовые
+http://s03.iptvx.tv:8090/s/fa7366ce/cinema-hd-orig.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="kino-tv" tvg-logo="https://cbilling.pw/img/streams/kino-tv.png" tvg-rec="7",Кино ТВ
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce/kino-tv.m3u8
