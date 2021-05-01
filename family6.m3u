@@ -395,6 +395,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/perec.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="podmoskovje" tvg-logo="https://cbilling.pw/img/streams/podmoskovje.png" tvg-rec="7",360 Подмосковье
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce/podmoskovje.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="telekanal-360-hd" tvg-logo="https://cbilling.pw/img/streams/telekanal-360-hd.png" tvg-rec="7",Телеканал 360 HD
+#EXTGRP:Российские (общие)
+http://s06.iptvx.tv:8090/s/fa7366ce/telekanal-360-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="rt-doc" tvg-logo="https://cbilling.pw/img/streams/rt-doc.png" tvg-rec="7",RT Док
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce/rt-doc.m3u8
