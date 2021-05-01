@@ -341,10 +341,10 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/podmoskovje.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="rtvi" tvg-logo="https://cbilling.pw/img/streams/rtvi.png" tvg-rec="7",RTVi
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/rtvi.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="super" tvg-logo="https://cbilling.pw/img/streams/super.png" tvg-rec="7",Супер
+#EXTINF:0 group-title="Российские (общие)" tvg-id="super" tvg-logo="https://cbilling.pw/img/streams/super.png" tvg-rec="7",Суббота
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/super.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="super-hd" tvg-logo="https://cbilling.pw/img/streams/super-hd.png" tvg-rec="7",Супер HD
+#EXTINF:0 group-title="Российские (общие)" tvg-id="super-hd" tvg-logo="https://cbilling.pw/img/streams/super-hd.png" tvg-rec="7",Суббота HD
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/super-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="domashnij" tvg-logo="https://cbilling.pw/img/streams/domashnij.png" tvg-rec="7",Домашний
@@ -395,6 +395,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/perec.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="podmoskovje" tvg-logo="https://cbilling.pw/img/streams/podmoskovje.png" tvg-rec="7",360 Подмосковье
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/podmoskovje.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="telekanal-360-hd" tvg-logo="https://cbilling.pw/img/streams/telekanal-360-hd.png" tvg-rec="7",Телеканал 360 HD
+#EXTGRP:Российские (общие)
+http://s06.iptvx.tv:8090/s/fa7366ce_2/telekanal-360-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="rt-doc" tvg-logo="https://cbilling.pw/img/streams/rt-doc.png" tvg-rec="7",RT Док
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/rt-doc.m3u8
