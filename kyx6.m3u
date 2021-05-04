@@ -3901,6 +3901,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/rtl-nitro-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="zdf-hd-de" tvg-logo="https://cbilling.pw/img/streams/zdf-hd-de.png" tvg-rec="7",ZDF HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/zdf-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="zdf-neo-hd-de" tvg-logo="https://cbilling.pw/img/streams/zdf-neo-hd-de.png" tvg-rec="7",ZDF Neo HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/zdf-neo-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="arte-hd-de" tvg-logo="https://cbilling.pw/img/streams/arte-hd-de.png" tvg-rec="7",Arte HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/arte-hd-de.m3u8
