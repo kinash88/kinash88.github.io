@@ -647,6 +647,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/espresso-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="tonis-hd-ua" tvg-logo="https://cbilling.pw/img/streams/tonis-hd-ua.png" tvg-rec="0",Прямий HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/tonis-hd-ua.m3u8
+#EXTINF:0 group-title="Украинские" tvg-id="dom-ua" tvg-logo="https://cbilling.pw/img/streams/dom-ua.png" tvg-rec="0",Дом
+#EXTGRP:Украинские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/dom-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
 #EXTGRP:Украинские
 http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
