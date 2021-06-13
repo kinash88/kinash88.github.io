@@ -2881,9 +2881,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/russkaja-comedija.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="kinokomedia" tvg-logo="https://cbilling.pw/img/streams/kinokomedia.png" tvg-rec="7",Кинокомедия
 #EXTGRP:Фильмовые
 http://s06.iptvx.tv:8090/s/fa7366ce_2/kinokomedia.m3u8
-#EXTINF:0 group-title="Фильмовые" tvg-id="kinokomedia-hd" tvg-logo="https://cbilling.pw/img/streams/kinokomedia-hd.png" tvg-rec="7",Кинокомедия HD
+#EXTINF:0 group-title="Фильмовые" tvg-id="kinokomedia-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinokomedia-hd-orig.png" tvg-rec="7",Кинокомедия HD
 #EXTGRP:Фильмовые
-http://s06.iptvx.tv:8090/s/fa7366ce_2/kinokomedia-hd.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/kinokomedia-hd-orig.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="komedijnoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/komedijnoe-hd-orig.png" tvg-rec="7",Комедийное HD
 #EXTGRP:Фильмовые
 http://s06.iptvx.tv:8090/s/fa7366ce_2/komedijnoe-hd-orig.m3u8
