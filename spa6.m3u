@@ -145,6 +145,10 @@ http://s06.iptvx.tv:8090/s/fa7366ce_3/lubimoe-kino.m3u8
 http://s06.iptvx.tv:8090/s/fa7366ce_3/rodnoje_kino.m3u8
 #EXTINF:0 tvg-id="nashe-novoe-kino-hd" tvg-logo="https://cbilling.pw/img/streams/nashe-novoe-kino-hd.png" tvg-rec="7",Наше новое кино HD
 http://s06.iptvx.tv:8090/s/fa7366ce_3/nashe-novoe-kino-hd.m3u8
+#EXTINF:0 tvg-id="kinosvidanije-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinosvidanije-hd-orig.png" tvg-rec="7",Киносвидание HD
+http://s06.iptvx.tv:8090/s/fa7366ce_3/kinosvidanije-hd-orig.m3u8
+#EXTINF:0 tvg-id="mnogo-tv-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mnogo-tv-hd-orig.png" tvg-rec="7",Киносерия HD
+http://s06.iptvx.tv:8090/s/fa7366ce_3/mnogo-tv-hd-orig.m3u8
 #EXTINF:0 tvg-id="tv1000-russkoje-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-russkoje-hd.png" tvg-rec="7",TV1000 Русское Кино HD
 http://s06.iptvx.tv:8090/s/fa7366ce_3/tv1000-russkoje-hd.m3u8
 #EXTINF:104,Дорама HD
