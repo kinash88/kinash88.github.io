@@ -3913,9 +3913,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/arte-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="3sat-hd-de" tvg-logo="https://cbilling.pw/img/streams/3sat-hd-de.png" tvg-rec="7",3sat HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/3sat-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="orf1-hd-de" tvg-logo="https://cbilling.pw/img/streams/orf1-hd-de.png" tvg-rec="7",ORF 1 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="orf1-hd-orig-de" tvg-logo="https://cbilling.pw/img/streams/orf1-hd-orig-de.png" tvg-rec="7",ORF 1 HD
 #EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/orf1-hd-de.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce/orf1-hd-orig-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="orf2n-hd-de" tvg-logo="https://cbilling.pw/img/streams/orf2n-hd-de.png" tvg-rec="7",ORF 2 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/orf2n-hd-de.m3u8
