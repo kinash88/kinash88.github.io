@@ -3027,7 +3027,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/bollywood.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce_2/indija-tv.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="zee-tv" tvg-logo="https://cbilling.pw/img/streams/zee-tv.png" tvg-rec="7",Zee TV
 #EXTGRP:Фильмовые
-http://s03.iptvx.tv:8090/s/fa7366ce_2/zee-tv.m3u8
+http://s02.iptvx.tv:8090/s/fa7366ce_2/zee-tv.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="enter-film-ua" tvg-logo="https://cbilling.pw/img/streams/enter-film-ua.png" tvg-rec="7",Enter-фільм
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/enter-film-ua.m3u8
