@@ -24,7 +24,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/rossija-hd-orig.m3u8
 #EXTINF:0 tvg-rec="0",Бiгудi
 http://cdnua03.hls.tv/476/hls/256e9f43761814925258fd4d96681115/96/stream.m3u8
 #EXTINF:0 tvg-id="zee-tv" tvg-logo="https://cbilling.pw/img/streams/zee-tv.png" tvg-rec="7",Zee TV
-http://s03.iptvx.tv:8090/s/fa7366ce_3/zee-tv.m3u8
+http://s02.iptvx.tv:8090/s/fa7366ce_3/zee-tv.m3u8
 #EXTINF:0 tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/1nezalegny-hd-ua.m3u8
 #EXTINF:0 tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
