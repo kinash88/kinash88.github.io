@@ -71,6 +71,8 @@ http://s03.iptvx.tv:8090/s/fa7366ce_3/ntv-mir.m3u8
 http://s03.iptvx.tv:8090/s/fa7366ce_3/rentv-hd-orig.m3u8
 #EXTINF:0 tvg-id="otp" tvg-logo="https://cbilling.pw/img/streams/otp.png" tvg-rec="7",ОТР
 http://s03.iptvx.tv:8090/s/fa7366ce_3/otp.m3u8
+#EXTINF:0 tvg-id="tnomer" tvg-logo="https://cbilling.pw/img/streams/tnomer.png" tvg-rec="7",Тномер
+http://s03.iptvx.tv:8090/s/fa7366ce_3/tnomer.m3u8
 #EXTINF:0 tvg-id="mosfilm-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
 http://s03.iptvx.tv:8090/s/fa7366ce_3/mosfilm-hd-orig.m3u8
 #EXTINF:0 tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
