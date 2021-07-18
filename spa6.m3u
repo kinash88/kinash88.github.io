@@ -167,13 +167,13 @@ http://176.241.142.106:8080/hls/mlivetv/cam18_720p.m3u8?e=1629281090&st=qAGpH-2H
 http://176.241.142.106:8080/hls/mlivetv/cam05_720p.m3u8?e=1629281714&st=7JyvRK_sYF4vKRmWgFR34g
 #EXTINF:0,Камера 9. пл. Победы
 http://176.241.142.106:8080/hls/mlivetv/cam04_720p.m3u8?e=1629281132&st=kLJ-PkmdX-EkbkC-N7dKGw
-#EXTINF:0,Камера 14. Остановка на ул. Героев Украины
+#EXTINF:0,Камера 14. Остановка на ул. Героев Украины (Кирова)
 http://176.241.142.106:8080/hls/mlivetv/cam14_720p.m3u8?e=1629281617&st=HUcMCWaHcD9xuOrZ6QHx3w
 #EXTINF:0,Камера 15. Пл. Победы 2
 http://176.241.142.106:8080/hls/mlivetv/cam16_720p.m3u8?e=1629281369&st=YUZvTLU1XmT5Xa8OYpaFCw
 #EXTINF:0,Камера 17. Кинотеатр Победа
 http://176.241.142.106:8080/hls/mlivetv/cam10_720p.m3u8?e=1629281132&st=xOGaDCE6QAs5HHMxbey9ww
-#EXTINF:0,Камера 18. Улица Героев Украины
+#EXTINF:0,Камера 18. Улица Героев Украины (Кирова)
 http://176.241.142.106:8080/hls/mlivetv/cam17_720p.m3u8?e=1629282563&st=K2m0HKiPxrkDWSQDzR7zKw
 #EXTINF:0,Камера 19. Межрайонная автостанция
 http://176.241.142.106:8080/hls/mlivetv/cam19_720p.m3u8?e=1629281438&st=tJp9y0Ut7L2yj86b5zMkig
