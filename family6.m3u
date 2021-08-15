@@ -500,9 +500,9 @@ http://myott.top/stream/8WH42KGIMV/187.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",Вопросы и ответы
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/76.m3u8
-#EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",World Fashion Channel
+#EXTINF:0 group-title="Российские (общие)" tvg-rec="7",Союз
 #EXTGRP:Российские (общие)
-http://myott.top/stream/8WH42KGIMV/119.m3u8
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2016/index.m3u
 #EXTINF:0 tvg-rec="3",Сочи HD
 #EXTGRP:Российские (общие)
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2433/index.m3u8
@@ -2000,410 +2000,406 @@ http://playlist.hmara.tv/836e9584/b784291e473d110c1a5ab5da1498efb5af9e9d7e.m3u8
 #EXTINF:-1,ЯТБ. Херсон
 #EXTGRP:Украинские (Хмара ТБ)
 http://playlist.hmara.tv/836e9584/0a2682342c5b9f478fbb8ee6671d7e6bd9a69905.m3u8
-#EXTINF:1 group-title="Украинские (OMEGA TV)",Интер
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/110/stream.m3u8
-#EXTINF:2 group-title="Украинские (OMEGA TV)",НТН
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/129/stream.m3u8
+#EXTINF:1 group-title="Украинские (OMEGA TV)",Интер HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/110/stream.m3u8
+#EXTINF:2 group-title="Украинские (OMEGA TV)",Бигуди
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/96/stream.m3u8
 #EXTINF:3 group-title="Украинские (OMEGA TV)",1+1
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/51/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/51/stream.m3u8
 #EXTINF:4 group-title="Украинские (OMEGA TV)",1+1 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/124/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/124/stream.m3u8
 #EXTINF:5 group-title="Украинские (OMEGA TV)",СТБ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/145/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/145/stream.m3u8
 #EXTINF:6 group-title="Украинские (OMEGA TV)",СТБ HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4592/stream.m3u8
-#EXTINF:7 group-title="Украинские (OMEGA TV)",Україна
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/158/stream.m3u8
-#EXTINF:8 group-title="Украинские (OMEGA TV)",Україна HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4613/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4592/stream.m3u8
+#EXTINF:7 group-title="Украинские (OMEGA TV)",Украина
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/158/stream.m3u8
+#EXTINF:8 group-title="Украинские (OMEGA TV)",Украина HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4613/stream.m3u8
 #EXTINF:9 group-title="Украинские (OMEGA TV)",ICTV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/73/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/73/stream.m3u8
 #EXTINF:10 group-title="Украинские (OMEGA TV)",ICTV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4305/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4305/stream.m3u8
 #EXTINF:11 group-title="Украинские (OMEGA TV)",2+2
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/57/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/57/stream.m3u8
 #EXTINF:12 group-title="Украинские (OMEGA TV)",2+2 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3305/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3305/stream.m3u8
 #EXTINF:13 group-title="Украинские (OMEGA TV)",К1
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/113/stream.m3u8
-#EXTINF:14 group-title="Украинские (OMEGA TV)",Новый канал
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/127/stream.m3u8
-#EXTINF:15 group-title="Украинские (OMEGA TV)",Новый канал HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4607/stream.m3u8
-#EXTINF:16 group-title="Украинские (OMEGA TV)",UA:Перший
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/87/stream.m3u8
-#EXTINF:17 group-title="Украинские (OMEGA TV)",UA: Культура
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/117/stream.m3u8
-#EXTINF:18 group-title="Украинские (OMEGA TV)",Рада
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/139/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/113/stream.m3u8
+#EXTINF:14 group-title="Украинские (OMEGA TV)",НТН
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/129/stream.m3u8
+#EXTINF:15 group-title="Украинские (OMEGA TV)",Новый канал
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/127/stream.m3u8
+#EXTINF:16 group-title="Украинские (OMEGA TV)",Новый канал HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4607/stream.m3u8
+#EXTINF:17 group-title="Украинские (OMEGA TV)",UA:Перший
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/87/stream.m3u8
+#EXTINF:18 group-title="Украинские (OMEGA TV)",УНІАН
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/159/stream.m3u8
+#EXTINF:19 group-title="Украинские (OMEGA TV)",Genuine TV
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4311/stream.m3u8
 #EXTINF:20 group-title="Украинские (OMEGA TV)",Украина 24 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/396/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/396/stream.m3u8
 #EXTINF:21 group-title="Украинские (OMEGA TV)",Прямий
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3612/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3612/stream.m3u8
 #EXTINF:22 group-title="Украинские (OMEGA TV)",Прямий HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3615/stream.m3u8
-#EXTINF:23 group-title="Украинские (OMEGA TV)",112 Україна
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/53/stream.m3u8
-#EXTINF:24 group-title="Украинские (OMEGA TV)",112 Украина HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/451/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3615/stream.m3u8
 #EXTINF:25 group-title="Украинские (OMEGA TV)",TV 1000
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/311/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/311/stream.m3u8
 #EXTINF:26 group-title="Украинские (OMEGA TV)",TV 1000 Action HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/308/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/308/stream.m3u8
 #EXTINF:27 group-title="Украинские (OMEGA TV)",TV 1000 World kino
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3684/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3684/stream.m3u8
 #EXTINF:28 group-title="Украинские (OMEGA TV)",ViP Comedy SD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4000/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4000/stream.m3u8
 #EXTINF:29 group-title="Украинские (OMEGA TV)",ViP Comedy HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/309/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/309/stream.m3u8
 #EXTINF:30 group-title="Украинские (OMEGA TV)",ViP Megahit SD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4003/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4003/stream.m3u8
 #EXTINF:31 group-title="Украинские (OMEGA TV)",ViP Megahit HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3981/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3981/stream.m3u8
 #EXTINF:32 group-title="Украинские (OMEGA TV)",ViP Premiere SD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4001/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4001/stream.m3u8
 #EXTINF:33 group-title="Украинские (OMEGA TV)",ViP Premiere HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3980/stream.m3u8
-#EXTINF:34 group-title="Украинские (OMEGA TV)",Sony Channel
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4048/stream.m3u8
-#EXTINF:35 group-title="Украинские (OMEGA TV)",Sony Sci-Fi
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/292/stream.m3u8
-#EXTINF:36 group-title="Украинские (OMEGA TV)",Sony Turbo
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/293/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3980/stream.m3u8
 #EXTINF:37 group-title="Украинские (OMEGA TV)",Paramount Comedy
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3910/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3910/stream.m3u8
 #EXTINF:38 group-title="Украинские (OMEGA TV)",TLC
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/301/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/301/stream.m3u8
 #EXTINF:39 group-title="Украинские (OMEGA TV)",ТЕТ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/150/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/150/stream.m3u8
 #EXTINF:40 group-title="Украинские (OMEGA TV)",ТЕТ HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3303/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3303/stream.m3u8
 #EXTINF:41 group-title="Украинские (OMEGA TV)",Індиго TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/109/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/109/stream.m3u8
 #EXTINF:42 group-title="Украинские (OMEGA TV)",Індиго TV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4595/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4595/stream.m3u8
 #EXTINF:43 group-title="Украинские (OMEGA TV)",НЛО TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/126/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/126/stream.m3u8
 #EXTINF:44 group-title="Украинские (OMEGA TV)",НЛО TV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4604/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4604/stream.m3u8
 #EXTINF:45 group-title="Украинские (OMEGA TV)",Оце
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3593/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3593/stream.m3u8
 #EXTINF:46 group-title="Украинские (OMEGA TV)",Оце HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4610/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4610/stream.m3u8
 #EXTINF:47 group-title="Украинские (OMEGA TV)",Квартал TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3603/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3603/stream.m3u8
 #EXTINF:48 group-title="Украинские (OMEGA TV)",Сонце
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/141/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/141/stream.m3u8
 #EXTINF:49 group-title="Украинские (OMEGA TV)",Плюс Плюс
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/136/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/136/stream.m3u8
 #EXTINF:50 group-title="Украинские (OMEGA TV)",Пиксель
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/135/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/135/stream.m3u8
 #EXTINF:51 group-title="Украинские (OMEGA TV)",Nickelodeon
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/280/stream.m3u8
-#EXTINF:52 group-title="Украинские (OMEGA TV)",Nickelodeon HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/278/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/280/stream.m3u8
+#EXTINF:52 group-title="Украинские (OMEGA TV)",Nicktoons
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4773/stream.m3u8
+#EXTINF:53 group-title="Украинские (OMEGA TV)",Nick Jr
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/277/stream.m3u8
 #EXTINF:54 group-title="Украинские (OMEGA TV)",NIKI Junior HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3621/stream.m3u8
-#EXTINF:56 group-title="Украинские (OMEGA TV)",NIKI Kids HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3624/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3621/stream.m3u8
+#EXTINF:55 group-title="Украинские (OMEGA TV)",NIKI Kids HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3624/stream.m3u8
+#EXTINF:56 group-title="Украинские (OMEGA TV)",History HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/244/stream.m3u8
 #EXTINF:57 group-title="Украинские (OMEGA TV)",Viasat Explore
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/322/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/322/stream.m3u8
 #EXTINF:58 group-title="Украинские (OMEGA TV)",Viasat History
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/327/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/327/stream.m3u8
 #EXTINF:59 group-title="Украинские (OMEGA TV)",Viasat Nature
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/328/stream.m3u8
-#EXTINF:60 group-title="Украинские (OMEGA TV)",Viasat Nature/History HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/329/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/328/stream.m3u8
+#EXTINF:60 group-title="Украинские (OMEGA TV)",Eurosport 2 HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/219/stream.m3u8
 #EXTINF:61 group-title="Украинские (OMEGA TV)",Discovery Channel
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/210/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/210/stream.m3u8
 #EXTINF:62 group-title="Украинские (OMEGA TV)",Discovery Channel HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4709/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4709/stream.m3u8
 #EXTINF:63 group-title="Украинские (OMEGA TV)",Discovery Science HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/206/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/206/stream.m3u8
 #EXTINF:64 group-title="Украинские (OMEGA TV)",ID Investigation Discovery HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/254/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/254/stream.m3u8
 #EXTINF:65 group-title="Украинские (OMEGA TV)",Travel channel HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/307/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/307/stream.m3u8
 #EXTINF:66 group-title="Украинские (OMEGA TV)",Animal planet
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/174/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/174/stream.m3u8
 #EXTINF:67 group-title="Украинские (OMEGA TV)",Animal planet HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4706/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4706/stream.m3u8
 #EXTINF:68 group-title="Украинские (OMEGA TV)",Мега
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/123/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/123/stream.m3u8
 #EXTINF:69 group-title="Украинские (OMEGA TV)",Travel&Adventure
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4059/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4059/stream.m3u8
 #EXTINF:70 group-title="Украинские (OMEGA TV)",Travel&Adventure HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/574/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/574/stream.m3u8
 #EXTINF:71 group-title="Украинские (OMEGA TV)",Футбол 3
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4204/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4204/stream.m3u8
 #EXTINF:72 group-title="Украинские (OMEGA TV)",Setanta Sport UA
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4314/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4314/stream.m3u8
 #EXTINF:73 group-title="Украинские (OMEGA TV)",Viasat Sport HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/330/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/330/stream.m3u8
 #EXTINF:74 group-title="Украинские (OMEGA TV)",Eurosport 1
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/216/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/216/stream.m3u8
 #EXTINF:75 group-title="Украинские (OMEGA TV)",Eurosport 1 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/217/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/217/stream.m3u8
 #EXTINF:76 group-title="Украинские (OMEGA TV)",Eurosport 2
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/218/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/218/stream.m3u8
 #EXTINF:77 group-title="Украинские (OMEGA TV)",Трофей
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/156/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/156/stream.m3u8
 #EXTINF:78 group-title="Украинские (OMEGA TV)",Трофей HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/554/stream.m3u8
-#EXTINF:79 group-title="Украинские (OMEGA TV)",XSport
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/576/stream.m3u8
-#EXTINF:80 group-title="Украинские (OMEGA TV)",XSport HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3999/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/554/stream.m3u8
+#EXTINF:79 group-title="Украинские (OMEGA TV)",Setanta Sports + UA HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/291/stream.m3u8
+#EXTINF:80 group-title="Украинские (OMEGA TV)",Рыбалка ТВ
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4768/stream.m3u8
 #EXTINF:81 group-title="Украинские (OMEGA TV)",М1
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/119/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/119/stream.m3u8
 #EXTINF:82 group-title="Украинские (OMEGA TV)",М1 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4598/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4598/stream.m3u8
 #EXTINF:83 group-title="Украинские (OMEGA TV)",М2
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/120/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/120/stream.m3u8
 #EXTINF:84 group-title="Украинские (OMEGA TV)",М2 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4601/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4601/stream.m3u8
 #EXTINF:85 group-title="Украинские (OMEGA TV)",Music 4EVER
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3974/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3974/stream.m3u8
 #EXTINF:86 group-title="Украинские (OMEGA TV)",Music 4EVER HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3987/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3987/stream.m3u8
 #EXTINF:87 group-title="Украинские (OMEGA TV)",MusicBox UA
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/76/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/76/stream.m3u8
 #EXTINF:88 group-title="Украинские (OMEGA TV)",MusicBox HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/419/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/419/stream.m3u8
 #EXTINF:89 group-title="Украинские (OMEGA TV)",EU Music
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/70/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/70/stream.m3u8
 #EXTINF:90 group-title="Украинские (OMEGA TV)",EU Music HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/570/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/570/stream.m3u8
 #EXTINF:91 group-title="Украинские (OMEGA TV)",Enter-фільм
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/56/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/56/stream.m3u8
 #EXTINF:92 group-title="Украинские (OMEGA TV)",Epic Drama
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3912/stream.m3u8
-#EXTINF:93 group-title="Украинские (OMEGA TV)",Spike
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4057/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3912/stream.m3u8
 #EXTINF:94 group-title="Украинские (OMEGA TV)",AMC
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4248/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4248/stream.m3u8
 #EXTINF:95 group-title="Украинские (OMEGA TV)",Film.Ua Drama
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/71/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/71/stream.m3u8
 #EXTINF:96 group-title="Украинские (OMEGA TV)",Star Cinema
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3703/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3703/stream.m3u8
 #EXTINF:97 group-title="Украинские (OMEGA TV)",Star Cinema HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3925/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3925/stream.m3u8
 #EXTINF:98 group-title="Украинские (OMEGA TV)",Star Family
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3687/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3687/stream.m3u8
 #EXTINF:99 group-title="Украинские (OMEGA TV)",Star Family HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3996/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3996/stream.m3u8
 #EXTINF:100 group-title="Украинские (OMEGA TV)",Болт
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3690/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3690/stream.m3u8
 #EXTINF:101 group-title="Украинские (OMEGA TV)",Болт HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3963/stream.m3u8
-#EXTINF:102 group-title="Украинские (OMEGA TV)",Бігуді
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/96/stream.m3u8
-#EXTINF:103 group-title="Украинские (OMEGA TV)",Kino1
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3654/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3963/stream.m3u8
+#EXTINF:102 group-title="Украинские (OMEGA TV)",Paramount Channel
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4616/stream.m3u8
+#EXTINF:103 group-title="Украинские (OMEGA TV)",Paramount Channel HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4772/stream.m3u8
 #EXTINF:104 group-title="Украинские (OMEGA TV)",Дорама HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4247/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4247/stream.m3u8
 #EXTINF:105 group-title="Украинские (OMEGA TV)",FilmBox
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/400/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/400/stream.m3u8
 #EXTINF:106 group-title="Украинские (OMEGA TV)",ZEE TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/577/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/577/stream.m3u8
+#EXTINF:107 group-title="Украинские (OMEGA TV)",FOX
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/237/stream.m3u8
+#EXTINF:108 group-title="Украинские (OMEGA TV)",FOX HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/238/stream.m3u8
 #EXTINF:109 group-title="Украинские (OMEGA TV)",Наше любимое кино
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/402/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/402/stream.m3u8
 #EXTINF:110 group-title="Украинские (OMEGA TV)",Малятко TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/121/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/121/stream.m3u8
 #EXTINF:111 group-title="Украинские (OMEGA TV)",Детский мир
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/337/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/337/stream.m3u8
 #EXTINF:112 group-title="Украинские (OMEGA TV)",Duck TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/213/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/213/stream.m3u8
 #EXTINF:113 group-title="Украинские (OMEGA TV)",Duck TV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/214/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/214/stream.m3u8
 #EXTINF:114 group-title="Украинские (OMEGA TV)",Lale
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/74/stream.m3u8
-#EXTINF:115 group-title="Украинские (OMEGA TV)",Nick Jr
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/277/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/74/stream.m3u8
+#EXTINF:115 group-title="Украинские (OMEGA TV)",Nickelodeon HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/278/stream.m3u8
 #EXTINF:116 group-title="Украинские (OMEGA TV)",English Club TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/69/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/69/stream.m3u8
 #EXTINF:117 group-title="Украинские (OMEGA TV)",English Club HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3959/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3959/stream.m3u8
 #EXTINF:118 group-title="Украинские (OMEGA TV)",Da Vinci Learning UA
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/201/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/201/stream.m3u8
 #EXTINF:119 group-title="Украинские (OMEGA TV)",SEA TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3696/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3696/stream.m3u8
 #EXTINF:120 group-title="Украинские (OMEGA TV)",SEA TV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4251/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4251/stream.m3u8
 #EXTINF:121 group-title="Украинские (OMEGA TV)",Телеканал 36.6
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4241/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4241/stream.m3u8
 #EXTINF:122 group-title="Украинские (OMEGA TV)",Телеканал 36.6 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4721/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4721/stream.m3u8
 #EXTINF:123 group-title="Украинские (OMEGA TV)",Дача
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/105/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/105/stream.m3u8
 #EXTINF:124 group-title="Украинские (OMEGA TV)",Дача HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/454/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/454/stream.m3u8
 #EXTINF:125 group-title="Украинские (OMEGA TV)",Наука
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3597/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3597/stream.m3u8
 #EXTINF:126 group-title="Украинские (OMEGA TV)",Терра
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/562/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/562/stream.m3u8
 #EXTINF:127 group-title="Украинские (OMEGA TV)",Фауна
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/2387/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/2387/stream.m3u8
 #EXTINF:128 group-title="Украинские (OMEGA TV)",Epoque
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4216/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4216/stream.m3u8
 #EXTINF:129 group-title="Украинские (OMEGA TV)",DocuBox HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/211/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/211/stream.m3u8
+#EXTINF:130 group-title="Украинские (OMEGA TV)",National Geographic
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/275/stream.m3u8
+#EXTINF:131 group-title="Украинские (OMEGA TV)",National Geographic HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/274/stream.m3u8
 #EXTINF:134 group-title="Украинские (OMEGA TV)",Перший автомобільний
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/131/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/131/stream.m3u8
 #EXTINF:135 group-title="Украинские (OMEGA TV)",Перший автомобільний HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3988/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3988/stream.m3u8
 #EXTINF:136 group-title="Украинские (OMEGA TV)",MostVideo TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/571/stream.m3u8
-#EXTINF:137 group-title="Украинские (OMEGA TV)",Sport1 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3930/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/571/stream.m3u8
+#EXTINF:137 group-title="Украинские (OMEGA TV)",Trace Sport Stars HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/303/stream.m3u8
 #EXTINF:138 group-title="Украинские (OMEGA TV)",FightBox HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/230/stream.m3u8
-#EXTINF:139 group-title="Украинские (OMEGA TV)",Спорт 1
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/143/stream.m3u8
-#EXTINF:140 group-title="Украинские (OMEGA TV)",Спорт 2
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/144/stream.m3u8
-#EXTINF:141 group-title="Украинские (OMEGA TV)",Sport 1 Baltic
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3657/stream.m3u8
-#EXTINF:142 group-title="Украинские (OMEGA TV)",Sport 2 Baltic
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3660/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/230/stream.m3u8
+#EXTINF:139 group-title="Украинские (OMEGA TV)",Шахтер ТВ HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4771/stream.m3u8
+#EXTINF:140 group-title="Украинские (OMEGA TV)",XSport
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/576/stream.m3u8
+#EXTINF:141 group-title="Украинские (OMEGA TV)",XSport HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3999/stream.m3u8
+#EXTINF:142 group-title="Украинские (OMEGA TV)",Fast&FunBox HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/229/stream.m3u8
 #EXTINF:143 group-title="Украинские (OMEGA TV)",Nautical Channel HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4245/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4245/stream.m3u8
 #EXTINF:148 group-title="Украинские (OMEGA TV)",OTV Music
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/458/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/458/stream.m3u8
 #EXTINF:149 group-title="Украинские (OMEGA TV)",НАШЕ HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3699/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3699/stream.m3u8
 #EXTINF:150 group-title="Украинские (OMEGA TV)",НАШЕ Music HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/550/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/550/stream.m3u8
 #EXTINF:151 group-title="Украинские (OMEGA TV)",Етно Канал HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/456/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/456/stream.m3u8
 #EXTINF:152 group-title="Украинские (OMEGA TV)",MTV Club
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/264/stream.m3u8
-#EXTINF:153 group-title="Украинские (OMEGA TV)",MTV Europe
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/265/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/264/stream.m3u8
+#EXTINF:153 group-title="Украинские (OMEGA TV)",360TuneBox
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/166/stream.m3u8
 #EXTINF:154 group-title="Украинские (OMEGA TV)",MTV Live HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/267/stream.m3u8
-#EXTINF:155 group-title="Украинские (OMEGA TV)",MTV Rocks
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/268/stream.m3u8
-#EXTINF:156 group-title="Украинские (OMEGA TV)",MTV Hits
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/266/stream.m3u8
-#EXTINF:157 group-title="Украинские (OMEGA TV)",VH1 Classic
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/320/stream.m3u8
-#EXTINF:158 group-title="Украинские (OMEGA TV)",VH1 Europe
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/321/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/267/stream.m3u8
+#EXTINF:155 group-title="Украинские (OMEGA TV)",InRating HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4751/stream.m3u8
+#EXTINF:156 group-title="Украинские (OMEGA TV)",Cars&Stars HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4795/stream.m3u8
+#EXTINF:157 group-title="Украинские (OMEGA TV)",FilmBox ArtHouse
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/231/stream.m3u8
+#EXTINF:158 group-title="Украинские (OMEGA TV)",FashionBox HD
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/228/stream.m3u8
 #EXTINF:159 group-title="Украинские (OMEGA TV)",К2
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/114/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/114/stream.m3u8
 #EXTINF:160 group-title="Украинские (OMEGA TV)",Zoom
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/94/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/94/stream.m3u8
 #EXTINF:161 group-title="Украинские (OMEGA TV)",Навигатор ТВ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4236/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4236/stream.m3u8
 #EXTINF:162 group-title="Украинские (OMEGA TV)",Телевсесвіт
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/560/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/560/stream.m3u8
 #EXTINF:163 group-title="Украинские (OMEGA TV)",Телевсесвіт HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/561/stream.m3u8
-#EXTINF:164 group-title="Украинские (OMEGA TV)",Quiz
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4289/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/561/stream.m3u8
+#EXTINF:164 group-title="Украинские (OMEGA TV)",Винтаж
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/97/stream.m3u8
 #EXTINF:165 group-title="Украинские (OMEGA TV)",Fashion TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/226/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/226/stream.m3u8
 #EXTINF:166 group-title="Украинские (OMEGA TV)",HDFASHION&LIFESTYLE
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/72/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/72/stream.m3u8
 #EXTINF:167 group-title="Украинские (OMEGA TV)",ID FASHION
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3642/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3642/stream.m3u8
 #EXTINF:168 group-title="Украинские (OMEGA TV)",Odessa Fashion Channel
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4213/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4213/stream.m3u8
 #EXTINF:169 group-title="Украинские (OMEGA TV)",Правда ТУТ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/137/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/137/stream.m3u8
 #EXTINF:170 group-title="Украинские (OMEGA TV)",Правда ТУТ HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3985/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3985/stream.m3u8
 #EXTINF:171 group-title="Украинские (OMEGA TV)",Еко ТБ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/165/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/165/stream.m3u8
 #EXTINF:172 group-title="Украинские (OMEGA TV)",Глас
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/101/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/101/stream.m3u8
 #EXTINF:173 group-title="Украинские (OMEGA TV)",Надія
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/125/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/125/stream.m3u8
 #EXTINF:174 group-title="Украинские (OMEGA TV)",Сварожичи
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4406/stream.m3u8
-#EXTINF:175 group-title="Украинские (OMEGA TV)",Genuine TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4311/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4406/stream.m3u8
+#EXTINF:175 group-title="Украинские (OMEGA TV)",UA: Культура
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/117/stream.m3u8
 #EXTINF:176 group-title="Украинские (OMEGA TV)",UATV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/91/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/91/stream.m3u8
 #EXTINF:177 group-title="Украинские (OMEGA TV)",Канал 24
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/54/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/54/stream.m3u8
 #EXTINF:178 group-title="Украинские (OMEGA TV)",Канал 24 HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3965/stream.m3u8
-#EXTINF:179 group-title="Украинские (OMEGA TV)",NewsOne
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/77/stream.m3u8
-#EXTINF:180 group-title="Украинские (OMEGA TV)",NewsOne HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3609/stream.m3u8
-#EXTINF:181 group-title="Украинские (OMEGA TV)",УНІАН
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/159/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3965/stream.m3u8
+#EXTINF:179 group-title="Украинские (OMEGA TV)",Первый деловой
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/132/stream.m3u8
+#EXTINF:181 group-title="Украинские (OMEGA TV)",Рада
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/139/stream.m3u8
 #EXTINF:182 group-title="Украинские (OMEGA TV)",5 канал
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/55/stream.m3u8
-#EXTINF:183 group-title="Украинские (OMEGA TV)",Громадське HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/103/stream.m3u8
-#EXTINF:184 group-title="Украинские (OMEGA TV)",ZIK
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/93/stream.m3u8
-#EXTINF:185 group-title="Украинские (OMEGA TV)",ZIK HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3618/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/55/stream.m3u8
 #EXTINF:186 group-title="Украинские (OMEGA TV)",Еспресо
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/108/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/108/stream.m3u8
 #EXTINF:188 group-title="Украинские (OMEGA TV)",Настоящее Время
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/2386/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/2386/stream.m3u8
 #EXTINF:189 group-title="Украинские (OMEGA TV)",Настоящее время HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3932/stream.m3u8
-#EXTINF:190 group-title="Украинские (OMEGA TV)",Наш Макси ТВ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4293/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3932/stream.m3u8
+#EXTINF:190 group-title="Украинские (OMEGA TV)",Наш
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4293/stream.m3u8
 #EXTINF:191 group-title="Украинские (OMEGA TV)",ЧП.INFO
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/163/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/163/stream.m3u8
 #EXTINF:192 group-title="Украинские (OMEGA TV)",Oboz TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3648/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3648/stream.m3u8
 #EXTINF:193 group-title="Украинские (OMEGA TV)",Oboz TV HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3984/stream.m3u8
-#EXTINF:194 group-title="Украинские (OMEGA TV)",RabinovichTV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/572/stream.m3u8
-#EXTINF:195 group-title="Украинские (OMEGA TV)",Беларусь 24
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/411/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3984/stream.m3u8
+#EXTINF:194 group-title="Украинские (OMEGA TV)",Live
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/572/stream.m3u8
 #EXTINF:196 group-title="Украинские (OMEGA TV)",Апостроф TV
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4730/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4730/stream.m3u8
 #EXTINF:197 group-title="Украинские (OMEGA TV)",Deutsche Welle
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/204/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/204/stream.m3u8
 #EXTINF:198 group-title="Украинские (OMEGA TV)",France 24
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/239/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/239/stream.m3u8
 #EXTINF:199 group-title="Украинские (OMEGA TV)",Ost West
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4254/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4254/stream.m3u8
 #EXTINF:200 group-title="Украинские (OMEGA TV)",Исландия
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4727/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4727/stream.m3u8
 #EXTINF:201 group-title="Украинские (OMEGA TV)",UA: Киев
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/162/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/162/stream.m3u8
 #EXTINF:202 group-title="Украинские (OMEGA TV)",ТРК Київ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/115/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/115/stream.m3u8
 #EXTINF:203 group-title="Украинские (OMEGA TV)",ATR
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/62/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/62/stream.m3u8
 #EXTINF:204 group-title="Украинские (OMEGA TV)",ATR HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3936/stream.m3u8
-#EXTINF:205 group-title="Украинские (OMEGA TV)",Думская ТВ
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/455/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3936/stream.m3u8
+#EXTINF:205 group-title="Украинские (OMEGA TV)",TV5
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4774/stream.m3u8
 #EXTINF:206 group-title="Украинские (OMEGA TV)",4 канал
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/86/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/86/stream.m3u8
 #EXTINF:207 group-title="Украинские (OMEGA TV)",7 канал (Одесса) HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/61/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/61/stream.m3u8
 #EXTINF:208 group-title="Украинские (OMEGA TV)",8 канал
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/128/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/128/stream.m3u8
 #EXTINF:209 group-title="Украинские (OMEGA TV)",8 канал HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4051/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4051/stream.m3u8
 #EXTINF:210 group-title="Украинские (OMEGA TV)",Южная волна HD
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/568/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/568/stream.m3u8
 #EXTINF:211 group-title="Украинские (OMEGA TV)",Чорноморська ТРК
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/385/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/385/stream.m3u8
 #EXTINF:212 group-title="Украинские (OMEGA TV)",Перший Західний
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3948/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3948/stream.m3u8
 #EXTINF:213 group-title="Украинские (OMEGA TV)",UA:Закарпаття
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4244/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4244/stream.m3u8
 #EXTINF:214 group-title="Украинские (OMEGA TV)",UA:Волынь
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4308/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4308/stream.m3u8
 #EXTINF:215 group-title="Украинские (OMEGA TV)",UA: Донбас
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/107/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/107/stream.m3u8
+#EXTINF:216 group-title="Украинские (OMEGA TV)",21 канал
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4760/stream.m3u8
 #EXTINF:217 group-title="Украинские (OMEGA TV)",UA:Крым
-http://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3606/stream.m3u8
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/3606/stream.m3u8
+#EXTINF:218 group-title="Украинские (OMEGA TV)",SONATA TV
+https://cdnua03.hls.tv/476/hls/152e23127c279ac09b890cfd916c377d/4770/stream.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="https://cbilling.pw/img/streams/national-geographic.png" tvg-rec="7",National Geographic
 #EXTGRP:Познавательные
 http://s06.iptvx.tv:8090/s/fa7366ce/national-geographic.m3u8
@@ -3493,12 +3489,18 @@ http://s06.iptvx.tv:8090/s/fa7366ce/ru-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="aiva-hd" tvg-logo="https://cbilling.pw/img/streams/aiva-hd.png" tvg-rec="0",AIVA HD
 #EXTGRP:Музыкальные
 http://s06.iptvx.tv:8090/s/fa7366ce/aiva-hd.m3u8
-#EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd" tvg-logo="https://cbilling.pw/img/streams/clubbing-hd.png" tvg-rec="0",Clubbing HD
-#EXTGRP:Музыкальные
-http://s06.iptvx.tv:8090/s/fa7366ce/clubbing-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="kronehit-hd" tvg-logo="https://cbilling.pw/img/streams/kronehit-hd.png" tvg-rec="0",Kronehit HD
 #EXTGRP:Музыкальные
 http://s06.iptvx.tv:8090/s/fa7366ce/kronehit-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="one-by-hd" tvg-logo="http://cbilling.pw/img/streams/one-by-hd.png" tvg-rec="0",One BY HD
+#EXTGRP:Музыкальные
+http://s06.iptvx.tv:8090/s/fa7366ce/one-by-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="power-hd-tr" tvg-logo="http://cbilling.pw/img/streams/power-hd-tr.png" tvg-rec="0",Power HD
+#EXTGRP:Музыкальные
+http://s06.iptvx.tv:8090/s/fa7366ce/power-hd-tr.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd" tvg-logo="http://cbilling.pw/img/streams/clubbing-hd.png" tvg-rec="0",Clubbing HD
+#EXTGRP:Музыкальные
+http://s06.iptvx.tv:8090/s/fa7366ce/clubbing-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://cbilling.pw/img/streams/bridge-tv.png" tvg-rec="0",Bridge TV
 #EXTGRP:Музыкальные
 http://s06.iptvx.tv:8090/s/fa7366ce/bridge-tv.m3u8
@@ -3559,7 +3561,7 @@ http://s06.iptvx.tv:8090/s/fa7366ce/mtv-rocks.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="vh1-classic" tvg-logo="https://cbilling.pw/img/streams/vh1-classic.png" tvg-rec="0",MTV 80s
 #EXTGRP:Музыкальные
 http://s06.iptvx.tv:8090/s/fa7366ce/vh1-classic.m3u8
-#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="https://cbilling.pw/img/streams/vh1-europe.png" tvg-rec="0",VH1 European
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="http://cbilling.pw/img/streams/vh1-europe.png" tvg-rec="0",MTV 00s
 #EXTGRP:Музыкальные
 http://s06.iptvx.tv:8090/s/fa7366ce/vh1-europe.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mcm" tvg-logo="https://cbilling.pw/img/streams/mcm.png" tvg-rec="0",MCM TOP
@@ -3580,12 +3582,9 @@ http://myott.top/stream/8WH42KGIMV/218.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
 #EXTGRP:Музыкальные
 http://myott.top/stream/8WH42KGIMV/330.m3u8
-#EXTINF:-1 group-title="Музыкальные",Туган Тел
+#EXTINF:0 group-title="Музыкальные" tvg-rec="3",МузСоюз
 #EXTGRP:Музыкальные
-http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1,TVM Channel
-#EXTGRP:Музыкальные
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2137/index.m3u
 #EXTINF:0 group-title="Новостные" tvg-id="rossija24" tvg-logo="https://cbilling.pw/img/streams/rossija24.png" tvg-rec="0",Россия 24
 #EXTGRP:Новостные
 http://s06.iptvx.tv:8090/s/fa7366ce/rossija24.m3u8
@@ -3874,189 +3873,198 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6104/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal+ FHD PL
 #EXTGRP:Польские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6100/index.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="welt-de-hd" tvg-logo="https://cbilling.pw/img/streams/welt-de-hd.png" tvg-rec="7",Welt HD
+#EXTINF:0 group-title="Немецкие" tvg-id="welt-de-hd" tvg-logo="http://cbilling.pw/img/streams/welt-de-hd.png" tvg-rec="7",Welt HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/welt-de-hd.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="ntv-de-hd" tvg-logo="https://cbilling.pw/img/streams/ntv-de.png" tvg-rec="7",N-TV HD
+#EXTINF:0 group-title="Немецкие" tvg-id="ntv-de-hd" tvg-logo="http://cbilling.pw/img/streams/ntv-de.png" tvg-rec="7",N-TV HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/ntv-de-hd.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="das-erste-hd-de" tvg-logo="https://cbilling.pw/img/streams/das-erste-hd-de.png" tvg-rec="7",Das Erste HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/das-erste-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="kabel-eins-hd-de" tvg-logo="https://cbilling.pw/img/streams/kabel-eins-hd-de.png" tvg-rec="7",Kabel Eins HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/kabel-eins-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="kabel-eins-doku-hd-de" tvg-logo="https://cbilling.pw/img/streams/kabel-eins-doku-hd-de.png" tvg-rec="7",Kabel Eins Doku HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/kabel-eins-doku-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sat1-hd-de" tvg-logo="https://cbilling.pw/img/streams/sat1-hd-de.png" tvg-rec="7",Sat.1 HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/sat1-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sat1-gold-hd-de" tvg-logo="https://cbilling.pw/img/streams/sat1-gold-hd-de.png" tvg-rec="7",Sat.1 Gold HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sat1-gold-hd-de" tvg-logo="http://cbilling.pw/img/streams/sat1-gold-hd-de.png" tvg-rec="7",Sat.1 Gold HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sat1-gold-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="prosieben-hd-de" tvg-logo="https://cbilling.pw/img/streams/prosieben-hd-de.png" tvg-rec="7",ProSieben HD
+#EXTINF:0 group-title="Немецкие" tvg-id="das-erste-hd-de" tvg-logo="http://cbilling.pw/img/streams/das-erste-hd-de.png" tvg-rec="7",Das Erste HD
 #EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/prosieben-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="prosieben-maxx-hd-de" tvg-logo="https://cbilling.pw/img/streams/prosieben-maxx-hd-de.png" tvg-rec="7",ProSieben Maxx HD
+http://s06.iptvx.tv:8090/s/fa7366ce/das-erste-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="kabel-eins-hd-de" tvg-logo="http://cbilling.pw/img/streams/kabel-eins-hd-de.png" tvg-rec="7",Kabel Eins HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/kabel-eins-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="kabel-eins-doku-hd-de" tvg-logo="http://cbilling.pw/img/streams/kabel-eins-doku-hd-de.png" tvg-rec="7",Kabel Eins Doku HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/kabel-eins-doku-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="prosieben-maxx-hd-de" tvg-logo="http://cbilling.pw/img/streams/prosieben-maxx-hd-de.png" tvg-rec="7",ProSieben Maxx HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/prosieben-maxx-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="rtl-hd-de" tvg-logo="https://cbilling.pw/img/streams/rtl-hd-de.png" tvg-rec="7",RTL HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/rtl-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="rtl2-hd-de" tvg-logo="https://cbilling.pw/img/streams/rtl2-hd-de.png" tvg-rec="7",RTL 2 HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/rtl2-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="super-rtl-hd-de" tvg-logo="https://cbilling.pw/img/streams/super-rtl-hd-de.png" tvg-rec="7",Super RTL HD
+#EXTINF:0 group-title="Немецкие" tvg-id="super-rtl-hd-de" tvg-logo="http://cbilling.pw/img/streams/super-rtl-hd-de.png" tvg-rec="7",Super RTL HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/super-rtl-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="rtl-nitro-hd-de" tvg-logo="https://cbilling.pw/img/streams/rtl-nitro-hd-de.png" tvg-rec="7",RTL Nitro HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sat1-hd-de" tvg-logo="http://cbilling.pw/img/streams/sat1-hd-de.png" tvg-rec="7",Sat.1 HD
 #EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/rtl-nitro-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="zdf-hd-de" tvg-logo="https://cbilling.pw/img/streams/zdf-hd-de.png" tvg-rec="7",ZDF HD
+http://s06.iptvx.tv:8090/s/fa7366ce/sat1-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="prosieben-hd-de" tvg-logo="http://cbilling.pw/img/streams/prosieben-hd-de.png" tvg-rec="7",ProSieben HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/prosieben-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="zdf-hd-de" tvg-logo="http://cbilling.pw/img/streams/zdf-hd-de.png" tvg-rec="7",ZDF HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/zdf-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="zdf-neo-hd-de" tvg-logo="https://cbilling.pw/img/streams/zdf-neo-hd-de.png" tvg-rec="7",ZDF Neo HD
+#EXTINF:0 group-title="Немецкие" tvg-id="zdf-neo-hd-de" tvg-logo="http://cbilling.pw/img/streams/zdf-neo-hd-de.png" tvg-rec="7",ZDF Neo HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/zdf-neo-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="arte-hd-de" tvg-logo="https://cbilling.pw/img/streams/arte-hd-de.png" tvg-rec="7",Arte HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="arte-hd-de" tvg-logo="http://cbilling.pw/img/streams/arte-hd-de.png" tvg-rec="7",Arte HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/arte-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="3sat-hd-de" tvg-logo="https://cbilling.pw/img/streams/3sat-hd-de.png" tvg-rec="7",3sat HD
+#EXTINF:0 group-title="Немецкие" tvg-id="rtl-hd-de" tvg-logo="http://cbilling.pw/img/streams/rtl-hd-de.png" tvg-rec="7",RTL HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/rtl-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="rtl2-hd-de" tvg-logo="http://cbilling.pw/img/streams/rtl2-hd-de.png" tvg-rec="7",RTL 2 HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/rtl2-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="rtl-nitro-hd-de" tvg-logo="http://cbilling.pw/img/streams/rtl-nitro-hd-de.png" tvg-rec="7",RTL Nitro HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/rtl-nitro-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="3sat-hd-de" tvg-logo="http://cbilling.pw/img/streams/3sat-hd-de.png" tvg-rec="7",3sat HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/3sat-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="orf1-hd-orig-de" tvg-logo="https://cbilling.pw/img/streams/orf1-hd-orig-de.png" tvg-rec="7",ORF 1 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="orf1-hd-orig-de" tvg-logo="http://cbilling.pw/img/streams/orf1-hd-orig-de.png" tvg-rec="7",ORF 1 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/orf1-hd-orig-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="orf2n-hd-de" tvg-logo="https://cbilling.pw/img/streams/orf2n-hd-de.png" tvg-rec="7",ORF 2 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="orf2n-hd-de" tvg-logo="http://cbilling.pw/img/streams/orf2n-hd-de.png" tvg-rec="7",ORF 2 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/orf2n-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-cinema-hd-de.png" tvg-rec="7",Sky Cinema Premieren HD
+#EXTINF:0 group-title="Немецкие" tvg-id="mdr-hd-de" tvg-logo="http://cbilling.pw/img/streams/mdr-hd-de.png" tvg-rec="7",MDR HD
 #EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/sky-cinema-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-hits-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-hits-hd-de.png" tvg-rec="7",Sky Cinema Best Of HD
+http://s06.iptvx.tv:8090/s/fa7366ce/mdr-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="ndr-hd-de" tvg-logo="http://cbilling.pw/img/streams/ndr-hd-de.png" tvg-rec="7",NDR HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/ndr-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="swr-hd-de" tvg-logo="http://cbilling.pw/img/streams/swr-hd-de.png" tvg-rec="7",SWR HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/swr-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="br-hd-de" tvg-logo="http://cbilling.pw/img/streams/br-hd-de.png" tvg-rec="7",BR HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/br-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="hr-hd-de" tvg-logo="http://cbilling.pw/img/streams/hr-hd-de.png" tvg-rec="7",HR HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/hr-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-hits-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-hits-hd-de.png" tvg-rec="7",Sky Cinema Best Of HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sky-hits-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-action-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-cinema-action-hd-de.png" tvg-rec="7",Sky Cinema Action HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-cinema-hd-de.png" tvg-rec="7",Sky Cinema Premieren HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/sky-cinema-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-action-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-cinema-action-hd-de.png" tvg-rec="7",Sky Cinema Action HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sky-cinema-action-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-thriller-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-thriller-hd-de.png" tvg-rec="7",Sky Cinema Thriller HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/sky-thriller-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-cinema-family-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-cinema-family-hd-de.png" tvg-rec="7",Sky Cinema Family HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/sky-cinema-family-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-atlantic-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-atlantic-hd-de.png" tvg-rec="7",Sky Cinema Atlantic HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-atlantic-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-atlantic-hd-de.png" tvg-rec="7",Sky Cinema Atlantic HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sky-atlantic-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-special-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-special-hd-de.png" tvg-rec="7",Sky Cinema Special HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/sky-special-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="syfy-hd-de" tvg-logo="https://cbilling.pw/img/streams/syfy-hd-de.png" tvg-rec="7",Syfy HD
+#EXTINF:0 group-title="Немецкие" tvg-id="syfy-hd-de" tvg-logo="http://cbilling.pw/img/streams/syfy-hd-de.png" tvg-rec="7",Syfy HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/syfy-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="tnt-film-hd-de" tvg-logo="https://cbilling.pw/img/streams/tnt-film-hd-de.png" tvg-rec="7",TNT Film HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/tnt-film-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="tnt-comedy-hd-de" tvg-logo="https://cbilling.pw/img/streams/tnt-comedy-hd-de.png" tvg-rec="7",TNT Comedy HD
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-comedy-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-comedy-hd-de.png" tvg-rec="7",TNT Comedy HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/tnt-comedy-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="tnt-serie-hd-de" tvg-logo="https://cbilling.pw/img/streams/tnt-serie-hd-de.png" tvg-rec="7",TNT Serie HD
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-film-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-film-hd-de.png" tvg-rec="7",TNT Film HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/tnt-film-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-serie-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-serie-hd-de.png" tvg-rec="7",TNT Serie HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/tnt-serie-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="13th-street-hd-de" tvg-logo="https://cbilling.pw/img/streams/13th-street-hd-de.png" tvg-rec="7",13th Street HD
+#EXTINF:0 group-title="Немецкие" tvg-id="13th-street-hd-de" tvg-logo="http://cbilling.pw/img/streams/13th-street-hd-de.png" tvg-rec="7",13th Street HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/13th-street-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="comedy-central-hd-de" tvg-logo="https://cbilling.pw/img/streams/comedy-central-hd-de.png" tvg-rec="7",Comedy Central HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="comedy-central-hd-de" tvg-logo="http://cbilling.pw/img/streams/comedy-central-hd-de.png" tvg-rec="7",Comedy Central HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/comedy-central-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sixx-hd-de" tvg-logo="https://cbilling.pw/img/streams/sixx-hd-de.png" tvg-rec="7",SIXX HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sixx-hd-de" tvg-logo="http://cbilling.pw/img/streams/sixx-hd-de.png" tvg-rec="7",SIXX HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sixx-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="fox-hd-de" tvg-logo="https://cbilling.pw/img/streams/fox-hd-de.png" tvg-rec="7",FOX HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="fox-hd-de" tvg-logo="http://cbilling.pw/img/streams/fox-hd-de.png" tvg-rec="7",FOX HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/fox-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="axn-hd-de" tvg-logo="https://cbilling.pw/img/streams/axn-hd-de.png" tvg-rec="7",AXN HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="axn-hd-de" tvg-logo="http://cbilling.pw/img/streams/axn-hd-de.png" tvg-rec="7",AXN HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/axn-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="vox-hd-de" tvg-logo="https://cbilling.pw/img/streams/vox-hd-de.png" tvg-rec="7",VOX HD
+#EXTINF:0 group-title="Немецкие" tvg-id="vox-hd-de" tvg-logo="http://cbilling.pw/img/streams/vox-hd-de.png" tvg-rec="7",VOX HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/vox-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="dmax-hd-de" tvg-logo="https://cbilling.pw/img/streams/dmax-hd-de.png" tvg-rec="7",DMAX HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="dmax-hd-de" tvg-logo="http://cbilling.pw/img/streams/dmax-hd-de.png" tvg-rec="7",DMAX HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/dmax-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="e-entertainemnt-hd-de" tvg-logo="https://cbilling.pw/img/streams/e-entertainemnt-hd-de.png" tvg-rec="7",E! Entertainm. HD
+#EXTINF:0 group-title="Немецкие" tvg-id="e-entertainemnt-hd-de" tvg-logo="http://cbilling.pw/img/streams/e-entertainemnt-hd-de.png" tvg-rec="7",E! Entertainm. HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/e-entertainemnt-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="anixe-hd-de" tvg-logo="https://cbilling.pw/img/streams/anixe-hd-de.png" tvg-rec="7",Anixe HD
+#EXTINF:0 group-title="Немецкие" tvg-id="anixe-hd-de" tvg-logo="http://cbilling.pw/img/streams/anixe-hd-de.png" tvg-rec="7",Anixe HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/anixe-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="discovery-hd-de" tvg-logo="https://cbilling.pw/img/streams/discovery-hd-de.png" tvg-rec="7",Discovery HD DE
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/discovery-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="nat-geo-hd-de" tvg-logo="https://cbilling.pw/img/streams/nat-geo-hd-de.png" tvg-rec="7",Nat Geo HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="nat-geo-hd-de" tvg-logo="http://cbilling.pw/img/streams/nat-geo-hd-de.png" tvg-rec="7",Nat Geo HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/nat-geo-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="nat-geo-wild-hd-de" tvg-logo="https://cbilling.pw/img/streams/nat-geo-wild-hd-de.png" tvg-rec="7",NatGeo Wild HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="nat-geo-wild-hd-de" tvg-logo="http://cbilling.pw/img/streams/nat-geo-wild-hd-de.png" tvg-rec="7",NatGeo Wild HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/nat-geo-wild-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="tlc-hd-de" tvg-logo="https://cbilling.pw/img/streams/tlc-hd-de.png" tvg-rec="7",TLC HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="tlc-hd-de" tvg-logo="http://cbilling.pw/img/streams/tlc-hd-de.png" tvg-rec="7",TLC HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/tlc-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="history-hd-de" tvg-logo="https://cbilling.pw/img/streams/history-hd-de.png" tvg-rec="7",History HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="history-hd-de" tvg-logo="http://cbilling.pw/img/streams/history-hd-de.png" tvg-rec="7",History HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/history-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="spiegel-geschichte-hd-de" tvg-logo="https://cbilling.pw/img/streams/spiegel-geschichte-hd-de.png" tvg-rec="7",Spiegel Geschichte HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/spiegel-geschichte-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="insight-tv-hd-de" tvg-logo="https://cbilling.pw/img/streams/insight-tv-hd-de.png" tvg-rec="7",Insight TV HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="insight-tv-hd-de" tvg-logo="http://cbilling.pw/img/streams/insight-tv-hd-de.png" tvg-rec="7",Insight TV HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/insight-tv-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport1-hd-orig-de" tvg-logo="https://cbilling.pw/img/streams/apl1-hd-orig.png" tvg-rec="7",Sky Sport 1 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="spiegel-geschichte-hd-de" tvg-logo="http://cbilling.pw/img/streams/spiegel-geschichte-hd-de.png" tvg-rec="7",Spiegel Geschichte HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/spiegel-geschichte-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport1-hd-orig-de" tvg-logo="http://cbilling.pw/img/streams/apl1-hd-orig.png" tvg-rec="7",Sky Sport 1 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sky-sport1-hd-orig-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport2-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-sport2-hd-de.png" tvg-rec="7",Sky Sport 2 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport2-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport2-hd-de.png" tvg-rec="7",Sky Sport 2 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sky-sport2-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-bundesliga-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-sport-bundesliga-hd-de.png" tvg-rec="7",Sky Sport Bundesliga 1 HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/sky-sport-bundesliga-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-austria-hd-de" tvg-logo="https://cbilling.pw/img/streams/sky-sport-austria-hd-de.png" tvg-rec="7",Sky Sport Austria HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-austria-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-austria-hd-de.png" tvg-rec="7",Sky Sport Austria HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sky-sport-austria-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="dazn1-hd-de" tvg-logo="https://cbilling.pw/img/streams/dazn1-hd-de.png" tvg-rec="7",DAZN 1 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-bundesliga-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-bundesliga-hd-de.png" tvg-rec="7",Sky Sport Bundesliga 1 HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/sky-sport-bundesliga-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-f1-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-f1-hd-de.png" tvg-rec="7",Sky Sport F1 HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/sky-sport-f1-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="dazn1-hd-de" tvg-logo="http://cbilling.pw/img/streams/dazn1-hd-de.png" tvg-rec="7",DAZN 1 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/dazn1-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="dazn2-hd-de" tvg-logo="https://cbilling.pw/img/streams/dazn2-hd-de.png" tvg-rec="7",DAZN 2 HD
+#EXTINF:0 group-title="Немецкие" tvg-id="dazn2-hd-de" tvg-logo="http://cbilling.pw/img/streams/dazn2-hd-de.png" tvg-rec="7",DAZN 2 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/dazn2-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sport1-hd-de" tvg-logo="https://cbilling.pw/img/streams/sport1-hd-de.png" tvg-rec="7",Sport 1 HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="sport1-hd-de" tvg-logo="http://cbilling.pw/img/streams/sport1-hd-de.png" tvg-rec="7",Sport 1 HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/sport1-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="europsort-hd-de" tvg-logo="https://cbilling.pw/img/streams/europsort-hd-de.png" tvg-rec="7",Eurosport 1 HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="europsort-hd-de" tvg-logo="http://cbilling.pw/img/streams/europsort-hd-de.png" tvg-rec="7",Eurosport 1 HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/europsort-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="europsort2-hd-de" tvg-logo="https://cbilling.pw/img/streams/europsort2-hd-de.png" tvg-rec="7",Eurosport 2 HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="europsort2-hd-de" tvg-logo="http://cbilling.pw/img/streams/europsort2-hd-de.png" tvg-rec="7",Eurosport 2 HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/europsort2-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="europsort2-xtra-hd-de" tvg-logo="https://cbilling.pw/img/streams/europsort2-xtra-hd-de.png" tvg-rec="7",Eurosport 2 Xtra HD
+#EXTINF:0 group-title="Немецкие" tvg-id="europsort2-xtra-hd-de" tvg-logo="http://cbilling.pw/img/streams/europsort2-xtra-hd-de.png" tvg-rec="7",Eurosport 2 Xtra HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/europsort2-xtra-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="disney-hd-de" tvg-logo="https://cbilling.pw/img/streams/disney-hd-de.png" tvg-rec="7",Disney HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="disney-hd-de" tvg-logo="http://cbilling.pw/img/streams/disney-hd-de.png" tvg-rec="7",Disney HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/disney-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="nickelodeon-hd-de" tvg-logo="https://cbilling.pw/img/streams/nickelodeon-hd-de.png" tvg-rec="7",Nickelodeon HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="disney-cinemagic-hd-de" tvg-logo="http://cbilling.pw/img/streams/disney-cinemagic-hd-de.png" tvg-rec="7",Disney Cinemagic HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/disney-cinemagic-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="nickelodeon-hd-de" tvg-logo="http://cbilling.pw/img/streams/nickelodeon-hd-de.png" tvg-rec="7",Nickelodeon HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/nickelodeon-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="kika-hd-de" tvg-logo="https://cbilling.pw/img/streams/kika-hd-de.png" tvg-rec="7",KIKA HD
+#EXTINF:0 group-title="Немецкие" tvg-id="kika-hd-de" tvg-logo="http://cbilling.pw/img/streams/kika-hd-de.png" tvg-rec="7",KIKA HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/kika-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="deluxe-music-hd-de" tvg-logo="https://cbilling.pw/img/streams/deluxe-music-hd-de.png" tvg-rec="0",Deluxe Music HD DE
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce/deluxe-music-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="mtv-hd-de" tvg-logo="https://cbilling.pw/img/streams/mtv-hd-de.png" tvg-rec="0",MTV HD DE
+#EXTINF:0 group-title="Немецкие" tvg-id="mtv-hd-de" tvg-logo="http://cbilling.pw/img/streams/mtv-hd-de.png" tvg-rec="0",MTV HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce/mtv-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="deluxe-music-hd-de" tvg-logo="http://cbilling.pw/img/streams/deluxe-music-hd-de.png" tvg-rec="0",Deluxe Music HD DE
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce/deluxe-music-hd-de.m3u8
 #EXTINF:0 tvg-rec="0",France 24
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/964/index.m3u8
