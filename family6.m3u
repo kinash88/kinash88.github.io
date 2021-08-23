@@ -1,61 +1,67 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 1. пр.Б.Хмельницкого - ул.Гетмана Сагайдачного
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam01_720p.m3u8?e=1629281130&st=d5OPc3oBlXby0GFEgRR0FQ
+http://176.241.142.106:8080/hls/mlivetv/cam01_720p.m3u8?e=1632390936&st=K0eJM7nwroe32knlj0f_eQ
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 2. пр.Б.Хмельницкого - ул.Университетская
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam02_720p.m3u8?e=1629281132&st=Uc26Fu9IV8k4MU5Enw7qKQ
+http://176.241.142.106:8080/hls/mlivetv/cam02_720p.m3u8?e=1632391180&st=EI4YhGJB6dnKwGzZThdkpQ
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 3. Центральный рынок
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam03_720p.m3u8?e=1629281111&st=4-Ib-ngo6guQTDkWcrtfcQ
+http://176.241.142.106:8080/hls/mlivetv/cam03_720p.m3u8?e=1632390936&st=2bsCRcJP0i7cSeDUJjwIVQ
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 4. Площадь Победы (обзорная)
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam18_720p.m3u8?e=1629281090&st=qAGpH-2HI2YAVBPrE7UnXA
+http://176.241.142.106:8080/hls/mlivetv/cam18_720p.m3u8?e=1632391528&st=_pUXwny2DTqvStBTB0K58Q
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 5. пр.Б.Хмельницкого - ул.Героев Украины (обзорная)
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam05_720p.m3u8?e=1629281714&st=7JyvRK_sYF4vKRmWgFR34g
+http://176.241.142.106:8080/hls/mlivetv/cam05_720p.m3u8?e=1632391614&st=loH8fW60QbHIO60k7jIVmw
+#EXTINF:0 group-title="Камеры Мелитополя",Камера 6. пр.Б.Хмельницкого - ул.Шмидта
+#EXTGRP:Камеры Мелитополя
+http://176.241.142.106:8080/hls/mlivetv/cam06_720p.m3u8?e=1632391179&st=YZP0_bKIm-rKbtDg3fdWsw
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 7. Центральный вход в парк им. Горького - ул.Героев Украины (обзорная)
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam15_720p.m3u8?e=1629281132&st=-I3-CK6iv4UtgY74uJDH-Q
+http://176.241.142.106:8080/hls/mlivetv/cam15_720p.m3u8?e=1632391179&st=9q9TX9hUWpTBp8b1xe6l2g
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 8. Ж/д вокзал
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam08_720p.m3u8?e=1629281202&st=3hwcaFL9O_zvrcz5ALvcHQ
+http://176.241.142.106:8080/hls/mlivetv/cam08_720p.m3u8?e=1632391800&st=YmhOxQjQrnuLHMQQSpcSKw
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 9. пл. Победы
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam04_720p.m3u8?e=1629281132&st=kLJ-PkmdX-EkbkC-N7dKGw
+http://176.241.142.106:8080/hls/mlivetv/cam04_720p.m3u8?e=1632390936&st=bzVkf3w7RxUmXmLammc5fg
+#EXTINF:0 group-title="Камеры Мелитополя",Камера 10. Парк Горького
+#EXTGRP:Камеры Мелитополя
+http://176.241.142.106:8080/hls/mlivetv/cam07_720p.m3u8?e=1632391179&st=s5rXLiDWsooaKDWMaX9g-Q
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 11.Южный выезд (Круг)
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam11_720p.m3u8?e=1629281512&st=lZwpXsmjFAM-nH3luNnIKg
+http://176.241.142.106:8080/hls/mlivetv/cam11_720p.m3u8?e=1632392398&st=TcWce07s_ZbBuV6kw3tdlg
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 12. Перекресток ул. Гризодубовой с ул. Ломоносова
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam12_720p.m3u8?e=1629281501&st=x-sACN2i2gHkYJSxTcxVjw
+http://176.241.142.106:8080/hls/mlivetv/cam12_720p.m3u8?e=1632392413&st=HHN9mGYlcGGrpX9ugfRcBw
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 13. Н.Мелитополь-маг.Скорпион
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam13_720p.m3u8?e=1629281111&st=vsWGd8tbAlNGwmvwO8X3IA
+http://176.241.142.106:8080/hls/mlivetv/cam13_720p.m3u8?e=1632392254&st=GrtjpTKZ4rX0S6sYojlQIg
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 14. Остановка на ул. Героев Украины
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam14_720p.m3u8?e=1629281617&st=HUcMCWaHcD9xuOrZ6QHx3w
+http://176.241.142.106:8080/hls/mlivetv/cam14_720p.m3u8?e=1632391789&st=q2OdyfKXbyXSPraKCRPmsQ
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 15. Пл. Победы 2
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam16_720p.m3u8?e=1629281369&st=YUZvTLU1XmT5Xa8OYpaFCw
+http://176.241.142.106:8080/hls/mlivetv/cam16_720p.m3u8?e=1632394194&st=jlgul7uLjnMBYSU5xVce6Q
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 16. Налоговая - ул. Героев Украины
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam09_720p.m3u8?e=1629281132&st=Dv5jIKosEa9mWoKoIEltxQ
+http://176.241.142.106:8080/hls/mlivetv/cam09_720p.m3u8?e=1632391179&st=9yvC2KL3cVtEsiV9Bv486A
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 17. Кинотеатр Победа
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam10_720p.m3u8?e=1629281132&st=xOGaDCE6QAs5HHMxbey9ww
+http://176.241.142.106:8080/hls/mlivetv/cam10_720p.m3u8?e=1632391179&st=Z78Xds5Oj4VeXR7moZS67A
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 18. Улица Героев Украины
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam17_720p.m3u8?e=1629282563&st=K2m0HKiPxrkDWSQDzR7zKw
+http://176.241.142.106:8080/hls/mlivetv/cam17_720p.m3u8?e=1632394731&st=vEaTXDKX0VgF5WJPCTNANg
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 19. Межрайонная автостанция
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam19_720p.m3u8?e=1629281438&st=tJp9y0Ut7L2yj86b5zMkig
+http://176.241.142.106:8080/hls/mlivetv/cam19_720p.m3u8?e=1632391601&st=45b28lIU03vsASv_yMLVwg
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 20.  ул.Героев Украины - пр.Б.Хмельницкого
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam21_720p.m3u8?e=1629282176&st=x9ZHPgAjZb5mI8NPUwXETA
+http://176.241.142.106:8080/hls/mlivetv/cam21_720p.m3u8?e=1632392406&st=VLFRWKXaogH3YpLbafVeag
 #EXTINF:0 group-title="Камеры Мелитополя",Камера 21.  Парк Горького. Фонтан
 #EXTGRP:Камеры Мелитополя
-http://176.241.142.106:8080/hls/mlivetv/cam22_720p.m3u8?e=1629282697&st=ze6g0KtZUoAjWhpbaNgEqg
+http://176.241.142.106:8080/hls/mlivetv/cam22_720p.m3u8?e=1632393218&st=J797K857u5eF4TSNd4MRfQ
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.pw/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
 #EXTGRP:Отобранное Любимое
 http://s06.iptvx.tv:8090/s/fa7366ce/pervyj-hd-orig.m3u8
