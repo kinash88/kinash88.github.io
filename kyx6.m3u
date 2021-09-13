@@ -734,10 +734,10 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/kvartal-tv-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="5kanal-ukraina" tvg-logo="https://cbilling.pw/img/streams/5kanal-ukraina.png" tvg-rec="7",5 канал UA
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/5kanal-ukraina.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="inter-ua-hd" tvg-logo="https://cbilling.pw/img/streams/inter-ua-hd.png" tvg-rec="7",Интер HD
+#EXTINF:0 group-title="Украинские" tvg-id="inter-ua-hd" tvg-logo="https://cbilling.pw/img/streams/inter-ua-hd.png" tvg-rec="7",Інтер HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/inter-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="inter-plus-ua-hd" tvg-logo="https://cbilling.pw/img/streams/inter-plus-ua-hd.png" tvg-rec="7",Интер+ HD
+#EXTINF:0 group-title="Украинские" tvg-id="inter-plus-ua-hd" tvg-logo="https://cbilling.pw/img/streams/inter-plus-ua-hd.png" tvg-rec="7",Інтер+ HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/inter-plus-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="enter-film-ua-hd" tvg-logo="https://cbilling.pw/img/streams/enter-film-ua-hd.png" tvg-rec="7",Enter-фильм HD
@@ -749,7 +749,7 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/star-cinema-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="star-family-ua-hd" tvg-logo="https://cbilling.pw/img/streams/star-family-ua-hd.png" tvg-rec="7",Star Family HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/star-family-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="bolt-ua-hd" tvg-logo="https://cbilling.pw/img/streams/bolt-ua-hd.png" tvg-rec="7",Болт HD
+#EXTINF:0 group-title="Украинские" tvg-id="bolt-ua-hd" tvg-logo="https://cbilling.pw/img/streams/bolt-ua-hd.png" tvg-rec="7",Bolt HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/bolt-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="ictv-ua-hd" tvg-logo="https://cbilling.pw/img/streams/ictv-ua-hd.png" tvg-rec="7",ICTV HD
@@ -767,10 +767,10 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/1-plus-1-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="2-plus-2-ua-hd" tvg-logo="https://cbilling.pw/img/streams/2-plus-2-ua-hd.png" tvg-rec="7",2+2 HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/2-plus-2-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="unian-tv-ua" tvg-logo="https://cbilling.pw/img/streams/unian-tv-ua.png" tvg-rec="0",УНІАН
+#EXTINF:0 group-title="Украинские" tvg-id="unian-hd-ua" tvg-logo="http://cbilling.pw/img/streams/unian-hd-ua.png" tvg-rec="7",Уніан HD
 #EXTGRP:Украинские
-http://s06.iptvx.tv:8090/s/fa7366ce_2/unian-tv-ua.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="novyj-kanal-ua-hd" tvg-logo="https://cbilling.pw/img/streams/novyj-kanal-ua-hd.png" tvg-rec="7",Новый Канал HD
+http://s06.iptvx.tv:8090/s/fa7366ce_2/unian-hd-ua.m3u8
+#EXTINF:0 group-title="Украинские" tvg-id="novyj-kanal-ua-hd" tvg-logo="https://cbilling.pw/img/streams/novyj-kanal-ua-hd.png" tvg-rec="7",Новий Канал HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/novyj-kanal-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="trk-ua-hd-orig" tvg-logo="https://cbilling.pw/img/streams/trk-ua-hd-orig.png" tvg-rec="7",Україна HD
@@ -794,13 +794,16 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/mega-ua-hd.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="nlo-ua-hd" tvg-logo="https://cbilling.pw/img/streams/nlo-ua-hd.png" tvg-rec="7",НЛО HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/nlo-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="indigo-ua-hd" tvg-logo="https://cbilling.pw/img/streams/indigo-ua-hd.png" tvg-rec="7",Индиго HD
+#EXTINF:0 group-title="Украинские" tvg-id="indigo-ua-hd" tvg-logo="https://cbilling.pw/img/streams/indigo-ua-hd.png" tvg-rec="7",Індиго HD
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/indigo-ua-hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="inter" tvg-logo="https://cbilling.pw/img/streams/inter.png" tvg-rec="7",Интер
+#EXTINF:0 group-title="Познавательные" tvg-id="rybalka-hd-ua" tvg-logo="http://cbilling.pw/img/streams/rybalka-hd-ua.png" tvg-rec="7",Рибалка HD
+#EXTGRP:Украинские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/rybalka-hd-ua.m3u8
+#EXTINF:0 group-title="Украинские" tvg-id="inter" tvg-logo="https://cbilling.pw/img/streams/inter.png" tvg-rec="7",Інтер
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/inter.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="inter-plus-ua" tvg-logo="https://cbilling.pw/img/streams/inter-plus-ua.png" tvg-rec="7",Интер+
+#EXTINF:0 group-title="Украинские" tvg-id="inter-plus-ua" tvg-logo="https://cbilling.pw/img/streams/inter-plus-ua.png" tvg-rec="7",Інтер+
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/inter-plus-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="enter-film-ua" tvg-logo="https://cbilling.pw/img/streams/enter-film-ua.png" tvg-rec="7",Enter-фільм
@@ -845,6 +848,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/1-plus-1.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="2-plus-2-ua" tvg-logo="https://cbilling.pw/img/streams/2-plus-2-ua.png" tvg-rec="7",2+2
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/2-plus-2-ua.m3u8
+#EXTINF:0 group-title="Украинские" tvg-id="unian-tv-ua" tvg-logo="https://cbilling.pw/img/streams/unian-tv-ua.png" tvg-rec="0",УНІАН
+#EXTGRP:Украинские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/unian-tv-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="novij-kanal" tvg-logo="https://cbilling.pw/img/streams/novij-kanal.png" tvg-rec="7",Новый Канал
 #EXTGRP:Украинские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/novij-kanal.m3u8
@@ -2559,6 +2565,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/oxota-rybalka.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka" tvg-logo="https://cbilling.pw/img/streams/dialogi-rybalka.png" tvg-rec="7",Диалоги о Рыбалке
 #EXTGRP:Познавательные
 http://s06.iptvx.tv:8090/s/fa7366ce_2/dialogi-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rybalka-hd-ua" tvg-logo="http://cbilling.pw/img/streams/rybalka-hd-ua.png" tvg-rec="7",Рыбалка HD
+#EXTGRP:Познавательные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/rybalka-hd-ua.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="trofey-hd" tvg-logo="https://cbilling.pw/img/streams/trofey-ua-hd.png" tvg-rec="7",Трофей HD
 #EXTGRP:Познавательные
 http://s06.iptvx.tv:8090/s/fa7366ce_2/trofey-hd.m3u8
@@ -3438,6 +3447,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/plus-plus2.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="plus-plus-ua-hd" tvg-logo="https://cbilling.pw/img/streams/plus-plus-ua-hd.png" tvg-rec="7",Плюс Плюс HD
 #EXTGRP:Детские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/plus-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="smailik-tv-hd" tvg-logo="http://cbilling.pw/img/streams/smailik-tv-hd.png" tvg-rec="7",Смайлик ТВ HD
+#EXTGRP:Детские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/smailik-tv-hd.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="pixel-ua-hd" tvg-logo="https://cbilling.pw/img/streams/pixel-ua-hd.png" tvg-rec="7",Піксель HD
 #EXTGRP:Детские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/pixel-ua-hd.m3u8
@@ -3633,9 +3645,30 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/bloomberg-hd.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="al-jazeera-hd" tvg-logo="https://cbilling.pw/img/streams/al-jazeera-hd.png" tvg-rec="0",Al Jazeera HD
 #EXTGRP:Новостные
 http://s06.iptvx.tv:8090/s/fa7366ce_2/al-jazeera-hd.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",112 Украина HD
+#EXTINF:0 group-title="Новостные" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
 #EXTGRP:Новостные
-http://myott.top/stream/8WH42KGIMV/271.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/1nezalegny-hd-ua.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="ukraina-24-hd" tvg-logo="https://cbilling.pw/img/streams/ukraina-24-hd.png" tvg-rec="0",Украина 24 HD
+#EXTGRP:Новостные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ukraina-24-hd.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="chptv-ua" tvg-logo="https://cbilling.pw/img/streams/chptv-ua.png" tvg-rec="0",ЧП Info
+#EXTGRP:Новостные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/chptv-ua.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="oboz-ua-hd" tvg-logo="https://cbilling.pw/img/streams/oboz-tv-ua-hd.png" tvg-rec="7",OBOZ TV HD
+#EXTGRP:Новостные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/oboz-ua-hd.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="espresso-ua-hd" tvg-logo="https://cbilling.pw/img/streams/espresso-ua-hd.png" tvg-rec="7",Eспресо TV HD
+#EXTGRP:Новостные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/espresso-ua-hd.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="tonis-hd-ua" tvg-logo="https://cbilling.pw/img/streams/tonis-hd-ua.png" tvg-rec="0",Прямий HD
+#EXTGRP:Новостные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/tonis-hd-ua.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
+#EXTGRP:Новостные
+http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="unian-hd-ua" tvg-logo="http://cbilling.pw/img/streams/unian-hd-ua.png" tvg-rec="7",Уніан HD
+#EXTGRP:Новостные
+http://s06.iptvx.tv:8090/s/fa7366ce_2/unian-hd-ua.m3u8
 #EXTINF:-1 group-title="Новостные",Shant News
 #EXTGRP:Новостные
 http://myott.top/stream/8WH42KGIMV/302.m3u8
@@ -3945,9 +3978,6 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/ndr-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="swr-hd-de" tvg-logo="http://cbilling.pw/img/streams/swr-hd-de.png" tvg-rec="7",SWR HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/swr-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="br-hd-de" tvg-logo="http://cbilling.pw/img/streams/br-hd-de.png" tvg-rec="7",BR HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/br-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="hr-hd-de" tvg-logo="http://cbilling.pw/img/streams/hr-hd-de.png" tvg-rec="7",HR HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/hr-hd-de.m3u8
@@ -3966,12 +3996,12 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-atlantic-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="syfy-hd-de" tvg-logo="http://cbilling.pw/img/streams/syfy-hd-de.png" tvg-rec="7",Syfy HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/syfy-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="tnt-comedy-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-comedy-hd-de.png" tvg-rec="7",TNT Comedy HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-comedy-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="tnt-film-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-film-hd-de.png" tvg-rec="7",TNT Film HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-film-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="tnt-comedy-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-comedy-hd-de.png" tvg-rec="7",TNT Comedy HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-comedy-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="tnt-serie-hd-de" tvg-logo="http://cbilling.pw/img/streams/tnt-serie-hd-de.png" tvg-rec="7",TNT Serie HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/tnt-serie-hd-de.m3u8
@@ -3996,9 +4026,6 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/vox-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="dmax-hd-de" tvg-logo="http://cbilling.pw/img/streams/dmax-hd-de.png" tvg-rec="7",DMAX HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/dmax-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="e-entertainemnt-hd-de" tvg-logo="http://cbilling.pw/img/streams/e-entertainemnt-hd-de.png" tvg-rec="7",E! Entertainm. HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/e-entertainemnt-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="anixe-hd-de" tvg-logo="http://cbilling.pw/img/streams/anixe-hd-de.png" tvg-rec="7",Anixe HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/anixe-hd-de.m3u8
@@ -4008,51 +4035,54 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/nat-geo-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="nat-geo-wild-hd-de" tvg-logo="http://cbilling.pw/img/streams/nat-geo-wild-hd-de.png" tvg-rec="7",NatGeo Wild HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/nat-geo-wild-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="tlc-hd-de" tvg-logo="http://cbilling.pw/img/streams/tlc-hd-de.png" tvg-rec="7",TLC HD DE
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/tlc-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="history-hd-de" tvg-logo="http://cbilling.pw/img/streams/history-hd-de.png" tvg-rec="7",History HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/history-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="insight-tv-hd-de" tvg-logo="http://cbilling.pw/img/streams/insight-tv-hd-de.png" tvg-rec="7",Insight TV HD DE
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/insight-tv-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="spiegel-geschichte-hd-de" tvg-logo="http://cbilling.pw/img/streams/spiegel-geschichte-hd-de.png" tvg-rec="7",Spiegel Geschichte HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/spiegel-geschichte-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="tlc-hd-de" tvg-logo="http://cbilling.pw/img/streams/tlc-hd-de.png" tvg-rec="7",TLC HD DE
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/tlc-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="waidwerk-hd-de" tvg-logo="http://cbilling.pw/img/streams/waidwerk-hd-de.png" tvg-rec="7",Waidwerk HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/waidwerk-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="insight-tv-hd-de" tvg-logo="http://cbilling.pw/img/streams/insight-tv-hd-de.png" tvg-rec="7",Insight TV HD DE
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/insight-tv-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sky-sport1-hd-orig-de" tvg-logo="http://cbilling.pw/img/streams/apl1-hd-orig.png" tvg-rec="7",Sky Sport 1 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-sport1-hd-orig-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sky-sport2-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport2-hd-de.png" tvg-rec="7",Sky Sport 2 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-sport2-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-austria-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-austria-hd-de.png" tvg-rec="7",Sky Sport Austria HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-sport-austria-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-bundesliga-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-bundesliga-hd-de.png" tvg-rec="7",Sky Sport Bundesliga 1 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-sport-bundesliga-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-austria-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-austria-hd-de.png" tvg-rec="7",Sky Sport Austria HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-sport-austria-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sky-sport-f1-hd-de" tvg-logo="http://cbilling.pw/img/streams/sky-sport-f1-hd-de.png" tvg-rec="7",Sky Sport F1 HD
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sky-sport-f1-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="dazn1-hd-de" tvg-logo="http://cbilling.pw/img/streams/dazn1-hd-de.png" tvg-rec="7",DAZN 1 HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/dazn1-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="dazn2-hd-de" tvg-logo="http://cbilling.pw/img/streams/dazn2-hd-de.png" tvg-rec="7",DAZN 2 HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/dazn2-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="sport1-hd-de" tvg-logo="http://cbilling.pw/img/streams/sport1-hd-de.png" tvg-rec="7",Sport 1 HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/sport1-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sport1-plus-hd-de" tvg-logo="http://cbilling.pw/img/streams/sport1-plus-hd-de.png" tvg-rec="7",Sport1+ HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/sport1-plus-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="edge-sport-hd-de" tvg-logo="http://cbilling.pw/img/streams/edge-sport-hd-de.png" tvg-rec="7",Edge Sport HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/edge-sport-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="sportdigital-fussbal-hd-de" tvg-logo="http://cbilling.pw/img/streams/sportdigital-fussbal-hd-de.png" tvg-rec="7",Sportdigital Fussball HD
+#EXTGRP:Немецкие
+http://s06.iptvx.tv:8090/s/fa7366ce_2/sportdigital-fussbal-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="europsort-hd-de" tvg-logo="http://cbilling.pw/img/streams/europsort-hd-de.png" tvg-rec="7",Eurosport 1 HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/europsort-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="europsort2-hd-de" tvg-logo="http://cbilling.pw/img/streams/europsort2-hd-de.png" tvg-rec="7",Eurosport 2 HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/europsort2-hd-de.m3u8
-#EXTINF:0 group-title="Немецкие" tvg-id="europsort2-xtra-hd-de" tvg-logo="http://cbilling.pw/img/streams/europsort2-xtra-hd-de.png" tvg-rec="7",Eurosport 2 Xtra HD
-#EXTGRP:Немецкие
-http://s06.iptvx.tv:8090/s/fa7366ce_2/europsort2-xtra-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="disney-hd-de" tvg-logo="http://cbilling.pw/img/streams/disney-hd-de.png" tvg-rec="7",Disney HD DE
 #EXTGRP:Немецкие
 http://s06.iptvx.tv:8090/s/fa7366ce_2/disney-hd-de.m3u8
@@ -4137,7 +4167,6 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6151/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal+ Cinema HD FR
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6004/index.m3u8
-#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:0 group-title="Израильские" tvg-id="9-kanal-hd-il" tvg-logo="http://cbilling.pw/img/streams/9-kanal-hd-il.png" tvg-rec="7",9 Канал HD
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/9-kanal-hd-il.m3u8
@@ -4165,7 +4194,7 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/yes-movies-comedy-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="yes-movies-kids-hd-il" tvg-logo="http://cbilling.pw/img/streams/yes-movies-kids-hd-il.png" tvg-rec="7",Yes Movies KIDS HD
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/yes-movies-kids-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="yes-action-hd-il" tvg-logo="http://cbilling.pw/img/streams/yes-action-hd-il.png" tvg-rec="7",Yes TV action HD
+#EXTINF:0 group-title="Израильские" tvg-id="yes-action-hd-il" tvg-logo="http://cbilling.pw/img/streams/yes-action-hd-il.png" tvg-rec="7",Yes TV Action HD
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/yes-action-hd-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="yes-comedy-hd-il" tvg-logo="http://cbilling.pw/img/streams/yes-comedy-hd-il.png" tvg-rec="7",Yes TV Comedy HD
@@ -4192,9 +4221,12 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/hot-hbo-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="hot-zone-hd-il" tvg-logo="http://cbilling.pw/img/streams/hot-zone-hd-il.png" tvg-rec="7",Zone HD
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/hot-zone-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="viva-il" tvg-logo="http://cbilling.pw/img/streams/viva-il.png" tvg-rec="7",VIVA IL
+#EXTINF:0 group-title="Израильские" tvg-id="viva-il" tvg-logo="http://cbilling.pw/img/streams/viva-il.png" tvg-rec="7",VIVA
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/viva-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="viva-plus-il" tvg-logo="http://cbilling.pw/img/streams/viva-plus-il.png" tvg-rec="7",VIVA+
+#EXTGRP:Израильские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/viva-plus-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="turkish-dramas-plus-il" tvg-logo="http://cbilling.pw/img/streams/turkish-dramas-plus-il.png" tvg-rec="7",Turkish Dramas Plus
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/turkish-dramas-plus-il.m3u8
@@ -4204,6 +4236,12 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/hot-bollywood-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="hot3-hd-il" tvg-logo="http://cbilling.pw/img/streams/hot3-hd-il.png" tvg-rec="7",HOT3
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/hot3-hd-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="big-brother-il" tvg-logo="http://cbilling.pw/img/streams/big-brother-il.png" tvg-rec="7",Big Brother
+#EXTGRP:Израильские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/big-brother-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="yamtihoni-il" tvg-logo="http://cbilling.pw/img/streams/yamtihoni-il.png" tvg-rec="7",Yamtihoni
+#EXTGRP:Израильские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/yamtihoni-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="discovery-hd-il" tvg-logo="http://cbilling.pw/img/streams/discovery-hd-il.png" tvg-rec="7",Discovery IL
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/discovery-hd-il.m3u8
@@ -4219,6 +4257,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/home-plus-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="food-network-il" tvg-logo="http://cbilling.pw/img/streams/food-network-il.png" tvg-rec="7",Food Channel IL
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/food-network-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="health-il" tvg-logo="http://cbilling.pw/img/streams/health-il.png" tvg-rec="7",Health
+#EXTGRP:Израильские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/health-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="cbs-reality-il" tvg-logo="http://cbilling.pw/img/streams/cbs-reality-il.png" tvg-rec="7",CBS Reality IL
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/cbs-reality-il.m3u8
@@ -4246,9 +4287,12 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/sport5-hd-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="one-hd-il" tvg-logo="http://cbilling.pw/img/streams/one-hd-il.png" tvg-rec="7",One HD IL
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/one-hd-il.m3u8
-#EXTINF:0 group-title="Израильские" tvg-id="one2-hd-il" tvg-logo="http://cbilling.pw/img/streams/one2-hd-il.png" tvg-rec="7",One2 IL
+#EXTINF:0 group-title="Израильские" tvg-id="ego-total-il" tvg-logo="http://cbilling.pw/img/streams/ego-total-il.png" tvg-rec="7",Ego Total
 #EXTGRP:Израильские
-http://s06.iptvx.tv:8090/s/fa7366ce_2/one2-hd-il.m3u8
+http://s06.iptvx.tv:8090/s/fa7366ce_2/ego-total-il.m3u8
+#EXTINF:0 group-title="Израильские" tvg-id="music24-il" tvg-logo="http://cbilling.pw/img/streams/music24-il.png" tvg-rec="0",Music 24
+#EXTGRP:Израильские
+http://s06.iptvx.tv:8090/s/fa7366ce_2/music24-il.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="disney-jr-il" tvg-logo="http://cbilling.pw/img/streams/disney-jr-il.png" tvg-rec="7",Disney Jr IL
 #EXTGRP:Израильские
 http://s06.iptvx.tv:8090/s/fa7366ce_2/disney-jr-il.m3u8
