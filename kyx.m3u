@@ -5198,48 +5198,48 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6297/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperOne HD
 #EXTGRP:Взрослые
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6298/index.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="kino-uhd-4k" tvg-logo="https://cbilling.pw/img/streams/kino-uhd-4k.png" tvg-rec="7",Кино UHD
+#EXTINF:0 group-title="Ultra HD" tvg-id="kino-uhd-4k" tvg-logo="http://cbilling.pw/img/streams/kino-uhd-4k.png" tvg-rec="7",Кино UHD
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/kino-uhd-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="ultra-hd-cinema-4k" tvg-logo="https://cbilling.pw/img/streams/ultra-hd-cinema-4k.png" tvg-rec="7",Ultra HD Cinema
+#EXTINF:0 group-title="Ultra HD" tvg-id="ultra-hd-cinema-4k" tvg-logo="http://cbilling.pw/img/streams/ultra-hd-cinema-4k.png" tvg-rec="7",Ultra HD Cinema
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ultra-hd-cinema-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="serial-uhd-4k" tvg-logo="https://cbilling.pw/img/streams/serial-uhd-4k.png" tvg-rec="7",Сериал UHD
+#EXTINF:0 group-title="Ultra HD" tvg-id="serial-uhd-4k" tvg-logo="http://cbilling.pw/img/streams/serial-uhd-4k.png" tvg-rec="7",Сериал UHD
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/serial-uhd-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="russkij-extrim-4k" tvg-logo="https://cbilling.pw/img/streams/russkij-extrim-4k.png" tvg-rec="7",Русский Экстрим UHD
+#EXTINF:0 group-title="Ultra HD" tvg-id="russkij-extrim-4k" tvg-logo="http://cbilling.pw/img/streams/russkij-extrim-4k.png" tvg-rec="7",Русский Экстрим UHD
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/russkij-extrim-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="eurosport-4k" tvg-logo="https://cbilling.pw/img/streams/eurosport-4k.png" tvg-rec="7",Eurosport 4k
+#EXTINF:0 group-title="Ultra HD" tvg-id="eurosport-4k" tvg-logo="http://cbilling.pw/img/streams/eurosport-4k.png" tvg-rec="7",Eurosport 4k
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/eurosport-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="discovery-ultra-4k" tvg-logo="https://cbilling.pw/img/streams/discovery-ultra-4k.png" tvg-rec="7",Discovery Ultra
+#EXTINF:0 group-title="Ultra HD" tvg-id="discovery-ultra-4k" tvg-logo="http://cbilling.pw/img/streams/discovery-ultra-4k.png" tvg-rec="7",Discovery Ultra
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/discovery-ultra-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="insight-uhd-4k" tvg-logo="https://cbilling.pw/img/streams/insight-uhd-4k.png" tvg-rec="7",Insight UHD
+#EXTINF:0 group-title="Ultra HD" tvg-id="insight-uhd-4k" tvg-logo="http://cbilling.pw/img/streams/insight-uhd-4k.png" tvg-rec="7",Insight UHD
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/insight-uhd-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="love-nature-4k" tvg-logo="https://cbilling.pw/img/streams/love-nature-4k.png" tvg-rec="7",Love Nature 4k
+#EXTINF:0 group-title="Ultra HD" tvg-id="love-nature-4k" tvg-logo="http://cbilling.pw/img/streams/love-nature-4k.png" tvg-rec="7",Love Nature 4k
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/love-nature-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="home-4k" tvg-logo="https://cbilling.pw/img/streams/home-4k.png" tvg-rec="7",Home 4k
+#EXTINF:0 group-title="Ultra HD" tvg-id="home-4k" tvg-logo="http://cbilling.pw/img/streams/home-4k.png" tvg-rec="7",Home 4k
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/home-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="nasha-sibir-4k" tvg-logo="https://cbilling.pw/img/streams/nasha-sibir-4k.png" tvg-rec="7",Наша Сибирь 4k
+#EXTINF:0 group-title="Ultra HD" tvg-id="nasha-sibir-4k" tvg-logo="http://cbilling.pw/img/streams/nasha-sibir-4k.png" tvg-rec="7",Наша Сибирь 4k
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/nasha-sibir-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="myzen-4k" tvg-logo="https://cbilling.pw/img/streams/myzen-4k.png" tvg-rec="7",MyZen 4k
+#EXTINF:0 group-title="Ultra HD" tvg-id="glazami-turista-4k" tvg-logo="http://cbilling.pw/img/streams/glazami-turista-4k.png" tvg-rec="7",Глазами Туриста 4k
+#EXTGRP:Ultra HD
+http://s03.iptvx.tv:8090/s/fa7366ce_2/glazami-turista-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="myzen-4k" tvg-logo="http://cbilling.pw/img/streams/myzen-4k.png" tvg-rec="7",MyZen 4k
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/myzen-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="museum-4k" tvg-logo="https://cbilling.pw/img/streams/museum-4k.png" tvg-rec="7",Museum 4k
+#EXTINF:0 group-title="Ultra HD" tvg-id="museum-4k" tvg-logo="http://cbilling.pw/img/streams/museum-4k.png" tvg-rec="7",Museum 4k
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/museum-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="fashion-one-4k" tvg-logo="https://cbilling.pw/img/streams/fashion-one-4k.png" tvg-rec="7",Fashion 4K
+#EXTINF:0 group-title="Ultra HD" tvg-id="fashion-one-4k" tvg-logo="http://cbilling.pw/img/streams/fashion-one-4k.png" tvg-rec="7",FTV UHD
 #EXTGRP:Ultra HD
 http://s03.iptvx.tv:8090/s/fa7366ce_2/fashion-one-4k.m3u8
-#EXTINF:0 group-title="Ultra HD" tvg-id="stingray-festival-4k" tvg-logo="https://cbilling.pw/img/streams/stingray-festival-4k.png" tvg-rec="7",Stingray Festival 4k
-#EXTGRP:Ultra HD
-http://s03.iptvx.tv:8090/s/fa7366ce_2/stingray-festival-4k.m3u8
 #EXTINF:0 tvg-rec="3",РБК-ТВ
 #EXTGRP:Резервные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/106/index.m3u8
