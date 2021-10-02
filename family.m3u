@@ -3942,9 +3942,15 @@ http://s02.iptvx.tv:8090/s/fa7366ce/welt-de-hd.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="ntv-de-hd" tvg-logo="http://cbilling.pw/img/streams/ntv-de.png" tvg-rec="7",N-TV HD
 #EXTGRP:Немецкие
 http://s02.iptvx.tv:8090/s/fa7366ce/ntv-de-hd.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="dw-hd-de" tvg-logo="http://cbilling.pw/img/streams/dw-hd-de.png" tvg-rec="0",Deutsche Welle HD
+#EXTGRP:Немецкие
+http://s03.iptvx.tv:8090/s/fa7366ce/dw-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="das-erste-hd-de" tvg-logo="http://cbilling.pw/img/streams/das-erste-hd-de.png" tvg-rec="7",Das Erste HD
 #EXTGRP:Немецкие
 http://s02.iptvx.tv:8090/s/fa7366ce/das-erste-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="one-hd-de" tvg-logo="http://cbilling.pw/img/streams/one-hd-de.png" tvg-rec="7",ONE HD
+#EXTGRP:Немецкие
+http://s03.iptvx.tv:8090/s/fa7366ce/one-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="kabel-eins-hd-de" tvg-logo="http://cbilling.pw/img/streams/kabel-eins-hd-de.png" tvg-rec="7",Kabel Eins HD
 #EXTGRP:Немецкие
 http://s02.iptvx.tv:8090/s/fa7366ce/kabel-eins-hd-de.m3u8
@@ -4008,6 +4014,15 @@ http://s03.iptvx.tv:8090/s/fa7366ce/ndr-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="swr-hd-de" tvg-logo="http://cbilling.pw/img/streams/swr-hd-de.png" tvg-rec="7",SWR HD
 #EXTGRP:Немецкие
 http://s03.iptvx.tv:8090/s/fa7366ce/swr-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="wdr-hd-de" tvg-logo="http://cbilling.pw/img/streams/wdr-hd-de.png" tvg-rec="7",WDR HD
+#EXTGRP:Немецкие
+http://s03.iptvx.tv:8090/s/fa7366ce/wdr-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="rbb-hd-de" tvg-logo="http://cbilling.pw/img/streams/rbb-hd-de.png" tvg-rec="7",RBB HD
+#EXTGRP:Немецкие
+http://s03.iptvx.tv:8090/s/fa7366ce/rbb-hd-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="br-hd-de" tvg-logo="http://cbilling.pw/img/streams/br-hd-de.png" tvg-rec="7",BR HD
+#EXTGRP:Немецкие
+http://s03.iptvx.tv:8090/s/fa7366ce/br-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="hr-hd-de" tvg-logo="http://cbilling.pw/img/streams/hr-hd-de.png" tvg-rec="7",HR HD
 #EXTGRP:Немецкие
 http://s03.iptvx.tv:8090/s/fa7366ce/hr-hd-de.m3u8
