@@ -371,9 +371,6 @@ http://s06.iptvx.tv:8090/s/fa7366ce_2/mir.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир HD
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир Premium HD
-#EXTGRP:Российские (общие)
-http://s06.iptvx.tv:8090/s/fa7366ce_2/mir-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="mir-24" tvg-logo="https://cbilling.pw/img/streams/mir-24.png" tvg-rec="7",Мир 24
 #EXTGRP:Российские (общие)
 http://s06.iptvx.tv:8090/s/fa7366ce_2/mir-24.m3u8
