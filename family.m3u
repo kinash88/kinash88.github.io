@@ -362,6 +362,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/souz.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="spas" tvg-logo="http://pics.cbilling.pw/streams/spas.png" tvg-rec="7",Спас
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce/spas.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="moskva-doverie" tvg-logo="http://pics.cbilling.pw/streams/moskva-doverie.png" tvg-rec="7",Москва Доверие
+#EXTGRP:Российские (общие)
+http://s03.iptvx.tv:8090/s/fa7366ce/moskva-doverie.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="krasnaja-linija" tvg-logo="http://cbilling.pw/img/streams/krasnaja-linija.png" tvg-rec="7",Красная линия
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce/krasnaja-linija.m3u8
@@ -389,6 +392,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/dozhd-hd.m3u8
 #EXTINF:0 group-title="Российские (общие)" tvg-id="nastoyaschee-vremya-hd" tvg-logo="http://cbilling.pw/img/streams/nastoyaschee-vremya-hd.png" tvg-rec="7",Настоящее время HD
 #EXTGRP:Российские (общие)
 http://s03.iptvx.tv:8090/s/fa7366ce/nastoyaschee-vremya-hd.m3u8
+#EXTINF:0 group-title="Российские (общие)" tvg-id="nezavisim-tv-hd" tvg-logo="http://pics.cbilling.pw/streams/nezavisim-tv-hd.png" tvg-rec="7",Независимые HD
+#EXTGRP:Российские (общие)
+http://s03.iptvx.tv:8090/s/fa7366ce/nezavisim-tv-hd.m3u8
 #EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Российские (общие)
 http://myott.top/stream/8WH42KGIMV/224.m3u8
@@ -4062,6 +4068,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/bridge-classic.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="dance-tv" tvg-logo="http://cbilling.pw/img/streams/dance-tv.png" tvg-rec="0",Bridge TV Hits
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce/dance-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-fresh" tvg-logo="http://pics.cbilling.pw/streams/bridge-tv-fresh.png" tvg-rec="0",Bridge TV Fresh
+#EXTGRP:Музыкальные
+http://s03.iptvx.tv:8090/s/fa7366ce/bridge-tv-fresh.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-shlager" tvg-logo="http://cbilling.pw/img/streams/bridge-tv-shlager.png" tvg-rec="0",Bridge TV Шлягер
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce/bridge-tv-shlager.m3u8
@@ -4161,9 +4170,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/izvestija-hd.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="moskva-24" tvg-logo="http://cbilling.pw/img/streams/moskva-24.png" tvg-rec="0",Москва 24
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/moskva-24.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="rbk" tvg-logo="http://cbilling.pw/img/streams/rbk.png" tvg-rec="7",РБК
+#EXTINF:0 group-title="Новостные" tvg-id="rbk-hd" tvg-logo="http://pics.cbilling.pw/streams/rbk-hd.png" tvg-rec="7",РБК HD
 #EXTGRP:Новостные
-http://s03.iptvx.tv:8090/s/fa7366ce/rbk.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce/rbk-hd.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="russia-today-hd" tvg-logo="http://cbilling.pw/img/streams/russia-today-hd.png" tvg-rec="0",RT HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/russia-today-hd.m3u8
@@ -4236,6 +4245,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce/unian-hd-ua.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="izvestija" tvg-logo="http://cbilling.pw/img/streams/izvestija.png" tvg-rec="0",Известия
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/izvestija.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="rbk" tvg-logo="http://cbilling.pw/img/streams/rbk.png" tvg-rec="7",РБК
+#EXTGRP:Новостные
+http://s03.iptvx.tv:8090/s/fa7366ce/rbk.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="rt-english" tvg-logo="http://cbilling.pw/img/streams/rt-english.png" tvg-rec="0",RT
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/rt-english.m3u8
