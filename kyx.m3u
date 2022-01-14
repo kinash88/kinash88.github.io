@@ -2559,7 +2559,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/discovery-hd-il.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="discovery-science-hd-orig" tvg-logo="http://cbilling.pw/img/streams/discovery-science-hd-orig.png" tvg-rec="7",Discovery Science HD
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/discovery-science-hd-orig.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="dtx-hd-orig" tvg-logo="http://cbilling.pw/img/streams/dtx-hd-orig.png" tvg-rec="7",DTX HD
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx-hd-orig" tvg-logo="http://pics.cbilling.pw/streams/dtx-hd-orig.png" tvg-rec="7",DTX HD
 #EXTGRP:Познавательные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/dtx-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="id-xtra-hd-orig" tvg-logo="http://cbilling.pw/img/streams/id-xtra-hd-orig.png" tvg-rec="7",Investigation Discovery HD
@@ -3243,6 +3243,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/dorama-hd.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="zee-tv" tvg-logo="http://cbilling.pw/img/streams/zee-tv.png" tvg-rec="7",Zee TV
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/zee-tv.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="3-plus-hd-lv" tvg-logo="http://pics.cbilling.pw/streams/3-plus-hd-lv.png" tvg-rec="7",3 Plus HD
+#EXTGRP:Фильмовые
+http://s03.iptvx.tv:8090/s/fa7366ce_2/3-plus-hd-lv.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="tv3-film-hd-lt" tvg-logo="http://cbilling.pw/img/streams/tv3-film-hd-lt.png" tvg-rec="7",TV3 Film HD
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/tv3-film-hd-lt.m3u8
@@ -3300,6 +3303,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/viva-il.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="viva-plus-il" tvg-logo="http://cbilling.pw/img/streams/viva-plus-il.png" tvg-rec="7",VIVA+
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/viva-plus-il.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="kinoteatr-uz" tvg-logo="http://cbilling.pw/img/streams/kinoteatr-uz.png" tvg-rec="0",Кинотеатр UZ
+#EXTGRP:Фильмовые
+http://s03.iptvx.tv:8090/s/fa7366ce_2/kinoteatr-uz.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="turkish-dramas-plus-il" tvg-logo="http://cbilling.pw/img/streams/turkish-dramas-plus-il.png" tvg-rec="7",Turkish Dramas Plus
 #EXTGRP:Фильмовые
 http://s03.iptvx.tv:8090/s/fa7366ce_2/turkish-dramas-plus-il.m3u8
@@ -3480,9 +3486,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/match-igra-hd-orig.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="match-arena-hd-orig" tvg-logo="http://cbilling.pw/img/streams/match-arena-hd-orig.png" tvg-rec="7",Матч! Арена HD
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/match-arena-hd-orig.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="match-boec" tvg-logo="http://cbilling.pw/img/streams/match-boec.png" tvg-rec="7",МАТЧ! Боец
+#EXTINF:0 group-title="Спортивные" tvg-id="match-boec-hd" tvg-logo="http://pics.cbilling.pw/streams/match-boec-hd.png" tvg-rec="7",Матч! Боец HD
 #EXTGRP:Спортивные
-http://s03.iptvx.tv:8090/s/fa7366ce_2/match-boec.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/match-boec-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="match-nash-sport" tvg-logo="http://cbilling.pw/img/streams/match-nash-sport.png" tvg-rec="7",Матч! Страна
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/match-nash-sport.m3u8
@@ -3699,6 +3705,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/one-hd-il.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="sport1-hd-lt" tvg-logo="http://cbilling.pw/img/streams/sport1-hd-lt.png" tvg-rec="7",Sport 1 HD LT
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/sport1-hd-lt.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="best4sport-hd-lv" tvg-logo="http://pics.cbilling.pw/streams/best4sport-hd-lv.png" tvg-rec="7",Best4Sport TV HD
+#EXTGRP:Спортивные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/best4sport-hd-lv.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="tvplay-sports-hd-lt" tvg-logo="http://cbilling.pw/img/streams/tvplay-sports-hd-lt.png" tvg-rec="7",TvPlay Sports HD
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/tvplay-sports-hd-lt.m3u8
@@ -3723,6 +3732,12 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/cbc-sport-hd-az.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="idman-az" tvg-logo="http://cbilling.pw/img/streams/idman-az.png" tvg-rec="7",Idman Azerbaycan
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/idman-az.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="uzsport-uz" tvg-logo="http://cbilling.pw/img/streams/uzsport-uz.png" tvg-rec="0",UZ SPORT
+#EXTGRP:Спортивные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/uzsport-uz.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="kazsport" tvg-logo="http://cbilling.pw/img/streams/kazsport.png" tvg-rec="0",KazSport
+#EXTGRP:Спортивные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/kazsport.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-rec="7" timeshift="7",Интерспорт 1 HD
 #EXTGRP:Спортивные
 http://myott.top/stream/8WH42KGIMV/159.m3u8
@@ -3765,6 +3780,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/nash-futbol.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="match-igra" tvg-logo="http://cbilling.pw/img/streams/match-igra.png" tvg-rec="7",Матч! Игра
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/match-igra.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="match-boec" tvg-logo="http://cbilling.pw/img/streams/match-boec.png" tvg-rec="7",МАТЧ! Боец
+#EXTGRP:Спортивные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/match-boec.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="match-arena" tvg-logo="http://cbilling.pw/img/streams/match-arena.png" tvg-rec="7",Матч! Арена
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/match-arena.m3u8
@@ -4038,6 +4056,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/ru-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="aiva-hd" tvg-logo="http://cbilling.pw/img/streams/aiva-hd.png" tvg-rec="0",AIVA HD
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/aiva-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="viva-russia-hd" tvg-logo="http://pics.cbilling.pw/streams/viva-russia-hd.png" tvg-rec="0",VIVA Russia HD
+#EXTGRP:Музыкальные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/viva-russia-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="kronehit-hd" tvg-logo="http://cbilling.pw/img/streams/kronehit-hd.png" tvg-rec="0",Kronehit HD
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/kronehit-hd.m3u8
@@ -4176,6 +4197,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/rbk-hd.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="russia-today-hd" tvg-logo="http://cbilling.pw/img/streams/russia-today-hd.png" tvg-rec="0",RT HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/russia-today-hd.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="rt-hd-de" tvg-logo="http://pics.cbilling.pw/streams/rt-hd-de.png" tvg-rec="7",RT DE HD
+#EXTGRP:Новостные
+http://s03.iptvx.tv:8090/s/fa7366ce_2/rt-hd-de.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="dozhd-hd" tvg-logo="http://cbilling.pw/img/streams/dozhd-hd.png" tvg-rec="7",Дождь HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/dozhd-hd.m3u8
@@ -4521,6 +4545,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/tv8-hd-lt.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="btv-hd-lt" tvg-logo="http://cbilling.pw/img/streams/btv-hd-lt.png" tvg-rec="7",BTV HD
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/btv-hd-lt.m3u8
+#EXTINF:0 group-title="Балтийские" tvg-id="balticum-lt" tvg-logo="http://pics.cbilling.pw/streams/balticum-lt.png" tvg-rec="7",Balticum
+#EXTGRP:Балтийские
+http://s03.iptvx.tv:8090/s/fa7366ce_2/balticum-lt.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="balticum-auksinis-lt" tvg-logo="http://cbilling.pw/img/streams/balticum-auksinis-lt.png" tvg-rec="7",Balticum Auksinis
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/balticum-auksinis-lt.m3u8
@@ -4539,6 +4566,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/2tv-lt.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="lietuvos-rytas-hd-lt" tvg-logo="http://cbilling.pw/img/streams/lietuvos-rytas-hd-lt.png" tvg-rec="7",Lietuvos Rytas HD
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/lietuvos-rytas-hd-lt.m3u8
+#EXTINF:0 group-title="Балтийские" tvg-id="siauliu-televizija-hd-lt" tvg-logo="http://pics.cbilling.pw/streams/siauliu-televizija-hd-lt.png" tvg-rec="7",Siauliu Televizija HD
+#EXTGRP:Балтийские
+http://s03.iptvx.tv:8090/s/fa7366ce_2/siauliu-televizija-hd-lt.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="delfi-hd-lt" tvg-logo="http://cbilling.pw/img/streams/delfi-hd-lt.png" tvg-rec="7",Delfi HD
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/delfi-hd-lt.m3u8
@@ -4569,12 +4599,15 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/ltv3-hd-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="ltv3-life-hd-lv" tvg-logo="http://cbilling.pw/img/streams/ltv3-life-hd-lv.png" tvg-rec="7",TV3 Life HD
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ltv3-life-hd-lv.m3u8
+#EXTINF:0 group-title="Балтийские" tvg-id="tv4-latvija-lv" tvg-logo="http://pics.cbilling.pw/streams/tv4-latvija-lv.png" tvg-rec="7",TV4 Latvija
+#EXTGRP:Балтийские
+http://s03.iptvx.tv:8090/s/fa7366ce_2/tv4-latvija-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="ltv6-hd-lv" tvg-logo="http://cbilling.pw/img/streams/ltv6-hd-lv.png" tvg-rec="7",TV6 HD LV
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ltv6-hd-lv.m3u8
-#EXTINF:0 group-title="Балтийские" tvg-id="3plus-lv" tvg-logo="http://cbilling.pw/img/streams/3plus-lv.png" tvg-rec="7",3 Plus
+#EXTINF:0 group-title="Балтийские" tvg-id="3-plus-hd-lv" tvg-logo="http://pics.cbilling.pw/streams/3-plus-hd-lv.png" tvg-rec="7",3 Plus HD
 #EXTGRP:Балтийские
-http://s03.iptvx.tv:8090/s/fa7366ce_2/3plus-lv.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce_2/3-plus-hd-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="stv-lv" tvg-logo="http://cbilling.pw/img/streams/stv-lv.png" tvg-rec="7",STV
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/stv-lv.m3u8
@@ -4587,6 +4620,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/tv3-mini-hd-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="re-lv" tvg-logo="http://cbilling.pw/img/streams/re-lv.png" tvg-rec="7",RE
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/re-lv.m3u8
+#EXTINF:0 group-title="Балтийские" tvg-id="best4sport-hd-lv" tvg-logo="http://pics.cbilling.pw/streams/best4sport-hd-lv.png" tvg-rec="7",Best4Sport TV HD
+#EXTGRP:Балтийские
+http://s03.iptvx.tv:8090/s/fa7366ce_2/best4sport-hd-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="sporta-centrs-hd-lv" tvg-logo="http://cbilling.pw/img/streams/sporta-centrs-hd-lv.png" tvg-rec="7",Sporta Centrs HD
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/sporta-centrs-hd-lv.m3u8
@@ -4653,6 +4689,9 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/ltv3-life-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="ltv6-lv" tvg-logo="http://cbilling.pw/img/streams/ltv6-lv.png" tvg-rec="7",TV6 LV
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/ltv6-lv.m3u8
+#EXTINF:0 group-title="Балтийские" tvg-id="3plus-lv" tvg-logo="http://cbilling.pw/img/streams/3plus-lv.png" tvg-rec="7",3 Plus
+#EXTGRP:Балтийские
+http://s03.iptvx.tv:8090/s/fa7366ce_2/3plus-lv.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="etv-ee" tvg-logo="http://cbilling.pw/img/streams/etv-ee.png" tvg-rec="7",ETV
 #EXTGRP:Балтийские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/etv-ee.m3u8
@@ -4671,6 +4710,9 @@ http://s02.iptvx.tv:8090/s/fa7366ce_2/ntv-hd-orig-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="welt-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/welt-hd-orig-de.png" tvg-rec="7",Welt HD
 #EXTGRP:Немецкие
 http://s03.iptvx.tv:8090/s/fa7366ce_2/welt-hd-orig-de.m3u8
+#EXTINF:0 group-title="Немецкие" tvg-id="rt-hd-de" tvg-logo="http://pics.cbilling.pw/streams/rt-hd-de.png" tvg-rec="7",RT DE HD
+#EXTGRP:Немецкие
+http://s03.iptvx.tv:8090/s/fa7366ce_2/rt-hd-de.m3u8
 #EXTINF:0 group-title="Немецкие" tvg-id="das-erste-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/das-erste-hd-orig-de.png" tvg-rec="7",Das Erste HD
 #EXTGRP:Немецкие
 http://s02.iptvx.tv:8090/s/fa7366ce_2/das-erste-hd-orig-de.m3u8
