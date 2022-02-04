@@ -3732,7 +3732,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce/trt-spor2-hd-tr.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="a-spor-hd-tr" tvg-logo="http://cbilling.pw/img/streams/a-spor-hd-tr.png" tvg-rec="7",A Spor HD
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce/a-spor-hd-tr.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="cbc-sport-hd-az" tvg-logo="http://cbilling.pw/img/streams/cbc-sport-az.png" tvg-rec="7",CBC Sport HD
+#EXTINF:0 group-title="Спортивные" tvg-id="cbc-sport-hd-az" tvg-logo="http://pics.cbilling.pw/streams/cbc-sport-az.png" tvg-rec="7",CBC Sport HD
 #EXTGRP:Спортивные
 http://s03.iptvx.tv:8090/s/fa7366ce/cbc-sport-hd-az.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="idman-az" tvg-logo="http://cbilling.pw/img/streams/idman-az.png" tvg-rec="7",Idman Azerbaycan
@@ -4149,7 +4149,7 @@ http://s03.iptvx.tv:8090/s/fa7366ce/trt-muzik-hd-tr.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="shant-music-am-hd" tvg-logo="http://cbilling.pw/img/streams/shant-music-am-hd.png" tvg-rec="7",Shant Music HD
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce/shant-music-am-hd.m3u8
-#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv-az" tvg-logo="http://cbilling.pw/img/streams/muz-tv-az.png" tvg-rec="7",Muz TV Azerbaycan
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv-az" tvg-logo="http://pics.cbilling.pw/streams/muz-tv-az.png" tvg-rec="7",Muz TV Azerbaycan
 #EXTGRP:Музыкальные
 http://s03.iptvx.tv:8090/s/fa7366ce/muz-tv-az.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-rec="3",МузСоюз
@@ -4242,9 +4242,15 @@ http://s03.iptvx.tv:8090/s/fa7366ce/bloomberg-hd.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="al-jazeera-hd" tvg-logo="http://cbilling.pw/img/streams/al-jazeera-hd.png" tvg-rec="0",Al Jazeera HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/al-jazeera-hd.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="arb24-hd-az" tvg-logo="http://cbilling.pw/img/streams/arb24-hd-az.png" tvg-rec="7",ARB24 HD
+#EXTINF:0 group-title="Новостные" tvg-id="arb-az" tvg-logo="http://pics.cbilling.pw/streams/arb-az.png" tvg-rec="7",ARB
+#EXTGRP:Новостные
+http://s03.iptvx.tv:8090/s/fa7366ce/arb-az.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="arb24-hd-az" tvg-logo="http://pics.cbilling.pw/streams/arb24-hd-az.png" tvg-rec="7",ARB24 HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/arb24-hd-az.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="cbc-hd-az" tvg-logo="http://pics.cbilling.pw/streams/cbc-az.png" tvg-rec="7",CBC HD
+#EXTGRP:Новостные
+http://s03.iptvx.tv:8090/s/fa7366ce/cbc-hd-az.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",UKR Live
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce/1nezalegny-hd-ua.m3u8
@@ -5595,57 +5601,54 @@ http://s03.iptvx.tv:8090/s/fa7366ce/ararat-am.m3u8
 #EXTINF:0 group-title="Армянские" tvg-id="erkir-am" tvg-logo="http://cbilling.pw/img/streams/erkir-am.png" tvg-rec="7",Yerkir
 #EXTGRP:Армянские
 http://s03.iptvx.tv:8090/s/fa7366ce/erkir-am.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="space-tv-az" tvg-logo="http://cbilling.pw/img/streams/space-tv-az.png" tvg-rec="7",Space TV
+#EXTINF:0 group-title="Азербайджанские" tvg-id="space-tv-az-hd" tvg-logo="http://pics.cbilling.pw/streams/space-tv-az.png" tvg-rec="7",Space TV HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/space-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="azad-tv-az" tvg-logo="http://cbilling.pw/img/streams/azad-tv-az.png" tvg-rec="7",Azad TV
+http://s03.iptvx.tv:8090/s/fa7366ce/space-tv-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="azad-tv-az-hd" tvg-logo="http://pics.cbilling.pw/streams/azad-tv-az.png" tvg-rec="7",Azad TV HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/azad-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="xazar-tv-az" tvg-logo="http://cbilling.pw/img/streams/xazar-tv-az.png" tvg-rec="7",Xazar TV
+http://s03.iptvx.tv:8090/s/fa7366ce/azad-tv-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="xazar-tv-az-hd" tvg-logo="http://pics.cbilling.pw/streams/xazar-tv-az.png" tvg-rec="7",Xazar TV HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/xazar-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="atv-hd-az" tvg-logo="http://cbilling.pw/img/streams/atv-hd-az.png" tvg-rec="7",ATV HD AZ
-#EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/atv-hd-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="arb-az" tvg-logo="http://cbilling.pw/img/streams/arb-az.png" tvg-rec="7",ARB
-#EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/arb-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="arb24-hd-az" tvg-logo="http://cbilling.pw/img/streams/arb24-hd-az.png" tvg-rec="7",ARB24 HD
+http://s03.iptvx.tv:8090/s/fa7366ce/xazar-tv-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="arb24-hd-az" tvg-logo="http://pics.cbilling.pw/streams/arb24-hd-az.png" tvg-rec="7",ARB24 HD
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/arb24-hd-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="arb-kepez-az" tvg-logo="http://cbilling.pw/img/streams/arb-kepez-az.png" tvg-rec="7",ARB Kəpəz
+#EXTINF:0 group-title="Азербайджанские" tvg-id="arb-kepez-az" tvg-logo="http://pics.cbilling.pw/streams/arb-kepez-az.png" tvg-rec="7",ARB Kəpəz
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/arb-kepez-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="ictimai-tv-az" tvg-logo="http://cbilling.pw/img/streams/ictimai-tv-az.png" tvg-rec="7",Ictimai TV
+#EXTINF:0 group-title="Азербайджанские" tvg-id="ictimai-tv-az-hd" tvg-logo="http://pics.cbilling.pw/streams/ictimai-tv-az.png" tvg-rec="7",Ictimai TV HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/ictimai-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="cbc-hd-az" tvg-logo="http://cbilling.pw/img/streams/cbc-az.png" tvg-rec="7",CBC HD
+http://s03.iptvx.tv:8090/s/fa7366ce/ictimai-tv-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="cbc-hd-az" tvg-logo="http://pics.cbilling.pw/streams/cbc-az.png" tvg-rec="7",CBC HD
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/cbc-hd-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="cbc-sport-hd-az" tvg-logo="http://cbilling.pw/img/streams/cbc-sport-az.png" tvg-rec="7",CBC Sport HD
+#EXTINF:0 group-title="Азербайджанские" tvg-id="cbc-sport-hd-az" tvg-logo="http://pics.cbilling.pw/streams/cbc-sport-az.png" tvg-rec="7",CBC Sport HD
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/cbc-sport-hd-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="aztv-az" tvg-logo="http://cbilling.pw/img/streams/aztv-az.png" tvg-rec="7",AzTV
+#EXTINF:0 group-title="Азербайджанские" tvg-id="aztv-az-hd" tvg-logo="http://pics.cbilling.pw/streams/aztv-az.png" tvg-rec="7",AzTV HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/aztv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="real-tv-az" tvg-logo="http://cbilling.pw/img/streams/real-tv-az.png" tvg-rec="7",Real TV AZ
+http://s03.iptvx.tv:8090/s/fa7366ce/aztv-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="real-tv-az-hd" tvg-logo="http://pics.cbilling.pw/streams/real-tv-az.png" tvg-rec="7",Real TV HD AZ
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/real-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="azstar-hd-az" tvg-logo="http://cbilling.pw/img/streams/azstar-hd-az.png" tvg-rec="7",AzStar TV HD
+http://s03.iptvx.tv:8090/s/fa7366ce/real-tv-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="azstar-hd-az" tvg-logo="http://pics.cbilling.pw/streams/azstar-hd-az.png" tvg-rec="7",AzStar TV HD
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/azstar-hd-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="muz-tv-az" tvg-logo="http://cbilling.pw/img/streams/muz-tv-az.png" tvg-rec="7",Muz TV Azerbaycan
+#EXTINF:0 group-title="Азербайджанские" tvg-id="muz-tv-az" tvg-logo="http://pics.cbilling.pw/streams/muz-tv-az.png" tvg-rec="7",Muz TV Azerbaycan
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/muz-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="dunya-tv-az" tvg-logo="http://cbilling.pw/img/streams/dunya-tv-az.png" tvg-rec="7",Dunya TV
+#EXTINF:0 group-title="Азербайджанские" tvg-id="dunya-tv-az" tvg-logo="http://pics.cbilling.pw/streams/dunya-tv-az.png" tvg-rec="7",Dunya TV
 #EXTGRP:Азербайджанские
 http://s03.iptvx.tv:8090/s/fa7366ce/dunya-tv-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="medeniyyet-az" tvg-logo="http://cbilling.pw/img/streams/medeniyyet-az.png" tvg-rec="7",Medeniyyet TV
+#EXTINF:0 group-title="Азербайджанские" tvg-id="medeniyyet-az-hd" tvg-logo="http://pics.cbilling.pw/streams/medeniyyet-az.png" tvg-rec="7",Medeniyyet TV HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/medeniyyet-az.m3u8
-#EXTINF:0 group-title="Азербайджанские" tvg-id="idman-az" tvg-logo="http://cbilling.pw/img/streams/idman-az.png" tvg-rec="7",Idman Azerbaycan
+http://s03.iptvx.tv:8090/s/fa7366ce/medeniyyet-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="idman-az-hd" tvg-logo="http://pics.cbilling.pw/streams/idman-az.png" tvg-rec="7",Idman Azerbaycan HD
 #EXTGRP:Азербайджанские
-http://s03.iptvx.tv:8090/s/fa7366ce/idman-az.m3u8
+http://s03.iptvx.tv:8090/s/fa7366ce/idman-az-hd.m3u8
+#EXTINF:0 group-title="Азербайджанские" tvg-id="arb-az" tvg-logo="http://pics.cbilling.pw/streams/arb-az.png" tvg-rec="7",ARB
+#EXTGRP:Азербайджанские
+http://s03.iptvx.tv:8090/s/fa7366ce/arb-az.m3u8
 #EXTINF:-1 group-title="Балтийские" tvg-rec="7" timeshift="7",LNK
 #EXTGRP:Балтийские
 http://myott.top/stream/8WH42KGIMV/30.m3u8
