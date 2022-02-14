@@ -3558,6 +3558,9 @@ http://s06.iptvx.tv:8090/s/fa7366ce/setanta-sport-ua-hd-orig.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="setanta-sport-plus-ua-hd-orig" tvg-logo="http://cbilling.pw/img/streams/setanta-sport-plus-ua-hd-orig.png" tvg-rec="7",Setanta Sports + Ukraine HD
 #EXTGRP:Спортивные
 http://s06.iptvx.tv:8090/s/fa7366ce/setanta-sport-plus-ua-hd-orig.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="qsport-hd" tvg-logo="http://pics.cbilling.pw/streams/qsport-hd.png" tvg-rec="7",QSport HD
+#EXTGRP:Спортивные
+http://s06.iptvx.tv:8090/s/fa7366ce/qsport-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="super-tennis-hd" tvg-logo="http://cbilling.pw/img/streams/super-tennis-hd.png" tvg-rec="7",Super Tennis HD
 #EXTGRP:Спортивные
 http://s06.iptvx.tv:8090/s/fa7366ce/super-tennis-hd.m3u8
