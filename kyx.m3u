@@ -41,9 +41,6 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/1nezalegny-hd-ua.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
 #EXTGRP:Отобранное Любимое
 https://live.pnk.tv/hls/pn/hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
-#EXTGRP:Отобранное Любимое
-http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
 #EXTINF:170 group-title="Отобранное Любимое",Правда ТУТ HD
 #EXTGRP:Отобранное Любимое
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/3985/stream.m3u8
@@ -710,9 +707,6 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/1nezalegny-hd-ua.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
 #EXTGRP:Украинские
 https://live.pnk.tv/hls/pn/hd.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
-#EXTGRP:Украинские
-http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
 #EXTINF:194 group-title="Украинские",Live
 #EXTGRP:Украинские
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/572/stream.m3u8
@@ -1124,9 +1118,6 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1004/index.m3u8
 #EXTINF:0 tvg-rec="3",33 канал
 #EXTGRP:Украинские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/5040/index.m3u8
-#EXTINF:0 group-title="Украинские" tvg-id="kanal-nash" tvg-logo="http://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="7",Наш
-#EXTGRP:Украинские
-http://s03.iptvx.tv:8090/s/fa7366ce_2/kanal-nash.m3u8
 #EXTINF:0 group-title="Украинские" tvg-id="1nezalegny-ua" tvg-logo="http://cbilling.pw/img/streams/1nezalegny-ua.png" tvg-rec="7",Перший Незалежний
 #EXTGRP:Украинские
 http://s03.iptvx.tv:8090/s/fa7366ce_2/1nezalegny-ua.m3u8
@@ -1922,9 +1913,6 @@ http://playlist.hmara.tv/836e9584/685d153719887c0b93577bc3573870e3d83f95f9.m3u8
 #EXTINF:-1,Наука
 #EXTGRP:Украинские (Хмара ТБ)
 http://playlist.hmara.tv/836e9584/b8b83156749c8d452b7b1c7b0e26fee4aaf07651.m3u8
-#EXTINF:-1,Наш
-#EXTGRP:Украинские (Хмара ТБ)
-http://playlist.hmara.tv/836e9584/24658117d4b90383d37caa0b5607f852da86ec7c.m3u8
 #EXTINF:-1,Наше новое кино
 #EXTGRP:Украинские (Хмара ТБ)
 http://playlist.hmara.tv/836e9584/8da4c58d82a1aa65c810347e9320ac81a94ba923.m3u8
@@ -2497,8 +2485,6 @@ https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/108/stream.m3u8
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/2386/stream.m3u8
 #EXTINF:189 group-title="Украинские (OMEGA TV)",Настоящее время HD
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/3932/stream.m3u8
-#EXTINF:190 group-title="Украинские (OMEGA TV)",Наш
-https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
 #EXTINF:191 group-title="Украинские (OMEGA TV)",ЧП.INFO
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/163/stream.m3u8
 #EXTINF:192 group-title="Украинские (OMEGA TV)",Oboz TV
@@ -4278,9 +4264,6 @@ http://s03.iptvx.tv:8090/s/fa7366ce_2/tonis-hd-ua.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="arm-news-am-hd" tvg-logo="http://cbilling.pw/img/streams/arm-news-am-hd.png" tvg-rec="7",Armnews HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/arm-news-am-hd.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="kanal-nash" tvg-logo="https://cbilling.pw/img/streams/kanal-nash.png" tvg-rec="0",Наш
-#EXTGRP:Новостные
-http://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4293/stream.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="unian-hd-ua" tvg-logo="http://cbilling.pw/img/streams/unian-hd-ua.png" tvg-rec="7",Уніан HD
 #EXTGRP:Новостные
 http://s03.iptvx.tv:8090/s/fa7366ce_2/unian-hd-ua.m3u8
