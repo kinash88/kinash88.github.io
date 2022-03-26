@@ -1,0 +1,805 @@
+#EXTM3U url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 tvg-id="hlsproxy-253" tvg-name="Еврокино HD" tvg-logo="http://pl.ottg.tv/icon/5240.png" group-title="Кино",Еврокино HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/4cdc1f54/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-245" tvg-name="Домашние животные" tvg-logo="http://pl.ottg.tv/icon/3646.png" group-title="Познавательные",Домашние животные
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/63454775/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53817" tvg-name="Дикая охота HD" tvg-logo="http://pl.ottg.tv/icon/9212.png" group-title="Познавательные",Дикая охота HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n47d0b257/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-345" tvg-name="Наука 2.0" tvg-logo="http://pl.ottg.tv/icon/5138.png" group-title="Познавательные",Наука 2.0
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n7b1ac134/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-100326" tvg-name="Моя Стихия HD" tvg-logo="http://pl.ottg.tv/icon/7138.png" group-title="Познавательные",Моя Стихия HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/7a5707dc/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-399" tvg-name="Русский бестселлер" tvg-logo="http://pl.ottg.tv/icon/7525.png" group-title="Кино",Русский бестселлер
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n32d67a46/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-401" tvg-name="Русский роман" tvg-logo="http://pl.ottg.tv/icon/8833.png" group-title="Кино",Русский роман
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n30fba07d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-663" tvg-name="Star Cinema HD" tvg-logo="http://pl.ottg.tv/icon/5109.png" group-title="Кино",Star Cinema HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/5e428041/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53912" tvg-name="Star Family HD" tvg-logo="http://pl.ottg.tv/icon/8048.png" group-title="Кино",Star Family HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n520fa112/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-263" tvg-name="ИЛЛЮЗИОН +" tvg-logo="http://pl.ottg.tv/icon/9804.png" group-title="Кино",ИЛЛЮЗИОН +
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/70166e9d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-794" tvg-name="Киносат" tvg-logo="http://pl.ottg.tv/icon/6899.png" group-title="Кино",Киносат
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n59515451/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2507" tvg-name="Камеди HD" tvg-logo="http://pl.ottg.tv/icon/6565.png" group-title="Кино",Камеди HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/4f589a7b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-574" tvg-name="Премиальное HD" tvg-logo="http://pl.ottg.tv/icon/4505.png" group-title="Кино",Премиальное HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n9ea0f6a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-6117" tvg-name="Любимое HD" tvg-logo="http://pl.ottg.tv/icon/8420.png" group-title="Кино",Любимое HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n41a76e20/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-283" tvg-name="Комедийное HD" tvg-logo="http://pl.ottg.tv:80/icon/4010.png" group-title="Кино",Комедийное HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/13392b40/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-282" tvg-name="Шокирующее HD" tvg-logo="http://pl.ottg.tv:80/icon/7023.png" group-title="Кино",Шокирующее HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/77f8edad/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-575" tvg-name="Душевное  HD" tvg-logo="http://pl.ottg.tv/icon/4416.png" group-title="Кино",Душевное  HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/29b528f7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-265" tvg-name="Индийское кино" tvg-logo="http://pl.ottg.tv/icon/6200.png" group-title="Кино",Индийское кино
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n25051864/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-111" tvg-name="Hollywood HD" tvg-logo="http://pl.ottg.tv/icon/2884.png" group-title="Кино",Hollywood HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n5e51a806/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-5050" tvg-name="FilmBox Arthouse HD" tvg-logo="http://pl.ottg.tv/icon/9238.png" group-title="Кино",FilmBox Arthouse HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/1b722ea2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-452" tvg-name="Телекафе" tvg-logo="http://pl.ottg.tv/icon/3719.png" group-title="Познавательные",Телекафе
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/cb7397b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-13" tvg-name="365 дней ТВ" tvg-logo="http://pl.ottg.tv/icon/2331.png" group-title="Познавательные",365 дней ТВ
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/54758528/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-95" tvg-name="History" tvg-logo="http://pl.ottg.tv/icon/1410.png" group-title="Познавательные",History
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/43362077/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-33" tvg-name="В мире животных HD" tvg-logo="http://pl.ottg.tv/icon/3907.png" group-title="Познавательные",В мире животных HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n464d6c02/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-9" tvg-name="Доктор" tvg-logo="http://pl.ottg.tv/icon/9022.png" group-title="Познавательные",Доктор
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/1a86f5d1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-421" tvg-name="Живая планета" tvg-logo="http://pl.ottg.tv/icon/1313.png" group-title="Познавательные",Живая планета
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/5cc324e9/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53818" tvg-name="Дикая рыбалка HD" tvg-logo="http://pl.ottg.tv/icon/9250.png" group-title="Познавательные",Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/1b785ca7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Arena Premium 1 HD" tvg-logo="../Channel/Logo/Sky Sports Arena HD.png" group-title="Спорт",Arena Premium 1 HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n3778d2bd/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Arena Premium 2 HD" tvg-logo="../Channel/Logo/Sky Sports Arena HD.png" group-title="Спорт",Arena Premium 2 HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n37785e5e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Arena Premium 3 HD" tvg-logo="../Channel/Logo/Sky Sports Arena HD.png" group-title="Спорт",Arena Premium 3 HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n3777e9ff/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="eureka-hd" tvg-name="Космический HD" tvg-logo="http://pl.ottg.tv/icon/3269.png" group-title="Познавательные",Космический HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/73bd370e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-357" tvg-name="Оружие" tvg-logo="http://pl.ottg.tv/icon/6836.png" group-title="Познавательные",Оружие
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n2d03687b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-56" tvg-name="Da Vinci" tvg-logo="http://pl.ottg.tv/icon/9395.png" group-title="Познавательные",Da Vinci
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n21d1ee4f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-311" tvg-name="Моя Планета" tvg-logo="http://pl.ottg.tv/icon/5359.png" group-title="Познавательные",Моя Планета
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/1b3ec3cb/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-183" tvg-name="Travel Channel HD" tvg-logo="http://pl.ottg.tv/icon/5730.png" group-title="Познавательные",Travel Channel HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n118bf475/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-52975" tvg-name="Диалоги о рыбалке HD" tvg-logo="http://pl.ottg.tv/icon/5891.png" group-title="Познавательные",Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n6963d697/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-423" tvg-name="Живая природа HD" tvg-logo="http://pl.ottg.tv/icon/7063.png" group-title="Познавательные",Живая природа HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n11202511/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-294" tvg-name="Кухня ТВ HD" tvg-logo="http://pl.ottg.tv/icon/9708.png" group-title="Познавательные",Кухня ТВ HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/1e3aef7e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-93" tvg-name="Авто 24 HD" tvg-logo="http://pl.ottg.tv/icon/8624.png" group-title="Познавательные",Авто 24 HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/7ef3d470/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-462" tvg-name="Усадьба" tvg-logo="http://pl.ottg.tv/icon/8254.png" group-title="Познавательные",Усадьба
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/7bc83972/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-312" tvg-name="Мужской" tvg-logo="http://pl.ottg.tv/icon/9283.png" group-title="Познавательные",Мужской
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/5319d607/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-60" tvg-name="Discovery Channel" tvg-logo="http://pl.ottg.tv/icon/3721.png" group-title="Познавательные",Discovery Channel
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n23e20e45/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-62" tvg-name="Discovery Science" tvg-logo="http://pl.ottg.tv/icon/9502.png" group-title="Познавательные",Discovery Science
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n25a3eef8/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-128" tvg-name="Nat Geo Wild" tvg-logo="http://pl.ottg.tv/icon/9038.png" group-title="Познавательные",Nat Geo Wild
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n4cb20921/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-130" tvg-name="National Geographic" tvg-logo="http://pl.ottg.tv/icon/5938.png" group-title="Познавательные",National Geographic
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n3e672d8e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-166" tvg-name="TLC" tvg-logo="http://pl.ottg.tv/icon/9427.png" group-title="Познавательные",TLC
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n216016b1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-258" tvg-name="Загородный" tvg-logo="http://pl.ottg.tv/icon/5180.png" group-title="Познавательные",Загородный
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/63f62aad/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-54643" tvg-name="Наша сибирь 4K" tvg-logo="http://pl.ottg.tv/icon/3521.png" group-title="Познавательные",Наша сибирь 4K
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n56a2d585/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-20634" tvg-name="Nasa" tvg-logo="http://pl.ottg.tv/icon/7157.png" group-title="Познавательные",Nasa
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/765c217e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-194" tvg-name="Viasat Explore" tvg-logo="http://pl.ottg.tv/icon/1146.png" group-title="Познавательные",Viasat Explore
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n6262970e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-197" tvg-name="Viasat Nature" tvg-logo="http://pl.ottg.tv/icon/4504.png" group-title="Познавательные",Viasat Nature
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/a4c6228/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-196" tvg-name="Viasat History" tvg-logo="http://pl.ottg.tv/icon/1212.png" group-title="Познавательные",Viasat History
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/22e552f3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-867" tvg-name="Поехали!" tvg-logo="http://pl.ottg.tv/icon/9081.png" group-title="Познавательные",Поехали!
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/3dc4379f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-138" tvg-name="Ocean TV" tvg-logo="http://pl.ottg.tv/icon/2605.png" group-title="Познавательные",Ocean TV
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/97c849c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53514" tvg-name="Большая Азия HD" tvg-logo="http://pl.ottg.tv/icon/3903.png" group-title="none",Большая Азия HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/nb5e2596/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-331" tvg-name="Кинопремьера HD" tvg-logo="http://pl.ottg.tv/icon/7998.png" group-title="Кино",Кинопремьера HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n7eae6341/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-290" tvg-name="Кинокомедия" tvg-logo="http://pl.ottg.tv/icon/1119.png" group-title="Кино",Кинокомедия
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n339873f9/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-92" tvg-name="Киносемья" tvg-logo="http://pl.ottg.tv/icon/9448.png" group-title="Кино",Киносемья
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n3dad2470/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-324" tvg-name="Киносвидание" tvg-logo="http://pl.ottg.tv/icon/5897.png" group-title="Кино",Киносвидание
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/166ca92/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-327" tvg-name="Кинохит HD" tvg-logo="http://pl.ottg.tv/icon/3955.png" group-title="Кино",Кинохит HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n3346d736/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-323" tvg-name="Киномикс" tvg-logo="http://pl.ottg.tv/icon/2446.png" group-title="Кино",Киномикс
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/64281be/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-329" tvg-name="Наше новое кино HD" tvg-logo="http://pl.ottg.tv/icon/3259.png" group-title="Кино",Наше новое кино HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n6cb569d5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-330" tvg-name="Родное кино" tvg-logo="http://pl.ottg.tv/icon/7965.png" group-title="Кино",Родное кино
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/3932b5a5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-171" tvg-name="TV 1000 HD" tvg-logo="http://pl.ottg.tv/icon/1411.png" group-title="Кино",TV 1000 HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/3b7c3bc7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-172" tvg-name="TV 1000 Action HD" tvg-logo="http://pl.ottg.tv/icon/9080.png" group-title="Кино",TV 1000 Action HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n166ee25/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-429" tvg-name="TV 1000 Русское кино HD" tvg-logo="http://pl.ottg.tv/icon/1502.png" group-title="Кино",TV 1000 Русское кино HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n4e7e46a0/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-175" tvg-name="ViP Premiere HD" tvg-logo="http://pl.ottg.tv/icon/8785.png" group-title="Кино",ViP Premiere HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/136f9c84/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-174" tvg-name="ViP Megahit HD" tvg-logo="http://pl.ottg.tv/icon/8448.png" group-title="Кино",ViP Megahit HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n62cf1806/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-173" tvg-name="ViP Comedy HD" tvg-logo="http://pl.ottg.tv/icon/2903.png" group-title="Кино",ViP Comedy HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n5a01d45c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55135" tvg-name="ViP Serial HD" tvg-logo="http://pl.ottg.tv/icon/1514.png" group-title="Кино",ViP Serial HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n15644997/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-31" tvg-name="Amedia Premium HD" tvg-logo="http://pl.ottg.tv/icon/3610.png" group-title="Кино",Amedia Premium HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n7f06fa/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-25" tvg-name="Amedia 1 HD" tvg-logo="http://pl.ottg.tv/icon/7386.png" group-title="Кино",Amedia 1 HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/593b9501/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-578" tvg-name="Amedia Hit HD" tvg-logo="http://pl.ottg.tv/icon/4546.png" group-title="Кино",Amedia Hit HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/446552ca/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-397" tvg-name="Русский иллюзион" tvg-logo="http://pl.ottg.tv/icon/9282.png" group-title="Кино",Русский иллюзион
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/nfbfc426/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-400" tvg-name="Русский детектив" tvg-logo="http://pl.ottg.tv/icon/6590.png" group-title="Кино",Русский детектив
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/1dd34cbe/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-81" tvg-name="Fox HD" tvg-logo="http://pl.ottg.tv/icon/9764.png" group-title="Кино",Fox HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/c4b0820/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-83" tvg-name="Fox Life HD" tvg-logo="http://pl.ottg.tv/icon/3108.png" group-title="Кино",Fox Life HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n1f82f024/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-5107" tvg-name="Sci-Fi" tvg-logo="http://pl.ottg.tv/icon/5009.png" group-title="Кино",Sci-Fi
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/7baecb9e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-3027" tvg-name="Black" tvg-logo="http://pl.ottg.tv/icon/1490.png" group-title="Кино",Black
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n708b1568/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-361" tvg-name="Cinema" tvg-logo="http://pl.ottg.tv/icon/5974.png" group-title="Кино",Cinema
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n3c699e67/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-344" tvg-name="НСТ" tvg-logo="http://pl.ottg.tv/icon/9044.png" group-title="Кино",НСТ
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n2151667e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-624" tvg-name="Страшное HD" tvg-logo="http://pl.ottg.tv/icon/1961.png" group-title="Кино",Страшное HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n28b71fde/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-268" tvg-name="Мужское кино" tvg-logo="http://pl.ottg.tv/icon/5595.png" group-title="Кино",Мужское кино
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n158664a4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-244" tvg-name="Дом Кино" tvg-logo="http://pl.ottg.tv/icon/2851.png" group-title="Кино",Дом Кино
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n572ca88c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55103" tvg-name="FAN HD" tvg-logo="http://pl.ottg.tv/icon/2006.png" group-title="Кино",FAN HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/626aa466/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-464" tvg-name="Феникс+ Кино" tvg-logo="http://pl.ottg.tv/icon/6923.png" group-title="Кино",Феникс+ Кино
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n3715e892/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-26" tvg-name="Amedia 2 HD" tvg-logo="http://pl.ottg.tv/icon/7515.png" group-title="Кино",Amedia 2 HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/593c0960/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-385" tvg-name="Любимое кино" tvg-logo="http://pl.ottg.tv/icon/8314.png" group-title="Кино",Любимое кино
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/142c7f92/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-51106" tvg-name="Bollywood HD" tvg-logo="http://pl.ottg.tv/icon/7148.png" group-title="Кино",Bollywood HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/5070b65f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53747" tvg-name="Дорама HD" tvg-logo="http://pl.ottg.tv/icon/2233.png" group-title="Кино",Дорама HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/3e757ed2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-143" tvg-name="Paramount Channel HD" tvg-logo="http://pl.ottg.tv/icon/6956.png" group-title="none",Paramount Channel HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n5aea03e3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-472" tvg-name="Shot TV" tvg-logo="http://pl.ottg.tv/icon/2829.png" group-title="Кино",Shot TV
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n20e17235/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-54661" tvg-name="Ultra HD Cinema" tvg-logo="http://pl.ottg.tv/icon/6870.png" group-title="Кино",Ultra HD Cinema
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/4534f285/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-204" tvg-name="Zee TV" tvg-logo="http://pl.ottg.tv/icon/7669.png" group-title="Кино",Zee TV
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/1ebcb6e4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-212" tvg-name="НТВ Хит" tvg-logo="http://pl.ottg.tv/icon/1445.png" group-title="Кино",НТВ Хит
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/5cafb830/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-100262" tvg-name="Мосфильм" tvg-logo="http://pl.ottg.tv/icon/2488.png" group-title="Кино",Мосфильм
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/2acbfbdf/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-8194" tvg-name="НТВ Сериал" tvg-logo="http://pl.ottg.tv/icon/3213.png" group-title="Кино",НТВ Сериал
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n2431baa/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-309" tvg-name="Киносерия" tvg-logo="http://pl.ottg.tv/icon/9769.png" group-title="Кино",Киносерия
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/ea36f06/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-144" tvg-name="Paramount Comedy" tvg-logo="http://pl.ottg.tv/icon/8952.png" group-title="Кино",Paramount Comedy
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n800d10d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-171" tvg-name="TV 1000" tvg-logo="http://pl.ottg.tv/icon/9948.png" group-title="Кино",TV 1000
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/14dea7b6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-159" tvg-name="Red" tvg-logo="http://pl.ottg.tv/icon/9605.png" group-title="Кино",Red
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n6610aad7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55224" tvg-name="Победа" tvg-logo="http://pl.ottg.tv/icon/8934.png" group-title="Кино",Победа
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n7d1d4593/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-308" tvg-name="Мир сериала" tvg-logo="http://pl.ottg.tv/icon/9667.png" group-title="Кино",Мир сериала
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/19cf6151/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1796" tvg-name="Киноужас HD" tvg-logo="http://pl.ottg.tv/icon/1755.png" group-title="Кино",Киноужас HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/167bcf9c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-323" tvg-name="Киномикс HD" tvg-logo="http://pl.ottg.tv/icon/7385.png" group-title="Кино",Киномикс HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/68e560a6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-327" tvg-name="Кинохит HD" tvg-logo="http://pl.ottg.tv/icon/6140.png" group-title="Кино",Кинохит HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n5f45d326/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1478" tvg-name="FilmBox" tvg-logo="http://pl.ottg.tv/icon/8937.png" group-title="Кино",FilmBox
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/585cf5d0/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2505" tvg-name="Блокбастер HD" tvg-logo="http://pl.ottg.tv/icon/6759.png" group-title="Кино",Блокбастер HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/ded510e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2510" tvg-name="Про Любовь HD" tvg-logo="http://pl.ottg.tv/icon/2645.png" group-title="Кино",Про Любовь HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/637bbd42/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-279" tvg-name="Кино ТВ HD" tvg-logo="http://pl.ottg.tv/icon/8409.png" group-title="none",Кино ТВ HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n72b22858/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-324" tvg-name="Киносвидание HD" tvg-logo="http://pl.ottg.tv/icon/1654.png" group-title="Кино",Киносвидание HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n7a827667/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2494" tvg-name="Trash HD PREMIUM+" tvg-logo="http://pl.ottg.tv/icon/5606.png" group-title="Кино",Trash HD PREMIUM+
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/n75971d83/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55175" tvg-name="FlixSnip" tvg-logo="http://pl.ottg.tv/icon/9441.png" group-title="Кино",FlixSnip
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/3715db56/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-335" tvg-name="Матч! Страна" tvg-logo="http://pl.ottg.tv/icon/7937.png" group-title="Спорт",Матч! Страна
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/a93acc6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-339" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://pl.ottg.tv/icon/6026.png" group-title="Спорт",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/4ebbc087/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-199" tvg-name="Viasat Sport HD" tvg-logo="http://pl.ottg.tv/icon/1072.png" group-title="Спорт",Viasat Sport HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/476cb27d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-222" tvg-name="Матч! Боец" tvg-logo="http://pl.ottg.tv/icon/1403.png" group-title="Спорт",Матч! Боец
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n7fdff19c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-587" tvg-name="Конный мир HD" tvg-logo="http://pl.ottg.tv/icon/8609.png" group-title="Спорт",Конный мир HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/ne830ea4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55180" tvg-name="Мир баскетбола" tvg-logo="http://pl.ottg.tv/icon/3271.png" group-title="Спорт",Мир баскетбола
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n510bf95/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-332" tvg-name="Матч! Планета" tvg-logo="http://pl.ottg.tv/icon/2616.png" group-title="Спорт",Матч! Планета
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n791bac5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-94" tvg-name="Матч! Игра" tvg-logo="http://pl.ottg.tv/icon/1182.png" group-title="Спорт",Матч! Игра
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n24076ddd/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-337" tvg-name="Матч! Футбол 1" tvg-logo="http://pl.ottg.tv/icon/7721.png" group-title="Спорт",Матч! Футбол 1
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/10245c42/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-339" tvg-name="Матч! Футбол 2" tvg-logo="http://pl.ottg.tv/icon/9099.png" group-title="Спорт",Матч! Футбол 2
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/10245c43/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-512" tvg-name="Матч! Футбол 3" tvg-logo="http://pl.ottg.tv/icon/7197.png" group-title="Спорт",Матч! Футбол 3
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/10245c44/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-328" tvg-name="Матч! Премьер" tvg-logo="http://pl.ottg.tv/icon/3863.png" group-title="Спорт",Матч! Премьер
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/n5884dd7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-420" tvg-name="Матч! Арена HD" tvg-logo="http://pl.ottg.tv/icon/6495.png" group-title="Спорт",Матч! Арена HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/3e3e816a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53906" tvg-name="СТАРТ HD" tvg-logo="http://pl.ottg.tv/icon/8180.png" group-title="Спорт",СТАРТ HD
+#EXTGRP:Спорт
+http://130.61.37.244:2020/channel/1a52b3fe/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-380" tvg-name="РБК ТВ" tvg-logo="http://pl.ottg.tv/icon/4428.png" group-title="Новостные",РБК ТВ
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n6e151f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-393" tvg-name="Россия 24" tvg-logo="http://pl.ottg.tv/icon/7146.png" group-title="Новостные",Россия 24
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/6514bcf1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-70" tvg-name="EuroNews" tvg-logo="http://pl.ottg.tv/icon/3882.png" group-title="Новостные",EuroNews
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/5b6b7b6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1049" tvg-name="BBC World News Europe" tvg-logo="http://pl.ottg.tv/icon/4330.png" group-title="Новостные",BBC World News Europe
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/6288c06c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-310" tvg-name="Москва 24" tvg-logo="http://pl.ottg.tv/icon/7554.png" group-title="Новостные",Москва 24
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/28a3a9f8/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-20151" tvg-name="Известия" tvg-logo="http://pl.ottg.tv/icon/1751.png" group-title="Новостные",Известия
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/47775b6b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-300" tvg-name="Мир 24" tvg-logo="http://pl.ottg.tv/icon/1306.png" group-title="Новостные",Мир 24
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n45a8494d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-155" tvg-name="Russia Today HD" tvg-logo="http://pl.ottg.tv/icon/6969.png" group-title="Новостные",Russia Today HD
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/4c3692c1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-51082" tvg-name="Настоящее время HD" tvg-logo="http://pl.ottg.tv/icon/2782.png" group-title="Новостные",Настоящее время HD
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n29f29c5e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-51166" tvg-name="360 Новости" tvg-logo="http://pl.ottg.tv/icon/3082.png" group-title="Новостные",360 Новости
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n5d0fb0e8/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-3113" tvg-name="France 24 HD" tvg-logo="http://pl.ottg.tv/icon/9153.png" group-title="Новостные",France 24 HD
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n4960e4fa/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-243" tvg-name="Дождь" tvg-logo="http://pl.ottg.tv/icon/1238.png" group-title="Новостные",Дождь
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n44a10a67/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-51067" tvg-name="Крик ТВ" tvg-logo="http://pl.ottg.tv/icon/7374.png" group-title="Новостные",Крик ТВ
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/6d96232c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-300" tvg-name="Мир 24 HD" tvg-logo="http://pl.ottg.tv/icon/7462.png" group-title="Новостные",Мир 24 HD
+#EXTGRP:Новостные
+http://130.61.37.244:2020/channel/n1aa99677/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-304" tvg-name="Мама" tvg-logo="http://pl.ottg.tv/icon/3737.png" group-title="Детские",Мама
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/3e1c1465/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-396" tvg-name="Русская ночь" tvg-logo="../Channel/Logo/Русская ночь.png" group-title="XXX",Русская ночь
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/76ff291e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53745" tvg-name="Barely legal" tvg-logo="../Channel/Logo/Barely legal.png" group-title="XXX",Barely legal
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/1afd03a6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1211" tvg-name="Hustler TV" tvg-logo="../Channel/Logo/Hustler TV.png" group-title="XXX",Hustler TV
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/n70cfe4cc/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1211" tvg-name="Hustler HD" tvg-logo="../Channel/Logo/Hustler HD.png" group-title="XXX",Hustler HD
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/n314b1de1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-3090" tvg-name="Dorcel TV HD" tvg-logo="../Channel/Logo/Dorcel TV.png" group-title="XXX",Dorcel TV HD
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/n4da79cf1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="XY Max HD" tvg-logo="../Channel/Logo/XY Max HD.png" group-title="XXX",XY Max HD
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/n5b8817bb/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="XY Mix HD" tvg-logo="../Channel/Logo/XY Mix HD.png" group-title="XXX",XY Mix HD
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/n5b175bb3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="XY Plus HD" tvg-logo="../Channel/Logo/XY Plus HD.png" group-title="XXX",XY Plus HD
+#EXTGRP:XXX
+http://130.61.37.244:2020/channel/n6408002b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-362" tvg-name="Первый канал" tvg-logo="http://pl.ottg.tv/icon/9195.png" group-title="Общие",Первый канал
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n13756cd0/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-391" tvg-name="Россия 1" tvg-logo="http://pl.ottg.tv/icon/9226.png" group-title="Общие",Россия 1
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n5e4e756c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-391" tvg-name="Россия 1 HD" tvg-logo="http://pl.ottg.tv/icon/5963.png" group-title="Общие",Россия 1 HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/6899c87d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-319" tvg-name="НТВ" tvg-logo="http://pl.ottg.tv/icon/9413.png" group-title="Общие",НТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n7d4f90ef/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-319" tvg-name="НТВ HD" tvg-logo="http://pl.ottg.tv/icon/8711.png" group-title="Общие",НТВ HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n30851cfe/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-321" tvg-name="НТВ Мир" tvg-logo="http://pl.ottg.tv/icon/7870.png" group-title="Общие",НТВ Мир
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n404d733a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-434" tvg-name="ТВЦ" tvg-logo="http://pl.ottg.tv/icon/7846.png" group-title="Общие",ТВЦ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/21e3d71b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-378" tvg-name="Пятый канал" tvg-logo="http://pl.ottg.tv/icon/4750.png" group-title="Общие",Пятый канал
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/6e1e4f6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-439" tvg-name="ТНТ" tvg-logo="http://pl.ottg.tv/icon/2468.png" group-title="Общие",ТНТ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n7d4f7eb5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-439" tvg-name="ТНТ HD" tvg-logo="http://pl.ottg.tv/icon/1337.png" group-title="Общие",ТНТ HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/44625ebf/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-407" tvg-name="СТС" tvg-logo="http://pl.ottg.tv/icon/9716.png" group-title="Общие",СТС
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n7d4f81dc/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-409" tvg-name="СТС Love" tvg-logo="http://pl.ottg.tv/icon/6621.png" group-title="Общие",СТС Love
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n12bc1bf2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-382" tvg-name="Рен ТВ HD" tvg-logo="http://pl.ottg.tv/icon/8082.png" group-title="Общие",Рен ТВ HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/3aa884a1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-299" tvg-name="Мир ТВ" tvg-logo="http://pl.ottg.tv/icon/2810.png" group-title="Общие",Мир ТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n45a7cb5f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-325" tvg-name="ОТР" tvg-logo="http://pl.ottg.tv/icon/2345.png" group-title="Общие",ОТР
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n69a9ed07/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-259" tvg-name="Звезда" tvg-logo="http://pl.ottg.tv/icon/7796.png" group-title="Общие",Звезда
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n39c0f7d4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-432" tvg-name="ТВ3" tvg-logo="http://pl.ottg.tv/icon/7473.png" group-title="Общие",ТВ3
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n7d4f83f9/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-377" tvg-name="Пятница" tvg-logo="http://pl.ottg.tv/icon/3755.png" group-title="Общие",Пятница
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n7cf6f945/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-377" tvg-name="Пятница HD" tvg-logo="http://pl.ottg.tv/icon/9657.png" group-title="Общие",Пятница HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/18a68c4f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-431" tvg-name="Суббота!" tvg-logo="http://pl.ottg.tv/icon/3573.png" group-title="Общие",Суббота!
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/15669213/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-246" tvg-name="Домашний" tvg-logo="http://pl.ottg.tv/icon/9505.png" group-title="Общие",Домашний
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/43e6895c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-19" tvg-name="8 канал" tvg-logo="http://pl.ottg.tv/icon/2455.png" group-title="Общие",8 канал
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n2217ada5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-349" tvg-name="Ностальгия" tvg-logo="http://pl.ottg.tv/icon/9997.png" group-title="Общие",Ностальгия
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/6f149303/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-474" tvg-name="Ю" tvg-logo="http://pl.ottg.tv/icon/4785.png" group-title="Общие",Ю
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n301649c5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-276" tvg-name="2х2" tvg-logo="http://pl.ottg.tv/icon/2935.png" group-title="Общие",2х2
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/f15f635/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-336" tvg-name="ТНТ4" tvg-logo="http://pl.ottg.tv/icon/4848.png" group-title="Общие",ТНТ4
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n2ca057b7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-411" tvg-name="Сарафан" tvg-logo="http://pl.ottg.tv/icon/8267.png" group-title="Общие",Сарафан
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/4928ca01/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-156" tvg-name="RTД HD" tvg-logo="http://pl.ottg.tv/icon/9349.png" group-title="Общие",RTД HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/299b7644/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-518" tvg-name="Точка ТВ" tvg-logo="http://pl.ottg.tv/icon/4361.png" group-title="Общие",Точка ТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n2a064ed4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-134" tvg-name="360 HD" tvg-logo="http://pl.ottg.tv/icon/4898.png" group-title="Общие",360 HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/33dde722/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-419" tvg-name="Спас" tvg-logo="http://pl.ottg.tv/icon/2291.png" group-title="Общие",Спас
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n4e04da34/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-418" tvg-name="Союз" tvg-logo="http://pl.ottg.tv/icon/8666.png" group-title="Общие",Союз
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/6d5d22a2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-375" tvg-name="Просвещение" tvg-logo="http://pl.ottg.tv/icon/7504.png" group-title="Общие",Просвещение
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/51fd51cb/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-286" tvg-name="Бобёр" tvg-logo="http://pl.ottg.tv/icon/5063.png" group-title="Общие",Бобёр
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/1c39c885/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-242" tvg-name="Доверие" tvg-logo="http://pl.ottg.tv/icon/6289.png" group-title="Общие",Доверие
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n32822da1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-51060" tvg-name="Красная линия" tvg-logo="http://pl.ottg.tv/icon/3638.png" group-title="Общие",Красная линия
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/21c3f317/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1010" tvg-name="ЛДПР ТВ" tvg-logo="http://pl.ottg.tv/icon/2211.png" group-title="Общие",ЛДПР ТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/4f60efb/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-7133" tvg-name="Эхо-ТВ" tvg-logo="http://pl.ottg.tv/icon/9320.png" group-title="Общие",Эхо-ТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/284b280d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-207" tvg-name="Ювелирочка" tvg-logo="http://pl.ottg.tv/icon/9886.png" group-title="Общие",Ювелирочка
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/11fb1dd7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-382" tvg-name="Рен ТВ" tvg-logo="http://pl.ottg.tv/icon/6401.png" group-title="Общие",Рен ТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/780bbc04/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-336" tvg-name="ТНТ4 HD" tvg-logo="http://pl.ottg.tv/icon/2304.png" group-title="Общие",ТНТ4 HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/47f1fb25/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-315" tvg-name="Мультиландия" tvg-logo="http://pl.ottg.tv/icon/2229.png" group-title="Детские",Мультиландия
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n535a4c1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-432" tvg-name="ТВ 3 HD" tvg-logo="http://pl.ottg.tv/icon/1540.png" group-title="Общие",ТВ 3 HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/7d8111fd/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-431" tvg-name="Суббота! HD" tvg-logo="http://pl.ottg.tv/icon/3894.png" group-title="Общие",Суббота! HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/31fb7c1b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-407" tvg-name="СТС HD" tvg-logo="http://pl.ottg.tv/icon/2990.png" group-title="Общие",СТС HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n29aae8f1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-246" tvg-name="Домашний HD" tvg-logo="http://pl.ottg.tv/icon/4131.png" group-title="Общие",Домашний HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/62913d41/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-259" tvg-name="Звезда HD" tvg-logo="http://pl.ottg.tv/icon/9348.png" group-title="Общие",Звезда HD
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/21187970/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-288" tvg-name="Вместе РФ" tvg-logo="http://pl.ottg.tv/icon/7866.png" group-title="Общие",Вместе РФ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/n39976e01/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-8186" tvg-name="Анекдот ТВ" tvg-logo="http://pl.ottg.tv/icon/8557.png" group-title="Общие",Анекдот ТВ
+#EXTGRP:Общие
+http://130.61.37.244:2020/channel/543e32fd/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-90" tvg-name="HD Life PREMIUM+" tvg-logo="http://pl.ottg.tv/icon/5446.png" group-title="Познавательные",HD Life PREMIUM+
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/7e540f30/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-66" tvg-name="Канал Disney" tvg-logo="http://pl.ottg.tv/icon/7528.png" group-title="Детские",Канал Disney
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/1b9b5189/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-277" tvg-name="Карусель" tvg-logo="http://pl.ottg.tv/icon/7419.png" group-title="Детские",Карусель
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/13e9a931/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-54501" tvg-name="СТС Kids HD" tvg-logo="http://pl.ottg.tv/icon/9954.png" group-title="Детские",СТС Kids HD
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/1365f13c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-178" tvg-name="TiJi" tvg-logo="http://pl.ottg.tv/icon/7521.png" group-title="Детские",TiJi
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n6c3dd03b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-314" tvg-name="Мульт" tvg-logo="http://pl.ottg.tv/icon/9985.png" group-title="Детские",Мульт
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n7d4c22c4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-42" tvg-name="Boomerang" tvg-logo="http://pl.ottg.tv/icon/2275.png" group-title="Детские",Boomerang
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n463f7bcc/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-388" tvg-name="Радость Моя" tvg-logo="http://pl.ottg.tv/icon/5876.png" group-title="Детские",Радость Моя
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/59478190/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-239" tvg-name="Детский мир" tvg-logo="http://pl.ottg.tv/icon/9295.png" group-title="Детские",Детский мир
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n400490b5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-89" tvg-name="Gulli Girl" tvg-logo="http://pl.ottg.tv/icon/3723.png" group-title="Детские",Gulli Girl
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/5379553e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-40" tvg-name="Baby TV" tvg-logo="http://pl.ottg.tv/icon/7114.png" group-title="Детские",Baby TV
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n11ca757e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-136" tvg-name="Nickelodeon" tvg-logo="http://pl.ottg.tv/icon/2466.png" group-title="Детские",Nickelodeon
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n5c80a8b3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-52" tvg-name="Cartoon Network" tvg-logo="http://pl.ottg.tv/icon/9603.png" group-title="Детские",Cartoon Network
+#EXTGRP:Детские
+http://130.61.37.244:2020/channel/n61b3435c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-7" tvg-name="1HD Music" tvg-logo="http://pl.ottg.tv/icon/3533.png" group-title="Музыкальные",1HD Music
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/4c5623df/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-301" tvg-name="Муз ТВ" tvg-logo="http://pl.ottg.tv/icon/1806.png" group-title="Музыкальные",Муз ТВ
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n3057a10d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-44" tvg-name="Bridge TV" tvg-logo="http://pl.ottg.tv/icon/1774.png" group-title="Музыкальные",Bridge TV
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n2d97449a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-306" tvg-name="Bridge TV Deluxe HD" tvg-logo="http://pl.ottg.tv/icon/3413.png" group-title="Музыкальные",Bridge TV Deluxe HD
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/58ddf72b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-180" tvg-name="Bridge TV Classic" tvg-logo="http://pl.ottg.tv/icon/9334.png" group-title="Музыкальные",Bridge TV Classic
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n72fe9e48/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-57" tvg-name="Bridge TV Hits" tvg-logo="http://pl.ottg.tv/icon/3704.png" group-title="Музыкальные",Bridge TV Hits
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/38c7b7da/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-154" tvg-name="Bridge TV Русский хит" tvg-logo="http://pl.ottg.tv/icon/5747.png" group-title="Музыкальные",Bridge TV Русский хит
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/e94ae8d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-71" tvg-name="Europa Plus TV" tvg-logo="http://pl.ottg.tv/icon/9995.png" group-title="Музыкальные",Europa Plus TV
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n55a7ec1b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-153" tvg-name="RU TV" tvg-logo="http://pl.ottg.tv/icon/5778.png" group-title="Музыкальные",RU TV
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n6eae4126/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1270" tvg-name="MTV 80s" tvg-logo="http://pl.ottg.tv/icon/1635.png" group-title="Музыкальные",MTV 80s
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/3d1f8f3c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-122" tvg-name="Mezzo Live HD" tvg-logo="http://pl.ottg.tv/icon/3203.png" group-title="Музыкальные",Mezzo Live HD
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n2bf07695/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-471" tvg-name="Шансон TB" tvg-logo="http://pl.ottg.tv/icon/5260.png" group-title="Музыкальные",Шансон TB
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/3fd82319/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-119" tvg-name="Music Box GOLD" tvg-logo="http://pl.ottg.tv/icon/3147.png" group-title="Музыкальные",Music Box GOLD
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n4fccbc33/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-30002" tvg-name="ТНТ Music HD" tvg-logo="http://pl.ottg.tv/icon/8673.png" group-title="Музыкальные",ТНТ Music HD
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/3491d8da/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1802" tvg-name="InRating HD" tvg-logo="http://pl.ottg.tv/icon/7933.png" group-title="Музыкальные",InRating HD
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n5c3bdce2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-44" tvg-name="Bridge TV Шлягер" tvg-logo="http://pl.ottg.tv/icon/4363.png" group-title="Музыкальные",Bridge TV Шлягер
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/n5da5f04/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53000" tvg-name="Trace Urban HD" tvg-logo="http://pl.ottg.tv/icon/7640.png" group-title="Музыкальные",Trace Urban HD
+#EXTGRP:Музыкальные
+http://130.61.37.244:2020/channel/55aa716c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1969" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://pl.ottg.tv:80/icon/7167.png" group-title="none",BCU Кинозал Premiere 1 HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/639101b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1970" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="http://pl.ottg.tv:80/icon/2938.png" group-title="none",BCU Кинозал Premiere 2 HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/639847a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1971" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://pl.ottg.tv:80/icon/7597.png" group-title="none",BCU Кинозал Premiere 3 HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/639f8d9/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55462" tvg-name="BCU СССР HD" tvg-logo="http://pl.ottg.tv:80/icon/9118.png" group-title="none",BCU СССР HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/cd77263/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55465" tvg-name="BCU Action HD" tvg-logo="http://pl.ottg.tv:80/icon/7255.png" group-title="none",BCU Action HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/2a41db6c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55464" tvg-name="BCU Catastrophe HD" tvg-logo="http://pl.ottg.tv:80/icon/5577.png" group-title="none",BCU Catastrophe HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n4b84b08e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55528" tvg-name="BCU Cinema+ HD" tvg-logo="http://pl.ottg.tv:80/icon/6536.png" group-title="none",BCU Cinema+ HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/392a9bfc/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55456" tvg-name="BCU Comedy HD" tvg-logo="http://pl.ottg.tv:80/icon/2718.png" group-title="none",BCU Comedy HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n485c2fd7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55457" tvg-name="BCU Fantastic HD" tvg-logo="http://pl.ottg.tv:80/icon/7834.png" group-title="none",BCU Fantastic HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/1329b93b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-54990" tvg-name="BCU FilMystic HD" tvg-logo="http://pl.ottg.tv:80/icon/6071.png" group-title="none",BCU FilMystic HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n794473a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2521" tvg-name="BCU History HD" tvg-logo="http://pl.ottg.tv:80/icon/8129.png" group-title="none",BCU History HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/23f9e082/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55458" tvg-name="BCU Kinorating HD" tvg-logo="http://pl.ottg.tv:80/icon/2071.png" group-title="none",BCU Kinorating HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n1d4911a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55459" tvg-name="BCU Marvel HD" tvg-logo="http://pl.ottg.tv:80/icon/1740.png" group-title="none",BCU Marvel HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n676947d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55460" tvg-name="BCU Premiere HD" tvg-logo="http://pl.ottg.tv:80/icon/3078.png" group-title="none",BCU Premiere HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/523e33c9/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-1973" tvg-name="BCU Romantic HD" tvg-logo="http://pl.ottg.tv:80/icon/8010.png" group-title="none",BCU Romantic HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n7ba73f2f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2518" tvg-name="BCU Russian HD" tvg-logo="http://pl.ottg.tv:80/icon/4165.png" group-title="none",BCU Russian HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/61f5a123/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55461" tvg-name="BCU VHS HD" tvg-logo="http://pl.ottg.tv:80/icon/3239.png" group-title="none",BCU VHS HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/707e7af5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2519" tvg-name="BCUMEDIA HD" tvg-logo="../Channel/Logo/BCUMedia.png" group-title="none",BCUMEDIA HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/5749f4de/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55529" tvg-name="BCU Stars HD" tvg-logo="http://pl.ottg.tv:80/icon/9944.png" group-title="none",BCU Stars HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/4734a815/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Ultra 4K" tvg-logo="http://pl.ottg.tv:80/icon/3906.png" group-title="none",BCU Ultra 4K
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n6fd6f57b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU RUSERIAL HD" tvg-logo="http://pl.ottg.tv:80/icon/2420.png" group-title="none",BCU RUSERIAL HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/348216ab/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2517" tvg-name="BCU Сваты HD" tvg-logo="http://pl.ottg.tv:80/icon/2307.png" group-title="none",BCU Сваты HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/2ebd0c4e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Criminal HD" tvg-logo="http://pl.ottg.tv:80/icon/3871.png" group-title="none",BCU Criminal HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/2222189f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55460" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://pl.ottg.tv:80/icon/3408.png" group-title="none",BCU Premiere Ultra 4K
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n16e1c748/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-2519" tvg-name="BCUMEDIA OLD" tvg-logo="../Channel/Logo/BCUMedia.png" group-title="none",BCUMEDIA OLD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n6e0b3d9b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55459" tvg-name="BCU Marvel OLD" tvg-logo="http://pl.ottg.tv:80/icon/5671.png" group-title="none",BCU Marvel OLD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/37a42060/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55456" tvg-name="BCU Comedy OLD" tvg-logo="http://pl.ottg.tv:80/icon/6571.png" group-title="none",BCU Comedy OLD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/3cd6507a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Reality HD" tvg-logo="http://pl.ottg.tv:80/icon/2310.png" group-title="none",BCU Reality HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/5e9ea946/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Reality OLD" tvg-logo="http://pl.ottg.tv:80/icon/4522.png" group-title="none",BCU Reality OLD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/75369afd/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Survival HD" tvg-logo="http://pl.ottg.tv:80/icon/6035.png" group-title="none",BCU Survival HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/3842d7e4/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Survival OLD" tvg-logo="http://pl.ottg.tv:80/icon/7192.png" group-title="none",BCU Survival OLD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n2fe7bfe1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Cosmo HD" tvg-logo="http://pl.ottg.tv:80/icon/3559.png" group-title="none",BCU Cosmo HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n20ee59f3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU TruMotion HD" tvg-logo="http://pl.ottg.tv:80/icon/8885.png" group-title="none",BCU TruMotion HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/4a70bfa9/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="none" tvg-name="BCU Charm HD" tvg-logo="http://pl.ottg.tv:80/icon/1086.png" group-title="none",BCU Charm HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/4e5458df/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55463" tvg-name="BCU Мультсериал HD" tvg-logo="http://pl.ottg.tv:80/icon/8590.png" group-title="none",BCU Мультсериал HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n7afa9fab/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53996" tvg-name="BCU Kids HD" tvg-logo="http://pl.ottg.tv:80/icon/8585.png" group-title="none",BCU Kids HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n6d2f06ab/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-55527" tvg-name="BCU Kids+ HD" tvg-logo="http://pl.ottg.tv:80/icon/6398.png" group-title="none",BCU Kids+ HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n38ad6408/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-274" tvg-name="KHL HD" tvg-logo="../Channel/Logo/KHL PRIME.png" group-title="none",KHL HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/n4eb4372c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-362" tvg-name="Первый HD" tvg-logo="../Channel/Logo/Первый канал.png" group-title="none",Первый HD
+#EXTGRP:none
+http://130.61.37.244:2020/channel/3983fcb3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
