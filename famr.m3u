@@ -1,712 +1,326 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"; url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.pw/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/3983fcb3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.pw/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/6899c87d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",НТВ HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n30851cfe/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="ntv-mir" tvg-logo="https://cbilling.pw/img/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n404d733a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="5kanal" tvg-logo="http://cbilling.pw/img/streams/5kanal.png" tvg-rec="7",5 канал
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/6e1e4f6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 tvg-rec="3",Вместе-РФ
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n39976e01/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 tvg-rec="3",ЛДПР ТВ
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/4f60efb/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mosfilm-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/2acbfbdf/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="rossija24" tvg-logo="https://cbilling.pw/img/streams/rossija24.png" tvg-rec="0",Россия 24
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija24.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="moskva-24" tvg-logo="https://cbilling.pw/img/streams/moskva-24.png" tvg-rec="0",Москва 24
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/moskva-24.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="izvestija" tvg-logo="http://cbilling.pw/img/streams/izvestija.png" tvg-rec="0",Известия
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/47775b6b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-24-hd" tvg-logo="https://cbilling.pw/img/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n1aa99677/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.pw/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/1-plus-1-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="trk-ua-hd-orig" tvg-logo="https://cbilling.pw/img/streams/trk-ua-hd-orig.png" tvg-rec="7",Україна HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/trk-ua-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="inter-ua-hd" tvg-logo="https://cbilling.pw/img/streams/inter-ua-hd.png" tvg-rec="7",Интер HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/inter-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",UKR Live
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/1nezalegny-hd-ua.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="1nezalegny-hd-ua" tvg-logo="https://cbilling.pw/img/streams/1nezalegny-hd-ua.png" tvg-rec="7",Перший Незалежний HD
-#EXTGRP:Отобранное Любимое
-https://live.pnk.tv/hls/pn/hd.m3u8
-#EXTINF:170 group-title="Отобранное Любимое",Правда ТУТ HD
-#EXTGRP:Отобранное Любимое
-https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/3985/stream.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="ukraina-24-hd" tvg-logo="https://cbilling.pw/img/streams/ukraina-24-hd.png" tvg-rec="0",Украина 24 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/ukraina-24-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="tvc" tvg-logo="https://cbilling.pw/img/streams/tvc.png" tvg-rec="7",ТВЦ
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/21e3d71b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="tnt-hd-orig" tvg-logo="https://cbilling.pw/img/streams/tnt-hd-orig.png" tvg-rec="7",ТНТ HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/44625ebf/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="ctc-hd-orig" tvg-logo="https://cbilling.pw/img/streams/ctc-hd.png" tvg-rec="7",СТС HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n29aae8f1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="rentv-hd-orig" tvg-logo="https://cbilling.pw/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/3aa884a1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mir-hd" tvg-logo="https://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/mir-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/21187970/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda-plus" tvg-logo="https://cbilling.pw/img/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="piatnica-hd" tvg-logo="https://cbilling.pw/img/streams/piatnica-hd.png" tvg-rec="7",Пятница HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/18a68c4f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 tvg-rec="3",Загородная Жизнь
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/63f62aad/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="rtvi" tvg-logo="https://cbilling.pw/img/streams/rtvi.png" tvg-rec="7",RTVi
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/rtvi.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="eureka-hd" tvg-logo="https://cbilling.pw/img/streams/eureka-hd.png" tvg-rec="7",Первый космический
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/73bd370e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="domashnij" tvg-logo="https://cbilling.pw/img/streams/domashnij.png" tvg-rec="7",Домашний
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/domashnij.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="vremya" tvg-logo="https://cbilling.pw/img/streams/vremya.png" tvg-rec="7",Время
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/vremya.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="perec" tvg-logo="https://cbilling.pw/img/streams/perec.png" tvg-rec="7",Перец
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/perec.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="nostalgia" tvg-logo="https://cbilling.pw/img/streams/nostalgia.png" tvg-rec="7",Ностальгия
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/6f149303/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="otp" tvg-logo="https://cbilling.pw/img/streams/otp.png" tvg-rec="7",ОТР
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n69a9ed07/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:-1 tvg-id="hlsproxy-51067" tvg-name="Крик ТВ" tvg-logo="http://pl.ottg.tv/icon/7374.png" group-title="Отобранное Любимое",Крик ТВ
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/6d96232c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:-1 tvg-id="hlsproxy-20634" tvg-name="Nasa" tvg-logo="http://pl.ottg.tv/icon/7157.png" group-title="Отобранное Любимое",Nasa
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/765c217e/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",РТР Планета
-#EXTGRP:Отобранное Любимое
-http://myott.top/stream/8WH42KGIMV/224.m3u8
-#EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",РТР Беларусь HD
-#EXTGRP:Отобранное Любимое
-http://myott.top/stream/8WH42KGIMV/23.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="tnomer" tvg-logo="https://cbilling.pw/img/streams/tnomer.png" tvg-rec="7",Тномер
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/tnomer.m3u8
-#EXTINF:-1,Красная линия ТВ
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/21c3f317/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="belarus1-by-hd" tvg-logo="https://cbilling.pw/img/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/belarus1-by-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="belsat-by" tvg-logo="https://cbilling.pw/img/streams/belsat-by.png" tvg-rec="7",Белсат ТВ
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/belsat-by.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="ntn-ua-hd" tvg-logo="https://cbilling.pw/img/streams/ntn-ua-hd.png" tvg-rec="7",НТН HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/ntn-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="tet-ua-hd" tvg-logo="https://cbilling.pw/img/streams/tet-ua-hd.png" tvg-rec="7",ТЕТ HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/tet-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="k1-ua-hd" tvg-logo="https://cbilling.pw/img/streams/k1-ua-hd.png" tvg-rec="7",К1 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/k1-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="k2-ua-hd" tvg-logo="https://cbilling.pw/img/streams/k2-ua-hd.png" tvg-rec="7",К2 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/k2-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="kvartal-tv-ua" tvg-logo="https://cbilling.pw/img/streams/kvartal-tv-ua.png" tvg-rec="7",Квартал ТВ
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/kvartal-tv-ua.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="ictv-ua-hd" tvg-logo="https://cbilling.pw/img/streams/ictv-ua-hd.png" tvg-rec="7",ICTV HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/ictv-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="stb-ua-hd" tvg-logo="https://cbilling.pw/img/streams/stb-ua-hd.png" tvg-rec="7",СТБ HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/stb-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zoom-ua-hd" tvg-logo="https://cbilling.pw/img/streams/zoom-ua-hd.png" tvg-rec="7",ZOOM HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/zoom-ua-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="mega-ua-hd" tvg-logo="https://cbilling.pw/img/streams/mega-ua-hd.png" tvg-rec="7",Мега HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/mega-ua-hd.m3u8
-#EXTINF:0 tvg-rec="0",TV5
-#EXTGRP:Отобранное Любимое
-http://playlist.hmara.tv/836e9584/f5538da0f9851966397f80666a7885b92278b40b.m3u8
-#EXTINF:0 tvg-rec="0",ТРК Алекс
-#EXTGRP:Отобранное Любимое
-http://playlist.hmara.tv/836e9584/4fe9f68c45f505d859254d0906ded1c7dd8919ef.m3u8
-#EXTINF:0 tvg-rec="0",Рада
-#EXTGRP:Отобранное Любимое
-http://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/139/stream.m3u8
-#EXTINF:0 tvg-rec="0",Kyiv Live
-#EXTGRP:Отобранное Любимое
-http://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/572/stream.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="nat-geo-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nat-geo-hd-orig.png" tvg-rec="7",National Geographic HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/nat-geo-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="nat-geo-wild-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nat-geo-wild-hd-orig.png" tvg-rec="7",Nat Geo Wild HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/nat-geo-wild-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="discovery-hd-orig" tvg-logo="https://cbilling.pw/img/streams/discovery-hd-orig.png" tvg-rec="7",Discovery Channel HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n23e20e45/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="animal-planet-hd-orig" tvg-logo="https://cbilling.pw/img/streams/animal-planet-hd-orig.png" tvg-rec="7",Animal Planet HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/animal-planet-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="animal-family-hd" tvg-logo="https://cbilling.pw/img/streams/animal-family-hd.png" tvg-rec="7",В мире животных HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/n464d6c02/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="viasat-nature-hd" tvg-logo="https://cbilling.pw/img/streams/viasat-nature-hd.png" tvg-rec="7",Viasat Nature HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/viasat-nature-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="planeta-hd" tvg-logo="https://cbilling.pw/img/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/1b3ec3cb/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="teletravel-hd" tvg-logo="https://cbilling.pw/img/streams/teletravel-hd.png" tvg-rec="7",Приключения HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/teletravel-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="teleputeshestvija" tvg-logo="https://cbilling.pw/img/streams/teleputeshestvija.png" tvg-rec="7",Телепутешествия
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/teleputeshestvija.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="glazami-turista-hd" tvg-logo="https://cbilling.pw/img/streams/glazami-turista-hd.png" tvg-rec="7",Глазами Туриста HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/glazami-turista-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="glazami-turista-4k" tvg-logo="http://cbilling.pw/img/streams/glazami-turista-4k.png" tvg-rec="7",Глазами Туриста 4k
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/glazami-turista-4k.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="rtg-hd" tvg-logo="https://cbilling.pw/img/streams/rtg-hd.png" tvg-rec="7",RTG HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/rtg-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="hd-life" tvg-logo="https://cbilling.pw/img/streams/hd-life.png" tvg-rec="7",HDL
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/hd-life.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="zoopark" tvg-logo="https://cbilling.pw/img/streams/zoopark.png" tvg-rec="7",Зоопарк
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/zoopark.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="trofey-hd" tvg-logo="https://cbilling.pw/img/streams/trofey-ua-hd.png" tvg-rec="7",Трофей HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/trofey-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="sovershenno-sekretno" tvg-logo="https://cbilling.pw/img/streams/sovershenno-sekretno.png" tvg-rec="7",Сов. Секретно
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/sovershenno-sekretno.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="domashnije-zhivotnye" tvg-logo="https://cbilling.pw/img/streams/domashnije-zhivotnye.png" tvg-rec="7",Домашние животные
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/63454775/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="kinopremiera-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinopremiera-hd-orig.png" tvg-rec="7",Кинопремьера HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/kinopremiera-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="kinosemja" tvg-logo="https://cbilling.pw/img/streams/kinosemja.png" tvg-rec="7",Киносемья
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/kinosemja.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="kinosvidanije" tvg-logo="https://cbilling.pw/img/streams/kinosvidanije.png" tvg-rec="7",КИНОСВИДАНИЕ
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/kinosvidanije.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="vip-premiere-hd-orig" tvg-logo="https://cbilling.pw/img/streams/vip-premiere-hd-orig.png" tvg-rec="7",VIP Premiere
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/vip-premiere-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="vip-megahit-hd-orig" tvg-logo="https://cbilling.pw/img/streams/vip-megahit-hd-orig.png" tvg-rec="7",VIP Megahit
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/vip-megahit-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="tv1000-russkoje-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-russkoje-hd.png" tvg-rec="7",TV1000 Русское Кино HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/tv1000-russkoje-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="egoist-tv" tvg-logo="https://cbilling.pw/img/streams/egoist-tv.png" tvg-rec="7",SHOT TV
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/egoist-tv.m3u8
-#EXTINF:139,Shakhtar TV HD
-#EXTGRP:Отобранное Любимое
-http://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/4771/stream.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol1-hd-orig" tvg-logo="https://cbilling.pw/img/streams/futbol1-hd-orig.png" tvg-rec="7",Футбол 1 HD
-#EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/futbol1-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol2-hd-orig" tvg-logo="https://cbilling.pw/img/streams/futbol2-hd-orig.png" tvg-rec="7",Футбол 2 HD
-#EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/futbol2-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol3-ua-hd-orig" tvg-logo="https://cbilling.pw/img/streams/futbol3-ua-hd-orig.png" tvg-rec="7",Футбол 3 HD
-#EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/futbol3-ua-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="match-futbol-1-hd-orig" tvg-logo="https://cbilling.pw/img/streams/match-futbol-1-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 1 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/match-futbol-1-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="match-futbol-2-hd-orig" tvg-logo="https://cbilling.pw/img/streams/match-futbol-2-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 2 HD
-#EXTGRP:Отобранное Любимое
-http://130.61.37.244:2020/channel/4ebbc087/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="match-futbol-3-hd-orig" tvg-logo="https://cbilling.pw/img/streams/match-futbol-3-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 3 HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/match-futbol-3-hd-orig.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="boks-tv" tvg-logo="https://cbilling.pw/img/streams/boks-tv.png" tvg-rec="7",Бокс ТВ
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/boks-tv.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="m1-global-hd" tvg-logo="https://cbilling.pw/img/streams/m1-global-hd.png" tvg-rec="7",M-1 Global HD
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/m1-global-hd.m3u8
-#EXTINF:0 group-title="Отобранное Любимое" tvg-id="xxl-tv" tvg-logo="https://cbilling.pw/img/streams/xxl-tv.png" tvg-rec="0",XXL
-#EXTGRP:Отобранное Любимое
-http://s03.iptvx.tv:8090/s/fa7366ce/xxl-tv.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="pervyj-hd-orig" tvg-logo="http://cbilling.pw/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/3983fcb3/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="rossija-hd-orig" tvg-logo="http://cbilling.pw/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/6899c87d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-hd-orig" tvg-logo="http://cbilling.pw/img/streams/ntv-hd-orig.png" tvg-rec="7",НТВ HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n30851cfe/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-mir" tvg-logo="http://cbilling.pw/img/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n404d733a/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-hit" tvg-logo="https://cbilling.pw/img/streams/ntv-hit.png" tvg-rec="7",НТВ Хит
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/ntv-hit.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-style" tvg-logo="http://cbilling.pw/img/streams/ntv-style.png" tvg-rec="7",НТВ Стиль
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/ntv-style.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ntv-serial" tvg-logo="https://cbilling.pw/img/streams/ntv-serial.png" tvg-rec="7",НТВ Сериал
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/ntv-serial.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Право
-#EXTGRP:Российские (общие)
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/743/index.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="tvc" tvg-logo="http://cbilling.pw/img/streams/tvc.png" tvg-rec="7",ТВЦ
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/21e3d71b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="5kanal" tvg-logo="http://cbilling.pw/img/streams/5kanal.png" tvg-rec="7",5 канал
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/6e1e4f6/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="tnt-hd-orig" tvg-logo="http://cbilling.pw/img/streams/tnt-hd-orig.png" tvg-rec="7",ТНТ HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/44625ebf/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="tnt4-hd" tvg-logo="http://cbilling.pw/img/streams/tnt4-hd.png" tvg-rec="7",ТНТ4 HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/47f1fb25/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ctc-hd-orig" tvg-logo="http://cbilling.pw/img/streams/ctc-hd.png" tvg-rec="7",СТС HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n29aae8f1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="sts-love" tvg-logo="http://cbilling.pw/img/streams/sts-love.png" tvg-rec="7",СТС Love
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n12bc1bf2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ctc-kids-hd" tvg-logo="https://cbilling.pw/img/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/ctc-kids-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="rentv-hd-orig" tvg-logo="http://cbilling.pw/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/3aa884a1/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="telekanal-360-hd" tvg-logo="http://cbilling.pw/img/streams/telekanal-360-hd.png" tvg-rec="7",Телеканал 360 HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/33dde722/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="mir-hd" tvg-logo="http://cbilling.pw/img/streams/mir-hd.png" tvg-rec="7",Мир HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/mir-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="mir-24-hd" tvg-logo="http://cbilling.pw/img/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/mir-24-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="otp" tvg-logo="http://cbilling.pw/img/streams/otp.png" tvg-rec="7",ОТР
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n69a9ed07/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda-hd" tvg-logo="http://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/21187970/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda-plus" tvg-logo="http://cbilling.pw/img/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="domashnij" tvg-logo="http://cbilling.pw/img/streams/domashnij.png" tvg-rec="7",Домашний
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/domashnij.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="perec" tvg-logo="http://cbilling.pw/img/streams/perec.png" tvg-rec="7",Перец
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/perec.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="8-kanal" tvg-logo="http://cbilling.pw/img/streams/8-kanal.png" tvg-rec="7",8 канал
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n2217ada5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="9-kanal-hd-il" tvg-logo="https://cbilling.pw/img/streams/9-kanal-hd-il.png" tvg-rec="7",9 Канал HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/9-kanal-hd-il.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="tv3-hd-orig" tvg-logo="http://cbilling.pw/img/streams/tv3-hd-orig.png" tvg-rec="7",ТВ3 HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/7d8111fd/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="4e" tvg-logo="http://cbilling.pw/img/streams/4e.png" tvg-rec="7",Че
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/4e.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="piatnica-hd-orig" tvg-logo="http://cbilling.pw/img/streams/piatnica-hd-orig.png" tvg-rec="7",Пятница HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/18a68c4f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="super-hd" tvg-logo="http://cbilling.pw/img/streams/super-hd.png" tvg-rec="7",Суббота HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/31fb7c1b/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="teledom-hd" tvg-logo="http://cbilling.pw/img/streams/teledom-hd.png" tvg-rec="7",Теледом HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/teledom-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="rtvi" tvg-logo="http://cbilling.pw/img/streams/rtvi.png" tvg-rec="7",RTVi
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/rtvi.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="rossija-k" tvg-logo="http://cbilling.pw/img/streams/rossija-k.png" tvg-rec="7",Россия Культура
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija-k.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="nostalgia" tvg-logo="http://cbilling.pw/img/streams/nostalgia.png" tvg-rec="7",Ностальгия
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/6f149303/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="retro" tvg-logo="http://cbilling.pw/img/streams/retro.png" tvg-rec="7",Ретро ТВ
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/retro.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="souz" tvg-logo="http://cbilling.pw/img/streams/souz.png" tvg-rec="7",Союз
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/6d5d22a2/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="spas" tvg-logo="http://pics.cbilling.pw/streams/spas.png" tvg-rec="7",Спас
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n4e04da34/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="moskva-doverie" tvg-logo="http://pics.cbilling.pw/streams/moskva-doverie.png" tvg-rec="7",Москва Доверие
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/moskva-doverie.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="krasnaja-linija" tvg-logo="http://cbilling.pw/img/streams/krasnaja-linija.png" tvg-rec="7",Красная линия
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/21c3f317/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="sarafan" tvg-logo="http://cbilling.pw/img/streams/sarafan.png" tvg-rec="7",Сарафан
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/sarafan.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="gagsnetwork" tvg-logo="http://cbilling.pw/img/streams/gagsnetwork.png" tvg-rec="7",Gagsnetwork
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/gagsnetwork.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="kvn-tv" tvg-logo="http://cbilling.pw/img/streams/kvn-tv.png" tvg-rec="7",КВН ТВ
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/kvn-tv.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="yu-tv" tvg-logo="http://cbilling.pw/img/streams/yu-tv.png" tvg-rec="7",Ю ТВ
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n301649c5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="vremya" tvg-logo="http://cbilling.pw/img/streams/vremya.png" tvg-rec="7",Время
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/vremya.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="russia-today-doc-hd" tvg-logo="http://cbilling.pw/img/streams/russia-today-doc-hd.png" tvg-rec="7",RT Док HD
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/299b7644/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="dozhd-hd" tvg-logo="http://cbilling.pw/img/streams/dozhd-hd.png" tvg-rec="7",Дождь HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/dozhd-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="nastoyaschee-vremya-hd" tvg-logo="http://cbilling.pw/img/streams/nastoyaschee-vremya-hd.png" tvg-rec="7",Настоящее время HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/nastoyaschee-vremya-hd.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="nezavisim-tv-hd" tvg-logo="http://pics.cbilling.pw/streams/nezavisim-tv-hd.png" tvg-rec="7",Независимые HD
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/nezavisim-tv-hd.m3u8
-#EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",РТР Планета
-#EXTGRP:Российские (общие)
-http://myott.top/stream/8WH42KGIMV/224.m3u8
-#EXTINF:-1 group-title="Российские (общие)" tvg-rec="7" timeshift="7",2х2
-#EXTGRP:Российские (общие)
-http://myott.top/stream/8WH42KGIMV/187.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="voprosy-otvety" tvg-logo="http://cbilling.pw/img/streams/voprosy-otvety.png" tvg-rec="7",Вопросы и ответы
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/voprosy-otvety.m3u8
-#EXTINF:0 tvg-rec="3",Сочи HD
-#EXTGRP:Российские (общие)
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2433/index.m3u8
-#EXTINF:0,Univer TV HD
-#EXTGRP:Российские (общие)
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="pervyj" tvg-logo="http://cbilling.pw/img/streams/pervyj.png" tvg-rec="7",Первый канал
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n13756cd0/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="rossija1" tvg-logo="http://cbilling.pw/img/streams/rossija1.png" tvg-rec="7",Россия 1
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n5e4e756c/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ntv" tvg-logo="http://cbilling.pw/img/streams/ntv.png" tvg-rec="7",НТВ
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n7d4f90ef/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="TNT" tvg-logo="http://cbilling.pw/img/streams/TNT.png" tvg-rec="7",ТНТ
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n7d4f7eb5/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="tnt-4" tvg-logo="http://cbilling.pw/img/streams/tnt-4.png" tvg-rec="7",ТНТ4
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n2ca057b7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="CTC" tvg-logo="http://cbilling.pw/img/streams/CTC.png" tvg-rec="7",СТС
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n7d4f81dc/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ctc-kids" tvg-logo="https://cbilling.pw/img/streams/ctc-kids.png" tvg-rec="7",СТС Kids
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/ctc-kids.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="ren-tv" tvg-logo="http://cbilling.pw/img/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/ren-tv.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="tv-3" tvg-logo="http://cbilling.pw/img/streams/tv-3.png" tvg-rec="7",ТВ3
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/tv-3.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="zvezda" tvg-logo="http://cbilling.pw/img/streams/zvezda.png" tvg-rec="7",Звезда
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/zvezda.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="mir" tvg-logo="http://cbilling.pw/img/streams/mir.png" tvg-rec="7",Мир
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n45a7cb5f/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="mir-24" tvg-logo="http://cbilling.pw/img/streams/mir-24.png" tvg-rec="7",Мир 24
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n45a8494d/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="piatnica" tvg-logo="http://cbilling.pw/img/streams/piatnica.png" tvg-rec="7",Пятница
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/piatnica.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="super" tvg-logo="http://cbilling.pw/img/streams/super.png" tvg-rec="7",Суббота
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/super.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="podmoskovje" tvg-logo="http://cbilling.pw/img/streams/podmoskovje.png" tvg-rec="7",Телеканал 360
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/podmoskovje.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="rt-doc" tvg-logo="http://cbilling.pw/img/streams/rt-doc.png" tvg-rec="7",RT Док
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/rt-doc.m3u8
-#EXTINF:0 group-title="Российские (общие)" tvg-id="dozhd" tvg-logo="http://cbilling.pw/img/streams/dozhd.png" tvg-rec="7",Дождь
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/n44a10a67/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Российские (общие)" tvg-id="9-kanal" tvg-logo="http://cbilling.pw/img/streams/9-kanal.png" tvg-rec="7",9 Канал
-#EXTGRP:Российские (общие)
-http://s03.iptvx.tv:8090/s/fa7366ce/9-kanal.m3u8
-#EXTINF:188 group-title="Российские (общие)",Настоящее Время
-#EXTGRP:Российские (общие)
-https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/2386/stream.m3u8
-#EXTINF:199 group-title="Российские (общие)",Ost West
-#EXTGRP:Российские (общие)
-https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/4254/stream.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-207" tvg-name="Ювелирочка" tvg-logo="http://pl.ottg.tv/icon/9886.png" group-title="Российские (общие)",Ювелирочка
-#EXTGRP:Российские (общие)
-http://130.61.37.244:2020/channel/11fb1dd7/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="pervyj-plus-2" tvg-logo="http://cbilling.pw/img/streams/pervyj-plus-2.png" tvg-rec="7",Первый канал (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/pervyj-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="pervyj-hd-plus-4" tvg-logo="http://cbilling.pw/img/streams/pervyj-hd-plus-4.png" tvg-rec="7",Первый канал HD (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/pervyj-hd-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/pervyj-plus-4.png" tvg-rec="0",Первый канал (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6037/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="pervyj-plus-7" tvg-logo="http://pics.cbilling.pw/streams/pervyj-plus-7.png" tvg-rec="7",Первый канал (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/pervyj-plus-7.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/pervyj-plus-4.png" tvg-rec="0",Первый канал (+8)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6050/index.m3u
-#EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+1)
-#EXTGRP:Россия часовые пояса
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rossija1-plus-2" tvg-logo="http://cbilling.pw/img/streams/rossija1-plus-2.png" tvg-rec="7",Россия 1 (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija1-plus-2.m3u8
-#EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+3)
-#EXTGRP:Россия часовые пояса
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rossija1-plus-4" tvg-logo="http://cbilling.pw/img/streams/rossija1-plus-4.png" tvg-rec="7",Россия 1 (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija1-plus-4.m3u8
-#EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+5)
-#EXTGRP:Россия часовые пояса
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+6)
-#EXTGRP:Россия часовые пояса
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rossija1-plus-7" tvg-logo="http://pics.cbilling.pw/streams/rossija1-plus-7.png" tvg-rec="7",Россия 1 (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija1-plus-7.m3u8
-#EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+8)
-#EXTGRP:Россия часовые пояса
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://cbilling.pw/img/streams/rossija1-plus-2.png",Россия 1 (+9)
-#EXTGRP:Россия часовые пояса
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/rossija24.png" tvg-rec="3",Россия-24 (+2)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6013/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rossija-k-plus-2" tvg-logo="http://cbilling.pw/img/streams/rossija-k-plus-2.png" tvg-rec="7",Россия-Культура (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija-k-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rossija-k-plus-7" tvg-logo="http://pics.cbilling.pw/streams/rossija-k-plus-7.png" tvg-rec="7",Россия-Культура (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rossija-k-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="ntv-plus-2" tvg-logo="http://cbilling.pw/img/streams/ntv-plus-2.png" tvg-rec="7",НТВ (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/ntv-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="ntv-plus-4" tvg-logo="http://cbilling.pw/img/streams/ntv-plus-4.png" tvg-rec="7",НТВ (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/ntv-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/ntv-plus-4.png" tvg-rec="0",НТВ (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6039/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="ntv-plus-7" tvg-logo="http://pics.cbilling.pw/streams/ntv-plus-7.png" tvg-rec="7",НТВ (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/ntv-plus-7.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/ntv-plus-4.png" tvg-rec="0",НТВ (+8)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6053/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tnt-plus-2" tvg-logo="http://cbilling.pw/img/streams/tnt-plus-2.png" tvg-rec="7",ТНТ (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tnt-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tnt-plus-4" tvg-logo="http://cbilling.pw/img/streams/tnt-plus-4.png" tvg-rec="7",ТНТ (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tnt-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/tnt-plus-4.png" tvg-rec="0",ТНТ (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6049/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tnt-plus-7" tvg-logo="http://pics.cbilling.pw/streams/tnt-plus-7.png" tvg-rec="7",ТНТ (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tnt-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="sts-plus-2" tvg-logo="http://cbilling.pw/img/streams/sts-plus-2.png" tvg-rec="7",СТС (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/sts-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="sts-plus-4" tvg-logo="http://cbilling.pw/img/streams/sts-plus-4.png" tvg-rec="7",СТС (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/sts-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/sts-plus-4.png" tvg-rec="0",СТС (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6043/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="sts-plus-7" tvg-logo="http://pics.cbilling.pw/streams/sts-plus-7.png" tvg-rec="7",СТС (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/sts-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rentv-plus-2" tvg-logo="http://cbilling.pw/img/streams/rentv-plus-2.png" tvg-rec="7",РЕН ТВ (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rentv-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rentv-plus-4" tvg-logo="http://cbilling.pw/img/streams/rentv-plus-4.png" tvg-rec="7",РЕН ТВ (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rentv-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/rentv-plus-4.png" tvg-rec="0",Рен ТВ (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6042/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="rentv-plus-7" tvg-logo="http://pics.cbilling.pw/streams/rentv-plus-7.png" tvg-rec="7",РЕН ТВ (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/rentv-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="domashnij-plus-2" tvg-logo="http://cbilling.pw/img/streams/domashnij-plus-2.png" tvg-rec="7",Домашний (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/domashnij-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="domashnij-plus-4" tvg-logo="http://cbilling.pw/img/streams/domashnij-plus-4.png" tvg-rec="7",Домашний (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/domashnij-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/domashnij-plus-4.png" tvg-rec="0",Домашний (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6044/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="domashnij-plus-7" tvg-logo="http://pics.cbilling.pw/streams/domashnij-plus-7.png" tvg-rec="7",Домашний (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/domashnij-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="piatnica-plus-2" tvg-logo="http://cbilling.pw/img/streams/piatnica-plus-2.png" tvg-rec="7",Пятница (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/piatnica-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="piatnica-plus-4" tvg-logo="http://cbilling.pw/img/streams/piatnica-plus-4.png" tvg-rec="7",Пятница (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/piatnica-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/piatnica-plus-4.png" tvg-rec="0",Пятница (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6046/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="piatnica-plus-7" tvg-logo="http://pics.cbilling.pw/streams/piatnica-plus-7.png" tvg-rec="7",Пятница (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/piatnica-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tvc-plus-2" tvg-logo="http://cbilling.pw/img/streams/tvc-plus-2.png" tvg-rec="7",ТВЦ (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tvc-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tvc-plus-4" tvg-logo="http://cbilling.pw/img/streams/tvc-plus-4.png" tvg-rec="7",ТВЦ (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tvc-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/tvc-plus-4.png" tvg-rec="0",ТВЦ (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6041/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tvc-plus-7" tvg-logo="http://pics.cbilling.pw/streams/tvc-plus-7.png" tvg-rec="7",ТВЦ (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tvc-plus-7.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/tvc-plus-4.png" tvg-rec="0",ТВЦ (+8)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6056/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tv3-plus-2" tvg-logo="http://cbilling.pw/img/streams/tv3-plus-2.png" tvg-rec="7",ТВ3 (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tv3-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tv3-plus-4" tvg-logo="http://cbilling.pw/img/streams/tv3-plus-4.png" tvg-rec="7",ТВ3 (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tv3-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/tv3-plus-4.png" tvg-rec="0",ТВ3 (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6045/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="tv3-plus-7" tvg-logo="http://pics.cbilling.pw/streams/tv3-plus-7.png" tvg-rec="7",ТВ3 (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/tv3-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="zvezda-plus-2" tvg-logo="http://cbilling.pw/img/streams/zvezda-plus-2.png" tvg-rec="7",Звезда (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="zvezda-plus-4" tvg-logo="http://cbilling.pw/img/streams/zvezda-plus-4.png" tvg-rec="7",Звезда (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/zvezda-plus-4.png" tvg-rec="0",Звезда (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6047/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="zvezda-plus-7" tvg-logo="http://pics.cbilling.pw/streams/zvezda-plus-7.png" tvg-rec="7",Звезда (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/zvezda-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="5kanal-plus-2" tvg-logo="http://cbilling.pw/img/streams/5kanal-plus-2.png" tvg-rec="7",5 канал (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/5kanal-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="5kanal-plus-4" tvg-logo="http://cbilling.pw/img/streams/5kanal-plus-4.png" tvg-rec="7",5 канал (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/5kanal-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/5kanal-plus-2.png" tvg-rec="0",5 канал (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6040/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="5kanal-plus-7" tvg-logo="http://pics.cbilling.pw/streams/5kanal-plus-7.png" tvg-rec="7",5 канал (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/5kanal-plus-7.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/5kanal-plus-2.png" tvg-rec="0",5 канал (+8)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6054/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="mir-plus-2" tvg-logo="http://cbilling.pw/img/streams/mir-plus-2.png" tvg-rec="7",Мир (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/mir-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="mir-plus-4" tvg-logo="http://cbilling.pw/img/streams/mir-plus-4.png" tvg-rec="7",Мир (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/mir-plus-4.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/mir-plus-4.png" tvg-rec="0",Мир (+6)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6048/index.m3u
-#EXTINF:0 group-title="Россия +7ч" tvg-id="mir-plus-7" tvg-logo="http://pics.cbilling.pw/streams/mir-plus-7.png" tvg-rec="7",Мир (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/mir-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="otp-plus-2" tvg-logo="http://cbilling.pw/img/streams/otp-plus-2.png" tvg-rec="7",ОТР (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/otp-plus-2.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/otp-plus-2.png" tvg-rec="0",ОТР (+4)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6026/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="otp-plus-7" tvg-logo="http://pics.cbilling.pw/streams/otp-plus-7.png" tvg-rec="7",ОТР (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/otp-plus-7.m3u8
-#EXTINF:0 tvg-logo="https://cbilling.pw/img/streams/otp-plus-2.png" tvg-rec="0",ОТР (+8)
-#EXTGRP:Россия часовые пояса
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6055/index.m3u
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="match-plus-2" tvg-logo="http://cbilling.pw/img/streams/match-plus-2.png" tvg-rec="7",Матч ТВ (+2)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/match-plus-2.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="match-plus-4" tvg-logo="http://cbilling.pw/img/streams/match-plus-4.png" tvg-rec="7",Матч ТВ (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/match-plus-4.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="match-plus-7" tvg-logo="http://pics.cbilling.pw/streams/match-plus-7.png" tvg-rec="7",Матч ТВ (+7)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/match-plus-7.m3u8
-#EXTINF:0 group-title="Россия часовые пояса" tvg-id="pervyj-plus-4" tvg-logo="http://cbilling.pw/img/streams/pervyj-plus-4.png" tvg-rec="0",Первый канал (+4)
-#EXTGRP:Россия часовые пояса
-http://s03.iptvx.tv:8090/s/fa7366ce/pervyj-plus-4.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",НТВ
+http://91.210.251.19:4866/udp/239.0.1.3:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",РЕН ТВ
+http://91.210.251.19:4866/udp/239.0.1.6:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Euronews
+http://91.210.251.19:4866/udp/239.0.1.9:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Россия 24
+http://91.210.251.19:4866/udp/239.0.1.13:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Equalympic HD
+http://91.210.251.19:4866/udp/239.0.1.14:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Продвижение
+http://91.210.251.19:4866/udp/239.0.1.15:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ТНТ TB
+http://91.210.251.19:4866/udp/239.0.1.16:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Animal Planet
+http://91.210.251.19:4866/udp/239.0.1.19:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Discovery Channel
+http://91.210.251.19:4866/udp/239.0.1.20:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ID
+http://91.210.251.19:4866/udp/239.0.1.21:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Discovery Science
+http://91.210.251.19:4866/udp/239.0.1.22:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",National Geographic
+http://91.210.251.19:4866/udp/239.0.1.24:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",.sci-fi
+http://91.210.251.19:4866/udp/239.0.1.26:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",РОДНОЕ КИНО
+http://91.210.251.19:4866/udp/239.0.1.30:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",НАШЕ НОВОЕ КИНО
+http://91.210.251.19:4866/udp/239.0.1.31:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Mezzo
+http://91.210.251.19:4866/udp/239.0.1.32:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Ю!
+http://91.210.251.19:4866/udp/239.0.1.33:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! БОЕЦ
+http://91.210.251.19:4866/udp/239.0.1.34:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ФУТБОЛ 1
+http://91.210.251.19:4866/udp/239.0.1.38:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Канал Disney
+http://91.210.251.19:4866/udp/239.0.1.39:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ", Детский Мир
+http://91.210.251.19:4866/udp/239.0.1.40:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Cartoon Network
+http://91.210.251.19:4866/udp/239.0.1.41:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Первый Канал
+http://91.210.251.19:4866/udp/239.0.1.42:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TV 1000
+http://91.210.251.19:4866/udp/239.0.1.44:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Время
+http://91.210.251.19:4866/udp/239.0.1.45:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Карусель
+http://91.210.251.19:4866/udp/239.0.1.49:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Club MTV
+http://91.210.251.19:4866/udp/239.0.1.50:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Nickelodeon Europe
+http://91.210.251.19:4866/udp/239.0.1.51:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TV 1000 Action
+http://91.210.251.19:4866/udp/239.0.1.52:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Viasat Nature
+http://91.210.251.19:4866/udp/239.0.1.53:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ПРЕМЬЕР
+http://91.210.251.19:4866/udp/239.0.1.56:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",JimJam
+http://91.210.251.19:4866/udp/239.0.1.58:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Nat Geo Wild
+http://91.210.251.19:4866/udp/239.0.1.59:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TB 1000 Русское Кино
+http://91.210.251.19:4866/udp/239.0.1.60:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",THT4
+http://91.210.251.19:4866/udp/239.0.1.62:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Extreme Sports
+http://91.210.251.19:4866/udp/239.0.1.66:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",FOX TV
+http://91.210.251.19:4866/udp/239.0.1.68:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Fox Life
+http://91.210.251.19:4866/udp/239.0.1.69:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Gulli Girl
+http://91.210.251.19:4866/udp/239.0.1.70:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MCM TOP
+http://91.210.251.19:4866/udp/239.0.1.71:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV 90s
+http://91.210.251.19:4866/udp/239.0.1.72:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",аЈ
+http://91.210.251.19:4866/udp/239.0.1.75:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TLC
+http://91.210.251.19:4866/udp/239.0.1.77:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV 00s
+http://91.210.251.19:4866/udp/239.0.1.79:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Viasat Explore
+http://91.210.251.19:4866/udp/239.0.1.80:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Домашний
+http://91.210.251.19:4866/udp/239.0.1.81:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Звезда
+http://91.210.251.19:4866/udp/239.0.1.82:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МУЖСКОЕ КИНО
+http://91.210.251.19:4866/udp/239.0.1.83:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОСВИДАНИЕ
+http://91.210.251.19:4866/udp/239.0.1.86:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОХИТ
+http://91.210.251.19:4866/udp/239.0.1.87:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОСЕМЬЯ
+http://91.210.251.19:4866/udp/239.0.1.88:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! СТРАНА
+http://91.210.251.19:4866/udp/239.0.1.89:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Россия 1
+http://91.210.251.19:4866/udp/239.0.1.92:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ПЯТНИЦА!
+http://91.210.251.19:4866/udp/239.0.1.95:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TiJi
+http://91.210.251.19:4866/udp/239.0.1.96:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",BRIDGE РУССКИЙ ХИТ
+http://91.210.251.19:4866/udp/239.0.1.98:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ", VIASAT SPORT
+http://91.210.251.19:4866/udp/239.0.1.99:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Иллюзион+
+http://91.210.251.19:4866/udp/239.0.1.101:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",BRIDGE TV
+http://91.210.251.19:4866/udp/239.0.1.102:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОКОМЕДИЯ
+http://91.210.251.19:4866/udp/239.0.1.103:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ", HOLLYWOOD
+http://91.210.251.19:4866/udp/239.0.1.104:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ЕвроКино
+http://91.210.251.19:4866/udp/239.0.1.106:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Телеканал Да Винчи
+http://91.210.251.19:4866/udp/239.0.1.107:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Viasat History
+http://91.210.251.19:4866/udp/239.0.1.108:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ФУТБОЛ 2
+http://91.210.251.19:4866/udp/239.0.1.109:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",СТС TB
+http://91.210.251.19:4866/udp/239.0.1.111:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV 80s
+http://91.210.251.19:4866/udp/239.0.1.112:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОМИКС
+http://91.210.251.19:4866/udp/239.0.1.114:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Пятый Kанал
+http://91.210.251.19:4866/udp/239.0.1.117:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",SHOT TV
+http://91.210.251.19:4866/udp/239.0.1.118:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV HITS
+http://91.210.251.19:4866/udp/239.0.1.121:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PTP 
+http://91.210.251.19:4866/udp/239.0.1.122:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! АРЕНА
+http://91.210.251.19:4866/udp/239.0.1.123:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ИГРА
+http://91.210.251.19:4866/udp/239.0.1.124:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",2X2
+http://91.210.251.19:4866/udp/239.0.1.125:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Европа Плюс ТВ
+http://91.210.251.19:4866/udp/239.0.1.134:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Россия К
+http://91.210.251.19:4866/udp/239.0.1.135:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ТВ-3
+http://91.210.251.19:4866/udp/239.0.1.136:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",AMEDIA HIT
+http://91.210.251.19:4866/udp/239.0.1.139:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",RT (англ)
+http://91.210.251.19:4866/udp/239.0.1.140:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МУЗ TB
+http://91.210.251.19:4866/udp/239.0.1.141:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",АРМЕНИЯ ТВ
+http://91.210.251.19:4866/udp/239.0.1.142:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ТВЦ TB
+http://91.210.251.19:4866/udp/239.0.1.143:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ФУТБОЛ 3
+http://91.210.251.19:4866/udp/239.0.1.144:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! TB
+http://91.210.251.19:4866/udp/239.0.1.145:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",BBC World News
+http://91.210.251.19:4866/udp/239.0.1.147:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",FRANCE 24
+http://91.210.251.19:4866/udp/239.0.1.148:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Current Time ch1 HD
+http://91.210.251.19:4866/udp/239.0.1.149:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Channel 5 SD
+http://91.210.251.19:4866/udp/239.0.2.3:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",GLAS
+http://91.210.251.19:4866/udp/239.0.2.4:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",RADA HD
+http://91.210.251.19:4866/udp/239.0.2.5:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",KyivLive-Rabinovich HD
+http://91.210.251.19:4866/udp/239.0.2.8:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
+http://91.210.251.19:4866/udp/239.0.2.12:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NATALI
+http://91.210.251.19:4866/udp/239.0.2.13:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",KARAVAN
+http://91.210.251.19:4866/udp/239.0.2.17:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",1+1 SD MP2
+http://91.210.251.19:4866/udp/239.0.2.18:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NOVY CHANNEL SD
+http://91.210.251.19:4866/udp/239.0.2.20:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ICTV SD 
+http://91.210.251.19:4866/udp/239.0.2.21:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",STB SD
+http://91.210.251.19:4866/udp/239.0.2.22:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",OCE SD
+http://91.210.251.19:4866/udp/239.0.2.23:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_INTER
+http://91.210.251.19:4866/udp/239.0.2.24:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Unian TV
+http://91.210.251.19:4866/udp/239.0.2.26:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",OTV
+http://91.210.251.19:4866/udp/239.0.2.27:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PlusPlus
+http://91.210.251.19:4866/udp/239.0.2.28:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRYAMIY SD
+http://91.210.251.19:4866/udp/239.0.2.29:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Paramount Comedy MP2
+http://91.210.251.19:4866/udp/239.0.2.30:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",M1 SD
+http://91.210.251.19:4866/udp/239.0.2.32:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MILADY TELEVISION
+http://91.210.251.19:4866/udp/239.0.2.33:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",M2 SD
+http://91.210.251.19:4866/udp/239.0.2.34:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NEWS 24
+http://91.210.251.19:4866/udp/239.0.2.35:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Pervy delovoy
+http://91.210.251.19:4866/udp/239.0.2.36:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_K1
+http://91.210.251.19:4866/udp/239.0.2.37:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",K2_PRIMARY4
+http://91.210.251.19:4866/udp/239.0.2.38:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MEGA_PRIMARY4
+http://91.210.251.19:4866/udp/239.0.2.39:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ZOOM_PRIMARY4
+http://91.210.251.19:4866/udp/239.0.2.40:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ENTER_PRIMARY4
+http://91.210.251.19:4866/udp/239.0.2.41:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_PIXEL
+http://91.210.251.19:4866/udp/239.0.2.42:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TET
+http://91.210.251.19:4866/udp/239.0.2.43:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",DACHA
+http://91.210.251.19:4866/udp/239.0.2.44:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MusicBoxUA HD
+http://91.210.251.19:4866/udp/239.0.2.45:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Bigudi MP2
+http://91.210.251.19:4866/udp/239.0.2.47:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA ZAKARPATTIA
+http://91.210.251.19:4866/udp/239.0.2.48:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_NTN
+http://91.210.251.19:4866/udp/239.0.2.49:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Kyiv TV
+http://91.210.251.19:4866/udp/239.0.2.50:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Ukraina_SDI
+http://91.210.251.19:4866/udp/239.0.2.51:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
+http://91.210.251.19:4866/udp/239.0.2.52:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA PERSHYI
+http://91.210.251.19:4866/udp/239.0.2.53:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",4P_INFO
+http://91.210.251.19:4866/udp/239.0.2.54:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",SONCE (UA)
+http://91.210.251.19:4866/udp/239.0.2.55:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Espreso TV
+http://91.210.251.19:4866/udp/239.0.2.56:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MALYATKO TV
+http://91.210.251.19:4866/udp/239.0.2.57:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",2+2 MP2
+http://91.210.251.19:4866/udp/239.0.2.58:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Eko TV
+http://91.210.251.19:4866/udp/239.0.2.59:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",INTER +
+http://91.210.251.19:4866/udp/239.0.2.67:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Svarogichi
+http://91.210.251.19:4866/udp/239.0.2.68:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
+http://91.210.251.19:4866/udp/239.0.2.69:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NLO
+http://91.210.251.19:4866/udp/239.0.2.70:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",\'Apostrophe TV HD
+http://91.210.251.19:4866/udp/239.0.2.71:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA KRYM
+http://91.210.251.19:4866/udp/239.0.2.72:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Fashion-TV-UA
+http://91.210.251.19:4866/udp/239.0.2.73:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Channel 4 (Ukraine)
+http://91.210.251.19:4866/udp/239.0.2.76:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UATV
+http://91.210.251.19:4866/udp/239.0.2.77:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Service01
+http://91.210.251.19:4866/udp/239.0.2.79:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",IndigoSDI
+http://91.210.251.19:4866/udp/239.0.2.80:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",CENTRAL
+http://91.210.251.19:4866/udp/239.0.2.81:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",LIVE
+http://91.210.251.19:4866/udp/239.0.2.82:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch271
+http://91.210.251.19:4866/udp/239.0.2.83:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Blackseatv
+http://91.210.251.19:4866/udp/239.0.2.84:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UNC
+http://91.210.251.19:4866/udp/239.0.2.85:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRYAMIY HD
+http://91.210.251.19:4866/udp/239.0.2.86:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA KULTURA
+http://91.210.251.19:4866/udp/239.0.2.87:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA DONBAS
+http://91.210.251.19:4866/udp/239.0.2.88:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
+http://91.210.251.19:4866/udp/239.0.2.89:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch414
+http://91.210.251.19:4866/udp/239.0.2.90:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch415
+http://91.210.251.19:4866/udp/239.0.2.91:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch413
+http://91.210.251.19:4866/udp/239.0.2.92:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",GALYCHYNA HD
+http://91.210.251.19:4866/udp/239.0.2.93:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",8 channel
+http://91.210.251.19:4866/udp/239.0.2.94:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UTRAVEL SD
+http://91.210.251.19:4866/udp/239.0.2.95:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Televsesvit
+http://91.210.251.19:4866/udp/239.0.2.96:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Epoque SD 
+http://91.210.251.19:4866/udp/239.0.2.97:4000
 #EXTINF:-1,ТРК Юг (Приморск-Бердянск)
 #EXTGRP:Украинские
 https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
