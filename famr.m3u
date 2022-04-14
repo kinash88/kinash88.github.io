@@ -1,326 +1,24 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"; url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",НТВ
-http://91.210.251.19:4866/udp/239.0.1.3:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",РЕН ТВ
-http://91.210.251.19:4866/udp/239.0.1.6:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Euronews
-http://91.210.251.19:4866/udp/239.0.1.9:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Россия 24
-http://91.210.251.19:4866/udp/239.0.1.13:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Equalympic HD
-http://91.210.251.19:4866/udp/239.0.1.14:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Продвижение
-http://91.210.251.19:4866/udp/239.0.1.15:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ТНТ TB
-http://91.210.251.19:4866/udp/239.0.1.16:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Animal Planet
-http://91.210.251.19:4866/udp/239.0.1.19:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Discovery Channel
-http://91.210.251.19:4866/udp/239.0.1.20:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ID
-http://91.210.251.19:4866/udp/239.0.1.21:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Discovery Science
-http://91.210.251.19:4866/udp/239.0.1.22:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",National Geographic
-http://91.210.251.19:4866/udp/239.0.1.24:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",.sci-fi
-http://91.210.251.19:4866/udp/239.0.1.26:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",РОДНОЕ КИНО
-http://91.210.251.19:4866/udp/239.0.1.30:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",НАШЕ НОВОЕ КИНО
-http://91.210.251.19:4866/udp/239.0.1.31:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Mezzo
-http://91.210.251.19:4866/udp/239.0.1.32:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Ю!
-http://91.210.251.19:4866/udp/239.0.1.33:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! БОЕЦ
-http://91.210.251.19:4866/udp/239.0.1.34:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ФУТБОЛ 1
-http://91.210.251.19:4866/udp/239.0.1.38:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Канал Disney
-http://91.210.251.19:4866/udp/239.0.1.39:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ", Детский Мир
-http://91.210.251.19:4866/udp/239.0.1.40:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Cartoon Network
-http://91.210.251.19:4866/udp/239.0.1.41:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Первый Канал
-http://91.210.251.19:4866/udp/239.0.1.42:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TV 1000
-http://91.210.251.19:4866/udp/239.0.1.44:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Время
-http://91.210.251.19:4866/udp/239.0.1.45:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Карусель
-http://91.210.251.19:4866/udp/239.0.1.49:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Club MTV
-http://91.210.251.19:4866/udp/239.0.1.50:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Nickelodeon Europe
-http://91.210.251.19:4866/udp/239.0.1.51:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TV 1000 Action
-http://91.210.251.19:4866/udp/239.0.1.52:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Viasat Nature
-http://91.210.251.19:4866/udp/239.0.1.53:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ПРЕМЬЕР
-http://91.210.251.19:4866/udp/239.0.1.56:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",JimJam
-http://91.210.251.19:4866/udp/239.0.1.58:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Nat Geo Wild
-http://91.210.251.19:4866/udp/239.0.1.59:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TB 1000 Русское Кино
-http://91.210.251.19:4866/udp/239.0.1.60:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",THT4
-http://91.210.251.19:4866/udp/239.0.1.62:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Extreme Sports
-http://91.210.251.19:4866/udp/239.0.1.66:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",FOX TV
-http://91.210.251.19:4866/udp/239.0.1.68:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Fox Life
-http://91.210.251.19:4866/udp/239.0.1.69:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Gulli Girl
-http://91.210.251.19:4866/udp/239.0.1.70:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MCM TOP
-http://91.210.251.19:4866/udp/239.0.1.71:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV 90s
-http://91.210.251.19:4866/udp/239.0.1.72:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",аЈ
-http://91.210.251.19:4866/udp/239.0.1.75:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TLC
-http://91.210.251.19:4866/udp/239.0.1.77:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV 00s
-http://91.210.251.19:4866/udp/239.0.1.79:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Viasat Explore
-http://91.210.251.19:4866/udp/239.0.1.80:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Домашний
-http://91.210.251.19:4866/udp/239.0.1.81:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Звезда
-http://91.210.251.19:4866/udp/239.0.1.82:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МУЖСКОЕ КИНО
-http://91.210.251.19:4866/udp/239.0.1.83:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОСВИДАНИЕ
-http://91.210.251.19:4866/udp/239.0.1.86:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОХИТ
-http://91.210.251.19:4866/udp/239.0.1.87:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОСЕМЬЯ
-http://91.210.251.19:4866/udp/239.0.1.88:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! СТРАНА
-http://91.210.251.19:4866/udp/239.0.1.89:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Россия 1
-http://91.210.251.19:4866/udp/239.0.1.92:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ПЯТНИЦА!
-http://91.210.251.19:4866/udp/239.0.1.95:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TiJi
-http://91.210.251.19:4866/udp/239.0.1.96:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",BRIDGE РУССКИЙ ХИТ
-http://91.210.251.19:4866/udp/239.0.1.98:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ", VIASAT SPORT
-http://91.210.251.19:4866/udp/239.0.1.99:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Иллюзион+
-http://91.210.251.19:4866/udp/239.0.1.101:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",BRIDGE TV
-http://91.210.251.19:4866/udp/239.0.1.102:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОКОМЕДИЯ
-http://91.210.251.19:4866/udp/239.0.1.103:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ", HOLLYWOOD
-http://91.210.251.19:4866/udp/239.0.1.104:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ЕвроКино
-http://91.210.251.19:4866/udp/239.0.1.106:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Телеканал Да Винчи
-http://91.210.251.19:4866/udp/239.0.1.107:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Viasat History
-http://91.210.251.19:4866/udp/239.0.1.108:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ФУТБОЛ 2
-http://91.210.251.19:4866/udp/239.0.1.109:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",СТС TB
-http://91.210.251.19:4866/udp/239.0.1.111:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV 80s
-http://91.210.251.19:4866/udp/239.0.1.112:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",КИНОМИКС
-http://91.210.251.19:4866/udp/239.0.1.114:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Пятый Kанал
-http://91.210.251.19:4866/udp/239.0.1.117:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",SHOT TV
-http://91.210.251.19:4866/udp/239.0.1.118:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MTV HITS
-http://91.210.251.19:4866/udp/239.0.1.121:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PTP 
-http://91.210.251.19:4866/udp/239.0.1.122:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! АРЕНА
-http://91.210.251.19:4866/udp/239.0.1.123:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ИГРА
-http://91.210.251.19:4866/udp/239.0.1.124:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",2X2
-http://91.210.251.19:4866/udp/239.0.1.125:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Европа Плюс ТВ
-http://91.210.251.19:4866/udp/239.0.1.134:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Россия К
-http://91.210.251.19:4866/udp/239.0.1.135:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ТВ-3
-http://91.210.251.19:4866/udp/239.0.1.136:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",AMEDIA HIT
-http://91.210.251.19:4866/udp/239.0.1.139:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",RT (англ)
-http://91.210.251.19:4866/udp/239.0.1.140:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МУЗ TB
-http://91.210.251.19:4866/udp/239.0.1.141:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",АРМЕНИЯ ТВ
-http://91.210.251.19:4866/udp/239.0.1.142:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ТВЦ TB
-http://91.210.251.19:4866/udp/239.0.1.143:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! ФУТБОЛ 3
-http://91.210.251.19:4866/udp/239.0.1.144:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",МАТЧ! TB
-http://91.210.251.19:4866/udp/239.0.1.145:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",BBC World News
-http://91.210.251.19:4866/udp/239.0.1.147:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",FRANCE 24
-http://91.210.251.19:4866/udp/239.0.1.148:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Current Time ch1 HD
-http://91.210.251.19:4866/udp/239.0.1.149:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Channel 5 SD
-http://91.210.251.19:4866/udp/239.0.2.3:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",GLAS
-http://91.210.251.19:4866/udp/239.0.2.4:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",RADA HD
-http://91.210.251.19:4866/udp/239.0.2.5:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",KyivLive-Rabinovich HD
-http://91.210.251.19:4866/udp/239.0.2.8:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
-http://91.210.251.19:4866/udp/239.0.2.12:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NATALI
-http://91.210.251.19:4866/udp/239.0.2.13:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",KARAVAN
-http://91.210.251.19:4866/udp/239.0.2.17:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",1+1 SD MP2
-http://91.210.251.19:4866/udp/239.0.2.18:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NOVY CHANNEL SD
-http://91.210.251.19:4866/udp/239.0.2.20:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ICTV SD 
-http://91.210.251.19:4866/udp/239.0.2.21:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",STB SD
-http://91.210.251.19:4866/udp/239.0.2.22:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",OCE SD
-http://91.210.251.19:4866/udp/239.0.2.23:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_INTER
-http://91.210.251.19:4866/udp/239.0.2.24:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Unian TV
-http://91.210.251.19:4866/udp/239.0.2.26:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",OTV
-http://91.210.251.19:4866/udp/239.0.2.27:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PlusPlus
-http://91.210.251.19:4866/udp/239.0.2.28:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRYAMIY SD
-http://91.210.251.19:4866/udp/239.0.2.29:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Paramount Comedy MP2
-http://91.210.251.19:4866/udp/239.0.2.30:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",M1 SD
-http://91.210.251.19:4866/udp/239.0.2.32:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MILADY TELEVISION
-http://91.210.251.19:4866/udp/239.0.2.33:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",M2 SD
-http://91.210.251.19:4866/udp/239.0.2.34:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NEWS 24
-http://91.210.251.19:4866/udp/239.0.2.35:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Pervy delovoy
-http://91.210.251.19:4866/udp/239.0.2.36:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_K1
-http://91.210.251.19:4866/udp/239.0.2.37:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",K2_PRIMARY4
-http://91.210.251.19:4866/udp/239.0.2.38:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MEGA_PRIMARY4
-http://91.210.251.19:4866/udp/239.0.2.39:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ZOOM_PRIMARY4
-http://91.210.251.19:4866/udp/239.0.2.40:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ENTER_PRIMARY4
-http://91.210.251.19:4866/udp/239.0.2.41:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_PIXEL
-http://91.210.251.19:4866/udp/239.0.2.42:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",TET
-http://91.210.251.19:4866/udp/239.0.2.43:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",DACHA
-http://91.210.251.19:4866/udp/239.0.2.44:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MusicBoxUA HD
-http://91.210.251.19:4866/udp/239.0.2.45:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Bigudi MP2
-http://91.210.251.19:4866/udp/239.0.2.47:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA ZAKARPATTIA
-http://91.210.251.19:4866/udp/239.0.2.48:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRIMARY4_KIEV_NTN
-http://91.210.251.19:4866/udp/239.0.2.49:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Kyiv TV
-http://91.210.251.19:4866/udp/239.0.2.50:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Ukraina_SDI
-http://91.210.251.19:4866/udp/239.0.2.51:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
-http://91.210.251.19:4866/udp/239.0.2.52:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA PERSHYI
-http://91.210.251.19:4866/udp/239.0.2.53:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",4P_INFO
-http://91.210.251.19:4866/udp/239.0.2.54:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",SONCE (UA)
-http://91.210.251.19:4866/udp/239.0.2.55:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Espreso TV
-http://91.210.251.19:4866/udp/239.0.2.56:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",MALYATKO TV
-http://91.210.251.19:4866/udp/239.0.2.57:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",2+2 MP2
-http://91.210.251.19:4866/udp/239.0.2.58:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Eko TV
-http://91.210.251.19:4866/udp/239.0.2.59:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",INTER +
-http://91.210.251.19:4866/udp/239.0.2.67:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Svarogichi
-http://91.210.251.19:4866/udp/239.0.2.68:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
-http://91.210.251.19:4866/udp/239.0.2.69:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",NLO
-http://91.210.251.19:4866/udp/239.0.2.70:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",\'Apostrophe TV HD
-http://91.210.251.19:4866/udp/239.0.2.71:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA KRYM
-http://91.210.251.19:4866/udp/239.0.2.72:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Fashion-TV-UA
-http://91.210.251.19:4866/udp/239.0.2.73:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Channel 4 (Ukraine)
-http://91.210.251.19:4866/udp/239.0.2.76:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UATV
-http://91.210.251.19:4866/udp/239.0.2.77:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Service01
-http://91.210.251.19:4866/udp/239.0.2.79:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",IndigoSDI
-http://91.210.251.19:4866/udp/239.0.2.80:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",CENTRAL
-http://91.210.251.19:4866/udp/239.0.2.81:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",LIVE
-http://91.210.251.19:4866/udp/239.0.2.82:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch271
-http://91.210.251.19:4866/udp/239.0.2.83:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Blackseatv
-http://91.210.251.19:4866/udp/239.0.2.84:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UNC
-http://91.210.251.19:4866/udp/239.0.2.85:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",PRYAMIY HD
-http://91.210.251.19:4866/udp/239.0.2.86:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA KULTURA
-http://91.210.251.19:4866/udp/239.0.2.87:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UA DONBAS
-http://91.210.251.19:4866/udp/239.0.2.88:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",New
-http://91.210.251.19:4866/udp/239.0.2.89:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch414
-http://91.210.251.19:4866/udp/239.0.2.90:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch415
-http://91.210.251.19:4866/udp/239.0.2.91:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",ch413
-http://91.210.251.19:4866/udp/239.0.2.92:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",GALYCHYNA HD
-http://91.210.251.19:4866/udp/239.0.2.93:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",8 channel
-http://91.210.251.19:4866/udp/239.0.2.94:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",UTRAVEL SD
-http://91.210.251.19:4866/udp/239.0.2.95:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Televsesvit
-http://91.210.251.19:4866/udp/239.0.2.96:4000
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ",Epoque SD 
-http://91.210.251.19:4866/udp/239.0.2.97:4000
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Канал Всемирная Сеть
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия РТР
+https://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Rossiya24
+https://sc.id-tv.kz/Rossiya24_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RossiyaK
+https://sc.id-tv.kz/RossiyaK_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NTV
+https://sc.id-tv.kz/NTV_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mir
+https://sc.id-tv.kz/Mir_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mir24
+https://sc.id-tv.kz/Mir24_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RBK
+https://sc.id-tv.kz/RBK_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Беларусь 24
+https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Планета
+https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",test
 https://sc.id-tv.kz/test_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",mezzo
@@ -337,38 +35,40 @@ https://sc.id-tv.kz/ViasatNature_34_35.m3u8
 https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ViasatExplorer
 https://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 1
+https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Insport
+https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",M-1 Global HD
+https://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",TiJi
 https://sc.id-tv.kz/TiJi_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",STS
 https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",STV
 https://sc.id-tv.kz/STV_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RossiyaK
-https://sc.id-tv.kz/RossiyaK_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Rossiya24
-https://sc.id-tv.kz/Rossiya24_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RenTV
 https://sc.id-tv.kz/RenTV_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RBK
-https://sc.id-tv.kz/RBK_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Nickelodeon
 https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Nick Jr
+https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Discovery Channel
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NatGeoWildHD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NTV
-https://sc.id-tv.kz/NTV_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",MuzTV
 https://sc.id-tv.kz/MuzTV_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",MoyaPlaneta
 https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mir
-https://sc.id-tv.kz/Mir_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mir24
-https://sc.id-tv.kz/Mir24_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",HD Life
+https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Karusel
 https://sc.id-tv.kz/Karusel_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",KHL
 https://sc.id-tv.kz/KHL_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мульт
+https://sc.id-tv.kz:443/Mult_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Gulli
 https://sc.id-tv.kz/Gulli_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Euronews
@@ -379,7 +79,7 @@ https://sc.id-tv.kz/DomKino_34_35.m3u8
 https://sc.id-tv.kz/DW_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Avto24
 https://sc.id-tv.kz/Avto24_34_35.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",AnimalPlanet
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Animal Planet
 https://sc.id-tv.kz/AnimalPlanet_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",A2
 https://sc.id-tv.kz/A2_34_35.m3u8
@@ -389,14 +89,56 @@ https://sc.id-tv.kz/A1_34_35.m3u8
 https://sc.id-tv.kz/bober_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",o
 https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кинохит
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киномикс
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кинокомедия
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киносерия
+https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киноужас
+https://sc.id-tv.kz/Kinouzhas_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",domkino HD
 https://sc.id-tv.kz/domkino_hd_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ZEE TV
+https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",1 HD
 https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",AMedia Hit
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",FlixSnip
+https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Иллюзион+
+https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Русский Иллюзион
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Техно 24
+https://sc.id-tv.kz/Tehno24_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",History HD
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",History 2
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",TLC Russia
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Еда Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Загородная жизнь
+https://sc.id-tv.kz/Zagorod_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Дорама
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",HDL
@@ -405,6 +147,8 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кухня ТВ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Охота и Рыбалка
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mezzo Life HD
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Astana TV
@@ -419,6 +163,232 @@ https://sc.id-tv.kz/TLCHD_34_35.m3u8
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Телекафе
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТНВ Планета
+https://sc.id-tv.kz:443/TNV-Planeta_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",7 канал
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",КТК
+https://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Новое телевидение
+https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТДК 42
+https://sc.id-tv.kz:443/TDK-42_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,1 HD
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,31 канал
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,31 канал (KZ)
+https://sc.id-tv.kz/31Kanal_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,360 International
+https://sc.id-tv.kz/360_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,7 Канал
+https://sc.id-tv.kz:443/7_kanal.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,7 канал (576p) [Not 24/7]
+https://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,7 канал KZ
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,A2 (576p) [Not 24/7]
+https://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Almaty TV (KZ)
+https://sc.id-tv.kz/Almaty_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia 1
+https://sc.id-tv.kz/A1_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia 2
+https://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia 2
+https://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia Hit (1080p) [Not 24/7]
+https://sc.id-tv.kz/amedia_hit_hd.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Amedia Premium HD
+https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,AnimalPlanet
+https://89.106.234.4/AnimalPlanet_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Astana TV
+https://sc.id-tv.kz/Astana_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,BBC World News
+https://sc.id-tv.kz/BBCWorldNews_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Discovery
+https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Dombyra TV
+https://sc.id-tv.kz/Dombyra_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Dombyra TV (576p) [Not 24/7]
+https://sc.id-tv.kz/Dombyra.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Extreme Sports
+https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Gakku
+https://sc.id-tv.kz:443/Gakku.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Gakku (576p) [Not 24/7]
+https://sc.id-tv.kz/Gakku.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Gaukhar TV
+https://sc.id-tv.kz/GaukharTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Gulli Girl
+https://sc.id-tv.kz/Gulli_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,HCT HD
+https://sc.id-tv.kz/NSTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,HDL
+https://sc.id-tv.kz/hdl.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,History
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,History 2 HD
+https://sc.id-tv.kz/H2HD_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Hit TV
+https://sc.id-tv.kz/HitTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Hollywood
+https://sc.id-tv.kz/Hollywood_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,IN SPORT TV
+https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Mezzo
+https://sc.id-tv.kz/mezzo_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Mezzo Live HD
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Munara TV
+https://sc.id-tv.kz/MunaraTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Nat Geo WILD Russia
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Nick Jr
+https://sc.id-tv.kz/NickJr_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Q Kinoalem
+https://sc.id-tv.kz/QKinoAlem_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,QADAM TV
+https://sc.id-tv.kz/QADAMTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Tiji
+https://sc.id-tv.kz/TiJi_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Viasat Sport
+https://sc.id-tv.kz/ViasatSport_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Бобер
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Бобер (720p) [Not 24/7]
+https://sc.id-tv.kz/bober.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Бокс ТВ
+https://sc.id-tv.kz/BoksTV_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Время
+https://sc.id-tv.kz/Vremya_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Дом Кино
+https://sc.id-tv.kz/DomKino_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Дорама HD
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Еда Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Ел Арна
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Ел Арна
+https://sc.id-tv.kz/ElArna_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Жетысу ТВ
+https://sc.id-tv.kz/Jetusu_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Иллюзион+
+https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Карусель Int.
+https://sc.id-tv.kz/Karusel_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Киносерия
+https://sc.id-tv.kz/Kinoseriya_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Киноужас
+https://sc.id-tv.kz/Kinouzhas_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Мir +3 (576p) [Not 24/7]
+https://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Мир 24 (576p) [Not 24/7]
+https://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,МИР24
+https://sc.id-tv.kz/Mir24_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,МТРК (576p) [Not 24/7]
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Мужское кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Музыка Первого
+https://sc.id-tv.kz/MuzikaPervogo_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Наше Новое кино HD
+https://sc.id-tv.kz/Nnk_hd_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Новое Телевидение (KZ)
+https://sc.id-tv.kz/NovoeTelevidenie_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,НТВ Мир
+https://sc.id-tv.kz/NTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Первый канал.Всемирная сеть
+https://sc.id-tv.kz/1KanalVsemSet_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Рен ТВ Int.
+https://sc.id-tv.kz/RenTV_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Рен ТВ Int.
+https://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,РЕН ТВ International (576p) [Offline]
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Русский Иллюзион
+https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Рыбалка и охота
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,СТВ Казахстан
+https://sc.id-tv.kz/STV_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,СТС [Not 24/7]
+https://sc.id-tv.kz/STS.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,СТС International
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,СТС International
+https://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,ТДК (576p) [Offline]
+https://sc.id-tv.kz/TDK-42.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,ТДК 42
+https://sc.id-tv.kz/TDK-42_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Телекафе
+https://sc.id-tv.kz/Telecafe_36_37.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Туран ТВ (576p) [Offline]
+https://sc.id-tv.kz/TuranTV.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Хабар
+https://sc.id-tv.kz/Khabar_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Хабар 24
+https://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Хабар 24 (576p) [Offline]
+https://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Халык Арна
+https://sc.id-tv.kz/HalykArna_34_35.m3u8
+#EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,Шансон ТВ International
+https://sc.id-tv.kz/Shanson_34_35.m3u8
 #EXTINF:-1,ТРК Юг (Приморск-Бердянск)
 #EXTGRP:Украинские
 https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
