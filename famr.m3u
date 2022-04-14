@@ -1,180 +1,180 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"; url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Канал Всемирная Сеть
-https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+https://sc.id-tv.kz:443/1KanalVsemSet.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия РТР
-https://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
+https://sc.id-tv.kz/RossiyaRTR.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Rossiya24
-https://sc.id-tv.kz/Rossiya24_34_35.m3u8
+https://sc.id-tv.kz/Rossiya24.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RossiyaK
-https://sc.id-tv.kz/RossiyaK_34_35.m3u8
+https://sc.id-tv.kz/RossiyaK.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NTV
-https://sc.id-tv.kz/NTV_34_35.m3u8
+https://sc.id-tv.kz/NTV.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mir
-https://sc.id-tv.kz/Mir_34_35.m3u8
+https://sc.id-tv.kz/Mir.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mir24
-https://sc.id-tv.kz/Mir24_34_35.m3u8
+https://sc.id-tv.kz/Mir24.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RBK
-https://sc.id-tv.kz/RBK_34_35.m3u8
+https://sc.id-tv.kz/RBK.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Беларусь 24
-https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+https://sc.id-tv.kz:443/Belarus24.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Планета
-https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
+https://sc.id-tv.kz/MatchPlaneta.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",test
-https://sc.id-tv.kz/test_34_35.m3u8
+https://sc.id-tv.kz/test.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",mezzo
-https://sc.id-tv.kz/mezzo_34_35.m3u8
+https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",friday
-https://sc.id-tv.kz/friday_34_35.m3u8
+https://sc.id-tv.kz/friday.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Vremya
-https://sc.id-tv.kz/Vremya_34_35.m3u8
+https://sc.id-tv.kz/Vremya.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ViasatSport
-https://sc.id-tv.kz/ViasatSport_34_35.m3u8
+https://sc.id-tv.kz/ViasatSport.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ViasatNature
-https://sc.id-tv.kz/ViasatNature_34_35.m3u8
+https://sc.id-tv.kz/ViasatNature.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ViasatHistory
-https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
+https://sc.id-tv.kz/ViasatHistory.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ViasatExplorer
-https://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
+https://sc.id-tv.kz/ViasatExplorer.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 1
-https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
+https://sc.id-tv.kz/Eurosport_1HD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Insport
-https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
+https://sc.id-tv.kz/INSPORTHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",M-1 Global HD
-https://sc.id-tv.kz/M-1_34_35.m3u8
+https://sc.id-tv.kz/M-1.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",TiJi
-https://sc.id-tv.kz/TiJi_34_35.m3u8
+https://sc.id-tv.kz/TiJi.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",STS
-https://sc.id-tv.kz/STS_34_35.m3u8
+https://sc.id-tv.kz/STS.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",STV
-https://sc.id-tv.kz/STV_34_35.m3u8
+https://sc.id-tv.kz/STV.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RenTV
-https://sc.id-tv.kz/RenTV_34_35.m3u8
+https://sc.id-tv.kz/RenTV.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Nickelodeon
-https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
+https://sc.id-tv.kz/Nickelodeon.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Nick Jr
-https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+https://sc.id-tv.kz:443/NickJr.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Discovery Channel
-https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+https://sc.id-tv.kz:443/Disc_chHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NatGeoWildHD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+https://sc.id-tv.kz/NatGeoWildHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",MuzTV
-https://sc.id-tv.kz/MuzTV_34_35.m3u8
+https://sc.id-tv.kz/MuzTV.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",MoyaPlaneta
-https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+https://sc.id-tv.kz/MoyaPlaneta.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",HD Life
-https://sc.id-tv.kz/hdl_34_35.m3u8
+https://sc.id-tv.kz/hdl.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Karusel
-https://sc.id-tv.kz/Karusel_34_35.m3u8
+https://sc.id-tv.kz/Karusel.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",KHL
-https://sc.id-tv.kz/KHL_34_35.m3u8
+https://sc.id-tv.kz/KHL.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мульт
-https://sc.id-tv.kz:443/Mult_34_35.m3u8
+https://sc.id-tv.kz:443/Mult.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Gulli
-https://sc.id-tv.kz/Gulli_34_35.m3u8
+https://sc.id-tv.kz/Gulli.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Euronews
-https://sc.id-tv.kz/Euronews_34_35.m3u8
+https://sc.id-tv.kz/Euronews.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",DomKino
-https://sc.id-tv.kz/DomKino_34_35.m3u8
+https://sc.id-tv.kz/DomKino.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",DW
-https://sc.id-tv.kz/DW_34_35.m3u8
+https://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Avto24
-https://sc.id-tv.kz/Avto24_34_35.m3u8
+https://sc.id-tv.kz/Avto24.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Animal Planet
-https://sc.id-tv.kz/AnimalPlanet_34_35.m3u8
+https://sc.id-tv.kz/AnimalPlanet.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",A2
-https://sc.id-tv.kz/A2_34_35.m3u8
+https://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",A1
-https://sc.id-tv.kz/A1_34_35.m3u8
+https://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",bober
-https://sc.id-tv.kz/bober_34_35.m3u8
+https://sc.id-tv.kz/bober.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",o
-https://sc.id-tv.kz/o_34_35.m3u8
+https://sc.id-tv.kz/o.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кинопремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кинохит
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinohit_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киносвидание
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киномикс
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinomix_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinokomediya_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киносерия
-https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
+https://sc.id-tv.kz:443/Kinoseriya_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Киноужас
-https://sc.id-tv.kz/Kinouzhas_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinouzhas_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мужское кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",domkino HD
-https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+https://sc.id-tv.kz/domkino_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ZEE TV
-https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
+https://sc.id-tv.kz/ZeeTVHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",1 HD
-https://sc.id-tv.kz/1hd_34_35.m3u8
+https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",AMedia Hit
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+https://sc.id-tv.kz/amedia_hit_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",FlixSnip
-https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+https://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Иллюзион+
-https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
+https://sc.id-tv.kz/IlluzionPlus.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Русский Иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+https://sc.id-tv.kz:443/RusIlluzion.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Победа
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
+https://sc.id-tv.kz/Pobeda.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Техно 24
-https://sc.id-tv.kz/Tehno24_34_35.m3u8
+https://sc.id-tv.kz/Tehno24.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",History HD
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+https://sc.id-tv.kz/HistoryHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",History 2
-https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+https://sc.id-tv.kz:443/H2HD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",TLC Russia
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
+https://sc.id-tv.kz/TLCHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Еда Премиум
-https://sc.id-tv.kz/EdaHD_34_35.m3u8
+https://sc.id-tv.kz/EdaHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Загородная жизнь
-https://sc.id-tv.kz/Zagorod_34_35.m3u8
+https://sc.id-tv.kz/Zagorod.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мужской
-https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+https://sc.id-tv.kz/Mujskoi.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Дорама
-https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",HDL
-https://sc.id-tv.kz/hdl_34_35.m3u8
+https://sc.id-tv.kz/hdl.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НСТ
-https://sc.id-tv.kz/NSTV_34_35.m3u8
+https://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Кухня ТВ HD
-https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+https://sc.id-tv.kz/kuhnya_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Охота и Рыбалка
-https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+https://sc.id-tv.kz/Ribalka_Ohota.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mezzo Life HD
-https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+https://sc.id-tv.kz/mezzo_life_hd.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Astana TV
-https://sc.id-tv.kz/Astana_34_35.m3u8
+https://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",DaVinci Роccия
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",FOX HD
-https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+https://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",TLC HD
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
+https://sc.id-tv.kz/TLCHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",poehali
-https://sc.id-tv.kz/poehali_34_35.m3u8
+https://sc.id-tv.kz/poehali.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
+https://sc.id-tv.kz/Cinema.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Телекафе
-https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
+https://sc.id-tv.kz:443/Telecafe.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТНВ Планета
-https://sc.id-tv.kz:443/TNV-Planeta_34_35.m3u8
+https://sc.id-tv.kz:443/TNV-Planeta.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",7 канал
-https://sc.id-tv.kz/7_kanal_34_35.m3u8
+https://sc.id-tv.kz/7_kanal.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",КТК
-https://sc.id-tv.kz/KTK_34_35.m3u8
+https://sc.id-tv.kz/KTK.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Новое телевидение
-https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+https://sc.id-tv.kz:443/NovoeTVHD.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТДК 42
-https://sc.id-tv.kz:443/TDK-42_36_37.m3u8
+https://sc.id-tv.kz:443/TDK-42.m3u8
 #EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,1 HD
 https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 group-title=ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2,1HD Music Television (404p) [Not 24/7]
