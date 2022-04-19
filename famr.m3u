@@ -29,6 +29,8 @@ https://sc.id-tv.kz:443/1KanalVsemSet.m3u8
 http://ru.iptv.monster/play/1467/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТВ HD
 http://ru.iptv.monster/play/3792/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Точка Отрыва
+http://ru.iptv.monster/play/601/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",VIASAT Sport
 http://ru.iptv.monster/play/77/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол 1
@@ -261,6 +263,8 @@ http://ru.iptv.monster/play/11099/532B327C10FF78D/video.m3u8
 http://ru.iptv.monster/play/11081/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Digi Sport 3
 http://ru.iptv.monster/play/11070/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Redlight HD
+http://ru.iptv.monster/play/594/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 http://myott.top/stream/1VGPHYLZTH/135.m3u8
