@@ -67,6 +67,8 @@ http://ru.iptv.monster/play/134/532B327C10FF78D/video.m3u8
 http://ru.iptv.monster/play/15/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 2
 http://ru.iptv.monster/play/43/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport HD Germany
+http://ru.iptv.monster/play/831/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Боец
 http://ru.iptv.monster/play/30/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Udar HD
@@ -137,6 +139,10 @@ http://ru.iptv.monster/play/110/532B327C10FF78D/video.m3u8
 http://ru.iptv.monster/play/681/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport
 http://ru.iptv.monster/play/679/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sky Sport 1 HD
+http://ru.iptv.monster/play/833/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sky Sport 2 HD
+http://ru.iptv.monster/play/834/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sky Sport Bundesliga 1 HD
 http://ru.iptv.monster/play/836/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sky Sport Austria 1 HD
