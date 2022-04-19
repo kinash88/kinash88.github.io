@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://myott.top/api/epg.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"; url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый канал HD
 http://ru.iptv.monster/play/73/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия РТР HD
+http://ru.iptv.monster/play/3789/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RTR Planeta
+http://ru.iptv.monster/play/353/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия РТР
 https://sc.id-tv.kz/RossiyaRTR.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Rossiya24
@@ -21,100 +25,236 @@ https://sc.id-tv.kz:443/Belarus24.m3u8
 https://sc.id-tv.kz/MatchPlaneta.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Канал Всемирная Сеть
 https://sc.id-tv.kz:443/1KanalVsemSet.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",VIASAT Sport HD
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Беларусь 5 HD
+http://ru.iptv.monster/play/1467/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТВ HD
+http://ru.iptv.monster/play/3792/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",VIASAT Sport
 http://ru.iptv.monster/play/77/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",54/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол 1
 http://ru.iptv.monster/play/54/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",53/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол 1 HD
+http://ru.iptv.monster/play/260/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол 2 HD
+http://ru.iptv.monster/play/271/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол 3 HD
+http://ru.iptv.monster/play/329/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол
+http://ru.iptv.monster/play/171/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Футбол HD
+http://ru.iptv.monster/play/3920/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мир Баскетбола
+http://ru.iptv.monster/play/8831/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Extreme Sports Channel
 http://ru.iptv.monster/play/53/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",5/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч!
 http://ru.iptv.monster/play/5/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Игра
+http://ru.iptv.monster/play/268/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Премьер
+http://ru.iptv.monster/play/37/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Премьер HD
+http://ru.iptv.monster/play/250/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Планета
+http://ru.iptv.monster/play/14/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Арена
+http://ru.iptv.monster/play/136/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Арена HD
+http://ru.iptv.monster/play/146/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Страна
+http://ru.iptv.monster/play/134/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 1 HD
+http://ru.iptv.monster/play/15/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 2
 http://ru.iptv.monster/play/43/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",37/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/37/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",30/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Боец
 http://ru.iptv.monster/play/30/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",29/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Udar HD
+http://ru.iptv.monster/play/4111/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Старт HD
+http://ru.iptv.monster/play/9946/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Авто Плюс
 http://ru.iptv.monster/play/29/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",15/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/15/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",14/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/14/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",685/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/685/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",684/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/684/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",683/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/683/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",682/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/682/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",678/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/678/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",676/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/676/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",656/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/656/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",482/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/482/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",479/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/479/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",463/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/463/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",444/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/444/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",439/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/439/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",434/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/434/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",394/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/394/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",353/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/353/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",345/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/345/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",329/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/329/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",271/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/271/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",268/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/268/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",260/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/260/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",256/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Авто 24
 http://ru.iptv.monster/play/256/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",250/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/250/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",238/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Kinoteatr
+http://ru.iptv.monster/play/685/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Navo
+http://ru.iptv.monster/play/684/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Bolajon
+http://ru.iptv.monster/play/683/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Dunyo Bo'ylab
+http://ru.iptv.monster/play/682/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Toshkent
+http://ru.iptv.monster/play/678/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Ozbekiston
+http://ru.iptv.monster/play/676/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Ozbekiston 24
+http://ru.iptv.monster/play/3303/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",УНІАН
+http://ru.iptv.monster/play/9949/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",2+2
+http://ru.iptv.monster/play/656/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",2+2 HD
+http://ru.iptv.monster/play/9953/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Equalympic
+http://ru.iptv.monster/play/8788/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Думская TV HD
+http://ru.iptv.monster/play/9917/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Віта ТБ
+http://ru.iptv.monster/play/2606/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Бокс ТВ
+http://ru.iptv.monster/play/482/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 1
+http://ru.iptv.monster/play/479/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",QazSport
+http://ru.iptv.monster/play/463/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Armenia H1 TV
+http://ru.iptv.monster/play/444/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",H1 HD
+http://ru.iptv.monster/play/1440/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Idman
+http://ru.iptv.monster/play/439/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",CBC Sport
+http://ru.iptv.monster/play/434/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Конный Мир
+http://ru.iptv.monster/play/394/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",HD REX
+http://ru.iptv.monster/play/345/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",MTV Hits
 http://ru.iptv.monster/play/238/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",199/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ОТР
 http://ru.iptv.monster/play/199/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",177/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/177/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",171/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/171/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",153/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/153/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",149/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",KHL
 http://ru.iptv.monster/play/149/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",146/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/146/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",136/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/136/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",134/532B327C10FF78D/video.m3u8
-http://ru.iptv.monster/play/134/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",110/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",KHL HD
+http://ru.iptv.monster/play/177/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Матч! Игра
+http://ru.iptv.monster/play/153/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",1 HD Mucic Television
 http://ru.iptv.monster/play/110/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",CDN:681-http://ru.iptv.monster/play/681/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Madaniyat Va MaRifat
 http://ru.iptv.monster/play/681/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",CDN:679-http://ru.iptv.monster/play/679/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport
 http://ru.iptv.monster/play/679/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",836/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sky Sport Bundesliga 1 HD
 http://ru.iptv.monster/play/836/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",818/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sky Sport Austria 1 HD
+http://ru.iptv.monster/play/5129/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 1 HD
 http://ru.iptv.monster/play/818/532B327C10FF78D/video.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",1122/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Nova Sport HD
 http://ru.iptv.monster/play/1122/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eleven HD
+http://ru.iptv.monster/play/1903/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eleven Sports HD
+http://ru.iptv.monster/play/1904/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Canal+ Sport 2 HD
+http://ru.iptv.monster/play/1901/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 1 HD
+http://ru.iptv.monster/play/1522/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 2
+http://ru.iptv.monster/play/1521/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 3 HD
+http://ru.iptv.monster/play/1565/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 4 HD
+http://ru.iptv.monster/play/1566/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 5
+http://ru.iptv.monster/play/1569/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 5 HD
+http://ru.iptv.monster/play/1531/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",9 Канал
+http://ru.iptv.monster/play/1547/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Yes Movies Comedy
+http://ru.iptv.monster/play/1515/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Sport 5 HD
+http://ru.iptv.monster/play/1507/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ONE Sport
+http://ru.iptv.monster/play/1506/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Palitra News
+http://ru.iptv.monster/play/1475/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Luys
+http://ru.iptv.monster/play/1453/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Shoghahat
+http://ru.iptv.monster/play/1452/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Free News
+http://ru.iptv.monster/play/1451/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Dar 21
+http://ru.iptv.monster/play/1450/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Erkir
+http://ru.iptv.monster/play/1448/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Ararat
+http://ru.iptv.monster/play/1447/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Atv HD
+http://ru.iptv.monster/play/1445/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",H2
+http://ru.iptv.monster/play/1443/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Shant TV
+http://ru.iptv.monster/play/1442/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Shant Serial HD
+http://ru.iptv.monster/play/1435/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Shant Music
+http://ru.iptv.monster/play/3925/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Armenia HD
+http://ru.iptv.monster/play/1441/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Setanta Sports HD
+http://ru.iptv.monster/play/9957/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Setanta Sports + HD
+http://ru.iptv.monster/play/1434/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Моторспорт.ТВ
+http://ru.iptv.monster/play/3918/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",DAZN 2
+http://ru.iptv.monster/play/3557/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Mahalla
+http://ru.iptv.monster/play/2631/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Неизвестный канал
+http://ru.iptv.monster/play/9991/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Cars & Stars TV HD
+http://ru.iptv.monster/play/9904/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Неизвестный канал
+http://ru.iptv.monster/play/9311/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Неизвестный канал
+http://ru.iptv.monster/play/8829/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",KBC Family Animation
+http://ru.iptv.monster/play/8827/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",KBC Союз Мультzal
+http://ru.iptv.monster/play/8823/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Fast&Fun Box HD
+http://ru.iptv.monster/play/8792/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Fight Box HD
+http://ru.iptv.monster/play/8790/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Yosso TV Союзмульт
+http://ru.iptv.monster/play/8772/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Неизвестный канал
+http://ru.iptv.monster/play/8711/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Порноканал
+http://ru.iptv.monster/play/7850/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",BCU Stars HD
+http://ru.iptv.monster/play/7121/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NBA TV
+http://ru.iptv.monster/play/6675/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ESPN 1
+http://ru.iptv.monster/play/6252/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Fox Sport 1
+http://ru.iptv.monster/play/6046/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Fox Sport 2
+http://ru.iptv.monster/play/6047/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",EPT 1 HD
+http://ru.iptv.monster/play/5901/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 2 HD
+http://ru.iptv.monster/play/5136/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",IN Sport
+http://ru.iptv.monster/play/5094/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Prima Sport 2
+http://ru.iptv.monster/play/11147/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Prima Sport 4
+http://ru.iptv.monster/play/11100/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Prima Sport 4
+http://ru.iptv.monster/play/11099/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Eurosport 2
+http://ru.iptv.monster/play/11081/532B327C10FF78D/video.m3u8
+#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Digi Sport 3
+http://ru.iptv.monster/play/11070/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 http://myott.top/stream/1VGPHYLZTH/135.m3u8
