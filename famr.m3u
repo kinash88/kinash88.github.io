@@ -9,34 +9,6 @@ http://ru.iptv.monster/play/353/532B327C10FF78D/video.m3u8
 https://sc.id-tv.kz/RossiyaRTR.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Rossiya24
 https://sc.id-tv.kz/Rossiya24.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Канал
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/2/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия 1
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/3/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Звезда
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/4/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НТВ
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/5/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",РЕН ТВ
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/8/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТС
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/9/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Домашний
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/10/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТНТ
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/11/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия К
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/15/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТВЦ
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/16/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",5 Канал Петербург
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/17/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТВ3
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/18/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия 24
-https://hzv4.sysnet.top/video/pdrVvqxdwJZQ37O3ALD2Bg/19/playlist.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Крымский
-http://50.7.222.90:8081/krim/index.m3u8?wmsAuthSign=469840fedf2d20f96ebf521aa2b36e78-1651425911-73i98i361i881
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",RossiyaK
 https://sc.id-tv.kz/RossiyaK.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",NTV
@@ -53,18 +25,6 @@ https://sc.id-tv.kz:443/Belarus24.m3u8
 https://sc.id-tv.kz/MatchPlaneta.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Канал Всемирная Сеть
 https://sc.id-tv.kz:443/1KanalVsemSet.m3u8
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Канал
-http://50.7.222.90:8081/perkanal/index.m3u8?wmsAuthSign=42e3990d951d8eab7d3ba624bad8eae2-1651425614-73i98i361i881
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия 1
-http://50.7.222.90:8081/ros_1/index.m3u8?wmsAuthSign=51d1e634a5f8683d2fd94076a1bf0e79-1651425817-73i98i361i881
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия К
-http://s1.ttranslit.com:8081/kyltyra/index.m3u8?wmsAuthSign=1651436132S5b00c22017af1ae272ee9e6338f090ffS73h98h361h881
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Звезда
-http://50.7.222.90:8081/zvezda/index.m3u8?wmsAuthSign=d96cfc4465f88a7e2da9ad2de1c1301c-1651438207-73i98i361i881
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мир 24
-http://50.7.222.90:8081/mir24/index.m3u8?wmsAuthSign=5f554fd2e4e7bbe339a354caa18e74bd-1651426658-73i98i361i881
-#EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НТВ
-http://50.7.222.90:8081/ntv/index.m3u8?wmsAuthSign=92ffdc996eb8993d0cb0f017a4ed24d0-1651425746-73i98i361i881
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Беларусь 5 HD
 http://ru.iptv.monster/play/1467/532B327C10FF78D/video.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТВ HD
