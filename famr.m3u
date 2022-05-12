@@ -11,6 +11,9 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rossia1HD
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="rossia1" tvg-logo="https://static.ipstr.im/picons/ru/rossia1.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Росcия 1
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rossia1/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rossia-24" tvg-logo="https://static.ipstr.im/picons/ru/rossia24.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Рoсcия-24
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rossia-24/video.m3u8
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="ntv" tvg-logo="https://static.ipstr.im/picons/ru/ntvhd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НTВ HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ntvHD/video.m3u8
