@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://static.ipstr.im/epg/epg_vod.xml.gz
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="pervyhd" tvg-name="Первый_канал" tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png",Пеpвый HD
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/pervyHD/video.m3u8
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="rossia1" tvg-name="Россия_1" tvg-logo="https://static.ipstr.im/picons/ru/rossia-hd.png",Роccия 1 HD
