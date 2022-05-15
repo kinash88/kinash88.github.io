@@ -1,0 +1,60 @@
+#EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="pervyhd" tvg-name="Первый_канал" tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Пеpвый HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/pervyHD/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="rossia1" tvg-name="Россия_1" tvg-logo="https://static.ipstr.im/picons/ru/rossia-hd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Роccия 1 HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rossia1HD/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rossia-24" tvg-logo="https://static.ipstr.im/picons/ru/rossia24.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Рoсcия-24
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rossia-24/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="ntv" tvg-logo="https://static.ipstr.im/picons/ru/ntvhd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НTВ HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ntvHD/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="tnt" tvg-logo="https://static.ipstr.im/picons/ru/tnthd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТHТ HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tntHD/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="sts" tvg-name="стс" tvg-logo="https://static.ipstr.im/picons/ru/stsHD.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТС HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/sts-hd/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="rentv" tvg-logo="https://static.ipstr.im/picons/upl/rentvHD.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",РЕН HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rentvHD/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="tvcentr" tvg-logo="https://static.ipstr.im/picons/ru/tvcentr.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТВ Центр
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tvcentr/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="tv3-ru" tvg-logo="https://static.ipstr.im/picons/ru/tv3.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТВ-3 HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tv3-ru/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="domashny" tvg-logo="https://static.ipstr.im/picons/ru/domashny.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Домашний
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/domashny/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="5kanal-ru" tvg-logo="https://static.ipstr.im/picons/ru/5kanal-ru.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Пятый канал
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/5kanal-ru/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="zvezda" tvg-logo="https://static.ipstr.im/picons/ru/zvezda.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Звезда
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/zvezda/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" tvg-id="zvezda-plus" tvg-logo="https://static.ipstr.im/picons/upl/zvezdaplus.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Звезда Плюс
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/zvezdaplus/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="mir" tvg-logo="https://static.ipstr.im/picons/ru/mir.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Мир
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/mir/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="otr" tvg-logo="https://static.ipstr.im/picons/ru/otr_ru.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ОТР
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/otr/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="kultura" tvg-logo="https://static.ipstr.im/picons/ru/rosskult.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия-Культура
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rossia-k/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="ntv-mir" tvg-logo="https://static.ipstr.im/picons/ru/ntvmir.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НТВ Мир
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ntv-mir/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rtr-planeta-eu" tvg-logo="https://static.ipstr.im/picons/ru/rtr-planeta.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",РТР Планета
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rtrpl/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="rentv-int" tvg-logo="https://static.ipstr.im/picons/upl/rentvintern.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Рен Int
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rentvintern/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="360-podmoskovie" tvg-logo="https://static.ipstr.im/picons/ru/360-podmoskovie.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Телеканал 360°
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/360-podmoskovie/video.m3u8
