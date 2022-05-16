@@ -244,13 +244,13 @@ http://s02.wsbof.com:8090/s/fa7366ce/egoist-tv.m3u8
 http://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/4771/stream.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol1-hd-orig" tvg-logo="https://cbilling.pw/img/streams/futbol1-hd-orig.png" tvg-rec="7",Футбол 1 HD
 #EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/futbol1-hd-orig.m3u8
+http://s02.wsbof.com:8090/s/fa7366ce/futbol1-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol2-hd-orig" tvg-logo="https://cbilling.pw/img/streams/futbol2-hd-orig.png" tvg-rec="7",Футбол 2 HD
 #EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/futbol2-hd-orig.m3u8
+http://s02.wsbof.com:8090/s/fa7366ce/futbol2-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="futbol3-ua-hd-orig" tvg-logo="https://cbilling.pw/img/streams/futbol3-ua-hd-orig.png" tvg-rec="7",Футбол 3 HD
 #EXTGRP:Отобранное Любимое
-http://s06.iptvx.tv:8090/s/fa7366ce/futbol3-ua-hd-orig.m3u8
+http://s02.wsbof.com:8090/s/fa7366ce/futbol3-ua-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="match-futbol-1-hd-orig" tvg-logo="https://cbilling.pw/img/streams/match-futbol-1-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 1 HD
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/match-futbol-1-hd-orig.m3u8
