@@ -5654,105 +5654,6 @@ http://s02.wsbof.com:8090/s/fa7366ce/orf-sport-plus-hd-de.m3u8
 #EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="classica.de" tvg-name="Classica_Deutschland" tvg-logo="https://static.ipstr.im/picons/de/classica.de.png" group-title="Немецкие",DE: Stingray Classica
 #EXTGRP:Немецкие
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/classica_de/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rmcsportlive5.fr" tvg-logo="https://static.ipstr.im/picons/fr/sfr.sport5.png" group-title="Французские",FR: RMC SPORTS 5 HD
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rmcsportlive5_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="beinsports2.fr" tvg-logo="https://static.ipstr.im/picons/fr/beinsports2.fr.png" group-title="Французские",FR: Bein Sports 2 HD
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/beinsports2_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="beinsports1.fr" tvg-logo="https://static.ipstr.im/picons/fr/beinsports1.fr.png" group-title="Французские",FR: Bein Sports 1 HD
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/beinsports1_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="c8.fr" tvg-logo="https://static.ipstr.im/picons/fr/c8.fr.png" group-title="Французские",FR: C8
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/c8_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="cineplusfrisson.fr" tvg-logo="https://static.ipstr.im/picons/fr/cineplusfrisson.fr.png" group-title="Французские",FR: Cine+ Frisson
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cineplusfrisson_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="cinepluspremier.fr" tvg-logo="https://static.ipstr.im/picons/fr/cinepluspremier.fr.png" group-title="Французские",FR: Cine+  Premier
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cinepluspremier_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="cineplusemotion.fr" tvg-logo="https://static.ipstr.im/picons/fr/cineplusemotion.fr.png" group-title="Французские",FR: Cine+ Emotion HD
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cineplusemotion_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="france24-fr" tvg-logo="https://static.ipstr.im/picons/fr/france24.fr.png" group-title="Французские",FR: FRANCE 24
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france24_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="france2.fr" tvg-logo="https://static.ipstr.im/picons/fr/france2.fr.png" group-title="Французские",FR: FRANCE2
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france2_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="france3.fr" tvg-logo="https://static.ipstr.im/picons/fr/france3.fr.png" group-title="Французские",FR: FRANCE3
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france3_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="france4.fr" tvg-logo="https://static.ipstr.im/picons/fr/france4.fr.png" group-title="Французские",FR: FRANCE4
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france4_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tf1.fr" tvg-logo="https://static.ipstr.im/picons/fr/tf1series.png" group-title="Французские",FR: TF1 Series
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tf1HD_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="m6.fr" tvg-logo="https://static.ipstr.im/picons/fr/m6.fr.png" group-title="Французские",FR: M6
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/m6_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/fr/mezzo.fr.png" group-title="Французские",FR: Mezzo Live HD
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/mezzo_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tf1.fr" tvg-logo="https://static.ipstr.im/picons/fr/tf1.fr.png" group-title="Французские",FR: TF1
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tf1_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tfx.fr" tvg-logo="https://static.ipstr.im/picons/fr/tfx.fr.png" group-title="Французские",FR: TFX
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tfx_fr/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="w9.fr" tvg-logo="https://static.ipstr.im/picons/fr/w9.fr.png" group-title="Французские",FR: W9
-#EXTGRP:Французские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/w9_fr/video.m3u8
-#EXTINF:198 group-title="Французские",France 24
-#EXTGRP:Французские
-https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/239/stream.m3u8
-#EXTINF:0 tvg-rec="0",FRANCE 24 En
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/947/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ Series FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6008/index.m3u8
-#EXTINF:0 tvg-rec="0",CINE+ Frisson FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6003/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ Decale FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6005/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ Family FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6006/index.m3u8
-#EXTINF:0 tvg-rec="0",Golf TV FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6066/index.m3u8
-#EXTINF:0 tvg-rec="3",Bein Sports 1 HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2499/index.m3u8
-#EXTINF:0 tvg-rec="3",Bein Sports 2 HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2500/index.m3u8
-#EXTINF:0 tvg-rec="3",Bein Sports 3 HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2501/index.m3u8
-#EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2502/index.m3u8
-#EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2545/index.m3u8
-#EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2546/index.m3u8
-#EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2547/index.m3u8
-#EXTINF:0 tvg-rec="3",Infosport+ HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2544/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ HD FR
-#EXTGRP:Французские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6007/index.m3u8
 #EXTINF:0 tvg-rec="0",FRANCE 2 HD
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6147/index.m3u8
@@ -5765,12 +5666,99 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6149/index.m3u8
 #EXTINF:0 tvg-rec="0",FRANCE 5 HD
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6150/index.m3u8
+#EXTINF:198 group-title="Французские",France 24
+#EXTGRP:Французские
+https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/239/stream.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE 24 En
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/947/index.m3u8
 #EXTINF:0 tvg-rec="0",FRANCE O HD
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6151/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tf1.fr" tvg-logo="https://static.ipstr.im/picons/fr/tf1.fr.png" group-title="Французские",FR: TF1
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tf1_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tf1.fr" tvg-logo="https://static.ipstr.im/picons/fr/tf1series.png" group-title="Французские",FR: TF1 Series
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tf1HD_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tfx.fr" tvg-logo="https://static.ipstr.im/picons/fr/tfx.fr.png" group-title="Французские",FR: TFX
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tfx_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="m6.fr" tvg-logo="https://static.ipstr.im/picons/fr/m6.fr.png" group-title="Французские",FR: M6
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/m6_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="w9.fr" tvg-logo="https://static.ipstr.im/picons/fr/w9.fr.png" group-title="Французские",FR: W9
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/w9_fr/video.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6007/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal+ Cinema HD FR
 #EXTGRP:Французские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6004/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2502/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Series FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6008/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Decale FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6005/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Family FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6006/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="c8.fr" tvg-logo="https://static.ipstr.im/picons/fr/c8.fr.png" group-title="Французские",FR: C8
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/c8_fr/video.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2545/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2546/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2547/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="rmcsportlive5.fr" tvg-logo="https://static.ipstr.im/picons/fr/sfr.sport5.png" group-title="Французские",FR: RMC SPORTS 5 HD
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rmcsportlive5_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="beinsports1.fr" tvg-logo="https://static.ipstr.im/picons/fr/beinsports1.fr.png" group-title="Французские",FR: Bein Sports 1 HD
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/beinsports1_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="beinsports2.fr" tvg-logo="https://static.ipstr.im/picons/fr/beinsports2.fr.png" group-title="Французские",FR: Bein Sports 2 HD
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/beinsports2_fr/video.m3u8
+#EXTINF:0 tvg-rec="3",Bein Sports 3 HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2501/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="cineplusfrisson.fr" tvg-logo="https://static.ipstr.im/picons/fr/cineplusfrisson.fr.png" group-title="Французские",FR: Cine+ Frisson
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cineplusfrisson_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="cinepluspremier.fr" tvg-logo="https://static.ipstr.im/picons/fr/cinepluspremier.fr.png" group-title="Французские",FR: Cine+  Premier
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cinepluspremier_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="cineplusemotion.fr" tvg-logo="https://static.ipstr.im/picons/fr/cineplusemotion.fr.png" group-title="Французские",FR: Cine+ Emotion HD
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cineplusemotion_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/fr/mezzo.fr.png" group-title="Французские",FR: Mezzo Live HD
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/mezzo_fr/video.m3u8
+#EXTINF:0 tvg-rec="0",Golf TV FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6066/index.m3u8
+#EXTINF:0 tvg-rec="3",Infosport+ HD FR
+#EXTGRP:Французские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2544/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="france2.fr" tvg-logo="https://static.ipstr.im/picons/fr/france2.fr.png" group-title="Французские",FR: FRANCE2
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france2_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="france3.fr" tvg-logo="https://static.ipstr.im/picons/fr/france3.fr.png" group-title="Французские",FR: FRANCE3
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france3_fr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="france4.fr" tvg-logo="https://static.ipstr.im/picons/fr/france4.fr.png" group-title="Французские",FR: FRANCE4
+#EXTGRP:Французские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/france4_fr/video.m3u8
 #EXTINF:0 group-title="Израильские" tvg-id="9-kanal-hd-il" tvg-logo="http://cbilling.pw/img/streams/9-kanal-hd-il.png" tvg-rec="7",9 Канал HD
 #EXTGRP:Израильские
 http://s02.wsbof.com:8090/s/fa7366ce/9-kanal-hd-il.m3u8
