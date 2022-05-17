@@ -6532,18 +6532,117 @@ http://myott.top/stream/8WH42KGIMV/31.m3u8
 #EXTINF:-1 group-title="Балтийские" tvg-rec="7" timeshift="7",LTV1
 #EXTGRP:Балтийские
 http://myott.top/stream/8WH42KGIMV/34.m3u8
-#EXTINF:-1 group-title="Молдавские",Jurnal TV HD
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/drokia_md.png" group-title="Молдавские",DROCHIA TV
 #EXTGRP:Молдавские
-http://myott.top/stream/8WH42KGIMV/277.m3u8
-#EXTINF:-1 group-title="Молдавские" tvg-rec="7" timeshift="7",Prime1 HD
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/drokia_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/busuioc_md.png" group-title="Молдавские",Busuioc
 #EXTGRP:Молдавские
-http://myott.top/stream/8WH42KGIMV/335.m3u8
-#EXTINF:-1 group-title="Молдавские" tvg-rec="7" timeshift="7",Молдова 1 HD
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/busuioc_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/nts_md.png" group-title="Молдавские",NTS
 #EXTGRP:Молдавские
-http://myott.top/stream/8WH42KGIMV/336.m3u8
-#EXTINF:-1 group-title="Молдавские" tvg-rec="7" timeshift="7",РТР Молдова HD
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nts_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/zonam_md.png" group-title="Молдавские",Zona M
 #EXTGRP:Молдавские
-http://myott.top/stream/8WH42KGIMV/337.m3u8
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/zonam_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/kuhnea_hd.png" group-title="Молдавские",KUHNYA TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kuhnea_hd/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/mult_md.png" group-title="Молдавские",МУЛЬТ ТВ
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/mult_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/sts_md.png" group-title="Молдавские",CTC
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/sts_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/can2_md.png" group-title="Молдавские",Canal 2
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/can2_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/can3_md.png" group-title="Молдавские",Canal 3
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/can3_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/5tv_md.png" group-title="Молдавские",5 Canal
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/5tv_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/cand_md.png" group-title="Молдавские",Canal D
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cand_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="agro-tv-md" tvg-logo="https://static.ipstr.im/picons/upl/agro_md.png" group-title="Молдавские",Agro
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/agro_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/gurinel_md.png" group-title="Молдавские",Gurinel
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/gurinel_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/btv_md.png" group-title="Молдавские",BTV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/btv_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/accentv_md.png" group-title="Молдавские",Accent TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/accentv_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/10tv_md.png" group-title="Молдавские",10 TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/10tv_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="ntv-moldova" tvg-logo="https://static.ipstr.im/picons/upl/ntv_md.png" group-title="Молдавские",NTV Moldova
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ntv_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/jurnal_md.png" group-title="Молдавские",Jurnal TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/jurnal_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/n4_md.png" group-title="Молдавские",N4 Moldova
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/n4_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/media_md.png" group-title="Молдавские",Media TV Cimislia
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/media_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="moldova-1" tvg-logo="https://static.ipstr.im/picons/upl/m1_md.png" group-title="Молдавские",Moldova 1
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/m1_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="moldova-2" tvg-logo="https://static.ipstr.im/picons/upl/m2_md.png" group-title="Молдавские",Moldova 2
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/m2_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="noroc-tv-md" tvg-logo="https://static.ipstr.im/picons/upl/noroc_md.png" group-title="Молдавские",Noroc
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/noroc_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="noroc-tv-md" tvg-logo="https://static.ipstr.im/picons/upl/norochd_md.png" group-title="Молдавские",Noroc HD
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/norochd_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/orhei_md.png" group-title="Молдавские",Orhei TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/orhei_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="rtr-moldova" tvg-logo="https://static.ipstr.im/picons/upl/rtr_md.png" group-title="Молдавские",RTR
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rtr_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="primul-in-moldova" tvg-logo="https://static.ipstr.im/picons/upl/primul_md.png" group-title="Молдавские",1 primul in Moldova
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/primul_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="prime-md" tvg-logo="https://static.ipstr.im/picons/upl/prime_md.png" group-title="Молдавские",1 Prime Молдова
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/prime_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="pro-tv-md" tvg-logo="https://static.ipstr.im/picons/upl/pro_md.png" group-title="Молдавские",Pro TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/pro_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/publica_md.png" group-title="Молдавские",Publica
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/publica_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/ren_md.png" group-title="Молдавские",Ren TV
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ren_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/tc_md.png" group-title="Молдавские",TV6
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tc_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tnt-bravo-moldova" tvg-logo="https://static.ipstr.im/picons/upl/tntex_md.png" group-title="Молдавские",TNT Exclusive
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tntex_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/tvc21_md.png" group-title="Молдавские",TVC21
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tvc21_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tv8-md" tvg-logo="https://static.ipstr.im/picons/upl/tv8_md.png" group-title="Молдавские",TV8
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tv8_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/tvr_md.png" group-title="Молдавские",TVR
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tvr_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/vb_md.png" group-title="Молдавские",Vocea Basarabiei
+#EXTGRP:Молдавские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/vb_md/video.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="extasy-4k" tvg-logo="http://cbilling.pw/img/streams/extasy-4k.png" tvg-rec="0",Extasy 4k
 #EXTGRP:Взрослые
 http://s02.wsbof.com:8090/s/fa7366ce/extasy-4k.m3u8
