@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"
+#EXTM3U url-tvg="https://static.ipstr.im/epg/epg_vod.xml.gz; url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://myott.top/api/epg.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"; url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.pw/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/pervyj-hd-orig.m3u8
