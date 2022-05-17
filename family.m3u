@@ -11,6 +11,9 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rtrbeloru
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="rtr-planeta" tvg-logo="http://static.g-cdn.app/streams/rtr-planeta.png" tvg-rec="7",РТР-Планета
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/rtr-planeta.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="rtr-moldova" tvg-logo="https://static.ipstr.im/picons/upl/rtr_md.png" group-title="Отобранное Любимое",RTR Молдавия
+#EXTGRP:Отобранное Любимое
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rtr_md/video.m3u8
 #EXTINF:-1 group-title="Отобранное Любимое" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/ntv-hd-orig.m3u8
@@ -68,18 +71,27 @@ http://s02.wsbof.com:8090/s/fa7366ce/tnt-hd-orig.m3u8
 #EXTINF:0 catchup="shift" catchup-days="2" timeshift="2" tvg-id="tnt-int-by" tvg-logo="https://static.ipstr.im/picons/bel/tnt-international.png" group-title="Отобранное Любимое",BEL: ТНТ Int
 #EXTGRP:Отобранное Любимое
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tnt-int_by/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tnt-bravo-moldova" tvg-logo="https://static.ipstr.im/picons/upl/tntex_md.png" group-title="Отобранное Любимое",TNT Exclusive
+#EXTGRP:Отобранное Любимое
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tntex_md/video.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="ctc-hd-orig" tvg-logo="https://cbilling.pw/img/streams/ctc-hd.png" tvg-rec="7",СТС HD
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/ctc-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="CTC-balt" tvg-logo="http://static.g-cdn.app/streams/CTC-balt.png" tvg-rec="7",CTC Baltic
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/CTC-balt.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/sts_md.png" group-title="Отобранное Любимое",CTC Молдавия
+#EXTGRP:Отобранное Любимое
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/sts_md/video.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="rentv-hd-orig" tvg-logo="https://cbilling.pw/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/rentv-hd-orig.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="rentv-balt" tvg-logo="http://static.g-cdn.app/streams/rentv-balt.png" tvg-rec="7",REN TV Baltic
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/rentv-balt.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/ren_md.png" group-title="Отобранное Любимое",Ren TV Молдавия
+#EXTGRP:Отобранное Любимое
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ren_md/video.m3u8
 #EXTINF:0 group-title="Отобранное Любимое" tvg-id="zvezda-hd" tvg-logo="https://cbilling.pw/img/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
 #EXTGRP:Отобранное Любимое
 http://s02.wsbof.com:8090/s/fa7366ce/zvezda-hd.m3u8
@@ -2896,6 +2908,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/kuxnya-tv.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="http://cbilling.pw/img/streams/telekafe.png" tvg-rec="7",Телекафе
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/telekafe.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/kuhnea_hd.png" group-title="Познавательные",KUHNYA TV
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kuhnea_hd/video.m3u8
 #EXTINF:0 tvg-rec="0",Canal+ Discovery FHD PL
 #EXTGRP:Познавательные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6103/index.m3u8
@@ -4211,6 +4226,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/gosti-skazka.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="tlum-hd" tvg-logo="http://cbilling.pw/img/streams/tlum-hd.png" tvg-rec="7",Мульт HD
 #EXTGRP:Детские
 http://s02.wsbof.com:8090/s/fa7366ce/tlum-hd.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/mult_md.png" group-title="Детские",МУЛЬТ ТВ
+#EXTGRP:Детские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/mult_md/video.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="multimania" tvg-logo="http://cbilling.pw/img/streams/multimania.png" tvg-rec="7",Мультиландия
 #EXTGRP:Детские
 http://s02.wsbof.com:8090/s/fa7366ce/multimania.m3u8
@@ -6643,6 +6661,9 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tvr_md/vi
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/vb_md.png" group-title="Молдавские",Vocea Basarabiei
 #EXTGRP:Молдавские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/vb_md/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="playboy-tv" tvg-logo="https://static.ipstr.im/picons/xxx/playboy.png" group-title="Взрослые",Playboy TV
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/playboy-tv_xxx/video.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="extasy-4k" tvg-logo="http://cbilling.pw/img/streams/extasy-4k.png" tvg-rec="0",Extasy 4k
 #EXTGRP:Взрослые
 http://s02.wsbof.com:8090/s/fa7366ce/extasy-4k.m3u8
@@ -6706,17 +6727,62 @@ http://s02.wsbof.com:8090/s/fa7366ce/shalun-hd.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="jasmintv-hd" tvg-logo="http://cbilling.pw/img/streams/jasmintv-hd.png" tvg-rec="0",Jasmin TV
 #EXTGRP:Взрослые
 http://s02.wsbof.com:8090/s/fa7366ce/jasmintv-hd.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="barely-legal" tvg-logo="https://static.ipstr.im/picons/xxx/barely-legal.png" group-title="Взрослые",Barely legal TV
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/Barelyleg_xxx/video.m3u8
 #EXTINF:-1 group-title="Взрослые" ,Candy HD
 #EXTGRP:Взрослые
 http://myott.top/stream/8WH42KGIMV/57.m3u8
 EXTINF:-1,Candy Man
 http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые" ,Barely Legal TV
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xxxcl2_xxx.png" group-title="Взрослые",SL HOT HD1
 #EXTGRP:Взрослые
-http://myott.top/stream/8WH42KGIMV/289.m3u8
-#EXTINF:0 tvg-rec="3",Playboy
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/xxxcl2_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/erotic2_xxx.png" group-title="Взрослые",SL HOT HD2
 #EXTGRP:Взрослые
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/527/index.m3u8
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/erotic2_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/superone.png" group-title="Взрослые",SL HOT HD3
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/superone/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xymax_xxx.png" group-title="Взрослые",SL HOT HD4
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/xymax_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xymix_xxx.png" group-title="Взрослые",SL HOT HD5
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/xymix_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xyplus_xxx.png" group-title="Взрослые",SL HOT HD6
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/xyplus_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/slhot7_xxx.png" group-title="Взрослые",SL HOT HD7
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/slhot7_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/slhot8_xxx.png" group-title="Взрослые",SL HOT HD8
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/slhot8_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/slhot9_xxx.png" group-title="Взрослые",SL HOT HD9
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/slhot9_xxx/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xxxclub.png" group-title="Взрослые",Sexy 1
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/xxxclub/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xxx2club.png" group-title="Взрослые",Sexy 2
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/xxx2club/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/ruxxxclub.png" group-title="Взрослые",Sexy 3
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ruxxxclub/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/ruxxx2club.png" group-title="Взрослые",Sexy 4
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ruxxx2club/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/z_loves.png" group-title="Взрослые",Loves Berry HD
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/z_loves/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/satisfactionHD.png" group-title="Взрослые",AST 1 HD
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/satisfactionHD/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/ast2_xxx.png" group-title="Взрослые",AST 2 HD
+#EXTGRP:Взрослые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ast2_xxx/video.m3u8
 #EXTINF:0 tvg-rec="3",Brazzers TV Europe
 #EXTGRP:Взрослые
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/910/index.m3u8
@@ -6729,9 +6795,6 @@ http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/923/index.m3u8
 #EXTINF:0 tvg-rec="0",Penthouse TV
 #EXTGRP:Взрослые
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1073/index.m3u8
-#EXTINF:0 tvg-rec="3",Barely legal
-#EXTGRP:Взрослые
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/871/index.m3u8
 #EXTINF:0 tvg-rec="3",BRAZZERS TV Europe 2
 #EXTGRP:Взрослые
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/872/index.m3u8
