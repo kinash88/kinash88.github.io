@@ -2590,6 +2590,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/dtx-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="id-xtra-hd-orig" tvg-logo="http://cbilling.pw/img/streams/id-xtra-hd-orig.png" tvg-rec="7",Investigation Discovery HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/id-xtra-hd-orig.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/dishist_pl.png" group-title="Познавательные",PL: Discovery Historia
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/dishist_pl/video.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure-hd-orig" tvg-logo="http://cbilling.pw/img/streams/travel-adventure-hd-orig.png" tvg-rec="7",Travel+Adventure HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/travel-adventure-hd-orig.m3u8
@@ -2602,12 +2605,18 @@ http://s02.wsbof.com:8090/s/fa7366ce/nat-geo-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/nat-geo-hd-orig-de.png" tvg-rec="7",Nat Geo HD DE
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/nat-geo-hd-orig-de.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/natgeo_pl.png" group-title="Познавательные",PL: National Geographic
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/natgeo_pl/video.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild-hd-orig" tvg-logo="http://cbilling.pw/img/streams/nat-geo-wild-hd-orig.png" tvg-rec="7",Nat Geo Wild HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/nat-geo-wild-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/nat-geo-wild-hd-orig-de.png" tvg-rec="7",NatGeo Wild HD DE
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/nat-geo-wild-hd-orig-de.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/natgeow_pl.png" group-title="Познавательные",PL: National Geographic Wild
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/natgeow_pl/video.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="tlc-hd-orig" tvg-logo="http://cbilling.pw/img/streams/tlc-hd-orig.png" tvg-rec="7",TLC HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/tlc-hd-orig.m3u8
@@ -2638,12 +2647,18 @@ https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/244/stream.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="history-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/history-hd-orig-de.png" tvg-rec="7",History HD DE
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/history-hd-orig-de.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/history_pl.png" group-title="Познавательные",PL: History HD
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/history_pl/video.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="h2-hd-orig" tvg-logo="http://cbilling.pw/img/streams/h2-hd-orig.png" tvg-rec="7",History 2 HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/h2-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning" tvg-logo="http://cbilling.pw/img/streams/da-vinci-learning.png" tvg-rec="7",Da Vinci
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/da-vinci-learning.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="discoveryhistoria.pl" tvg-logo="https://static.ipstr.im/picons/pl/discovery_historia_pl.png" group-title="Познавательные",PL: Da Vinci Kids
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/davinci_pl/video.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore-hd" tvg-logo="http://cbilling.pw/img/streams/viasat-explore-hd.png" tvg-rec="7",Viasat Explore HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/viasat-explore-hd.m3u8
@@ -2881,6 +2896,12 @@ http://s02.wsbof.com:8090/s/fa7366ce/kuxnya-tv.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="http://cbilling.pw/img/streams/telekafe.png" tvg-rec="7",Телекафе
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/telekafe.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Discovery FHD PL
+#EXTGRP:Познавательные
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6103/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tvp-historia" tvg-logo="https://static.ipstr.im/picons/pl/tvp_historia_pl.png" group-title="Познавательные",PL: TVP Historia
+#EXTGRP:Познавательные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tvphistoria_pl/video.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="food-network-il" tvg-logo="http://cbilling.pw/img/streams/food-network-il.png" tvg-rec="7",Food Channel IL
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce/food-network-il.m3u8
@@ -3196,12 +3217,19 @@ https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/3912/stream.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="fox-hd" tvg-logo="http://cbilling.pw/img/streams/fox-hd.png" tvg-rec="7",FOX HD
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/fox-hd.m3u8
+#EXTINF:0 tvg-rec="0",FOX HD PL
+#EXTGRP:Фильмовые
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6108/index.m3u8
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickj_pl/video.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="fox-tr" tvg-logo="http://cbilling.pw/img/streams/fox-tr.png" tvg-rec="7",Fox HD TR
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/fox-tr.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="fox-life-hd" tvg-logo="http://cbilling.pw/img/streams/fox-life-hd.png" tvg-rec="7",FOX Life HD
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/fox-life-hd.m3u8
+#EXTINF:0 tvg-rec="0",FOX COMEDY HD PL
+#EXTGRP:Фильмовые
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6106/index.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="paramount-channel-hd" tvg-logo="http://cbilling.pw/img/streams/paramount-channel-hd.png" tvg-rec="7",Paramount Channel HD
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/paramount-channel-hd.m3u8
@@ -3226,6 +3254,12 @@ http://s02.wsbof.com:8090/s/fa7366ce/sony-sci-fi.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="sony-turbo" tvg-logo="http://cbilling.pw/img/streams/sony-turbo.png" tvg-rec="7",Black
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/sony-turbo.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/hbo_pl.png" group-title="Фильмовые",PL: HBO
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/hbo_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/hbo3_pl.png" group-title="Фильмовые",PL: HBO 3
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/hbo3_pl/video.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="sky-one-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/sky-one-hd-orig-de.png" tvg-rec="7",Sky One HD
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/sky-one-hd-orig-de.m3u8
@@ -3313,6 +3347,30 @@ http://s02.wsbof.com:8090/s/fa7366ce/dorama-hd.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="zee-tv" tvg-logo="http://cbilling.pw/img/streams/zee-tv.png" tvg-rec="7",Zee TV
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/zee-tv.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="kuchniaplus.pl" tvg-logo="https://static.ipstr.im/picons/pl/kuchnia+_hd_pl.png" group-title="Фильмовые",PL: BBC First
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kuchniaplus_pl/video.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Film HD PL
+#EXTGRP:Фильмовые
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6101/index.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="canalplusseriale.pl" tvg-logo="https://static.ipstr.im/picons/pl/canal+_seriale_hd_pl.png" group-title="Фильмовые",PL: Canal+ Seriale HD
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplusseriale_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/axnb_pl.png" group-title="Фильмовые",PL: AXN Black
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/axnb_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/axnw_pl.png" group-title="Фильмовые",PL: AXN White
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/axnw_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/cinemax_pl.png" group-title="Фильмовые",PL: Cinemax
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cinemax_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/kinopl_pl.png" group-title="Фильмовые",PL: Kino Polska HD
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kinopl_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="canalplusfilm.pl" tvg-logo="https://static.ipstr.im/picons/pl/canal+_film_hd_pl.png" group-title="Фильмовые",PL: Polsat Film HD
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplusfilm_pl/video.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="3-plus-hd-lv" tvg-logo="http://pics.cbilling.pw/streams/3-plus-hd-lv.png" tvg-rec="7",3 Plus HD
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/3-plus-hd-lv.m3u8
@@ -3448,6 +3506,9 @@ http://myott.top/stream/8WH42KGIMV/217.m3u8
 #EXTINF:105 group-title="Фильмовые",FilmBox
 #EXTGRP:Фильмовые
 https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/400/stream.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/filbpr_pl.png" group-title="Фильмовые",PL: Filmbox Premium HD
+#EXTGRP:Фильмовые
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/filbpr_pl/video.m3u8
 #EXTINF:157 group-title="Фильмовые",FilmBox ArtHouse
 #EXTGRP:Фильмовые
 https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/231/stream.m3u8
@@ -3574,6 +3635,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/fox.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="fox-life" tvg-logo="http://cbilling.pw/img/streams/fox-life.png" tvg-rec="7",Fox Life
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/fox-life.m3u8
+#EXTINF:0 tvg-rec="0",FOX COMEDY PL
+#EXTGRP:Фильмовые
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6107/index.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="paramount-channel" tvg-logo="http://cbilling.pw/img/streams/paramount-channel.png" tvg-rec="7",Paramount Channel
 #EXTGRP:Фильмовые
 http://s02.wsbof.com:8090/s/fa7366ce/paramount-channel.m3u8
@@ -3664,6 +3728,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/eurosport2-hd-orig.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="eurosport2-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/eurosport2-hd-orig-de.png" tvg-rec="7",Eurosport 2 HD DE
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/eurosport2-hd-orig-de.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/esport_pl.png" group-title="Спортивные",PL: Eurosport 2
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/esport_pl/video.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="eurosport-gold-hd" tvg-logo="http://cbilling.pw/img/streams/eurosport-gold-hd.png" tvg-rec="7",Eurosport Gold HD
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/eurosport-gold-hd.m3u8
@@ -3688,6 +3755,13 @@ http://s02.wsbof.com:8090/s/fa7366ce/super-tennis-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="apl2-hd-orig" tvg-logo="http://cbilling.pw/img/streams/apl2-hd-orig.png" tvg-rec="7",Canal+ Sport HD
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/apl2-hd-orig.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="canal-pl-sport-1" tvg-logo="https://static.ipstr.im/picons/pl/canal+_sport_1_hd_pl.png" group-title="Спортивные",PL: Canal+ Sport HD
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplussport_pl/video.m3u8
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6099/index.m3u8
+#EXTINF:0 tvg-rec="3",CANAL+ Sport 2 HD PL
+#EXTGRP:Спортивные
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2516/index.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="futbol1-hd-orig" tvg-logo="http://cbilling.pw/img/streams/futbol1-hd-orig.png" tvg-rec="7",Футбол 1 HD
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/futbol1-hd-orig.m3u8
@@ -3724,6 +3798,12 @@ http://s02.wsbof.com:8090/s/fa7366ce/ufc-hd.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="boks-tv" tvg-logo="http://cbilling.pw/img/streams/boks-tv.png" tvg-rec="7",Бокс ТВ
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/boks-tv.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="fightKlub.pl" tvg-logo="https://static.ipstr.im/picons/pl/fightklub_hd_pl.png" group-title="Спортивные",PL: Fightklub HD
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/fightKlub_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/topkids_pl.png" group-title="Спортивные",PL: Polsat Sport Fight
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/topkids_pl/video.m3u8
 #EXTINF:138 group-title="Спортивные",FightBox HD
 #EXTGRP:Спортивные
 https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/230/stream.m3u8
@@ -3823,6 +3903,30 @@ http://s02.wsbof.com:8090/s/fa7366ce/sport1-plus-hd-orig-de.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="edgesport-hd-orig-de" tvg-logo="http://pics.cbilling.pw/streams/edgesport-hd-orig-de.png" tvg-rec="7",Edge Sport HD
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/edgesport-hd-orig-de.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="teletoon.pl" tvg-logo="https://static.ipstr.im/picons/pl/teletoon_plus_hd_pl.png" group-title="Спортивные",PL: TVP Sport
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/teletoon_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="eleven-sports-1" tvg-logo="https://static.ipstr.im/picons/pl/eleven_sports_1.png" group-title="Спортивные",PL: Eleven Sports 1 HD
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/elevensports1_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="eleven-sports-2" tvg-logo="https://static.ipstr.im/picons/pl/eleven_sports_2.png" group-title="Спортивные",PL: Eleven Sports 2 HD
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/elevensports2_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/elevensp3_pl.png" group-title="Спортивные",PL: Eleven Sports 3 HD
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/elevensp3_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/polsspnew_pl.png" group-title="Спортивные",PL: Polsat Sport News
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/polsspnew_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="polsat-sport" tvg-logo="https://static.ipstr.im/picons/pl/polsat_sport_hd_pl.png" group-title="Спортивные",PL: Polsat Extra
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/polsatsport_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/nsport_pl.png" group-title="Спортивные",PL: nSport+ HD
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nsport_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/pl/sport_klub_pl.png" group-title="Спортивные",PL: Sport Klub
+#EXTGRP:Спортивные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/sportklub_pl/video.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="sport1-hd-il" tvg-logo="http://cbilling.pw/img/streams/sport1-hd-il.png" tvg-rec="7",Sport 1 HD IL
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/sport1-hd-il.m3u8
@@ -4036,6 +4140,12 @@ http://s02.wsbof.com:8090/s/fa7366ce/avto-24.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="pervyj-avto-ua" tvg-logo="http://cbilling.pw/img/streams/pervyj-avto-ua.png" tvg-rec="7",Первый Автомобильный
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/pervyj-avto-ua.m3u8
+#EXTINF:0 tvg-rec="0",CANAL+ SPORT 2 PL
+#EXTGRP:Спортивные
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6099/index.m3u8
+#EXTINF:0 tvg-rec="3",nSport+ PL
+#EXTGRP:Спортивные
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2519/index.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="trt-spor-tr" tvg-logo="http://cbilling.pw/img/streams/trt-spor-tr.png" tvg-rec="7",TRT Spor
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/trt-spor-tr.m3u8
@@ -4099,6 +4209,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/nickelodeon-hd.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="nickelodeon-hd-de" tvg-logo="http://pics.cbilling.pw/streams/nickelodeon-hd-de.png" tvg-rec="7",Nickelodeon HD DE
 #EXTGRP:Детские
 http://s02.wsbof.com:8090/s/fa7366ce/nickelodeon-hd-de.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="nickelodeon.pl" tvg-logo="https://static.ipstr.im/picons/pl/nickelodeon_pl.png" group-title="Детские",PL: Nickelodeon
+#EXTGRP:Детские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickelodeon_pl/video.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="nickelodeon-lt" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-lt.png" tvg-rec="7",Nickelodeon LT
 #EXTGRP:Детские
 http://s02.wsbof.com:8090/s/fa7366ce/nickelodeon-lt.m3u8
@@ -4117,6 +4230,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/nickjr.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="nickjr-en" tvg-logo="http://cbilling.pw/img/streams/nickjr-en.png" tvg-rec="7",NickJr Eng
 #EXTGRP:Детские
 http://s02.wsbof.com:8090/s/fa7366ce/nickjr-en.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/nickj_pl.png" group-title="Детские",PL: Nick JR
+#EXTGRP:Детские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickj_pl/video.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="nick-jr-il" tvg-logo="http://cbilling.pw/img/streams/nick-jr-il.png" tvg-rec="7",Nick Jr IL
 #EXTGRP:Детские
 http://s02.wsbof.com:8090/s/fa7366ce/nick-jr-il.m3u8
@@ -4402,6 +4518,9 @@ https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/458/stream.m3u8
 #EXTINF:155 group-title="Музыкальные",InRating HD
 #EXTGRP:Музыкальные
 https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/4751/stream.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="alekino.pl" tvg-logo="https://static.ipstr.im/picons/upl/alekino_pl.png" group-title="Музыкальные",PL: Kino Polska Muzyka
+#EXTGRP:Музыкальные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/alekino_pl/video.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="music24-il" tvg-logo="http://cbilling.pw/img/streams/music24-il.png" tvg-rec="0",Music 24
 #EXTGRP:Музыкальные
 http://s02.wsbof.com:8090/s/fa7366ce/music24-il.m3u8
@@ -4768,21 +4887,34 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/hbo3_pl/v
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/cinemax_pl.png" group-title="Польские",PL: Cinemax
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/cinemax_pl/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="alekino.pl" tvg-logo="https://static.ipstr.im/picons/upl/alekino_pl.png" group-title="Польские",PL: Kino Polska Muzyka
-#EXTGRP:Польские
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/alekino_pl/video.m3u8
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/kinopl_pl.png" group-title="Польские",PL: Kino Polska HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kinopl_pl/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="alekino.pl" tvg-logo="https://static.ipstr.im/picons/upl/alekino_pl.png" group-title="Польские",PL: Kino Polska Muzyka
+#EXTGRP:Польские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/alekino_pl/video.m3u8
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/filbpr_pl.png" group-title="Польские",PL: Filmbox Premium HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/filbpr_pl/video.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ FHD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6100/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Film HD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6101/index.m3u8
+#EXTINF:0 tvg-rec="0",CANAL+ FAMILY HD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6105/index.m3u8
 #EXTINF:0 catchup-days="0" tvg-id="canalplusseriale.pl" tvg-logo="https://static.ipstr.im/picons/pl/canal+_seriale_hd_pl.png" group-title="Польские",PL: Canal+ Seriale HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplusseriale_pl/video.m3u8
 #EXTINF:0 catchup-days="0" tvg-id="canal-pl-sport-1" tvg-logo="https://static.ipstr.im/picons/pl/canal+_sport_1_hd_pl.png" group-title="Польские",PL: Canal+ Sport HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplussport_pl/video.m3u8
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6099/index.m3u8
+#EXTINF:0 tvg-rec="3",CANAL+ Sport 2 HD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2516/index.m3u8
 #EXTINF:0 catchup-days="0" tvg-id="eleven-sports-1" tvg-logo="https://static.ipstr.im/picons/pl/eleven_sports_1.png" group-title="Польские",PL: Eleven Sports 1 HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/elevensports1_pl/video.m3u8
@@ -4798,6 +4930,9 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/fightKlub
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/history_pl.png" group-title="Польские",PL: History HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/history_pl/video.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Discovery FHD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6103/index.m3u8
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/dishist_pl.png" group-title="Польские",PL: Discovery Historia
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/dishist_pl/video.m3u8
@@ -4822,6 +4957,13 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickelode
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/nickj_pl.png" group-title="Польские",PL: Nick JR
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickj_pl/video.m3u8
+#EXTINF:0 tvg-rec="0",FOX HD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6108/index.m3u8
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickj_pl/video.m3u8
+#EXTINF:0 tvg-rec="0",FOX COMEDY HD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6106/index.m3u8
 #EXTINF:0 catchup-days="0" tvg-id="discoveryhistoria.pl" tvg-logo="https://static.ipstr.im/picons/pl/discovery_historia_pl.png" group-title="Польские",PL: Da Vinci Kids
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/davinci_pl/video.m3u8
@@ -4834,6 +4976,9 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/polsatfil
 #EXTINF:0 catchup-days="0" tvg-id="polsat2" tvg-logo="https://static.ipstr.im/picons/pl/polsat_2_hd_pl.png" group-title="Польские",PL: Polsat 2 HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/polsat2_pl/video.m3u8
+#EXTINF:0 tvg-rec="0",SUPER POLSAT HD PL
+#EXTGRP:Польские
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6109/index.m3u8
 #EXTINF:0 catchup-days="0" tvg-id="canalplusfilm.pl" tvg-logo="https://static.ipstr.im/picons/pl/canal+_film_hd_pl.png" group-title="Польские",PL: Polsat Film HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplusfilm_pl/video.m3u8
@@ -4879,84 +5024,15 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tvphistor
 #EXTINF:0 catchup-days="0" tvg-id="teletoon.pl" tvg-logo="https://static.ipstr.im/picons/pl/teletoon_plus_hd_pl.png" group-title="Польские",PL: TVP Sport
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/teletoon_pl/video.m3u8
-#EXTINF:0 tvg-rec="0",FOX COMEDY PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6107/index.m3u8
-#EXTINF:0 tvg-rec="0",Da Vinci Kids PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/1034/index.m3u8
 #EXTINF:0 tvg-rec="0",CANAL+ SPORT 2 PL
 #EXTGRP:Польские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6099/index.m3u8
-#EXTINF:0 tvg-rec="3",CANAL+ Sport 2 HD PL
+#EXTINF:0 tvg-rec="0",FOX COMEDY PL
 #EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2516/index.m3u8
-#EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2517/index.m3u8
-#EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2518/index.m3u8
+http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6107/index.m3u8
 #EXTINF:0 tvg-rec="3",nSport+ PL
 #EXTGRP:Польские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2519/index.m3u8
-#EXTINF:0 tvg-rec="3",TVP Sport HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2520/index.m3u8
-#EXTINF:0 tvg-rec="3",Sportklub HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2521/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal Discovery HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6102/index.m3u8
-#EXTINF:0 tvg-rec="0",CANAL+ FAMILY HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6105/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ Film HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6101/index.m3u8
-#EXTINF:0 tvg-rec="0",Eleven Sports 1 HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6083/index.m3u8
-#EXTINF:0 tvg-rec="0",Eleven Sports 2 HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6082/index.m3u8
-#EXTINF:0 tvg-rec="0",FOX COMEDY HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6106/index.m3u8
-#EXTINF:0 tvg-rec="0",FOX HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6108/index.m3u8
-#EXTINF:0 tvg-rec="0",Kino Polska HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6088/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat 2 HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6084/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Cafe HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6085/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Film HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6086/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Play HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6087/index.m3u8
-#EXTINF:0 tvg-rec="0",SUPER POLSAT HD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6109/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ Sport FHD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6098/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ Discovery FHD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6103/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal + Seriale FHD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6104/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal+ FHD PL
-#EXTGRP:Польские
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6100/index.m3u8
 #EXTINF:0 group-title="Балтийские" tvg-id="rentv-balt" tvg-logo="http://static.g-cdn.app/streams/rentv-balt.png" tvg-rec="7",REN TV Baltic
 #EXTGRP:Балтийские
 http://s02.wsbof.com:8090/s/fa7366ce/rentv-balt.m3u8
