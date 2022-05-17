@@ -6118,6 +6118,39 @@ http://s02.wsbof.com:8090/s/fa7366ce/ntv-tr.m3u8
 #EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/ntvsport_tr.png" group-title="Турецкие",TR: NTV SPOR
 #EXTGRP:Турецкие
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ntvsport_tr/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/1tv_ge.png" group-title="Грузинские",1 TV
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/1tv_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/2tv_ge.png" group-title="Грузинские",2 TV
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/2tv_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="rustavi2.ge" tvg-logo="https://static.ipstr.im/picons/upl/rustavi2_ge.png" group-title="Грузинские",Rustavi 2
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/rustavi2_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/obieqtivi_ge.png" group-title="Грузинские",Obieqtivi TV
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/obieqtivi_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="pirvelitv.ge" tvg-logo="https://static.ipstr.im/picons/upl/pirveli_ge.png" group-title="Грузинские",Pirveli
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/pirveli_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="tv25.ge" tvg-logo="https://static.ipstr.im/picons/upl/tv25_ge.png" group-title="Грузинские",TV 25
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tv25_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="imedi.ge" tvg-logo="https://static.ipstr.im/picons/upl/imedi_ge.png" group-title="Грузинские",Imedi
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/imedi_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="maestro.ge" tvg-logo="https://static.ipstr.im/picons/upl/maestro_ge.png" group-title="Грузинские",Maestro TV
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/maestro_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="gdstv.ge" tvg-logo="https://static.ipstr.im/picons/upl/gds_ge.png" group-title="Грузинские",GDS TV
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/gds_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="marneulitv.ge" tvg-logo="https://static.ipstr.im/picons/upl/marneuli_ge.png" group-title="Грузинские",Marneuli
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/marneuli_ge/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="mtavaraarkhi.ge" tvg-logo="https://static.ipstr.im/picons/upl/mtavariarkhi_ge.png" group-title="Грузинские",Mtavari Arkhi
+#EXTGRP:Грузинские
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/mtavariarkhi_ge/video.m3u8
 #EXTINF:0 group-title="Армянские" tvg-id="arm-news24-am-hd-orig" tvg-logo="http://static.g-cdn.app/streams/arm-news24-am-hd-orig.png" tvg-rec="0",ArmNews24 HD
 #EXTGRP:Армянские
 http://s02.wsbof.com:8090/s/fa7366ce/arm-news24-am-hd-orig.m3u8
