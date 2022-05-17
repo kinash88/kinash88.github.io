@@ -4091,9 +4091,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/idman-az.m3u8
 #EXTINF:0 group-title="Спортивные" tvg-id="uzsport-uz" tvg-logo="http://cbilling.pw/img/streams/uzsport-uz.png" tvg-rec="0",UZ SPORT
 #EXTGRP:Спортивные
 http://s02.wsbof.com:8090/s/fa7366ce/uzsport-uz.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="kazsport" tvg-logo="http://cbilling.pw/img/streams/kazsport.png" tvg-rec="0",KazSport
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="kazsport" tvg-name="qazsport" tvg-logo="https://static.ipstr.im/picons/upl/kazsport_kz.png" group-title="Спортивные",KazSport
 #EXTGRP:Спортивные
-http://s02.wsbof.com:8090/s/fa7366ce/kazsport.m3u8
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kazsport_kz/video.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-rec="7" timeshift="7",Интерспорт 1 HD
 #EXTGRP:Спортивные
 http://myott.top/stream/8WH42KGIMV/159.m3u8
@@ -4659,7 +4659,7 @@ http://s02.wsbof.com:8090/s/fa7366ce/sky-news-uk.m3u8
 #EXTGRP:Новостные
 https://cdnua03.hls.tv/476/hls/f29cffa9c202f99032e134224b1e7d9e/239/stream.m3u8
 #EXTINF:0 tvg-rec="0",FRANCE 24 En
-#EXTGRP:Французские
+#EXTGRP:Новостные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/947/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="dw-hd-de" tvg-logo="http://pics.cbilling.pw/streams/dw-hd-de.png" tvg-rec="0",Deutsche Welle HD
 #EXTGRP:Новостные
@@ -4730,6 +4730,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/unian-hd-ua.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="info-tv-lt" tvg-logo="http://static.g-cdn.app/streams/info-tv-lt.png" tvg-rec="0",Info TV
 #EXTGRP:Новостные
 http://s02.wsbof.com:8090/s/fa7366ce/info-tv-lt.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-logo="https://static.ipstr.im/picons/upl/24kz_kz.png" group-title="Новостные",Хабар 24
+#EXTGRP:Новостные
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/24kz_kz/video.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="izvestija" tvg-logo="http://cbilling.pw/img/streams/izvestija.png" tvg-rec="0",Известия
 #EXTGRP:Новостные
 http://s02.wsbof.com:8090/s/fa7366ce/izvestija.m3u8
@@ -4844,60 +4847,60 @@ http://s02.wsbof.com:8090/s/fa7366ce/stv-by.m3u8
 #EXTINF:0 group-title="Белорусские" tvg-id="belsat-by" tvg-logo="http://cbilling.pw/img/streams/belsat-by.png" tvg-rec="7",Белсат
 #EXTGRP:Белорусские
 http://s02.wsbof.com:8090/s/fa7366ce/belsat-by.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="ktk-kz" tvg-logo="http://cbilling.pw/img/streams/ktk-kz.png" tvg-rec="0",КТК
+#EXTINF:0 catchup-days="0" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://static.ipstr.im/picons/upl/perevr_kz.png" group-title="Казахские",Пeрвый канал Евразия
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/ktk-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="pervyj-evrazija-kz" tvg-logo="http://cbilling.pw/img/streams/pervyj-evrazija-kz.png" tvg-rec="0",Евразия
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/perevr_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="asyl-arna" tvg-logo="https://static.ipstr.im/picons/upl/asylarna_kz.png" group-title="Казахские",Talim tv
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/pervyj-evrazija-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="habar-kz" tvg-logo="http://cbilling.pw/img/streams/habar-kz.png" tvg-rec="0",Хабар
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/asylarna_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="el-arna" tvg-logo="https://static.ipstr.im/picons/upl/elarna_kz.png" group-title="Казахские",El Arna
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/habar-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="habar24-kz" tvg-logo="http://cbilling.pw/img/streams/habar24-kz.png" tvg-rec="0",Хабар 24
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/elarna_kz/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="kazakhstan" tvg-name="Казахстан" tvg-logo="https://static.ipstr.im/picons/upl/kazahstan_kz.png" group-title="Казахские",Qazaqstan
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/habar24-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="5kanal-kz" tvg-logo="http://cbilling.pw/img/streams/5kanal-kz.png" tvg-rec="0",5 канал kz
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kazahstan_kz/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="kazsport" tvg-name="qazsport" tvg-logo="https://static.ipstr.im/picons/upl/kazsport_kz.png" group-title="Казахские",KazSport
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/5kanal-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="7kanal-kz" tvg-logo="http://cbilling.pw/img/streams/7kanal-kz.png" tvg-rec="0",7 КАНАЛ kz
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/kazsport_kz/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="ktk-kz" tvg-logo="https://static.ipstr.im/picons/upl/ktk_kz.png" group-title="Казахские",КТК
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/7kanal-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="31kanal-kz" tvg-logo="http://cbilling.pw/img/streams/31kanal-kz.png" tvg-rec="0",31 Канал
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ktk_kz/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="astana" tvg-logo="https://static.ipstr.im/picons/upl/astana_kz.png" group-title="Казахские",Astana TV
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/31kanal-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="kazahstan" tvg-logo="http://cbilling.pw/img/streams/kazahstan.png" tvg-rec="0",Казахстан
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/astana_kz/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-id="31-kanal-kz" tvg-logo="https://static.ipstr.im/picons/upl/31kanal_kz.png" group-title="Казахские",31 канал
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/kazahstan.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="hit-tv-kz" tvg-logo="http://cbilling.pw/img/streams/hit-tv-kz.png" tvg-rec="0",HitTv
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/31kanal_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="ntk-kz" tvg-logo="https://static.ipstr.im/picons/upl/ntk_kz.png" group-title="Казахские",НТК
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/hit-tv-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="astana-tv" tvg-logo="http://cbilling.pw/img/streams/astana-tv.png" tvg-rec="0",Astana TV
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/ntk_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="stv-kz" tvg-logo="https://static.ipstr.im/picons/upl/stv_kz.png" group-title="Казахские",СТВ Казахстан
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/astana-tv.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="ntk-kz" tvg-logo="http://cbilling.pw/img/streams/ntk-kz.png" tvg-rec="0",НТК Казахстан
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/stv_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="on-tv-kz" tvg-logo="https://static.ipstr.im/picons/upl/tan_kz.png" group-title="Казахские",ON TV
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/ntk-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="stv-kz" tvg-logo="http://cbilling.pw/img/streams/stv-kz.png" tvg-rec="0",СТВ (Казахстан)
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/tan_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="5kanal-karaganda" tvg-logo="https://static.ipstr.im/picons/upl/5kanal_kz.png" group-title="Казахские",5 канал
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/stv-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="el-arna-kz" tvg-logo="http://cbilling.pw/img/streams/el-arna-kz.png" tvg-rec="0",El Arna
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/5kanal_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="7kanal-kz" tvg-logo="https://static.ipstr.im/picons/upl/7kanal_kz.png" group-title="Казахские",7 канал
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/el-arna-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="saryarqa-kz" tvg-logo="http://cbilling.pw/img/streams/kazahstan-karaganda.png" tvg-rec="0",Saryarqa
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/7kanal_kz/video.m3u8
+#EXTINF:0 catchup="shift" catchup-days="1" timeshift="1" tvg-logo="https://static.ipstr.im/picons/upl/24kz_kz.png" group-title="Казахские",Хабар 24
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/saryarqa-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="balapan-kz" tvg-logo="http://cbilling.pw/img/streams/balapan-kz.png" tvg-rec="0",Балапан
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/24kz_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="almaty" tvg-logo="https://static.ipstr.im/picons/upl/almaty_kz.png" group-title="Казахские",Almaty TV
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/balapan-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="kazsport" tvg-logo="http://cbilling.pw/img/streams/kazsport.png" tvg-rec="0",KazSport
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/almaty_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-id="balapan" tvg-logo="https://static.ipstr.im/picons/upl/balapan_kz.png" group-title="Казахские",Balapan
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/kazsport.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="gakku-kz" tvg-logo="http://cbilling.pw/img/streams/gakku-kz.png" tvg-rec="0",Gakku
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/balapan_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="" group-title="Казахские",MuzzOne
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/gakku-kz.m3u8
-#EXTINF:0 group-title="Казахские" tvg-id="talim-tv-kz" tvg-logo="http://cbilling.pw/img/streams/talim-tv-kz.png" tvg-rec="0",Talim TV
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/muzzone_kz/video.m3u8
+#EXTINF:0 catchup-days="0" tvg-logo="https://static.ipstr.im/picons/upl/abaitv_kz.png" group-title="Казахские",Abai TV
 #EXTGRP:Казахские
-http://s02.wsbof.com:8090/s/fa7366ce/talim-tv-kz.m3u8
+https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/abaitv_kz/video.m3u8
 #EXTINF:0 group-title="Узбекские" tvg-id="ozbekiston" tvg-logo="http://cbilling.pw/img/streams/ozbekiston.png" tvg-rec="0",Узбекистан
 #EXTGRP:Узбекские
 http://s02.wsbof.com:8090/s/fa7366ce/ozbekiston.m3u8
