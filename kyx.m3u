@@ -2752,7 +2752,7 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/history_p
 #EXTINF:0 group-title="Познавательные" tvg-id="h2-hd-orig" tvg-logo="http://cbilling.pw/img/streams/h2-hd-orig.png" tvg-rec="7",History 2 HD
 #EXTGRP:Познавательные
 http://s02.wsbof.com:8090/s/fa7366ce_2/h2-hd-orig.m3u8
-#EXTINF:143 group-title="Украинские (OMEGA TV)",Nautical Channel HD
+#EXTINF:143 group-title="Познавательные",Nautical Channel HD
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4245/stream.m3u8
 #EXTINF:0 tvg-id="Xoutdoor-channel" tvg-name="Outdoor Channel" tvg-logo="https://iptv.online/epg/icon/outdoor-channel.png"  tvg-rec="5" timeshift="5", Outdoor Channel
 #EXTGRP:Познавательные
@@ -2896,9 +2896,9 @@ https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/454/stream.m3u8
 #EXTGRP:Познавательные
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/agro_md/video.m3u8
 #EXTINF:0 tvg-name="Agro", Agro Romanian
-#EXTGRP:#EXTGRP:Познавательные
+#EXTGRP:Познавательные
 http://cz.iptv.monster/play/11051/5A6D67DE9413957/video.m3u8
-#EXTINF:122 group-title="#EXTGRP:Познавательные",Телеканал 36.6 HD
+#EXTINF:122 group-title="Познавательные",Телеканал 36.6 HD
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4721/stream.m3u8
 #EXTINF:0 tvg-name="Масон ТВ", Масон ТВ
 #EXTGRP:Познавательные
@@ -3137,7 +3137,7 @@ http://s02.wsbof.com:8090/s/fa7366ce_2/zhivi.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy
 #EXTGRP:Познавательные
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2010/index.m3u8
-#EXTINF:121 group-title="#EXTGRP:Познавательные",Телеканал 36.6
+#EXTINF:121 group-title="Познавательные",Телеканал 36.6
 https://cdnua03.hls.tv/476/hls/04f40059f2d2e173b6266c7b76f075a5/4241/stream.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="ntv-hit" tvg-logo="http://cbilling.pw/img/streams/ntv-hit.png" tvg-rec="7",НТВ Хит
 #EXTGRP:Фильмовые
@@ -4583,7 +4583,7 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickelode
 #EXTGRP:Детские
 http://cz.iptv.monster/play/11109/5A6D67DE9413957/video.m3u8
 #EXTINF:0 tvg-name="Nick GR", Nick GR
-#EXTGRP:#EXTGRP:Детские
+#EXTGRP:Детские
 http://cz.iptv.monster/play/5911/5A6D67DE9413957/video.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="nickelodeon-lt" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-lt.png" tvg-rec="7",Nickelodeon LT
 #EXTGRP:Детские
@@ -5401,7 +5401,6 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplus
 #EXTINF:0 catchup-days="0" tvg-id="canal-pl-sport-1" tvg-logo="https://static.ipstr.im/picons/pl/canal+_sport_1_hd_pl.png" group-title="Польские",PL: Canal+ Sport HD
 #EXTGRP:Польские
 https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/canalplussport_pl/video.m3u8
-http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6099/index.m3u8
 #EXTINF:0 tvg-rec="3",CANAL+ Sport 2 HD PL
 #EXTGRP:Польские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/2516/index.m3u8
@@ -5459,7 +5458,6 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickj_pl/
 #EXTINF:0 tvg-rec="0",FOX HD PL
 #EXTGRP:Польские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6108/index.m3u8
-https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/nickj_pl/video.m3u8
 #EXTINF:0 tvg-rec="0",FOX COMEDY HD PL
 #EXTGRP:Польские
 http://fo4ep7uy.rostelekom.xyz/iptv/4QYGMQDUBA6YXA/6106/index.m3u8
@@ -7648,6 +7646,7 @@ https://o.yablo.tv:443/live/u.88580.afb6168d841edd8507717b5ef88a4ac361/Barelyleg
 #EXTGRP:Взрослые
 http://myott.top/stream/8WH42KGIMV/57.m3u8
 EXTINF:-1,Candy Man
+#EXTGRP:Взрослые
 http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
 #EXTINF:0 catchup-days="0" tvg-id="18plus" tvg-logo="https://static.ipstr.im/picons/upl/xxxcl2_xxx.png" group-title="Взрослые",SL HOT HD1
 #EXTGRP:Взрослые
