@@ -761,6 +761,9 @@ http://s02.wsbof.com:8090/s/fa7366ce/pervyj-plus-4.m3u8
 #EXTINF:0 tvg-id="Xpervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://iptv.online/epg/icon/pervy-krymsky.png"  tvg-rec="5" timeshift="5", Первый Крымский
 #EXTGRP:Н-РОССИЯ
 http://cz.iptv.monster/play/3779/5A6D67DE9413957/video.m3u8
+#EXTINF:-1,Крым 24 HD
+#EXTGRP:Н-РОССИЯ
+http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/971/stream.m3u8
 #EXTINF:0 group-title="Н-РОССИЯ",Первый Республиканский
 #EXTGRP:Н-РОССИЯ
 http://ott.inmart.tv:8081/18/index.m3u8
@@ -776,6 +779,9 @@ http://cz.iptv.monster/play/9925/5A6D67DE9413957/video.m3u8
 #EXTINF:0 tvg-name="Оплот ТВ 2", Оплот ТВ 2
 #EXTGRP:Н-РОССИЯ
 http://cz.iptv.monster/play/9924/5A6D67DE9413957/video.m3u8
+#EXTINF:-1,Крым 24
+#EXTGRP:Н-РОССИЯ
+http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/279/stream.m3u8
 #EXTINF:0 group-title="Н-РОССИЯ",6-ТВ Горловка
 #EXTGRP:Н-РОССИЯ
 http://ott.inmart.tv:8081/223/index.m3u8
