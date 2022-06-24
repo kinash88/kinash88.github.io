@@ -1,12 +1,15 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg,http://iptvx.one/EPG_LITE"; url-tvg="https://static.ipstr.im/epg/epg_vod.xml.gz; url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"; url-tvg="http://myott.top/api/epg.xml.gz"; url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup-type="shift"; url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",WWE Russian
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5508
-#EXTINF:0 group-title="Н-РОССИЯ",Первый Республиканский
+#EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Луганск 24
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Первый Республиканский
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:0 group-title="Н-РОССИЯ",Юнион
+#EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Юнион
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://ott.inmart.tv:8081/19/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/365/stream.m3u8
 #EXTINF:0 tvg-name="Новороссия HD", Новороссия HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 http://ott.inmart.tv:8081/19/index.m3u8
@@ -16,84 +19,72 @@ http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:0 tvg-name="Оплот ТВ 2", Оплот ТВ 2
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:0 group-title="Н-РОССИЯ",6-ТВ Горловка
-#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://ott.inmart.tv:8081/223/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10130/logo_128_1652790001.png",Первый Крымский
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/28_blfd11hmDFofM6xPo3A,1655389883/streaming/1crimea/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/278/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10131/logo_128_1652790001.png",Крым 24
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/zuYFCCW2NX6_kLGtBrJMSg,1655389883/streaming/crimea24/324/1/index.m3u8
+https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14064/logo_256_1654258289.png",Северный Крым 24
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/H2P-Rzkf2lP_e4liAYRfCw,1655389883/streaming/sever_crimea24/324/1/index.m3u8
+https://mhd.iptv2022.com/p/QzgCJhSmqHeD4NSwPayq1A,1656180993/streaming/sever_crimea24/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14092/logo_256_1654516016.png", Восточный Крым 24
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/NZBFZBkhDaGllzm09Ci4UQ,1655389882/streaming/vostok-crimea24/324/1/index.m3u8
+https://mhd109.iptv2022.com/p/posWjEwlukNThJosJP3uuw,1656181107/streaming/vostok-crimea24/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14071/logo_256_1654258291.png",Евпатория 24 (Республика Крым)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/1YFOwCuBtjGqmzu1NaZhqQ,1655389883/streaming/evpotoriya24/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/H319mpAJQqlvgYg7RrogXQ,1656180817/streaming/evpotoriya24/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14078/logo_256_1654515924.png",Керчь 24 (Республика Крым)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/3jQETtrlyTMweHJlBz59wA,1655389883/streaming/kerch24/324/1/index.m3u8
+https://mhd.iptv2022.com/p/2PGCjHoZScgTZDR7VYfrLA,1656181729/streaming/kerch24/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14085/logo_256_1654515969.png",Ялта 24 (Республика Крым)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/LWKvqt2PsqRbC_raW-GSdQ,1655389883/streaming/yalta24/324/1/index.m3u8
+https://mhd.iptv2022.com/p/g2azC9-G35Hb9pbJUfrPxg,1656181805/streaming/yalta24/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14099/logo_256_1654516072.png",Легендарный 24 (Республика Крым г.Севастополь)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/btzZvcffZjgMPQt5a3jejw,1655389883/streaming/legend24/324/1/index.m3u8
+https://sevas.1tvcrimea.ru/show/legendarniy24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14106/logo_256_1654516121.png",Симферополь 24 (Республика Крым)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/zEfeow_DWlaUnJa5pSmg-A,1655389883/streaming/simferopol24/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10438/logo_128_1652790001.png",Севастополь 24
+https://simf.1tvcrimea.ru/show/simferopol24/playlist.m3u8
+#EXTINF:-1,Севастополь 24
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/8YVa1Lg_CAv-mTIIgmGcMg,1655389883/streaming/sevastopol24/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/593/stream.m3u8
+#EXTINF:-1,8 канал (Севастополь)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1050/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13371/logo_128_1648034897.png",Первый Севастопольский
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/3jVIHpYmDqT6PbAJq-g5JQ,1655389883/streaming/1sevastopol/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10187/logo_128_1652790001.png",Севастопольское телевидение
+https://mhd.iptv2022.com/p/1qjsKD6Xq2wCxaDfkTky0g,1656182146/streaming/1sevastopol/324/1/index.m3u8
+#EXTINF:-1,СТВ Севастополь
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/9CoXK0_fYFgpm0bEU5LqYg,1655389883/streaming/ikstv/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10325/logo_128_1652790001.jpg",НТС (Севастополь)
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/523/stream.m3u8
+#EXTINF:-1,НТС Севастополь HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/g3nrEYqYe3jXe3GpXKtkZA,1655389883/streaming/nts-tv/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10370/logo_128_1652790001.png",Восток 24 (Владивосток)
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/284/stream.m3u8
+#EXTINF:-1,Восток 24 (Владивосток)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/CxsnmFP7MU4Bpo4lsxA6Hg,1655389883/streaming/vostok24/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1503/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10650/logo_128_1652790001.jpeg",ПРИМ24 (Владивосток)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/t_WB7_pMENkuMx6GHP73GQ,1655389883/streaming/prim24/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1379/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10478/logo_128_1652790001.png",41 регион (Петропавловск-Камчатский)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/gVJRFTWUMduAqqBAsH_TXg,1655389883/streaming/41region/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10463/logo_128_1652790001.png",ТОЛК (Барнаул)
-#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/BalGkWHoQvp4l7HqN1XitA,1655389883/streaming/tolktv/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1690/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10453/logo_128_1652790001.png",Алмазный край (Якутия)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/9zRkE-JMhooHEFh5ChfkRQ,1655389883/streaming/almaz_kray/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10454/logo_128_1652790001.png",Якутия 24
-#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/w7ecfaYs6QxHs7F5PR2Fxg,1655389883/streaming/yak24/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1138/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13448/logo_128_1648805197.png",Колыма Плюс
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/Mr3ldWGq918uXEzIgVTZkw,1655389883/streaming/kolyma_tv/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13098/logo_128_1645430867.png",АСТВ (Сахалин)
+https://mhd.iptv2022.com/p/fSGM7xkJLGmZhNBMC2Of3A,1656182331/streaming/kolyma_tv/324/1/index.m3u8
+#EXTINF:-1,АСТВ 24 HD (Сахалин)
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/VTA4L02W09tMcNuVQOSfNQ,1655389883/streaming/astv24/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13203/logo_128_1646227366.png",Бийское ТВ (Алтайский край г. Бийск)
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1686/stream.m3u8
+#EXTINF:-1,ЧГТРК Грозный HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/rj_qNPPjLs5wHJnLoU3q5g,1655389883/streaming/btv/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13336/logo_128_1648016614.png",ТРК Братск
-#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/-o1jI2QsbJbjVRQ2MvZOzg,1655389883/streaming/bratsk/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10122/logo_128_1652790001.png",Грозный
-#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/qHtIRRDzOFVSxUutWb-2UQ,1655389883/streaming/grozniy/324/1/index.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/374/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13735/logo_128_1651661523.png",СОЛОВЬЁВLIVE
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://mhd109.iptv2022.com/p/QELruSdt_a7Bv0sPHbH5Cg,1655389882/streaming/solovyevlive/324/1/index.m3u8
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="pervyhd" tvg-name="Первый_канал" tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Пеpвый HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
 http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/1/stream.m3u8
@@ -137,3 +128,47 @@ http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/23/strea
 http://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТС Love +7
 http://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_7/variant.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/261/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7",Матч! Футбол 2 HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/262/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7",Матч! Футбол 3 HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/263/stream.m3u8
+#EXTINF:-1,Украина 24 HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1666/stream.m3u8
+#EXTINF:-1,Интер
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/48/stream.m3u8
+#EXTINF:-1,Интер+ HD (UA)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1748/stream.m3u8
+#EXTINF:-1,ICTV HD (UA)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/45/stream.m3u8
+#EXTINF:-1,СТБ HD (UA)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/47/stream.m3u8
+#EXTINF:-1,Футбол 1 Украина HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/175/stream.m3u8
+#EXTINF:-1,Футбол 2 Украина HD
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/176/stream.m3u8
+#EXTINF:-1,Футбол 3 Украина
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1799/stream.m3u8
+#EXTINF:-1,Футбол 3 Украина HD
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/519/stream.m3u8
+#EXTINF:-1,TV5 Запорожье (UA)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1313/stream.m3u8
+#EXTINF:-1,ALEX TV (UA)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1049/stream.m3u8
+#EXTINF:-1,ZTV (Запорожье) (UA)
+#EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/851/stream.m3u8
