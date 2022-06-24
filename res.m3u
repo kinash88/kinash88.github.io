@@ -87,43 +87,43 @@ http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/374/stre
 https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="pervyhd" tvg-name="Первый_канал" tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Пеpвый HD
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/1/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/1/stream.m3u8
 #EXTINF:0 catchup="shift" catchup-days="5" timeshift="5" tvg-id="rossia1" tvg-logo="https://static.ipstr.im/picons/ru/rossia1.png" group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Росcия 1
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/2/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/2/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",НТВ
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/41/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/41/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",5 Канал Петербург
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/5/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/5/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия Культура
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/6/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/6/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Россия 24
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/7/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/7/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ОТР
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/9/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/9/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",ТВЦ
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/10/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/10/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",РЕН
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/11/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/11/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Домашний
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/14/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/14/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",Звезда
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/17/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/17/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",МИР
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/18/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/18/stream.m3u8
 #EXTINF:0 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТС Love
 #EXTGRP:ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2
-http://streamer.enchart.one/42/89453778bb65dbf68864c74dbdafe47b9526cf63/23/stream.m3u8
+http://streamer.enchart.one/42/6168d0e2bc74a7ebb28402ed91d8bf32898c7ff3/23/stream.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТС Love +2
 http://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="ВРЕМЕННЫЙ ПЛЕЙЛИСТ 2",СТС Love +7
